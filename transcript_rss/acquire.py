@@ -13,6 +13,7 @@ from yt_dlp import YoutubeDL
 
 from .models import DiscoveredItem, Segment, SourceConfig, Transcript, TranscriptLink
 from .utils import detect_text_language, is_chinese, is_english, normalize_language
+from .youtube import youtube_options
 
 TIMESTAMP_RE = re.compile(
     r"(?P<start>\d{1,2}:\d{2}(?::\d{2})?[.,]\d{3})\s+-->\s+"
@@ -205,7 +206,7 @@ def fetch_youtube_transcript(
     item: DiscoveredItem,
     client: httpx.Client,
 ) -> tuple[Transcript | None, dict[str, Any]]:
-    options = {"quiet": True, "no_warnings": True, "skip_download": True}
+    options = youtube_options(skip_download=True)
     with YoutubeDL(options) as downloader:
         info = downloader.extract_info(item.url, download=False)
     selected = _select_youtube_track(info)
@@ -252,13 +253,11 @@ def download_youtube_audio(
     work_dir: Path,
 ) -> Path:
     output_template = str(work_dir / "source.%(ext)s")
-    options = {
-        "quiet": True,
-        "no_warnings": True,
-        "format": "bestaudio/best",
-        "outtmpl": output_template,
-        "noplaylist": True,
-    }
+    options = youtube_options(
+        format="bestaudio/best",
+        outtmpl=output_template,
+        noplaylist=True,
+    )
     with YoutubeDL(options) as downloader:
         info = downloader.extract_info(item.url, download=True)
         filename = Path(downloader.prepare_filename(info))

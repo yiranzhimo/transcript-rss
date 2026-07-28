@@ -12,6 +12,7 @@ from yt_dlp import YoutubeDL
 
 from .models import DiscoveredItem, SourceConfig, TranscriptLink
 from .utils import parse_datetime, utc_now
+from .youtube import youtube_options
 
 PODCAST_NS = "https://podcastindex.org/namespace/1.0"
 YOUTUBE_CHANNEL_ID_RE = re.compile(r"(UC[A-Za-z0-9_-]{22})")
@@ -182,13 +183,13 @@ def _youtube_listing_url(url: str) -> str:
 
 
 def _discover_youtube_with_ytdlp(source: SourceConfig) -> list[DiscoveredItem]:
-    options = {
-        "quiet": True,
-        "no_warnings": True,
-        "extract_flat": "in_playlist",
-        "playlistend": source.scan_limit,
-        "skip_download": True,
-    }
+    options = youtube_options(extract_flat="in_playlist")
+    options.update(
+        {
+            "playlistend": source.scan_limit,
+            "skip_download": True,
+        }
+    )
     with YoutubeDL(options) as downloader:
         info = downloader.extract_info(_youtube_listing_url(source.url), download=False)
     entries = info.get("entries") or ([info] if info else [])
