@@ -26,7 +26,7 @@ transcription:
 sources:
   - id: "tim-ferriss"
     type: "youtube"
-    url: "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFznv7Vf9nBdJYvBagFdAHWw"
+    url: "https://www.youtube.com/@timferriss/videos"
     language: "auto"
     enabled: true
     max_items_per_run: 1
