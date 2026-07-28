@@ -24,14 +24,6 @@ transcription:
   max_download_mb: 500
 
 sources:
-  - id: "tim-ferriss"
-    type: "youtube"
-    url: "https://www.youtube.com/@timferriss/videos"
-    language: "auto"
-    enabled: true
-    max_items_per_run: 1
-    scan_limit: 15
-
   - id: "feng-tou-quan"
     type: "podcast"
     url: "https://crazy.capital/feed"
