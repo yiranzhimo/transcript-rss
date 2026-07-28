@@ -39,3 +39,131 @@ sources:
     enabled: true
     max_items_per_run: 1
     scan_limit: 15
+
+  - id: "yan-zhong-hua-shu"
+    type: "podcast"
+    url: "https://feed.xyzfm.space/hwen8wf69c6g"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "gao-qian-nu-hai"
+    type: "podcast"
+    url: "https://www.ximalaya.com/album/74797134.xml"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "luan-fan-shu"
+    type: "podcast"
+    url: "https://feed.xyzfm.space/yxuruh3f9mc4"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "silicon-valley-101"
+    type: "podcast"
+    url: "https://feeds.fireside.fm/sv101/rss"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "zhi-xing-xiao-jiu-guan"
+    type: "podcast"
+    url: "https://feed.xyzfm.space/j8yp8gxkmgqr"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "chuang-ye-nei-mu"
+    type: "podcast"
+    url: "http://www.ximalaya.com/album/20119986.xml"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "sui-ji-bo-dong"
+    type: "podcast"
+    url: "https://feeds.fireside.fm/stovol/rss"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "yi-xi"
+    type: "podcast"
+    url: "https://feed.xyzfm.space/jq7xytwpykrg"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "sheng-dong-ji-xi"
+    type: "podcast"
+    url: "https://feeds.fireside.fm/shengdongjixi/rss"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "chi-zao-geng-xin"
+    type: "podcast"
+    url: "https://podcast.weareones.com/feed/audio.xml"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "fit4life"
+    type: "podcast"
+    url: "http://www.ximalaya.com/album/26640504.xml"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "the-a16z-show"
+    type: "podcast"
+    url: "https://feeds.simplecast.com/JGE3yC0V"
+    language: "en"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "naval"
+    type: "podcast"
+    url: "https://rss.libsyn.com/shows/166112/destinations/1103966.xml"
+    language: "en"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "the-investors-podcast"
+    type: "podcast"
+    url: "https://feeds.megaphone.fm/PPLLC8974708240"
+    language: "en"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "the-tim-ferriss-show"
+    type: "podcast"
+    url: "https://rss.art19.com/tim-ferriss-show"
+    language: "en"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "streamlined-solopreneur"
+    type: "podcast"
+    url: "https://feeds.transistor.fm/streamlined"
+    language: "en"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
