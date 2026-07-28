@@ -255,3 +255,11 @@ sources:
     enabled: true
     max_items_per_run: 1
     scan_limit: 15
+
+  - id: "nan-ban-qiu-liao-cai-jing"
+    type: "youtube"
+    url: "https://www.youtube.com/@%E5%8D%97%E5%8D%8A%E7%90%83%E8%81%8A%E8%B4%A2%E7%BB%8F/videos"
+    language: "auto"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
