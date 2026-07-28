@@ -160,6 +160,14 @@ sources:
     max_items_per_run: 1
     scan_limit: 15
 
+  - id: "the-rational-reminder-podcast"
+    type: "podcast"
+    url: "https://rss.libsyn.com/shows/127327/destinations/763774.xml"
+    language: "en"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
   - id: "lao-mo"
     type: "youtube"
     url: "https://www.youtube.com/@LaoMo666/videos"
