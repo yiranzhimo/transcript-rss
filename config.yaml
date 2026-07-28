@@ -1,0 +1,41 @@
+# Replace the disabled examples with your podcast feeds and YouTube channels.
+site:
+  title: "我的播客与视频文字版"
+  description: "自动生成的中文文字稿；重要内容请回到原始节目核对。"
+  base_url: "https://USERNAME.github.io/transcript-rss"
+  output_dir: "docs"
+  state_file: "data/state.json"
+  feed_items: 30
+  content_mode: "full"
+  content_max_characters: 120000
+
+translation:
+  enabled: true
+  api_base: "https://openrouter.ai/api/v1"
+  model: "openai/gpt-4o-mini"
+  api_key_env: "OPENROUTER_API_KEY"
+  chunk_characters: 6000
+
+transcription:
+  enabled: true
+  model: "small"
+  device: "cpu"
+  compute_type: "int8"
+  max_download_mb: 500
+
+sources:
+  - id: "replace-with-podcast"
+    type: "podcast"
+    url: "https://example.com/podcast.xml"
+    language: "en"
+    enabled: false
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "replace-with-youtube"
+    type: "youtube"
+    url: "https://www.youtube.com/@example/videos"
+    language: "auto"
+    enabled: false
+    max_items_per_run: 1
+    scan_limit: 15
