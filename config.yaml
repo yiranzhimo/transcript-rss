@@ -2,7 +2,7 @@
 site:
   title: "我的播客与视频文字版"
   description: "自动生成的中文文字稿；重要内容请回到原始节目核对。"
-  base_url: "https://USERNAME.github.io/transcript-rss"
+  base_url: "https://yiranzhimo.github.io/transcript-rss"
   output_dir: "docs"
   state_file: "data/state.json"
   feed_items: 30
@@ -24,18 +24,18 @@ transcription:
   max_download_mb: 500
 
 sources:
-  - id: "replace-with-podcast"
-    type: "podcast"
-    url: "https://example.com/podcast.xml"
-    language: "en"
-    enabled: false
+  - id: "tim-ferriss"
+    type: "youtube"
+    url: "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFznv7Vf9nBdJYvBagFdAHWw"
+    language: "auto"
+    enabled: true
     max_items_per_run: 1
     scan_limit: 15
 
-  - id: "replace-with-youtube"
-    type: "youtube"
-    url: "https://www.youtube.com/@example/videos"
-    language: "auto"
-    enabled: false
+  - id: "feng-tou-quan"
+    type: "podcast"
+    url: "https://crazy.capital/feed"
+    language: "zh"
+    enabled: true
     max_items_per_run: 1
     scan_limit: 15
