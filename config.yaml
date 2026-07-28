@@ -271,3 +271,211 @@ sources:
     enabled: true
     max_items_per_run: 1
     scan_limit: 15
+
+  - id: "luo-xiang"
+    type: "bilibili"
+    url: "https://space.bilibili.com/517327498"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "er-hei-hei-a"
+    type: "bilibili"
+    url: "https://space.bilibili.com/3494381176752600"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "ai-wei-qi-vic"
+    type: "bilibili"
+    url: "https://space.bilibili.com/1751550967"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "hu-feng-nan-du"
+    type: "bilibili"
+    url: "https://space.bilibili.com/9341526"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "yong-gan-de-yong"
+    type: "bilibili"
+    url: "https://space.bilibili.com/35762548"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "sai-bo-shi-lu"
+    type: "bilibili"
+    url: "https://space.bilibili.com/1937308559"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "li-shi-diao-yan-shi"
+    type: "bilibili"
+    url: "https://space.bilibili.com/519872016"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "ji-wei-yi"
+    type: "bilibili"
+    url: "https://space.bilibili.com/1824543376"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "lin-tai-ling"
+    type: "bilibili"
+    url: "https://space.bilibili.com/243590309"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "mai-pian-xiao-jin-mao"
+    type: "bilibili"
+    url: "https://space.bilibili.com/7226269"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "he-pan-de-bo-jue"
+    type: "bilibili"
+    url: "https://space.bilibili.com/1596926736"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "liu-ceng-lou-xian-sheng"
+    type: "bilibili"
+    url: "https://space.bilibili.com/103388721"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "he-da-ji-chu-yi-xue-yuan-ding-yong"
+    type: "bilibili"
+    url: "https://space.bilibili.com/510028707"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "jin-ji-de-kong-kong"
+    type: "bilibili"
+    url: "https://space.bilibili.com/381389914"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "an-zhou-mu"
+    type: "bilibili"
+    url: "https://space.bilibili.com/7481602"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "yan-su-de-xia-mi"
+    type: "bilibili"
+    url: "https://space.bilibili.com/1380778806"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "bu-shua-ti-de-wu-lao-lao"
+    type: "bilibili"
+    url: "https://space.bilibili.com/395877542"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "jia-you-sheng-xuan"
+    type: "bilibili"
+    url: "https://space.bilibili.com/483784677"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "bi-dao"
+    type: "bilibili"
+    url: "https://space.bilibili.com/254463269"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "yu-shi-fang"
+    type: "bilibili"
+    url: "https://space.bilibili.com/34264408"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "ying-ping-ren-mao-jian"
+    type: "bilibili"
+    url: "https://space.bilibili.com/3546393683691534"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "du-su-juan-liao-wen-xue"
+    type: "bilibili"
+    url: "https://space.bilibili.com/84102036"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "lang-hua-jiang"
+    type: "bilibili"
+    url: "https://space.bilibili.com/102584256"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "zheng-shuo-qing-dai-shi-er-chao"
+    type: "bilibili"
+    url: "https://space.bilibili.com/1457639978"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "han-yu-chen"
+    type: "bilibili"
+    url: "https://space.bilibili.com/697164824"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
+
+  - id: "ji-bu-zhu-up"
+    type: "bilibili"
+    url: "https://space.bilibili.com/1433934891"
+    language: "zh"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
