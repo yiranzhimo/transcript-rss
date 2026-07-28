@@ -81,6 +81,10 @@ def load_config(path: str | Path) -> AppConfig:
         model=str(transcription_raw.get("model", "small")),
         device=str(transcription_raw.get("device", "cpu")),
         compute_type=str(transcription_raw.get("compute_type", "int8")),
+        batch_size=max(0, int(transcription_raw.get("batch_size", 8))),
+        beam_size=max(1, int(transcription_raw.get("beam_size", 1))),
+        cpu_threads=max(1, int(transcription_raw.get("cpu_threads", 4))),
+        log_progress=bool(transcription_raw.get("log_progress", True)),
         max_download_mb=max(10, int(transcription_raw.get("max_download_mb", 500))),
     )
 

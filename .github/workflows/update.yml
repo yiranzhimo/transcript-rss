@@ -17,6 +17,8 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-24.04
+    env:
+      PYTHONUNBUFFERED: "1"
     services:
       youtube-pot-provider:
         image: brainicism/bgutil-ytdlp-pot-provider:1.3.1

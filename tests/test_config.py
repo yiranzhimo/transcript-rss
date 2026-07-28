@@ -44,3 +44,30 @@ sources:
     config = load_config(path)
 
     assert config.translation.model == "configured/model"
+
+
+def test_transcription_acceleration_settings(tmp_path: Path) -> None:
+    path = tmp_path / "config.yaml"
+    path.write_text(
+        """
+site:
+  base_url: https://owner.github.io/repository
+transcription:
+  batch_size: 12
+  beam_size: 2
+  cpu_threads: 6
+  log_progress: false
+sources:
+  - id: example
+    type: podcast
+    url: https://example.com/feed.xml
+""",
+        encoding="utf-8",
+    )
+
+    config = load_config(path)
+
+    assert config.transcription.batch_size == 12
+    assert config.transcription.beam_size == 2
+    assert config.transcription.cpu_threads == 6
+    assert config.transcription.log_progress is False

@@ -15,6 +15,25 @@ Pages 发布。
 机器识别和翻译可能有误。页面会保留原始节目链接和原文，重要内容应回到原始
 音视频核对。
 
+### Whisper 转录性能
+
+默认使用 `small + CPU + int8`，并启用批处理以兼顾中文识别质量和速度：
+
+```yaml
+transcription:
+  model: small
+  device: cpu
+  compute_type: int8
+  batch_size: 8
+  beam_size: 1
+  cpu_threads: 4
+  log_progress: true
+```
+
+`batch_size: 0` 可关闭批处理。增大批大小会提高内存占用；减小模型或
+`beam_size` 通常更快，但可能降低嘈杂语音、多人对话和专有名词的识别质量。
+修改参数后应先用有代表性的节目比较速度和文字准确度。
+
 ## GitHub 配置
 
 ### 1. 修改订阅源

@@ -45,6 +45,10 @@ class TranscriptionConfig:
     model: str = "small"
     device: str = "cpu"
     compute_type: str = "int8"
+    batch_size: int = 8
+    beam_size: int = 1
+    cpu_threads: int = 4
+    log_progress: bool = True
     max_download_mb: int = 500
 
 
