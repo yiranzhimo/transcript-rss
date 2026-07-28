@@ -263,3 +263,11 @@ sources:
     enabled: true
     max_items_per_run: 1
     scan_limit: 15
+
+  - id: "veritasium"
+    type: "youtube"
+    url: "https://www.youtube.com/@veritasium/videos"
+    language: "auto"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
