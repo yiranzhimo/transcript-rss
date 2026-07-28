@@ -13,6 +13,7 @@ from .acquire import (
     download_youtube_audio,
     fetch_existing_transcript,
 )
+from .artifacts import write_source_artifact
 from .discover import discover_source
 from .models import AppConfig, DiscoveredItem, SourceConfig, Transcript
 from .publish import rebuild_site, write_item
@@ -75,7 +76,11 @@ def _record_failure(
     state["sources"].setdefault(item.source_id, {})["force_refresh"] = True
 
 
-def run_sync(config: AppConfig, fail_on_error: bool = False) -> dict[str, int]:
+def run_sync(
+    config: AppConfig,
+    fail_on_error: bool = False,
+    artifact_dir: Path | None = None,
+) -> dict[str, int]:
     state = load_state(config.site.state_file)
     state.setdefault("sources", {})
     state.setdefault("items", {})
@@ -87,6 +92,7 @@ def run_sync(config: AppConfig, fail_on_error: bool = False) -> dict[str, int]:
     )
     translator = OpenAICompatibleTranslator(config.translation, client)
     transcriber = WhisperTranscriber(config.transcription)
+    published_slugs: set[str] = set()
 
     try:
         for source in config.sources:
@@ -164,6 +170,7 @@ def run_sync(config: AppConfig, fail_on_error: bool = False) -> dict[str, int]:
                             int(state["items"].get(_state_key(item), {}).get("attempts", 0)) + 1
                         )
                         state["items"][_state_key(item)] = row
+                        published_slugs.add(row["item_slug"])
                         source_state.pop("last_error", None)
                         stats["published"] += 1
                         print(f"[published] {title_zh}")
@@ -177,8 +184,11 @@ def run_sync(config: AppConfig, fail_on_error: bool = False) -> dict[str, int]:
                 finally:
                     save_state(config.site.state_file, state)
 
-        rebuild_site(config, config.sources, state)
+        if artifact_dir is None:
+            rebuild_site(config, config.sources, state)
         save_state(config.site.state_file, state)
+        if artifact_dir is not None:
+            write_source_artifact(config, state, published_slugs, artifact_dir)
     finally:
         client.close()
         work_root = config.config_path.parent / "work"

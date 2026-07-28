@@ -118,8 +118,18 @@ https://USERNAME.github.io/REPOSITORY/feed.xml
 https://USERNAME.github.io/REPOSITORY/feeds/SOURCE_ID.xml
 ```
 
-工作流每六小时运行一次。GitHub Pages 地址由 Action 根据仓库所有者和仓库名
+工作流每十二小时运行一次。GitHub Pages 地址由 Action 根据仓库所有者和仓库名
 自动设置，不依赖 `config.yaml` 中的占位 URL。
+
+### 并行处理
+
+工作流会为每个启用的订阅源建立独立 matrix job，并通过 `max-parallel: 4`
+限制为最多四个 Runner 同时执行。各 job 只上传该来源的状态片段和新文字稿；
+最后一个 publish job 统一合并状态、重建 RSS、提交仓库并部署 Pages，避免多个
+Runner 同时修改 `state.json` 或推送 Git。
+
+单个来源失败不会覆盖其他来源的结果。汇总日志会列出没有成功上传 artifact
+的来源；单个来源 job 的最长运行时间为三小时。
 
 ## 本地运行
 
