@@ -1,13 +1,13 @@
 # Transcript RSS
 
-把播客 RSS 和 YouTube 频道转换成可订阅的中文文字稿 RSS。项目由 GitHub
+把播客 RSS、YouTube 频道和 Bilibili UP 主转换成可订阅的中文文字稿 RSS。项目由 GitHub
 Actions 定期执行，输出静态 HTML、Markdown、VTT 和 RSS，并通过 GitHub
 Pages 发布。
 
 ## 处理规则
 
 1. 播客优先读取 RSS 中的 `podcast:transcript`。
-2. YouTube 优先读取作者字幕，其次读取自动字幕。
+2. YouTube 和 Bilibili 优先读取平台字幕，其次读取自动字幕。
 3. 没有字幕时，下载音频并使用 `faster-whisper` 转写。
 4. 检测到英文文字稿时，通过 OpenAI-compatible 接口翻译成简体中文。
 5. 保留原文，并生成中文全文 RSS。
@@ -34,6 +34,14 @@ sources:
     type: youtube
     # 最稳定的是 /channel/UC... 地址；@handle 地址也支持，但发现过程更慢。
     url: https://www.youtube.com/channel/UCxxxxxxxxxxxxxxxxxxxxxx
+    language: auto
+    enabled: true
+    max_items_per_run: 1
+
+  - id: example-bilibili
+    type: bilibili
+    # 使用 UP 主空间地址，例如 https://space.bilibili.com/123456
+    url: https://space.bilibili.com/123456
     language: auto
     enabled: true
     max_items_per_run: 1

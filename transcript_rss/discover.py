@@ -238,6 +238,44 @@ def discover_youtube(
     return _discover_youtube_with_ytdlp(source)
 
 
+def discover_bilibili(source: SourceConfig) -> list[DiscoveredItem]:
+    """Discover recent videos from a Bilibili uploader/channel with yt-dlp."""
+    options = youtube_options(extract_flat="in_playlist")
+    options.update({"playlistend": source.scan_limit, "skip_download": True})
+    with YoutubeDL(options) as downloader:
+        info = downloader.extract_info(source.url, download=False)
+    entries = info.get("entries") or ([info] if info else [])
+    result: list[DiscoveredItem] = []
+    for entry in entries[: source.scan_limit]:
+        if not entry:
+            continue
+        video_id = str(entry.get("id", "")).strip()
+        if not video_id:
+            continue
+        url = entry.get("webpage_url") or entry.get("url")
+        if not url or not str(url).startswith("http"):
+            url = f"https://www.bilibili.com/video/{video_id}"
+        published = parse_datetime(
+            str(entry.get("timestamp") or entry.get("upload_date") or "")
+        )
+        result.append(
+            DiscoveredItem(
+                source_id=source.id,
+                source_type="bilibili",
+                external_id=f"bilibili:{video_id}",
+                title=str(entry.get("title") or video_id),
+                url=str(url),
+                published_at=published,
+                description=str(entry.get("description") or ""),
+                metadata={
+                    "video_id": video_id,
+                    "channel_title": str(info.get("uploader") or source.title or source.id),
+                },
+            )
+        )
+    return result
+
+
 def discover_source(
     source: SourceConfig,
     client: httpx.Client,
@@ -247,4 +285,7 @@ def discover_source(
         return discover_podcast(source, client, source_state)
     if source.type == "youtube":
         return discover_youtube(source, client, source_state)
+    if source.type == "bilibili":
+        source_state["last_checked_at"] = utc_now().isoformat()
+        return discover_bilibili(source)
     raise ValueError(f"unsupported source type: {source.type}")

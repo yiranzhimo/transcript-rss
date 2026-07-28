@@ -225,6 +225,39 @@ def fetch_youtube_transcript(
     return transcript, info
 
 
+def fetch_bilibili_transcript(
+    item: DiscoveredItem,
+    client: httpx.Client,
+) -> tuple[Transcript | None, dict[str, Any]]:
+    options = youtube_options(skip_download=True)
+    with YoutubeDL(options) as downloader:
+        info = downloader.extract_info(item.url, download=False)
+    for collection_name, provenance in (
+        ("subtitles", "Bilibili subtitles"),
+        ("automatic_captions", "Bilibili automatic captions"),
+    ):
+        collection = info.get(collection_name) or {}
+        for language in sorted(collection, key=_language_priority):
+            formats = collection.get(language) or []
+            usable = [
+                row for row in formats
+                if row.get("url") and row.get("ext") in {"json3", "vtt", "srt"}
+            ]
+            if not usable:
+                continue
+            track = sorted(usable, key=lambda row: {"json3": 0, "vtt": 1, "srt": 2}.get(row.get("ext"), 9))[0]
+            response = client.get(track["url"])
+            response.raise_for_status()
+            return parse_transcript(
+                response.content,
+                "application/json" if track.get("ext") == "json3" else f"text/{track.get('ext')}",
+                track["url"],
+                language,
+                provenance,
+            ), info
+    return None, info
+
+
 def download_podcast_audio(
     item: DiscoveredItem,
     client: httpx.Client,
@@ -276,4 +309,6 @@ def fetch_existing_transcript(
 ) -> tuple[Transcript | None, dict[str, Any]]:
     if source.type == "podcast":
         return fetch_podcast_transcript(item, client), {}
+    if source.type == "bilibili":
+        return fetch_bilibili_transcript(item, client)
     return fetch_youtube_transcript(item, client)
