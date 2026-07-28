@@ -67,36 +67,6 @@
       "transcript_provenance": "faster-whisper/small",
       "translation_provenance": "faster-whisper/small",
       "url": "https://crazy.capital/143"
-    },
-    "tim-ferriss::youtube:-UetKKxKqKU": {
-      "attempts": 1,
-      "description": "",
-      "external_id": "youtube:-UetKKxKqKU",
-      "last_attempt_at": "2026-07-28T05:20:08.628161+00:00",
-      "last_error": "DownloadError: ERROR: [youtube] -UetKKxKqKU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "published_at": "2026-07-28T05:20:07.658454+00:00",
-      "source_id": "tim-ferriss",
-      "source_type": "youtube",
-      "status": "failed",
-      "title": "Inside The AI Race: DeepMind, OpenAI, Anthropic, China, and The Race to Superintelligence",
-      "url": "https://www.youtube.com/watch?v=-UetKKxKqKU"
-    },
-    "tim-ferriss::youtube:gL48mHH6ul8": {
-      "attempts": 1,
-      "description": "",
-      "external_id": "youtube:gL48mHH6ul8",
-      "item_slug": "tim-ferriss-eb628d0ce8da",
-      "language": "zh-hans",
-      "published_at": "2026-07-28T06:08:10.443399+00:00",
-      "published_to_feed_at": "2026-07-28T06:08:17.452097+00:00",
-      "source_id": "tim-ferriss",
-      "source_type": "youtube",
-      "status": "published",
-      "title": "The Many Benefits of Coca — The “Divine Leaf” with 8,000+ Years of Use",
-      "title_zh": "The Many Benefits of Coca — The “Divine Leaf” with 8,000+ Years of Use",
-      "transcript_provenance": "YouTube automatic captions",
-      "translation_provenance": "YouTube automatic captions",
-      "url": "https://www.youtube.com/watch?v=gL48mHH6ul8"
     }
   },
   "sources": {
@@ -107,14 +77,6 @@
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
-    },
-    "tim-ferriss": {
-      "force_refresh": true,
-      "last_attempt_at": "2026-07-28T04:45:12.308132+00:00",
-      "last_checked_at": "2026-07-28T06:08:09.726206+00:00",
-      "title": "Tim Ferriss",
-      "type": "youtube",
-      "url": "https://www.youtube.com/@timferriss/videos"
     }
   },
   "updated_at": "2026-07-28T06:36:50.869131+00:00",
