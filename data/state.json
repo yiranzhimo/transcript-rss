@@ -26,6 +26,19 @@
       "title": "BV1TYzLBWE54",
       "url": "https://www.bilibili.com/video/BV1TYzLBWE54"
     },
+    "an-zhou-mu::bilibili:BV1vgFrzoEoL": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "bilibili:BV1vgFrzoEoL",
+      "last_attempt_at": "2026-07-28T15:41:29.908129+00:00",
+      "last_error": "DownloadError: ERROR: [BiliBili] 1vgFrzoEoL: Unable to download webpage: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)",
+      "published_at": "2026-07-28T15:41:29.451595+00:00",
+      "source_id": "an-zhou-mu",
+      "source_type": "bilibili",
+      "status": "failed",
+      "title": "BV1vgFrzoEoL",
+      "url": "https://www.bilibili.com/video/BV1vgFrzoEoL"
+    },
     "bi-dao::bilibili:BV1VrVSz1Eme": {
       "attempts": 1,
       "description": "",
@@ -52,6 +65,23 @@
       "title": "BV1LPDsBsE1Q",
       "url": "https://www.bilibili.com/video/BV1LPDsBsE1Q"
     },
+    "chi-zao-geng-xin::http://podcast.weareones.com/episodes/222": {
+      "attempts": 1,
+      "description": "《迟早过年》的第十年，新角色登场！ Show Notes: 钱德里玛·比斯瓦斯的书《DK 怀孕百科》 海蒂·麦考夫和莎伦·梅泽尔的书《海蒂怀孕大百科》 斯蒂文·谢尔弗的书《美国儿科学会育儿百科》 豪尔赫·博尔赫斯的书《沙之书》 豪尔赫·博尔赫斯的书《小径分岔的花园》 Anastasia Berg 和 Rachel Wiseman 的书《What Are Children For?: On Ambivalence and Choice》 阿德里安·库尔普（Adrian Kulp）的书《写给新手爸爸的第一本育儿指南》（We're Parents! The First-Time Dad's Guide to Baby's First Year） 爱丁堡产后抑郁表（EPDS） David Comerford 的文章《Breastfeeding is Tough: New Research Shows How to Make it More Manageable》 袁边的文章《咱爸妈给咱睡个扁头的执念是哪来的？》 SickKids 上的扁头综合症（体位性斜头畸形和短头畸形）页面 王家卫的电影《花样年华》 Kan Guvensel、Andrea Dixon、Catherine Chang 和 Brian Dew 的文章《The Relationship Among Gender Role Conflict, Normative Male Alexithymia, Men’s Friendship Discords With Other Men, and Psychological Well-Being》 Anthony Vaccaro 的文章《The Neuroscience Behind the ‘Parenting Paradox’ of Happiness》 Enza D’Auria、Marcello Bergamini、Annamaria Staiano、Giuseppe Banderali、Erica Pendezza、Francesca Penagini、Gian Vincenzo Zuccotti 和 Diego Giampietro Peroni 的文章《Baby-Led Weaning: What a Systematic Review of the Literature Adds on》 Marina M. Tavares 的文章《A Place for Human Talent in the AI Age》 Broesch, Tanya Lynn、Tara Callaghan、Joseph Henrich、Christine Murphy 和 Philippe Rochat 的文章《Cultural Variations in Children's Mirror Self-Recognition》 Marcus Vinicius Marques-de-Moraes、Jadiane Dionisio、Uner Tan 和 Eloisa Tudella 的文章《Palmar Grasp Reflex in Human Newborns》 米兰·昆德拉的书《不能承受的生命之轻》 《硬影像》#39《Ecstasy》 《迟早更新》#173《那么快，那么慢》 Semisonic 的歌《Closing Time》的维基百科页面) 主播：任宁、枪枪 「迟早更新」是一档探讨科技、商业、设计和生活之间混沌关系的播客节目。我们希望通过这档播客，能让熟悉的事物变得新鲜，让新鲜的事物变得熟悉。 官网：https://podcast.weareones.com 微博：http://weibo.com/chizaogengxin 如果有任何问题或反馈，欢迎发电子邮件至 embrace@weareones.com。",
+      "external_id": "http://podcast.weareones.com/episodes/222",
+      "item_slug": "chi-zao-geng-xin-35313a5c2003",
+      "language": "zh",
+      "published_at": "2026-02-16T12:00:00+00:00",
+      "published_to_feed_at": "2026-07-28T15:10:46.409608+00:00",
+      "source_id": "chi-zao-geng-xin",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "Episode 222:「迟早过年」· 人之书",
+      "title_zh": "Episode 222:「迟早过年」· 人之书",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1",
+      "url": "http://podcast.weareones.com/episodes/222"
+    },
     "chi-zao-geng-xin::http://podcast.weareones.com/episodes/223": {
       "attempts": 1,
       "description": "我们终究会见面的。Things become other things. Show Notes: 任宁的书《希望是那长着羽毛的小东西》 艾米莉·狄金森（Emily Dickinson） 主红雀（Cardinalis cardinalis） 冠蓝鸦（Cyanocitta cristata） 曹雨的文章《灰白的黎明与天空的轨迹：读任宁〈希望是那长着羽毛的小东西〉》 法布尔的书《昆虫记》 小苏的文章《四川巴郎山观鸟，一篇文章全知道》 白顶溪鸲（Phoenicurus leucocephalus） 一颗米 Komi 的文章《猛禽监测播报：他们在山上数雕，我在楼顶观鹗》 斑姬啄木鸟（Picumnus innominatus） 露露·米勒（Lulu Miller）的书《鱼不存在》（Why Fish Don't Exist） 《垂直迁徙》#04《三宝鸟不存在 &amp; 观测已灭绝的物种》 申惠豐的文章《論吳明益自然書寫中的美學思想》 领燕鸻（Glareola pratincola） 玛雅蓝的文章《暴发汉坦病毒的邮轮装满了观鸟爱好者》 马克·奥布马赛克（Mark Obmascik）的书《观鸟大年》（The Big Year）（何雨珈翻译！） 大卫·弗兰科尔（David Frankel）的电影《观鸟大年》（The Big Year） Owen Reiser 的纪录片《观鸟狂：极限观鸟之旅》(Listers: A Glimpse Into Extreme Birdwatching) 大阳的文章《世纪公园神话之鸟降临》 罗伯特·麦克法伦（Robert Macfarlane） 海伦·麦克唐纳（Helen Macdonald） 温弗里德·塞巴尔德（W. G. Sebald） 约翰·缪尔（John Muir） David Gessner 的文章《A Tribute to John Hay (1915–2011)》 贝恩德·海因里希（Bernd Heinrich） 丽贝卡·索尔尼特（Rebecca Solnit） Ella Brooker 的文章《What is Creative Non-Fiction?》 主播：任宁、枪枪 「迟早更新」是一档探讨科技、商业、设计和生活之间混沌关系的播客节目。我们希望通过这档播客，能让熟悉的事物变得新鲜，让新鲜的事物变得熟悉。 官网：https://podcast.weareones.com 微博：http://weibo.com/chizaogengxin 如果有任何问题或反馈，欢迎发电子邮件至 embrace@weareones.com。",
@@ -69,6 +99,23 @@
       "translation_provenance": "faster-whisper/small; batch=8; beam=1",
       "url": "http://podcast.weareones.com/episodes/223"
     },
+    "chuang-ye-nei-mu::xmly_track_1001092929": {
+      "attempts": 1,
+      "description": "<p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">在日常网购的物流信息中，“海外仓”看似是一个再寻常不过的运输环节，但背后却隐藏着一个由技术驱动的数字化跨境体系。</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">随着全球电商红利全面爆发，跨境贸易正加速向本土化发货重构。但面对海外薄弱基建和碎片化的合规要求，传统的仓储模式极易陷入“规模不经济”的陷阱。这便要求行业通过数字化系统与智能决策，将粗放型仓储沉淀为高效合规的现代化数字基础设施。</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">本期节目，我们邀请到<strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">元仓创始人、CEO龙良玉</strong>，分享出海老炮在东南亚的四年创业路。深耕东南亚的海外仓，怎样摆脱行业低价内卷的困境？AI和数字化系统如何把重资产仓库变成数字工厂？为什么在初创期就要高配上市公司高管架构？这与合规存在哪些千丝万缕的关系？穿越创业的至暗时刻，创业者应该坚守的是什么？</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">01:53 东南亚海外仓的真实难点</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">05:41 “AI的冲击相对没这么严重”</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">07:33 东南亚仓储的机械化程度</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">09:23 海外主战场的选择逻辑</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">12:41 一家初创公司在东南亚的“赌”</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">16:38 成立之初便“财税法先行”</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">18:12 东南亚商家和品类的深层洗牌</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">22:50 获得电商平台认证的门槛</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">25:10 入乡随俗：从客户到合规</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">28:26 用第一性原理坚守技术投入</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">33:37 基于数据的团队管理</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">37:24 给出海创业者的三条建议</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">39:28 评论区抽取5名听众送出精美周边</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">《创业内幕》粉丝群已经开通，在这里，你可以跟节目制作人/主持人直接沟通，也可以第一时间了解到纪源资本线下活动动态，见到纪源资本的投资人，结交其他互联网圈子里的小伙伴。&nbsp;</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">入群方式：</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">1）添加微信号“JiyuanFans”为好友，并在好友请求中标注“创业”&nbsp;</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">2）把你的全名和职称发给创业小助手；如果您想约访谈，请添加小助手微信，并附上访谈嘉宾简介，小助手将帮您对接。</p><span><br /></span><span></span><span><br /></span><br />",
+      "external_id": "xmly_track_1001092929",
+      "item_slug": "chuang-ye-nei-mu-e93f0f7e9f29",
+      "language": "zh",
+      "published_at": "2026-07-16T22:00:00+00:00",
+      "published_to_feed_at": "2026-07-28T14:55:16.401417+00:00",
+      "source_id": "chuang-ye-nei-mu",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "S8 Vol.16 元仓龙良玉：东南亚最大的海外仓是如何建成的？",
+      "title_zh": "S8 Vol.16 元仓龙良玉：东南亚最大的海外仓是如何建成的？",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1",
+      "url": "https://www.ximalaya.com/sound/1001092929"
+    },
     "chuang-ye-nei-mu::xmly_track_1002269073": {
       "attempts": 1,
       "description": "<p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">高昂的汇差损失、动辄数天的到账延迟，甚至遭遇无预警的账户冻结——这是无数全球化企业在传统跨境清结算中可能吞过的“苦果”。</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">但在全球贸易加快的浪潮下，新的转机已至。随着稳定币技术的演进，行业告别单纯的投机炒作，向着更安全、更透明的下一代银行基础设施加速迈进。粗放型的野蛮生长已成过去，坚守合规与风控才是行业走得长远的唯一解。</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">本期节目，我们邀请到<strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">Interlace创始人兼 CEO Michael Wu</strong>，深度拆解基于区块链技术的跨境交易结算逻辑。从跨境收钱到海外花钱，虚拟卡如何成为稳定币落地的关键桥梁？面对全球各地的不同监管框架，Fintech企业怎样把握稳健风控、建立高壁垒？随着AI支付时代来临，人与算法之间的信任瓶颈如何被打破？</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">*本期访谈内容仅为行业交流与观点分享，不构成任何投资建议。</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">01:51 从「小镇做题家」到「硅谷工程师」</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">03:26 用前沿技术解决跨境清结算问题</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">06:45 在义乌迸发的Fintech创业灵感</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">09:58 小币种支付结算的特殊性</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">13:56 反其道而行，“做好把钱花出去”</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">19:31 复盘全球稳定币支付增长</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">28:12 “让稳定币更好地被管理和使用”</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">36:20 让AI学会安全付钱</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">42:07 跨境支付创业启示</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">43:44 评论区抽取5名听众送出精美周边</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">《创业内幕》粉丝群已经开通，在这里，你可以跟节目制作人/主持人直接沟通，也可以第一时间了解到纪源资本线下活动动态，见到纪源资本的投资人，结交其他互联网圈子里的小伙伴。&nbsp;</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">入群方式：</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">1）添加微信号“JiyuanFans”为好友，并在好友请求中标注“创业”&nbsp;</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">2）把你的全名和职称发给创业小助手；如果您想约访谈，请添加小助手微信，并附上访谈嘉宾简介，小助手将帮您对接。</p><span><br /><br /></span>",
@@ -85,6 +132,19 @@
       "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
       "translation_provenance": "faster-whisper/small; batch=8; beam=1",
       "url": "https://www.ximalaya.com/sound/1002269073"
+    },
+    "doc-snipes::youtube:FUcta0j3blc": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "youtube:FUcta0j3blc",
+      "last_attempt_at": "2026-07-28T15:26:40.351373+00:00",
+      "last_error": "DownloadError: ERROR: [youtube] FUcta0j3blc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "published_at": "2026-07-28T15:26:39.223199+00:00",
+      "source_id": "doc-snipes",
+      "source_type": "youtube",
+      "status": "failed",
+      "title": "The PERFECTS Method for Improving Self Esteem and Support",
+      "url": "https://www.youtube.com/watch?v=FUcta0j3blc"
     },
     "doc-snipes::youtube:Gzsa-x71HMU": {
       "attempts": 1,
@@ -112,6 +172,19 @@
       "title": "BV1bCXbBcEe9",
       "url": "https://www.bilibili.com/video/BV1bCXbBcEe9"
     },
+    "fang-si-ta-fu::youtube:-rJExlBVuJ8": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "youtube:-rJExlBVuJ8",
+      "last_attempt_at": "2026-07-28T15:30:23.400340+00:00",
+      "last_error": "DownloadError: ERROR: [youtube] -rJExlBVuJ8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "published_at": "2026-07-28T15:30:22.349080+00:00",
+      "source_id": "fang-si-ta-fu",
+      "source_type": "youtube",
+      "status": "failed",
+      "title": "【鬼谷闲谈】大蒜：在祛病和驱魔中选择了去腥",
+      "url": "https://www.youtube.com/watch?v=-rJExlBVuJ8"
+    },
     "fang-si-ta-fu::youtube:wxNr35E2BEs": {
       "attempts": 1,
       "description": "",
@@ -124,6 +197,23 @@
       "status": "failed",
       "title": "铁：我们细胞里的远祖残躯",
       "url": "https://www.youtube.com/watch?v=wxNr35E2BEs"
+    },
+    "feng-tou-quan::https://crazy.capital/138": {
+      "attempts": 1,
+      "description": "<p>本期讨论两个运动/健身行业的非典型品牌：昂跑和超级猩猩。</p>\n\n<ul>\n<li>运动鞋品牌巨头林立，昂跑为何还能拿到高增长、享受高溢价？</li>\n<li>昂跑中国坚定投入重金开大店、从批发转直营，背后是怎样的考量？</li>\n<li>昂跑「从鞋到服」、lululemon「从服到鞋」，发展逻辑有何异同？</li>\n<li>超级猩猩不办年卡、坚持按次付费的难点在哪里？</li>\n<li>虽然用户粘性强、复购率高，超级猩猩为何始终难下沉和破圈？</li>\n<li>在扩展新用户和维护老用户之间，超级猩猩如何抉择？</li>\n</ul>\n\n<h2>🛒小卖部上新</h2>\n\n<p>🥵天气热起来啦～疯投圈小卖部上新了[神奇小鹿凉感小冰被2.0升级款][tmall]，A类母婴级凉感面料，一触即凉、清爽入睡，空调温度都可以调高一度，舒适又环保～</p>\n\n<p>复制淘口令「59￥RsV15oT0uYp￥/  MF168」后打开手机淘宝，即可享受超划算优惠～</p>\n\n<p>🙏感谢您支持小卖部！</p>\n\n<h2>会员社群</h2>\n\n<p>疯投圈开设有会员社群，在这里您可以结识志同道合的朋友、发现业务合作的伙伴。每年我们会在北京、上海、深圳、广州四个城市举办仅限会员参加的线下活动，其他城市也会不定期举行小型的会员聚会。通过面对面的交流，您可以与其他会员进一步加深了解、促成合作。</p>\n\n<p>会员还可以阅读由疯投圈播客节目内容重新人工整理编辑而成的《疯投圈文字精选》，适合阅读习惯，方便查询检索节目中提到的图表、数据、观点、结论。</p>\n\n<p>微信搜索关注「疯投圈」服务号并发送关键词「会员」了解详情和加入社群。</p>\n\n<figure>\n<img src=\"https://rio.xyzcdn.net/assets/crazy-capital-community.png\" />\n</figure>\n\n<h2>商务合作</h2>\n\n<p>商务合作请发送电子邮件至 <a href=\"mailto:biz@crazy.capital\">biz@crazy.capital</a></p>",
+      "external_id": "https://crazy.capital/138",
+      "item_slug": "feng-tou-quan-b28b55c1094a",
+      "language": "zh",
+      "published_at": "2026-05-13T00:00:00+00:00",
+      "published_to_feed_at": "2026-07-28T14:51:43.452176+00:00",
+      "source_id": "feng-tou-quan",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "138 ✪ 👟昂跑中国重直营、🦍超级猩猩不办卡",
+      "title_zh": "138 ✪ 👟昂跑中国重直营、🦍超级猩猩不办卡",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1",
+      "url": "https://crazy.capital/138"
     },
     "feng-tou-quan::https://crazy.capital/139": {
       "attempts": 1,
@@ -227,6 +317,40 @@
       "translation_provenance": "faster-whisper/small; batch=8; beam=1",
       "url": "https://www.ximalaya.com/sound/1002290908"
     },
+    "fit4life::xmly_track_999397203": {
+      "attempts": 1,
+      "description": "<p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><img alt=\"\" src=\"http://imagev2.xmcdn.com/storages/6479-audiofreehighqps/27/8F/GAqh6-4OJAf3ABUdOgSzb2rS.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /><br /></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">你们有没有过那种时候？好不容易空闲下来，觉得时间不能浪费，然后掏出手机想要攻略一下去哪里尽情放松。结果翻了一小时也没找到答案，又为此感到不服，于是夺门而出——不知道去哪，总之不能坐以待毙。果然，出门以后百无聊赖，在自己最熟悉的附近遛弯儿看人、抓耳挠腮，最后老老实实回家躺在床上，思忖着究竟是什么时候，线下的精致生活离你远去了？欲望和行动力都被谁偷走了？</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">这就是成年人的无奈吧，想要重返二十岁的激情，又不懂城市最in的文化。然后强行支棱着硬玩儿一通，发现格格不入灰头土脸。好不容易等到一个婚礼场合，兴奋准备，又发现自己好像太过隆重。请大家给我们留言，讲讲你的闲暇生活如何挥洒激情。</p><span><br /></span><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">00:12 如何像专业运动员一样参加婚礼？这太让人舒适了。</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">17:56 别跟中年人谈夜生活，欲望和能力已经跟岁月私奔。</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">27:00 重返二十岁太累了，格格不入的感觉太废了。</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">35:16 心有余而力不足，全妆出门、进城狂欢的日子只能在想象中出现。</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">40:16 顶着大太阳硬玩儿，最后只剩败兴而归。</p><br /><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">————————————</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">�给姥姥姥爷留言请走这里</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica, Arial, sans-serif; text-align: justify;\"><img alt=\"\" src=\"http://imagev2.xmcdn.com/storages/18bf-audiofreehighqps/2C/C7/GAqh9TMOJAgfAAAidwSzb32E.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /><br /></p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">Apple Podcast/喜马拉雅/小宇宙/网易云/Spotify/荔枝/蜻蜓：fit4life</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">微博/小红书/B站：fit4life</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">公众号：fit4life健身与美食</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">淘宝直播：fit4life健身与美食 （记得订阅）</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">商务联系：shanshan@fit4life.world</p><span></span><span><br /></span><br />",
+      "external_id": "xmly_track_999397203",
+      "item_slug": "fit4life-ecf3e7105aca",
+      "language": "zh",
+      "published_at": "2026-07-08T12:41:38+00:00",
+      "published_to_feed_at": "2026-07-28T15:06:50.826070+00:00",
+      "source_id": "fit4life",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "522 - 最近的生活点滴｜抓耳挠腮，竟然总结不出一个主题",
+      "title_zh": "522 - 最近的生活点滴｜抓耳挠腮，竟然总结不出一个主题",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1",
+      "url": "https://www.ximalaya.com/sound/999397203"
+    },
+    "gao-qian-nu-hai::xmly_track_1001016541": {
+      "attempts": 1,
+      "description": "<p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><img alt=\"\" src=\"http://imagev2.xmcdn.com/storages/de9e-audiofreehighqps/EE/A1/GKwRIUEOLY9MABUesgS3RWBw.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /><br /></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">盛夏是热烈的，也是热泪的。今天不聊搞钱，聊成长。</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">「钞能力进修」系列又更新了，为毕业季的朋友们请来了复旦大学中文系教授梁永安，聊聊什么是“更好的人生”。人生的奥德赛时期如何度过？如何减少内耗、获得真正的幸福？如何面对生活的不确定性，拥有向前探索的勇气？如何收获高质量的亲密关系？这些经典的成长困惑我都帮大家问到了！</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">和梁老师对话，让我仿佛回到了大学的哲学课堂，如沐春风。如果这一期听得不过瘾，欢迎扫描下方二维码，购买梁老师的新书《更好的人生》，里面有12位名人真实的故事和相关经典文学作品的赏析，相信能在你迷茫的时候多照亮一点。</p><img alt=\"\" src=\"http://imagev2.xmcdn.com/storages/5d6b-audiofreehighqps/79/C1/GAqhy90OLY9nAAGg7wS3RWfz.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><b>【本期财富密码】<br /></b></p><img alt=\"\" src=\"http://imagev2.xmcdn.com/storages/e23d-audiofreehighqps/A7/00/GKwRIRwOLY97AAa5wQS3RWiX.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /><br /><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">03:18 “奥德赛时期”这个词能火，是社会变迁的必然</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">08:10 不用按统一标准活，成长的过程本身就很珍贵</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">12:39 更好的人生，从来不靠财富的多少来定义</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">16:24 不内耗的人生哲学：既在其中又在其外，放下我执</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">20:20 幸福不是找最优解，选到自己最喜欢的那个麦穗就够了</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">25:57 梁老师的奥德赛时期：去云南下乡，感悟到人得自然而然地活</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">34:55 一个人必须有力量承担必须承担的，有勇气去改变可以改变的</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">36:47 人之所以短命，是因为让自己有各种各样的消耗</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">41:53 为什么人生必看海明威：带着伤痕活下去，内心充满温柔和怜悯</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">48:39 未曾爱过是人生遗憾，因为你少了“第三性”的生活体验</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">51:54 不管男女，谈恋爱就应该恋爱脑！</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">58:24 这是单身的黄金时代，也是爱情的黄金时代</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">66:06 阅读的意义从来不是找标准答案，文学里藏着无穷可能！</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">【本期嘉宾】</strong></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">梁永安： 复旦大学教授，人文学者，作家。曾赴云南怒江峡谷插队劳动二载，亦在日本神户市外国语大学、美国波士顿大学、日本冈山大学、韩国梨花女子大学等院校讲学。喜游历、摄影，热爱大地。</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">【主播介绍】</strong></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">就是小辉：《搞钱女孩》播客创始人&amp;主播，不断认识和活出自己的ISFP。四川大学哲学系毕业，混过公益、咨询、互联网、疗愈行业，34岁才找到本命赛道的创业练习生。</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">【本期制作】</strong></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">shownotes图文：小辉</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">剪辑：李乾</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">BGM：Ladybug Is Dreaming of Apple Pie-Polished Chrome</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">欢迎加入我们的听友群，成为“搞蜜”！可以关注公众号【搞钱女孩播客】，扫描自动回复的图片上的二维码，就可以加到小助手，邀请你入群。每天加的人太多了，如显示添加频繁，请耐心等待。</strong></p><span></span><span><br /></span><img alt=\"\" src=\"http://imagev2.xmcdn.com/storages/4260-audiofreehighqps/B8/A7/GAqhuykOLY-jAAZGRAS3RXDR.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /><br /><br />",
+      "external_id": "xmly_track_1001016541",
+      "item_slug": "gao-qian-nu-hai-2422a514ffaa",
+      "language": "zh",
+      "published_at": "2026-07-15T23:30:00+00:00",
+      "published_to_feed_at": "2026-07-28T14:50:22.590941+00:00",
+      "source_id": "gao-qian-nu-hai",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "对话梁永安：没有更好的人生，尽情去经历、去爱、去拥有那个过程",
+      "title_zh": "对话梁永安：没有更好的人生，尽情去经历、去爱、去拥有那个过程",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1",
+      "url": "https://www.ximalaya.com/sound/1001016541"
+    },
     "gao-qian-nu-hai::xmly_track_1002371330": {
       "attempts": 1,
       "description": "<p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><img alt=\"\" src=\"http://imagev2.xmcdn.com/storages/4423-audiofreehighqps/D6/69/GAqhcW4ONtW0ABazfQS7dSAu.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /><br /></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">你怕别人的眼光，那你怕穷吗？还有搞钱羞耻的人，都给我听这一期！</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">本期【00后创富实录】，带你认识两位用热爱变现的搞钱女孩：一位是在河南读大专的小糖，07年的她手作明星应援周边，从不到百元的扇子到被鞠婧祎手持的权杖，不仅自己月入过万，还带动全宿舍一起创业；另一位是在伦敦留学的皓月，毕业没找到心怡的工作，干脆摆摊卖穿戴甲，一周出摊六天，平均日入五百，因为生意太好被恶意举报，她更坚定要做强做大。</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">【本期财富密码】</strong></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><img alt=\"\" src=\"http://imagev2.xmcdn.com/storages/7983-audiofreehighqps/56/77/GAqhuykONtXXAAaYCAS7dSQD.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">嘉宾一：小糖 02:08</strong></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">02:16 07年大专生手作明星应援物，月入过万</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">04:32 看演唱会自制应援扇，发小红书意外走红开始接单</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">09:32 纯手工制作很慢但也很难批量复制，形成天然壁垒</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">11:10 因为这个生意做的好，我成了各个学院老师口中的榜样</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">13:57 最赚钱的时候也最苦，上午边上课边接单，下午打包，晚上做单＋剪视频到凌晨</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">17:51 在宿舍做单没有搞钱羞耻，全宿舍姐妹跟我一起干</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">20:25 跟和平精英合作上，定制了田曦薇、王玉雯、华晨宇、吴磊的应援物！</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">24:25 小红书引流邪修法</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">25:37 遵循顾客至上原则，无限次调整，最高调了50多次，经历两个月</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">27:39 粉丝消费心理：买了明星周边，感觉明星就在我周边！</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">32:03 18岁花自己的钱去第一次看演唱会，带奶奶一起坐飞机</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">34:05 我的偶像是何一，因为我们都来自农村</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">嘉宾二：皓月 35:39</strong></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">36:18 单副穿戴甲成本 3 磅，我卖 30-35 磅</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">43:50 摊位费淡季400元一天，旺季约1000元一天</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">40:41 英国人偏爱纯色裸色的，不喜欢夸张的</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">48:00 人品爆发，在伦敦老牌市集拿下固定摊位</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">51:28 促销心机：成年人推买一送一，小朋友推平价款</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">53:30 出单率TOP3客群：爸爸带女儿、爷爷奶奶带孙女、闺蜜</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">55:51 因为生意太好，遭其他摊主恶意举报</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">60:30 赚钱给了“山东孩子”自由，留学时期的生活费和旅行费都靠自己</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">62:04 伦敦创业并不难，这些温馨提示一定要看</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">63:47 告别学生心态，主动和摊主、管理员搞好关系</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">66:55 摆摊不羞耻，也不是浪费学历</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">69:35 独立站被下架后自己上手搞定，要相信自己的潜能</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">【本期嘉宾】</strong></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">1、小糖：07年大专在读，做明星应援物月入过万，宋亚轩粉丝，河南信阳人</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">2、皓月：02年伦敦留学生，毕业于UCL，摆摊卖穿戴甲日入五百，山东东营人</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">【主播介绍】</strong></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">就是小辉：《搞钱女孩》播客创始人&amp;主播，不断认识和活出自己的ISFP。四川大学哲学系毕业，混过公益、咨询、互联网、疗愈行业，34岁才找到本命赛道的创业练习生。</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">【本期制作】</strong></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">shownotes图文：小辉</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">剪辑：李乾</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">BGM：Passion-OAO</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">欢迎加入我们的听友群，成为“搞蜜”！可以关注公众号【搞钱女孩播客】，扫描自动回复的图片上的二维码，就可以加到小助手，邀请你入群。每天加的人太多了，如显示添加频繁，请耐心等待。</strong></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><img alt=\"\" src=\"http://imagev2.xmcdn.com/storages/1eb0-audiofreehighqps/AB/C4/GKwRIaIONtYoAAZGRAS7dStR.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /></p>",
@@ -243,6 +367,19 @@
       "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
       "translation_provenance": "faster-whisper/small; batch=8; beam=1",
       "url": "https://www.ximalaya.com/sound/1002371330"
+    },
+    "he-da-ji-chu-yi-xue-yuan-ding-yong::bilibili:BV1Fhjm6LEDD": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "bilibili:BV1Fhjm6LEDD",
+      "last_attempt_at": "2026-07-28T15:40:30.056786+00:00",
+      "last_error": "DownloadError: ERROR: [BiliBili] 1Fhjm6LEDD: Unable to download webpage: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)",
+      "published_at": "2026-07-28T15:40:29.441680+00:00",
+      "source_id": "he-da-ji-chu-yi-xue-yuan-ding-yong",
+      "source_type": "bilibili",
+      "status": "failed",
+      "title": "BV1Fhjm6LEDD",
+      "url": "https://www.bilibili.com/video/BV1Fhjm6LEDD"
     },
     "he-da-ji-chu-yi-xue-yuan-ding-yong::bilibili:BV1fE7p6gEcz": {
       "attempts": 1,
@@ -270,6 +407,19 @@
       "title": "BV1zdsmz2EVQ",
       "url": "https://www.bilibili.com/video/BV1zdsmz2EVQ"
     },
+    "ji-wei-yi::bilibili:BV1JtRFBiEaE": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "bilibili:BV1JtRFBiEaE",
+      "last_attempt_at": "2026-07-28T15:37:11.253277+00:00",
+      "last_error": "DownloadError: ERROR: [BiliBili] 1JtRFBiEaE: Unable to download webpage: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)",
+      "published_at": "2026-07-28T15:37:10.781030+00:00",
+      "source_id": "ji-wei-yi",
+      "source_type": "bilibili",
+      "status": "failed",
+      "title": "BV1JtRFBiEaE",
+      "url": "https://www.bilibili.com/video/BV1JtRFBiEaE"
+    },
     "ji-wei-yi::bilibili:BV1tFRjBfEXS": {
       "attempts": 1,
       "description": "",
@@ -282,6 +432,19 @@
       "status": "failed",
       "title": "BV1tFRjBfEXS",
       "url": "https://www.bilibili.com/video/BV1tFRjBfEXS"
+    },
+    "jia-you-sheng-xuan::bilibili:BV1JpZjBREwC": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "bilibili:BV1JpZjBREwC",
+      "last_attempt_at": "2026-07-28T15:43:25.294538+00:00",
+      "last_error": "DownloadError: ERROR: [BiliBili] 1JpZjBREwC: Unable to download webpage: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)",
+      "published_at": "2026-07-28T15:43:24.884375+00:00",
+      "source_id": "jia-you-sheng-xuan",
+      "source_type": "bilibili",
+      "status": "failed",
+      "title": "BV1JpZjBREwC",
+      "url": "https://www.bilibili.com/video/BV1JpZjBREwC"
     },
     "jia-you-sheng-xuan::bilibili:BV1qbc5zXESX": {
       "attempts": 1,
@@ -296,6 +459,19 @@
       "title": "BV1qbc5zXESX",
       "url": "https://www.bilibili.com/video/BV1qbc5zXESX"
     },
+    "knowledge-project-podcast::youtube:NWZZEa9BURw": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "youtube:NWZZEa9BURw",
+      "last_attempt_at": "2026-07-28T15:28:18.616937+00:00",
+      "last_error": "DownloadError: ERROR: [youtube] NWZZEa9BURw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "published_at": "2026-07-28T15:28:17.323026+00:00",
+      "source_id": "knowledge-project-podcast",
+      "source_type": "youtube",
+      "status": "failed",
+      "title": "The Wealth Secrets No One Teaches You | Morgan Housel",
+      "url": "https://www.youtube.com/watch?v=NWZZEa9BURw"
+    },
     "knowledge-project-podcast::youtube:zChiVdbSp5M": {
       "attempts": 1,
       "description": "",
@@ -309,6 +485,19 @@
       "title": "The Silent Cost of Bad Habits | James Clear",
       "url": "https://www.youtube.com/watch?v=zChiVdbSp5M"
     },
+    "kurzgesagt::youtube:ZSch_NgZpQs": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "youtube:ZSch_NgZpQs",
+      "last_attempt_at": "2026-07-28T15:24:15.240251+00:00",
+      "last_error": "DownloadError: ERROR: [youtube] ZSch_NgZpQs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "published_at": "2026-07-28T15:24:13.822848+00:00",
+      "source_id": "kurzgesagt",
+      "source_type": "youtube",
+      "status": "failed",
+      "title": "Trees Are So Weird",
+      "url": "https://www.youtube.com/watch?v=ZSch_NgZpQs"
+    },
     "kurzgesagt::youtube:sOsqXKr4l30": {
       "attempts": 1,
       "description": "",
@@ -321,6 +510,19 @@
       "status": "failed",
       "title": "The Fat Problem",
       "url": "https://www.youtube.com/watch?v=sOsqXKr4l30"
+    },
+    "lao-mo::youtube:OoaPfHLCe5k": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "youtube:OoaPfHLCe5k",
+      "last_attempt_at": "2026-07-28T15:21:21.680140+00:00",
+      "last_error": "DownloadError: ERROR: [youtube] OoaPfHLCe5k: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "published_at": "2026-07-28T15:21:20.604979+00:00",
+      "source_id": "lao-mo",
+      "source_type": "youtube",
+      "status": "failed",
+      "title": "【墙内被删】孙悟空为何被灵山抛弃？底层百姓的血汗钱成了权贵的“合法流水”，这只猴子扯下了谁的遮羞布？#老陌 #洗钱揭秘 #白手套 #资本运作 #离岸账户 #底层收割",
+      "url": "https://www.youtube.com/watch?v=OoaPfHLCe5k"
     },
     "lao-mo::youtube:V63m08idEGQ": {
       "attempts": 1,
@@ -348,6 +550,32 @@
       "title": "BV1uymuBcE6D",
       "url": "https://www.bilibili.com/video/BV1uymuBcE6D"
     },
+    "li-shi-diao-yan-shi::bilibili:BV1viiTBBERL": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "bilibili:BV1viiTBBERL",
+      "last_attempt_at": "2026-07-28T15:36:44.979839+00:00",
+      "last_error": "DownloadError: ERROR: [BiliBili] 1viiTBBERL: Unable to download webpage: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)",
+      "published_at": "2026-07-28T15:36:44.570499+00:00",
+      "source_id": "li-shi-diao-yan-shi",
+      "source_type": "bilibili",
+      "status": "failed",
+      "title": "BV1viiTBBERL",
+      "url": "https://www.bilibili.com/video/BV1viiTBBERL"
+    },
+    "lin-tai-ling::bilibili:BV1AhBBYDE63": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "bilibili:BV1AhBBYDE63",
+      "last_attempt_at": "2026-07-28T15:38:11.003506+00:00",
+      "last_error": "DownloadError: ERROR: [BiliBili] 1AhBBYDE63: Unable to download webpage: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)",
+      "published_at": "2026-07-28T15:38:10.503794+00:00",
+      "source_id": "lin-tai-ling",
+      "source_type": "bilibili",
+      "status": "failed",
+      "title": "BV1AhBBYDE63",
+      "url": "https://www.bilibili.com/video/BV1AhBBYDE63"
+    },
     "liu-ceng-lou-xian-sheng::bilibili:BV16xEq6RErd": {
       "attempts": 1,
       "description": "",
@@ -360,6 +588,36 @@
       "status": "failed",
       "title": "BV16xEq6RErd",
       "url": "https://www.bilibili.com/video/BV16xEq6RErd"
+    },
+    "liu-ceng-lou-xian-sheng::bilibili:BV1W1JG6fEnH": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "bilibili:BV1W1JG6fEnH",
+      "last_attempt_at": "2026-07-28T15:39:49.940015+00:00",
+      "last_error": "DownloadError: ERROR: [BiliBili] 1W1JG6fEnH: Unable to download webpage: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)",
+      "published_at": "2026-07-28T15:39:49.595077+00:00",
+      "source_id": "liu-ceng-lou-xian-sheng",
+      "source_type": "bilibili",
+      "status": "failed",
+      "title": "BV1W1JG6fEnH",
+      "url": "https://www.bilibili.com/video/BV1W1JG6fEnH"
+    },
+    "luan-fan-shu::6a3bdd319d2f5743683d4841": {
+      "attempts": 1,
+      "description": "<p>🎙【本期嘉宾】庄明浩、罗璇</p><p><a href=\"https://m.okjike.com/users/EE4FDFBB-C185-4D30-BB81-A0E90E814C26\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">庄明浩</a>（「<a href=\"https://www.xiaoyuzhoufm.com/podcast/6507bc165c88d2412626b401\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">屠龙之术</a>」主播）</p><p>罗璇（RWKV元始智能联合创始人）</p><p>主播：潘乱（「乱翻书」主理人）</p><img src=\"https://image.xyzcdn.net/FkkBRtRC-cBveUaPBQzieEgEp9iN.png\" /><p>💡本<strong>期节目由vivo赞助播出， vivo X Fold6 即将于6月26日</strong><a class=\"timestamp\"><strong>19:00</strong></a><strong>发布</strong></p><p><strong>&nbsp;</strong></p><p>⏰【时间线】</p><p><strong>一、从App到Agent：手机为什么重新变重要了？</strong></p><p><a class=\"timestamp\">01:50</a> 哪些工作移动端可以取代PC，哪些无法取代？</p><p><a class=\"timestamp\">07:03</a> AI硬件为什么绕了一大圈，最后又回到了手机？</p><p><a class=\"timestamp\">11:31</a> 为什么手机在今天，依然是AI时代最特殊的智能设备？</p><p><a class=\"timestamp\">14:26</a> 工作流里AI最大的瓶颈到底是模型能力还是完整上下文？</p><p><strong>二、工作台回归，回来是同一个东西吗？</strong></p><p><a class=\"timestamp\">17:34</a> 折叠屏手机工作台，和PC时代的工作台相比，有什么变化？</p><p><a class=\"timestamp\">22:44</a> 如果Agent会越来越强，那 APP会不会就会退居幕后？</p><p><a class=\"timestamp\">25:38</a> 端侧AI与云端AI</p><p><strong>三、为什么vivo X Fold6可以接住这个工作台？</strong></p><p><a class=\"timestamp\">28:02</a> 为什么一定是折叠屏加AI？</p><p><a class=\"timestamp\">31:46</a> 原子工作台：串行模式与并行模式</p><p><a class=\"timestamp\">38:08</a> 手机桌面的变化，从应用入口变成任务入口</p><p><a class=\"timestamp\">44:47</a> AI文件管家：找到资料、组织上下文、推动任务完成</p><p><a class=\"timestamp\">49:26</a> AI会议助手：很多独立AI硬件、AI工具，最后都会被AI手机吸收掉？</p><p><a class=\"timestamp\">55:58</a> 再一次试图把工作台装到口袋里面</p><p></p><p>🎵【开场&amp;结尾音乐】</p><p>开场&amp;结尾音乐：Mount Dreams - Wolfs</p><p></p><p>ℹ【关于「乱翻书」】</p><p>「乱翻书」是一档关注商业、科技和互联网的圆桌对话节目。关心How和Why，以及少有人注意到的What。内容主要方向是科技考古、行业观察和前沿思考，研究公司的兴衰循环，希望能够为你带来信息增量。</p><p>「乱翻书」主理人是潘乱，代表作品有《<a href=\"https://mp.weixin.qq.com/s/3oWeukzgqpy0RSWmaO8mzw\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">腾讯没有梦想</a>》、字节跳动/快手早期关键节点的系列特写。</p><img src=\"https://image.xyzcdn.net/FrkZM_qNg6cn2pn9Kwc2o7CbK9oZ.jpg\" /><p>【图】▲录制截图</p><p>本期编辑：怀杭</p><p></p>",
+      "external_id": "6a3bdd319d2f5743683d4841",
+      "item_slug": "luan-fan-shu-f096579f06ba",
+      "language": "zh",
+      "published_at": "2026-06-24T13:49:54+00:00",
+      "published_to_feed_at": "2026-07-28T14:49:54.840144+00:00",
+      "source_id": "luan-fan-shu",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "268.AI时代，个人工作台会重新回到手机吗？",
+      "title_zh": "268.AI时代，个人工作台会重新回到手机吗？",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a3bdd319d2f5743683d4841?utm_source=rss"
     },
     "luan-fan-shu::6a4f777d1e32575f5eb3cbc1": {
       "attempts": 1,
@@ -378,6 +636,19 @@
       "translation_provenance": "faster-whisper/small; batch=8; beam=1",
       "url": "https://www.xiaoyuzhoufm.com/episode/6a4f777d1e32575f5eb3cbc1?utm_source=rss"
     },
+    "nan-ban-qiu-liao-cai-jing::youtube:VKnPrGd_UE8": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "youtube:VKnPrGd_UE8",
+      "last_attempt_at": "2026-07-28T15:32:23.946951+00:00",
+      "last_error": "DownloadError: ERROR: [youtube] VKnPrGd_UE8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "published_at": "2026-07-28T15:32:22.967466+00:00",
+      "source_id": "nan-ban-qiu-liao-cai-jing",
+      "source_type": "youtube",
+      "status": "failed",
+      "title": "金融最怕挤兑，经济最怕抗税，都是ing",
+      "url": "https://www.youtube.com/watch?v=VKnPrGd_UE8"
+    },
     "nan-ban-qiu-liao-cai-jing::youtube:xbOaQ0qCJwk": {
       "attempts": 1,
       "description": "",
@@ -390,6 +661,23 @@
       "status": "failed",
       "title": "农场主与鸡（有趣、深邃的经济故事）",
       "url": "https://www.youtube.com/watch?v=xbOaQ0qCJwk"
+    },
+    "naval::01ef7e38-cf29-4b6d-b2db-24bfc86ff236": {
+      "attempts": 1,
+      "description": "<p dir=\"ltr\">Full episode with 20 minutes of new material at the end.</p> <p dir=\"ltr\"> </p> <p dir=\"ltr\">Software factories, vertical integration, the regulatory frontier, and the autonomous company.</p> <p dir=\"ltr\"> </p> <p dir=\"ltr\">Part 1: Waste Tokens, Save Time</p> <p dir=\"ltr\">00:00 Three Frontier Founders</p> <p dir=\"ltr\">01:27 AI Software Factories</p> <p dir=\"ltr\">04:15 Waste Tokens, Save Time</p> <p dir=\"ltr\">05:47 Models Instructing Humans</p> <p dir=\"ltr\">09:29 Is Pure Software Dead?</p> <p dir=\"ltr\">12:03 You Don't Get Stuck Anymore</p> <p dir=\"ltr\"> </p> <p dir=\"ltr\">Part 2: Vibe Coding Hardware</p> <p dir=\"ltr\">14:39 Vibe Coding a Turbine Blade</p> <p dir=\"ltr\">18:07 Open Source Compounds China's Advantage</p> <p dir=\"ltr\">20:15 You Always Want the Smartest Model</p> <p dir=\"ltr\">22:44 Software Still Needs Hands</p> <p dir=\"ltr\">24:43 Humans Are Becoming Verifiers</p> <p><strong> </strong></p> <p dir=\"ltr\">Part 3: The Regulatory Frontier</p> <p dir=\"ltr\">27:53 The Regulatory Red Queen Race</p> <p dir=\"ltr\">32:32 Why There's No Innovation in Healthcare</p> <p dir=\"ltr\">36:49 We Need a True 50-State Experiment</p> <p dir=\"ltr\">40:31 China's FDA Is Beating Ours</p> <p dir=\"ltr\">43:37 Healthcare Is a Communist Society Inside Capitalism</p> <p dir=\"ltr\">45:57 Sid's Story: N-of-1 Medicine</p> <p dir=\"ltr\"> </p> <p dir=\"ltr\">Part 4: The Autonomous Company</p> <p dir=\"ltr\">47:49 Autonomous Infrastructure</p> <p dir=\"ltr\">51:25 Your Job Is to Train the Agent</p> <p dir=\"ltr\">54:54 The Next Lord of the Rings</p> <p dir=\"ltr\">59:08 What's Your Definition of Art?</p> <p dir=\"ltr\">1:05:00 Can AI Have New Ideas?</p> <p dir=\"ltr\">1:07:03 A Very Large Number of Small Teams</p> <p dir=\"ltr\"> </p> <p dir=\"ltr\">With Guillermo Rauch (Vercel), Blake Scholl (Boom Supersonic), and Max Hodak (Science).</p> <p dir=\"ltr\"> </p> <p dir=\"ltr\">Transcript: http://nav.al/industrial</p>",
+      "external_id": "01ef7e38-cf29-4b6d-b2db-24bfc86ff236",
+      "item_slug": "naval-21c515d1ba00",
+      "language": "en",
+      "published_at": "2026-06-01T18:10:00+00:00",
+      "published_to_feed_at": "2026-07-28T15:16:00.450918+00:00",
+      "source_id": "naval",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "Full Episode: The AI Industrial Revolution",
+      "title_zh": "完整剧集：人工智能工业革命",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "http://nav.al/industrial"
     },
     "naval::5b84390d-f81c-4b7a-a3b1-4019c709c547": {
       "attempts": 1,
@@ -408,6 +696,19 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "http://nav.al/future"
     },
+    "psych2go::youtube:J1vgGsonh0U": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "youtube:J1vgGsonh0U",
+      "last_attempt_at": "2026-07-28T15:25:19.791278+00:00",
+      "last_error": "DownloadError: ERROR: [youtube] J1vgGsonh0U: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "published_at": "2026-07-28T15:25:18.805408+00:00",
+      "source_id": "psych2go",
+      "source_type": "youtube",
+      "status": "failed",
+      "title": "How to Be a Better Person (Without Hating Yourself in the Process)",
+      "url": "https://www.youtube.com/watch?v=J1vgGsonh0U"
+    },
     "psych2go::youtube:aUTxeBEmBZE": {
       "attempts": 1,
       "description": "",
@@ -420,6 +721,19 @@
       "status": "failed",
       "title": "You’re Not Lazy… Your Brain Is Escaping Something",
       "url": "https://www.youtube.com/watch?v=aUTxeBEmBZE"
+    },
+    "pursuit-of-wonder::youtube:upbh9dmrRRQ": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "youtube:upbh9dmrRRQ",
+      "last_attempt_at": "2026-07-28T15:29:43.988470+00:00",
+      "last_error": "DownloadError: ERROR: [youtube] upbh9dmrRRQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "published_at": "2026-07-28T15:29:42.768106+00:00",
+      "source_id": "pursuit-of-wonder",
+      "source_type": "youtube",
+      "status": "failed",
+      "title": "Your Problem Isn't Overthinking. It's Not Thinking Authentically.",
+      "url": "https://www.youtube.com/watch?v=upbh9dmrRRQ"
     },
     "pursuit-of-wonder::youtube:wMwn7_Wscb0": {
       "attempts": 1,
@@ -446,6 +760,23 @@
       "status": "failed",
       "title": "BV1Ey2eB5EQy",
       "url": "https://www.bilibili.com/video/BV1Ey2eB5EQy"
+    },
+    "sheng-dong-ji-xi::31c69f95-d493-47a1-a6f8-905eb22c3e41": {
+      "attempts": 1,
+      "description": "<p>7 月 7 日至 8 日，北约峰会在土耳其安卡拉举行。美国总统特朗普在会议开场就因为军费问题向盟友施压，威胁切断与西班牙的贸易，甚至再次提起格陵兰岛的主权归属。随着「美国优先」与「欧洲自主」理念的碰撞，本次会议成了我们观察「北约是否已经脑死亡？」争论的关键窗口。</p>\n\n<p>从会议内容上看，理念的碰撞似乎并不意味着联盟走向瓦解。从人工智能与军事能力的进一步结合，到美欧围绕防务支出、军工产业和全球责任展开新的博弈，北约正在从传统军事同盟转向一个覆盖安全、科技与产业链的复合型联盟。美欧一方面在价值观和战略选择上分歧加深，另一方面又在现实安全上彼此依赖。跨大西洋关系由此进入冷战结束以来最重要的一轮再平衡，而这种既分化、又合作的调整，又将如何影响未来的全球地缘格局？</p>\n\n<p>这一期节目，我们邀请到清华大学战略与安全研究中心副研究员孙成昊，带我们透视安卡拉峰会背后的权力逻辑，并探讨在这个纵横捭阖的新时代，美欧关系又将如何重塑。</p>\n\n<p><strong>本期人物</strong></p>\n\n<p>孙成昊，清华大学战略与安全研究中心副研究员</p>\n\n<p>徐涛，声动活泼联合创始人</p>\n\n<p><strong>主要话题</strong></p>\n\n<p>[04:53] 「交付峰会」：三大背景与三项实质成果</p>\n\n<p>[09:22] 乌克兰角色的转变：从「安全消费者」到「安全贡献者」</p>\n\n<p>[14:19] 欧洲内部的分歧图谱：中东欧、法国、德国、南欧各自的算盘</p>\n\n<p>[23:59] 特朗普的一贯逻辑：从「责任分担」到「责任转移」</p>\n\n<p>[38:02] 「西方反对西方」：意识形态裂缝下的美欧关系还回得去吗？</p>\n\n<p>[48:01] 面对欧美关系的再平衡，中国如何寻找议题中的博弈空间？</p>\n\n<p><strong>延伸解读</strong></p>\n\n<p><a href=\"https://www.ft.com/content/7e42d7fb-5d11-49b0-bc53-b2655f86b924?syn-25a6b1a6=1\" rel=\"nofollow noopener\">Nato’s carnival of Trumpian caprice </a></p>\n\n<p>也可以在小红书账号<a href=\"https://xhslink.com/m/2tzsKmEPAoV\" rel=\"nofollow noopener\"><strong>「徐涛-声东击西」</strong></a>看到更多相关内容和幕后</p>\n\n<p><strong>给声东击西投稿</strong></p>\n\n<p>「声东击西」一直在寻找来自不同社会和群体的真实声音。我们曾经采访过为特朗普竞选生产 MAGA 帽子的中国制造商、记录过七位在美国大选中经历起伏的华人个体，也讲述了委内瑞拉青年的故事。</p>\n\n<p>如果你也有一些特别的经历、观察或想法，不论是亲身体验的故事，还是你在某个行业、社区中的所见所闻，都欢迎你向我们投稿。</p>\n\n<p>你的声音可能出现在未来的节目当中，我们非常期待你的分享！</p>\n\n<p><a href=\"https://eg76rdcl6g.feishu.cn/share/base/form/shrcne1CGVaSeJwtBriW6yNT2dg\" rel=\"nofollow noopener\">投稿入口</a></p>\n\n<p><strong>加入我们</strong></p>\n\n<p>声动活泼团队目前正在招聘内容监制、商业运营经理、商业发展经理和实习生，如果你也对播客行业的内容制作和商务运营感兴趣，欢迎投递！ 详情点击招聘入口：<a href=\"https://eg76rdcl6g.feishu.cn/docx/XO6bd12aGoI4j0xmAMoc4vS7nBh\" rel=\"nofollow noopener\">加入声动活泼（在招职位速览）</a></p>\n\n<p><img alt=\"Untitled\" src=\"https://media24.fireside.fm/file/fireside-uploads-2024/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/9KRzVACW.png\" /></p>\n\n<p><strong>幕后制作</strong></p>\n\n<p>后期：赛德</p>\n\n<p>运营：George</p>\n\n<p>设计：饭团</p>\n\n<p>实习编辑：翔宇</p>\n\n<p><strong>商务合作</strong></p>\n\n<p>声动活泼商业化小队，点击链接可直达<strong><a href=\"https://sourl.cn/QDhnEc\" rel=\"nofollow noopener\">商务会客厅</a></strong>，也可发送邮件至 <a href=\"mailto:business@shengfm.cn\" rel=\"nofollow noopener\">business@shengfm.cn</a> 联系我们。</p>\n\n<p><strong>关于声动活泼</strong></p>\n\n<p>「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。</p>\n\n<p>我们还有这些播客：<a href=\"https://etw.fm/episodes\" rel=\"nofollow noopener\">声东击西</a>、<a href=\"https://guiguzaozhidao.fireside.fm/episodes\" rel=\"nofollow noopener\">What's Next｜科技早知道</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/61315abc73105e8f15080b8a\" rel=\"nofollow noopener\">商业WHY酱</a>、<a href=\"https://therabbithole.fireside.fm\" rel=\"nofollow noopener\">跳进兔子洞</a>&amp;<a href=\"https://www.xiaoyuzhoufm.com/podcast/666c0ad1c26e396a36c6ee2a\" rel=\"nofollow noopener\">跳进兔子洞第三季</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/644b94c494d78eb3f7ae8640\" rel=\"nofollow noopener\">吃喝玩乐了不起</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/65a625966d045a7f5e0b5640\" rel=\"nofollow noopener\">不止金钱</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/5f445cdb9504bbdb77f092e9\" rel=\"nofollow noopener\">泡腾 VC</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/5e284c37418a84a0462634a4\" rel=\"nofollow noopener\">反潮流俱乐部</a></p>\n\n<p>欢迎在<a href=\"https://okjk.co/Qd43ia\" rel=\"nofollow noopener\">即刻</a>、微博等社交媒体上与我们互动，搜索<strong>声动活泼</strong>即可找到我们。</p>\n\n<p>也欢迎你写邮件和我们联系，邮箱地址是：<a href=\"mailto:ting@sheng.fm\" rel=\"nofollow noopener\">ting@sheng.fm</a></p>\n\n<p>获取更多和声动活泼有关的讯息，你也可以扫码添加声小音，在节目之外和我们保持联系！</p>\n\n<p><img alt=\"声东击西\" src=\"https://media24.fireside.fm/file/fireside-uploads-2024/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/wEYE7jJa.jpg\" /></p>\n\n<hr />",
+      "external_id": "31c69f95-d493-47a1-a6f8-905eb22c3e41",
+      "item_slug": "sheng-dong-ji-xi-e8e4780f71d6",
+      "language": "zh",
+      "published_at": "2026-07-14T07:00:00+00:00",
+      "published_to_feed_at": "2026-07-28T15:04:05.041466+00:00",
+      "source_id": "sheng-dong-ji-xi",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "#397   从「责任分担」到「责任转移」：欧洲为何难以真正与美国「分道扬镳」？",
+      "title_zh": "#397   从「责任分担」到「责任转移」：欧洲为何难以真正与美国「分道扬镳」？",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1",
+      "url": "https://etw.fm/2217"
     },
     "sheng-dong-ji-xi::b28f7eaa-c801-4d5f-a6e5-35326d335df7": {
       "attempts": 1,
@@ -481,6 +812,36 @@
       "translation_provenance": "faster-whisper/small; batch=8; beam=1",
       "url": "https://sv101.fireside.fm/258"
     },
+    "silicon-valley-101::fc9a3737-81a9-49cf-a7d6-530c77df836e": {
+      "attempts": 1,
+      "description": "<p><img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/c4ce-audiofreehighqps/29/FA/GAqhI8INmcS2AAHpNQR_oxXw.jpg\" /></p>\n\n<p>机器人已经能在舞台上做到翻跟头、表演武术了，但要让它在开放环境里伸手帮你拧开一个瓶盖，难度陡然跃升2到3个量级——因为那一刻，它需要理解眼前的物理世界。<br />\n这正是苏度科技想啃下的硬骨头。苏度科技联合创始人、董事长苏昊是ImageNet的核心作者之一，师从李飞飞。这家公司走了一条与硅谷主流\"纯大脑黑盒大模型\"不太一样的路：软硬件协同设计，上下分层架构，上层负责任务规划与环境理解，下层负责具体物体操作；Sim-to-Real作为核心训练范式，让机器人在虚拟世界里经历几百万年的进化，再迁移到现实。<br />\n这条路已经跑出了一定成效：面对从未见过的新物体，他们的零样本通用抓取单次成功率接近100%。<br />\n本期硅谷101，我们邀请苏度科技CEO韩铮，一起聊聊机器人“动手”怎么实现？他预测，接下来会有更多的硅谷公司重新回到“上下分层”的方向上来。</p>\n\n<p><strong>【主播】</strong><br />\n泓君，硅谷101创始人，播客主理人<br />\n<strong>【嘉宾】</strong><br />\n韩铮，苏度科技联合创始人&amp;CEO</p>\n\n<p><strong>【你将听到】</strong><br />\n<strong>机器人“动手”的数据根基</strong><br />\n03:17 为什么做全栈（大脑+本体）通用机器人？<br />\n07:14 苏昊早年经历：从图片标注ImageNet，到3D数据集ShapeNet<br />\n11:08 3D数据收集，难在哪里？<br />\n13:21 仿真需要亚毫米级精度，视频训练无法达到<br />\n16:33 什么是Sim-to-Real（从仿真到现实）？<br />\n18:08 创业时机的判断：DALL-E带来的数据拐点</p>\n\n<p><strong>Sim2Real技术验证与关键突破</strong><br />\n21:40 仿真器的技术内核：经典物理法则+强化学习<br />\n24:17 数据集质量与规模的平衡：自建结构化3D数据集<br />\n28:05 实际效果如何？零样本通用抓取，一次性成功率98%<br />\n32:11 回应Demo质疑：去学术会议现场随机环境中演示<br />\n34:22 基础Zero-Shot泛化能力比长程任务串联更为关键<br />\n35:45 灵巧手虽好，但不是当下的性价比最高的方法</p>\n\n<p><strong>技术路线之争</strong><br />\n38:16 商业模式思考：硬件+底层模型+API，类比智能手机生态<br />\n41:23 仿真器与机器人本体，必须软硬件协同设计强绑定<br />\n44:04 如何教会机器人拧瓶盖？加入真实世界数据更高效<br />\n44:51 难度对比：操作物体比运动控制难2~3个数量级<br />\n47:28 白盒与黑盒之争：分层模型，在预训练中融入物理理解<br />\n51:11 Sapien仿真器，让机器人像幼童第一次拧瓶盖一样操作<br />\n53:27 数据冷启动困境：无法复刻特斯拉，必须靠仿真做冷启动<br />\n55:38 嘉宾预言：被硅谷抛弃的“上下分层”即将重回主流</p>\n\n<p><strong>全球机器人竞争格局</strong><br />\n59:08 实现机器人动手，软硬件强结合的公司才能做到<br />\n01:00:34 硅谷明星公司点评：Skild、Figure、Optimus<br />\n01:05:40 为什么最看好DeepMind+波士顿动力Atlas的组合？<br />\n01:09:01 亚马逊机器人，场景多但整合困难<br />\n01:10:02 为什么多数公司退回垂类？因为不知道通用该怎么走<br />\n01:12:43 不做垂类押注，而是构建开发者生态，目标是成为机器人时代的“iOS+硬件”</p>\n\n<p><strong>【延伸阅读】</strong><br />\n节目中提到的Demo：<a href=\"https://www.sudo.ai\" rel=\"nofollow noopener\">sudo R1评测——60分钟连续无剪辑实测</a></p>\n\n<p><strong>【硅谷101正在招聘】</strong><br />\n《硅谷101》招聘多个全职岗位，欢迎加入我们的超酷的深度内容工作团队！<br />\n👉🏻<a href=\"https://mp.weixin.qq.com/s/BuDJBj_RVy7eI5PKr2uGOQ\" rel=\"nofollow noopener\">点击查看招聘详情</a><br />\n<img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/3a42-audiofreehighqps/02/F9/GAqhuykOAY4qAASHsgSnjx80.jpg\" /></p>\n\n<p><strong>【监制】</strong><br />\n泓君<br />\n<strong>【后期】</strong><br />\nAmei<br />\n<strong>【运营】</strong><br />\n朱婕<br />\n<strong>【BGM】</strong><br />\nParticle Emission - Silver Maple<br />\nMy Moon and Your Sun - Hampus Naeselius<br />\nOn the March - Brendon Moeller<br />\nQuietly Tense - Marten Moses</p>\n\n<p><strong>【在这里找到我们】</strong><br />\n公众号：硅谷101<br />\n收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐<br />\n其他平台：YouTube｜Bilibili 搜索「硅谷101播客」<br />\n联系我们：<a href=\"mailto:podcast@sv101.net\" rel=\"nofollow noopener\">podcast@sv101.net</a></p><p>Special Guest: 韩铮.</p>",
+      "external_id": "fc9a3737-81a9-49cf-a7d6-530c77df836e",
+      "item_slug": "silicon-valley-101-352cb1da9837",
+      "language": "zh",
+      "published_at": "2026-07-16T00:00:00+00:00",
+      "published_to_feed_at": "2026-07-28T14:58:23.786614+00:00",
+      "source_id": "silicon-valley-101",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "E244｜机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛",
+      "title_zh": "E244｜机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1",
+      "url": "https://sv101.fireside.fm/257"
+    },
+    "statquest::youtube:0QOm7Sn5uwQ": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "youtube:0QOm7Sn5uwQ",
+      "last_attempt_at": "2026-07-28T15:30:46.503568+00:00",
+      "last_error": "DownloadError: ERROR: [youtube] 0QOm7Sn5uwQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "published_at": "2026-07-28T15:30:45.466140+00:00",
+      "source_id": "statquest",
+      "source_type": "youtube",
+      "status": "failed",
+      "title": "A few more lessons from my Pop!",
+      "url": "https://www.youtube.com/watch?v=0QOm7Sn5uwQ"
+    },
     "statquest::youtube:wIGOnM6Cf_E": {
       "attempts": 1,
       "description": "",
@@ -511,6 +872,23 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from publisher transcript",
       "url": "https://streamlined.fm/541"
     },
+    "streamlined-solopreneur::cd5344fb-3a12-48b9-be9c-3e9b50e48e8c": {
+      "attempts": 1,
+      "description": "<p>This week I talk about rediscovering the humble yellow legal pad after years (and hundreds of dollars) sunk into fancy notebooks and fountain pens. Then a piece by Kashmir Hill about discovering an AI-generated biography of herself for sale on Amazon that she never authorized or was contacted about, and a recommendation for the summer drinks series on Cocktails with Suderman.</p><p>Plus this week's Automation of the Week: using Claude's Canva connector inside my Friday Wrap-Up skill to auto-generate the dated episode artwork while the video renders.</p><p><strong>Links:</strong></p><ul><li><a href=\"https://amzn.to/4pF6Tr9\">Ampad Gold Fiber Legal Pads</a></li><li><a href=\"https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html\">I Got Slopped</a> (The New York Times)</li><li><a href=\"https://cocktailswithsuderman.substack.com/p/want-to-feel-rich-drink-a-pineapple\">Want to Feel Rich? Drink a Pineapple Cocktail</a> (Cocktails with Suderman)</li><li>Leave feedback at <a href=\"https://streamlinedfeedback.com\">https://streamlinedfeedback.com</a></li></ul><p>If you enjoyed this, consider joining my newsletter at <a href=\"https://streamlined.fm/wrap\">https://streamlined.fm/wrap</a>. You'll get an additional Automation of the Week, as well as regular emails on how to approach building systems that help you take time off, worry-free.</p><p><br /><a href=\"https://share.transistor.fm/s/53bc530c/transcript\" title=\"View the episode transcript\">View the episode transcript</a><br />\n<br /></p><ul><li>(00:00) - On My Mind: The Simplicity of Yellow Legal Pads\n</li>\n<li>(03:36) - Recommended Reading: AI and the Illusion of Shortcuts\n</li>\n<li>(06:55) - Something Fun: Crafting a Pineapple Cocktail\n</li>\n<li>(08:27) - Automation of the Week: Generating Episode Artwork</li>\n</ul><p></p><p>————<br />Streamlined Solopreneur helps overwhelmed coaches, consultants, and service providers build systems so their business doesn't depend on them. </p><p>Each week, Joe Casabona shares one practical idea — a system, tool, or strategy, with AI doing the tasks, not the thinking — to help you beat overwhelm, get your time back, and run your business without sacrificing the rest of your life, or your health.</p><p><br />Looking for a place to start? Download the Solopreneur Systems Starter Kit: the 4 systems every solopreneur should have, the simplest way to set them up, plus the exact tools, automations, and AI prompts you need. No guessing. Get it free at <a href=\"https://streamlined.fm/kit\">https://streamlined.fm/kit</a>.</p><p><br />Connect with Joe on LinkedIn: <a href=\"https://www.linkedin.com/in/jcasabona/\">https://www.linkedin.com/in/jcasabona/</a></p><br />",
+      "external_id": "cd5344fb-3a12-48b9-be9c-3e9b50e48e8c",
+      "item_slug": "streamlined-solopreneur-d3febbd4e86d",
+      "language": "en",
+      "published_at": "2026-07-24T13:03:30+00:00",
+      "published_to_feed_at": "2026-07-28T15:17:31.220194+00:00",
+      "source_id": "streamlined-solopreneur",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "The Simplicity of Yellow Legal Pads [Friday Wrap-Up]",
+      "title_zh": "黄色法律便签的简单性 [周五总结]",
+      "transcript_provenance": "publisher transcript",
+      "translation_provenance": "translation/openai/gpt-4o-mini from publisher transcript",
+      "url": "https://share.transistor.fm/s/53bc530c"
+    },
     "sui-ji-bo-dong::62c2042a-33bf-4c08-ad10-cdbe13d9b8f1": {
       "attempts": 1,
       "description": "<p>在环球同此热的7月，建国和远在德国柏林刚刚经历中暑的吴琦聊了聊气候变化，一个很宏大的、与流量长期无缘的、令人深感虚无而其不适和危险又如此切近的话题。</p>\n\n<p>同为90年代生人，我们不仅经历着气候变化带来的极端天气的后果，也长期观察和参与着这一领域媒体报道方式和话语使用的变化，从“阴谋论”、“卡脖子”到“气候正义”、“代际公平”，从北极熊和冰川的故事到普通人的故事，从抗灾成功的叙事到气候背景的强调，气候持续变化，社会亦处于变化之中。6月底欧洲热浪登上微博热搜，欧洲人用不起空调、中国空调供不应求的声音，混杂着许多复杂的关于关税的、历史的、民族的情绪，让关于气候的讨论再次暴露出其复杂的内涵。</p>\n\n<p>对于空调是否是酷暑的唯一解法，欧洲人的回答或许不同。这不同不仅与地理、历史和制度相关，吴琦认为，这也为我们提供了一种审视个体与社会关系的思路——我们的日常生活，是否也可以构成一种做决定的方式？我们的话语和选择，是不是可以更相协调一些？是否有些东西是我们可以让渡或放弃的，而不是说必须像滚筒一样被裹入系统之中？</p>\n\n<p>如果我们能够获得全面均衡的信息，能够在工作和生活里做一些力所能及的事情，那么，“每一个依然认为追求进步、追求环保本身有价值和意义的人，生活就不会浪费，大家的生活也不应该被虚无打倒，还是能够好好地活下去，”吴琦说。面对气候变化是如此，面对其他艰难之事，大概也是如此。</p>\n\n<p>【本期主播】</p>\n\n<p>冷建国，媒体人</p>\n\n<p>【本期嘉宾】</p>\n\n<p>吴琦，《单读》主编，播客《螺丝在拧紧》主播</p>\n\n<p>[03:01] 亲历欧洲热浪<br />\n[08:22] 高温之下德国媒体如何报道溺亡<br />\n[10:08] 当“欧洲极端高温热死15000人”登上微博热搜<br />\n[15:19] 无论中欧，高温正在对城市基础设施构成威胁<br />\n[25:15] 中国气候报道中的话语和情绪变化<br />\n[28:47] 当政治议程绑架气候议程<br />\n[36:12] 媒体能为气候变化时代做些什么？以德国为例<br />\n[40:44] 从对北极熊的报道转向对人的报道<br />\n[47:45] 谈论气候很正确，然后呢？<br />\n[55:46] “累了毁灭吧”的真意与走出虚无的可能<br />\n[01:08:54] 气候悲观论之下的生育叙事<br />\n[01:14:34] 人类中心主义得到提醒和震慑的时刻<br />\n[01:27:28] 欧洲媒体缺失的视角：对顶层权贵的追问<br />\n[01:30:14] 极端天气报道中的注意力不公</p>\n\n<p>【本期节目中提到的书籍】</p>\n\n<p>《我们如何理解这个世界：与鲍曼对谈》 [英] 齐格蒙特·鲍曼&nbsp;/&nbsp;[英] 基思·特斯特 著<br />\n《希望是那长着羽毛的小东西》 任宁 著<br />\n《我看见了鸟》吴琦 主编</p>\n\n<p>【本期节目使用的音乐】</p>\n\n<p>片头：“Restless Earth”by Geoff Harvey<br />\n片尾：“the_mountain-climate”From Pixabay</p>\n\n<p>【本期剪辑】</p>\n\n<p>方改则</p>\n\n<p>【关于随机波动】</p>\n\n<p>感谢大家收听，你可以在微信和微博搜索随机波动StochasticVolatility，关注我们，也可以关注官网www.stovol.club ，还可以在苹果播客、spotify、pocketcast等泛用性客户端收听我们的节目。如果你喜欢我们的节目，别忘了在苹果播客给我们五星好评，也可以通过公众号推送中的二维码给我们打赏。</p>",
@@ -528,6 +906,23 @@
       "translation_provenance": "faster-whisper/small; batch=8; beam=1",
       "url": "https://www.stovol.com/173"
     },
+    "sui-ji-bo-dong::e108e106-9e26-40b3-b1eb-3c226ba4611a": {
+      "attempts": 1,
+      "description": "<p>从去年开始，ADHD这个四个字母开始频繁地出现在我和朋友们的日常聊天之中。它进入我们生活的方式不尽相同：有的人是被社交网络上的“症状描述”所吸引，有的是向AI“问诊”后的自我觉察，还有的则是成为了ADHD儿童的妈妈之后，从孩子的表现照见了自己。</p>\n\n<p>一方面，我们对ADHD的了解，从“好动的小男孩”的刻板印象中走了出来，发现这种状况可以不分年龄、不分性别地困扰我们；另一方面，我们又生活在一个被更长的屏幕使用时间、更碎片化的娱乐方式结构性地损耗注意力的时代。没错，我们的注意力变得更短、更差、更难以调节了，但这意味着我们是后知后觉的ADHD人士吗？</p>\n\n<p>本期节目，我们邀请到精神健康社工，也是成年后确诊的ADHD人士阿猎（隋真），从自己的经历出发，聊聊成年人ADHD是如何被识别和诊断的。为什么诊断不是简单几条特质的“对号入座”，为什么我们需要超越诊断的词汇库，以及为什么获得诊断只是一个开始？同时，当ADHD成为网络话题，围绕原生家庭、过度医疗、注意力危机的争议不断，我们又该如何理性地辨析公共话语，负责任地发言，不伤害到现实生活中真的需要帮助的人？</p>\n\n<p>【本期主播】</p>\n\n<p>张之琪，媒体人，新浪微博@CyberZhiqi</p>\n\n<p>【本期嘉宾】</p>\n\n<p>阿猎（隋真），精神健康社工，ADHD成人，《纷乱的心灵：注意力缺陷障碍的缘起与疗愈》译者，新浪微博@阿猎木星初转腾</p>\n\n<p>[01:21] 从怀疑到就诊，中间可能会经历了很长时间<br />\n[06:00] 就诊的流程如何，为什么可能需要家人、伴侣或朋友的协助？<br />\n[13:37] 确诊给ADHD成人带来了什么？<br />\n[22:01] 发现自己有一些特质符合ADHD，如何判断要不要去就医？<br />\n[27:22] 学历高不等于学业没有困难，也不构成诊断ADHD的标准<br />\n[31:08] 没有生物标志物不等于“主观”<br />\n[35:53] 基因vs环境，如何看待ADHD的成因？<br />\n[44:16] 想到结构很无力，但总有具体的事情可以做<br />\n[48:30] 公共话语会大浪淘沙，有价值的科普最终会留下来<br />\n[55:55] 我们面临的问题不是过度医疗，恰恰是医疗资源的短缺<br />\n[58:35] 休息也需要计划，主动寻找一些远离屏幕的温和刺激</p>\n\n<p>【本期节目提到的书籍和参考资料】</p>\n\n<p>巴克利, R. A. (2026)。 重掌失控人生（第2版）：注意缺陷多动障碍成人自救手册 （李虎等 译）。 华夏出版社。 （原著出版年：2021年）<br />\nFaraone, S. V., et al. (2021). The World Federation of ADHD International Consensus Statement: 208 Evidence-based conclusions about the disorder. Neuroscience &amp; Biobehavioral Reviews, 128, 789–818.<br />\n马泰, G.（2025）。纷乱的心灵：注意力缺陷障碍的缘起和疗愈（隋真，译）。机械工业出版社。（原著出版年：1999）<br />\nMeadows, J. (2025, October 02). Are we all just having 'understandable human reactions'? Sluggish.<br />\n美国精神医学学会（编）。（2014）。精神疾病诊断与统计手册（第五版）（张彦 等 译）。北京大学出版社。（原著出版年：2013）<br />\n青衫Neuro. (2026, March 27). 当ADHD成为“口头禅”：流行背后的真实与误解（一）. 青衫Neuro.<br />\n斯科格隆，L. B.（2025）。看见她们：ADHD女性的困境（杨军洁，译）。华夏出版社。（原著出版于2022年）<br />\n中华医学会精神医学分会, 中国医师协会精神科分会. (2023). 中国成人注意缺陷多动障碍诊断和治疗专家共识（2023版）. 中华医学杂志, 103(28), 2133-2144.</p>\n\n<p>【本期节目使用的音乐】</p>\n\n<p>Southern Quarter, by Loafy Buiding/Banks/jaackson</p>\n\n<p>【关于随机波动】</p>\n\n<p>感谢大家收听，你可以在微信和微博搜索随机波动StochasticVolatility，关注我们，也可以关注官网www.stovol.club ，还可以在苹果播客、spotify、pocketcast等泛用性客户端收听我们的节目。如果你喜欢我们的节目，别忘了在苹果播客给我们五星好评，也可以通过公众号推送中的二维码给我们打赏。</p>",
+      "external_id": "e108e106-9e26-40b3-b1eb-3c226ba4611a",
+      "item_slug": "sui-ji-bo-dong-6b33782a0a99",
+      "language": "zh",
+      "published_at": "2026-07-15T04:00:00+00:00",
+      "published_to_feed_at": "2026-07-28T15:03:19.145876+00:00",
+      "source_id": "sui-ji-bo-dong",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "【随机波动172】和阿猎聊ADHD：公共话语大浪淘沙，有价值的科普会留下来",
+      "title_zh": "【随机波动172】和阿猎聊ADHD：公共话语大浪淘沙，有价值的科普会留下来",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1",
+      "url": "https://www.stovol.com/172"
+    },
     "tangshan-laowang::youtube:GRp-fUvdj6Y": {
       "attempts": 1,
       "description": "",
@@ -541,6 +936,19 @@
       "title": "返乡潮：经济转型下的人口逆流【汤山老王】",
       "url": "https://www.youtube.com/watch?v=GRp-fUvdj6Y"
     },
+    "tangshan-laowang::youtube:uV7tEziwLOk": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "youtube:uV7tEziwLOk",
+      "last_attempt_at": "2026-07-28T15:30:37.834957+00:00",
+      "last_error": "DownloadError: ERROR: [youtube] uV7tEziwLOk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "published_at": "2026-07-28T15:30:36.803277+00:00",
+      "source_id": "tangshan-laowang",
+      "source_type": "youtube",
+      "status": "failed",
+      "title": "香港的一把火，烧出了中国楼市的底【汤山老王】#hongkong #香港",
+      "url": "https://www.youtube.com/watch?v=uV7tEziwLOk"
+    },
     "ted::youtube:N17wkLNutTQ": {
       "attempts": 1,
       "description": "",
@@ -553,6 +961,19 @@
       "status": "failed",
       "title": "Can Ozempic End Addiction? | Dhruv Khullar | TED",
       "url": "https://www.youtube.com/watch?v=N17wkLNutTQ"
+    },
+    "ted::youtube:tIgO_Sjh3tQ": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "youtube:tIgO_Sjh3tQ",
+      "last_attempt_at": "2026-07-28T15:31:42.065674+00:00",
+      "last_error": "DownloadError: ERROR: [youtube] tIgO_Sjh3tQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "published_at": "2026-07-28T15:31:41.099188+00:00",
+      "source_id": "ted",
+      "source_type": "youtube",
+      "status": "failed",
+      "title": "Why I’m Obsessed with Health Wearables (and You Should Be Too) | Michael Snyder | TED",
+      "url": "https://www.youtube.com/watch?v=tIgO_Sjh3tQ"
     },
     "the-a16z-show::df73b893-d213-4168-a6fb-8c845e831df9": {
       "attempts": 1,
@@ -571,6 +992,23 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://a16z.simplecast.com/episodes/fei-fei-li-on-spatial-intelligence-and-robotics-j8HvsWJf"
     },
+    "the-a16z-show::ef54f007-9c46-4d15-b039-1183f989a26d": {
+      "attempts": 1,
+      "description": "Steven Sinofsky joins Theo Jaffee and Sofia Puccini for a conversation on AI regulation, open-source models, and what history can teach us about technological revolutions. Drawing on decades of experience leading products at Microsoft, Sinofsky argues that governments are rushing to regulate AI before they fully understand the technology, risking innovation in the process.\nThey discuss the \"precautionary principle,\" why open source has historically accelerated innovation, the role of regulation in emerging technologies, the AI competition between the U.S. and China, and why existing laws may already address many of the risks people attribute to AI.",
+      "external_id": "ef54f007-9c46-4d15-b039-1183f989a26d",
+      "item_slug": "the-a16z-show-9f6947c8ff57",
+      "language": "en",
+      "published_at": "2026-07-27T10:00:00+00:00",
+      "published_to_feed_at": "2026-07-28T15:54:00.812062+00:00",
+      "source_id": "the-a16z-show",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "Steven Sinofsky: AI Doesn't Need New Rules Yet",
+      "title_zh": "史蒂文·西诺夫斯基：人工智能尚不需要新规则",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://a16z.simplecast.com/episodes/steven-sinofsky-ai-doesnt-need-new-rules-yet-BuNOSzIn"
+    },
     "the-investors-podcast::4daa03be-87df-11f1-bb83-1f609a871a05": {
       "attempts": 1,
       "description": "In this episode, William Green chats with Christopher Begg, a renowned hedge fund manager who is the CEO & CIO of East Coast Asset Management. Chris is also an adjunct professor at Columbia Business School, where he teaches the prestigious Security Analysis course that Ben Graham taught to Warren Buffett in 1951. Here, Chris shares rich insights about Tesla, Alphabet, SpaceX, Constellation Software, & the art of discovering great investments hidden in plain sight. \n\nIN THIS EPISODE YOU’LL LEARN:\n(00:00:00) Intro\n(00:03:30) How writing helps Chris Begg to “compress complexity into essence”\n(00:10:38) How to succeed by slowing down, training your attention, & going deep\n(00:32:48) How Alphabet embodies everything he seeks in a long-duration compounder\n(00:38:44) How fears of AI disruption created enticing bargains among software stocks\n(00:43:18) Why he focuses on great businesses with 8 layers of competitive advantage\n(00:55:04) What he learned from Buffett & Munger about the power of deserved trust\n(01:02:17) What ancient cathedrals can teach investors about businesses that endure \n(01:08:15) Why he steered clear of Elon Musk, then changed his mind & bet big on Tesla\n(01:24:58) What investors don’t yet see about the emerging capabilities of SpaceX\n(01:33:04) Why he reveres right-brained investment giants like Bill Miller & Nick Sleep\n(01:38:52) How Chris structures his life to create enduring value\n(01:51:43) How to prosper mightily without engaging in “extractive short-termism” \n(01:59:00) How a magical experience with his son reveals the true meaning of wealth\n\nDisclaimer: Slight discrepancies in the timestamps may occur due to podcast platform differences.\n\n\n\nBOOKS AND RESOURCES\n\n\n  Inquire about William Green’s ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Richer, Wiser, Happier Masterclass⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Christopher Begg’s investment firm, East Coast Asset Management.\n\n  Robert Pirsig’s books Zen & the Art of Motorcycle Maintenance & Lila.\n\n  Iain McGilchrist’s books The Matter with Things & The Master & His Emissary.\n\n  Christopher Begg’s song, The Great Work.\n\n  William Green’s podcast episode with Daniel Goleman & Tsoknyi Rinpoche.\n\n  William Green’s 2025 podcast episode with Christopher Begg.\n\n  William Green’s 2023 podcast episode with Christopher Begg.\n\n  William’s book, ⁠⁠Richer, Wiser, Happier⁠⁠.\n\n  Follow William Green on ⁠⁠⁠X⁠⁠⁠.\n\n  Related&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;mentioned in the podcast.\n\n  Ad-free episodes on our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\nNEW TO THE SHOW?\n\n\n  Get smarter about valuing businesses through&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Follow our official social media accounts:&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;|&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;|&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Try our tool for picking stock winners and managing our portfolios:&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TIP Finance⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Enjoy exclusive perks from our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠favorite Apps and Services⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\nSPONSORS\nSupport our free podcast by supporting our ⁠⁠⁠⁠sponsors⁠⁠⁠⁠:\n\n\n  ⁠Plus500⁠\n\n  ⁠Netsuite⁠\n\n  ⁠Shopify⁠\n\n  ⁠Vanta⁠\n\n\nReferences to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.\nSupport our show by becoming a premium member! https://theinvestorspodcastnetwork.supportingcast.fm",
@@ -587,6 +1025,40 @@
       "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "4daa03be-87df-11f1-bb83-1f609a871a05"
+    },
+    "the-investors-podcast::6c7b22ac-858a-11f1-b491-63d71e7864cb": {
+      "attempts": 1,
+      "description": "In today’s episode, Kyle Grieve and Shawn O’Malley analyze Perimeter Solutions, a niche industrial conglomerate built by Transdigm’s legendary founder Nick Howley using the same playbook that turned Transdigm into a multi-decade compounder. They break down how the company operates two very different segments, from wildfire retardants and airbase logistics to specialty chemicals and precision medical manufacturing equipment, each built around sticky, mission-critical customer relationships. They’ll also cover the company’s acquisition strategy, its unusual founder’s advisory fee, and the debt and litigation risks that complicate an otherwise compelling capital allocation story.\n\nIN THIS EPISODE YOU’LL LEARN:\n\n(00:00:00) Intro\n(00:01:19) Why the Transdigm playbook is worth cloning\n(00:05:02) How this management team built a public compounding machine\n(00:08:24) Why one segment profits directly from worsening wildfires\n(00:16:51) The chemical monopoly hiding inside a boring business\n(00:29:39) What makes these niche products nearly impossible to replace\n(00:39:05) How disciplined acquisitions have created so much shareholder value\n(00:45:16) The controversial fee structure investors aren’t big fans of\n(01:13:26) Valuation discussion of PRM\n(01:16:06) Intrinsic value of PRM\n(01:18:03) Whether Kyle and Shawn will add PRM to the Intrinsic Value Portfolio\n\nDisclaimer: Slight discrepancies in the timestamps may occur due to podcast platform differences.\n\n\n\nBOOKS AND RESOURCES\n\n\n  Join the exclusive&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Learn more about how to join us in NYC for our ⁠⁠⁠⁠Intrinsic Value Conference⁠⁠⁠⁠.\n\n  Follow Kyle on ⁠Twitter⁠ and ⁠LinkedIn⁠.\n\n  Related&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;mentioned in the podcast.\n\n  Ad-free episodes on our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\nNEW TO THE SHOW?\n\n\n  Get smarter about valuing businesses through&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Follow our official social media accounts:&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;|&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;|&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Try our tool for picking stock winners and managing our portfolios:&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TIP Finance⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Enjoy exclusive perks from our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠favorite Apps and Services⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Learn how to better start, manage, and grow your business with the&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠best business podcasts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\nSPONSORS\n\nSupport our free podcast by supporting our ⁠sponsors⁠:\n\n\n  ⁠Plus500⁠\n\n  ⁠Netsuite⁠\n\n  ⁠Shopify⁠\n\n  ⁠Vanta⁠\n\n\nReferences to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.\nSupport our show by becoming a premium member! https://theinvestorspodcastnetwork.supportingcast.fm",
+      "external_id": "6c7b22ac-858a-11f1-b491-63d71e7864cb",
+      "item_slug": "the-investors-podcast-9e1cda02e787",
+      "language": "en",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "published_to_feed_at": "2026-07-28T15:20:05.308641+00:00",
+      "source_id": "the-investors-podcast",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "TIP833: Perimeter Solutions (PRM): A Niche Monopoly, One Acquisition at a Time w/ Kyle Grieve & Shawn O’Malley",
+      "title_zh": "TIP833：Perimeter Solutions（PRM）：一个细分垄断，一次收购一个，嘉宾：Kyle Grieve 和 Shawn O’Malley",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "6c7b22ac-858a-11f1-b491-63d71e7864cb"
+    },
+    "the-rational-reminder-podcast::23846d2d-d32c-4b64-b6cf-0e44c347b05a": {
+      "attempts": 1,
+      "description": "<p dir=\"ltr\">In this AMA episode, Ben Felix, Dan Bortolotti, and Ben Wilson tackle a wide range of practical investing questions submitted by listeners. They begin by discussing one of the most common investing mistakes—market timing—and explain why getting back into the market is often harder than getting out. From there, they explore the evidence behind lump sum investing versus dollar-cost averaging, why high valuations rarely justify sitting in cash, and how your discomfort with investing may reveal a mismatch between your portfolio and your true risk tolerance.</p> <p><strong> </strong></p> <p dir=\"ltr\">The conversation also pulls back the curtain on PWL Capital's investment committee, detailing how new investment products are evaluated, how due diligence is conducted, and why even seemingly simple index funds require ongoing scrutiny. They then examine whether any recent Canadian ETF innovations are genuinely useful, discuss retirement-focused T-Series asset allocation ETFs, debate whether gamified trading creates opportunities for active management, and respond to questions about inflation, currency debasement, and the real drivers of long-term stock returns. As always, the episode closes with a lighter listener question before reading a review from the audience.</p> <p><strong><br /> <br /></strong></p> <p dir=\"ltr\">Key Points From This Episode:</p> <p dir=\"ltr\">(0:04) Introduction and why AMA episodes continue to resonate with listeners.</p> <p dir=\"ltr\">(0:55) A listener asks how to reinvest after selling half their portfolio over bubble concerns.</p> <p dir=\"ltr\">(2:00) Why successful market timing requires being right twice.</p> <p dir=\"ltr\">(3:04) Why all-time market highs are normal and poor signals for investment decisions.</p> <p dir=\"ltr\">(4:00) What market valuations can—and cannot—tell us about future returns.</p> <p dir=\"ltr\">(5:00) The evidence comparing lump sum investing with dollar-cost averaging.</p> <p dir=\"ltr\">(6:34) Why even the worst historical entry points rarely favor dollar-cost averaging.</p> <p dir=\"ltr\">(9:07) How investment anxiety often points to an overly aggressive asset allocation.</p> <p dir=\"ltr\">(11:37) The psychology of buying after market crashes and why investors rarely do.</p> <p dir=\"ltr\">(13:20) Why the best strategy is often whichever gets you invested and keeps you there.</p> <p dir=\"ltr\">(16:14) A behind-the-scenes look at PWL Capital's investment committee.</p> <p dir=\"ltr\">(17:23) How new securities are researched, reviewed, and approved.</p> <p dir=\"ltr\">(19:10) How acquisitions have changed the firm's investment oversight process.</p> <p dir=\"ltr\">(20:15) Annual due diligence on ETF providers and fund managers.</p> <p dir=\"ltr\">(21:55) Why even plain-vanilla index funds require performance monitoring.</p> <p dir=\"ltr\">(25:17) Are there any genuinely innovative new Canadian ETFs?</p> <p dir=\"ltr\">(26:27) Why most ETF innovation is driven by investor demand rather than better investing.</p> <p dir=\"ltr\">(28:19) Avantis ETFs and discount bond ETFs as notable recent developments.</p> <p dir=\"ltr\">(33:52) Why ETF issuers tend to launch products after investment themes become popular.</p> <p dir=\"ltr\">(33:52) Where investors should spend their planning time when wealth is still relatively small.</p> <p dir=\"ltr\">(35:00) Why growing human capital often has a greater impact than optimizing investments.</p> <p dir=\"ltr\">(37:59) Budgeting, saving, and account selection early in an investing journey.</p> <p dir=\"ltr\">(39:14) BMO's new T-Series asset allocation ETFs and how they generate retirement income.</p> <p dir=\"ltr\">(41:56) Understanding managed distributions and return of capital.</p> <p dir=\"ltr\">(44:08) Why these retirement ETFs may suit DIY investors but not every retiree.</p> <p dir=\"ltr\">(48:31) Whether gamified trading and meme stocks create opportunities for active managers.</p> <p dir=\"ltr\">(50:08) What the evidence says about active management in small-cap growth stocks.</p> <p dir=\"ltr\">(53:39) Why market competition limits persistent opportunities from retail speculation.</p> <p dir=\"ltr\">(53:39) Do stocks only rise because governments debase currencies?</p> <p dir=\"ltr\">(55:59) Inflation measurement, currency debasement, and common misconceptions.</p> <p dir=\"ltr\">(58:10) Why productive businesses—not money printing alone—drive long-term stock returns.</p> <p dir=\"ltr\">(59:53) Ben answers a listener's basketball shoe question.</p> <p dir=\"ltr\">(1:02:02) A listener review from Switzerland and closing remarks.</p> <p dir=\"ltr\">Links From Today's Episode:<br /> <br /> Meet with PWL Capital: <a href=\"https://calendly.com/d/3vm-t2j-h3p\">https://calendly.com/d/3vm-t2j-h3p</a></p> <p dir=\"ltr\">Rational Reminder on iTunes — <a href=\"https://itunes.apple.com/ca/podcast/the-rational-reminder-podcast/id1426530582?mt=2\">https://itunes.apple.com/ca/podcast/the-rational-reminder-podcast/id1426530582</a>.<br />  Rational Reminder on Instagram — <a href=\"https://www.instagram.com/rationalreminder/\">https://www.instagram.com/rationalreminder/</a></p> <p dir=\"ltr\">Rational Reminder on YouTube — <a href=\"https://www.youtube.com/channel/UCOErWFfNOQzXsgE7f5S_ULw\">https://www.youtube.com/channel/<br /> </a>Benjamin Felix — <a href=\"https://pwlcapital.com/our-team/\">https://pwlcapital.com/our-team/</a></p> <p dir=\"ltr\">Benjamin on X — <a href=\"https://x.com/benjaminwfelix\">https://x.com/benjaminwfelix</a></p> <p dir=\"ltr\">Benjamin on LinkedIn — <a href=\"https://www.linkedin.com/in/benjaminwfelix/\">https://www.linkedin.com/in/benjaminwfelix/</a></p> <p dir=\"ltr\">Dollar Cost Averaging vs Lump Sum Investing - <a href=\"https://pwlcapital.com/wp-content/uploads/2024/08/Dollar-Cost-Averaging-vs-Lump-Sum-Investing.pdf\"> https://pwlcapital.com/wp-content/uploads/2024/08/Dollar-Cost-Averaging-vs-Lump-Sum-Investing.pdf</a><br />  <br /> Buy The Dip - <a href=\"https://pwlcapital.com/wp-content/uploads/2024/08/PWL-Felix-Warwick-Buy-The-Dip_A.pdf\"> https://pwlcapital.com/wp-content/uploads/2024/08/PWL-Felix-Warwick-Buy-The-Dip_A.pdf</a></p> <p><strong> </strong></p> <p dir=\"ltr\">Editing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com)</p> <p> </p>",
+      "external_id": "23846d2d-d32c-4b64-b6cf-0e44c347b05a",
+      "item_slug": "the-rational-reminder-podcast-23303cf6a566",
+      "language": "en",
+      "published_at": "2026-07-16T09:30:00+00:00",
+      "published_to_feed_at": "2026-07-28T15:28:18.983380+00:00",
+      "source_id": "the-rational-reminder-podcast",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "\"I Sold 50% of My Portfolio. What Now?\" | #418 (AMA)",
+      "title_zh": "\"我卖出了50%的投资组合。接下来怎么办？\" | #418 (AMA)",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://rationalreminder.libsyn.com/i-sold-50-of-my-portfolio-what-now-418-ama"
     },
     "the-rational-reminder-podcast::9df50994-ac0c-498d-9deb-084e24fee76a": {
       "attempts": 1,
@@ -622,6 +1094,36 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "gid://art19-episode-locator/V0/Cvh1GOLA9mnwxQTXIWU6wp2eTjR4kMGWyj6egazjbcc"
     },
+    "the-tim-ferriss-show::gid://art19-episode-locator/V0/OQBoU-hjfvFB8He17MDPLgofn5JWl4coC8js136GPqo": {
+      "attempts": 1,
+      "description": "<p>In this edition of The Random Show, <a href=\"http://tim.blog\" rel=\"noopener noreferrer\" target=\"_blank\">Tim Ferriss</a> and <a href=\"https://www.kevinrose.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Kevin Rose</a> reunite over tequila to talk Zen retreats, learning to rock climb at (almost) 50, mortality and grief, why you should stop saying \"one day,\" AI predictions , and much more. Please enjoy!</p><p><strong>This episode is brought to you by:</strong></p><ul><li><a href=\"https://incogni.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Incogni, </strong></a><strong>which removes your personal data from the web, helping shield you from fraud, scams, and identity theft: </strong><a href=\"https://incogni.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Incogni.com/Tim</strong></a><strong> (use code TIM at checkout and get 60% off an annual plan)</strong></li><li><a href=\"http://wealthfront.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Wealthfront</strong></a><strong> high-yield cash account: </strong><a href=\"https://wealthfront.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Wealthfront.com/Tim</strong></a>&nbsp;</li></ul><p><em>New clients get 3.30% base APY from program banks + additional&nbsp; 0.75% boost for 3 months on your uninvested cash (max $150k balance). Terms and conditions apply. The Cash Account offered by Wealthfront Brokerage LLC (“WFB”) member FINRA/SIPC, not a bank. The base APY as of 1/30/26 is representative, can change, and requires no minimum. Tim Ferriss, a non-client, receives compensation from WFB for advertising and holds a non-controlling equity interest in the corporate parent of WFB, which creates a conflict of interest.&nbsp; Individual experiences and outcomes will differ.&nbsp;Instant withdrawals may be limited by your receiving firm and other factors. Investment advisory services provided by Wealthfront Advisers LLC, an SEC-registered investment adviser. Securities investments: not bank deposits, not bank-guaranteed or FDIC-insured, and may lose value.</em></p><p><strong>Timestamps</strong></p><ul><li>[00:00:00] Start.</li><li>[00:00:24] A tequila toast, and getting \"taxed\" by alcohol as you age.</li><li>[00:02:18] Toaster at 15: a late-night health scare.</li><li>[00:06:01] Losing Om Malik, and finding out on retreat.</li><li>[00:08:03] Matt Mullenweg, Antarctica, and gratitude.</li><li>[00:09:34] Coming to terms with our limited time on Earth.</li><li>[00:14:37] Five days of silence and the koan \"Mu.\"</li><li>[00:15:20] Kevin's micro-insight and a plug for The Way.</li><li>[00:27:25] Rock climbing after 40, and a Yosemite goal.</li><li>[00:29:18] Michael Eckert and finger-strength training.</li><li>[00:30:40] The Nug, Abrahangs, and a travel training kit.</li><li>[00:32:57] <em>Free Solo</em> and climbing with a fear of heights.</li><li>[00:37:53] <em>The Blade Itself</em>, and a friend lost in a plane crash.</li><li>[00:39:19] A2 protein and Pioneer Pastures.</li><li>[00:40:34] Maui Nui venison and the nitrate question.</li><li>[00:43:48] deltaG ketones: what they are and the catch.</li><li>[00:45:42] Ketones, dementia, and verbal fluidity.</li><li>[00:46:29] Pre-grieving a parent's decline.</li><li>[00:48:33] Training not to die: the one bike I can stand and the Norwegian 4×4.</li><li>[00:51:10] Something beats nothing: saunas, treadmills, and Duolingo chess.</li><li>[00:53:04] The MM120 anxiety study — and a small-world surprise.</li><li>[00:56:17] Psilocybin, LSD, and dementia case reports.</li><li>[01:01:28] Neutonic toothpicks and Kevin's AI-powered home.</li><li>[01:06:12] Spooky AI personalization and investment autopsies.</li><li>[01:17:38] Values cards, contractual bonds, and dark information.</li><li>[01:23:25] 360 reviews and child-rearing.</li><li>[01:24:54] Wispr Flow, Shokz, and my recording rig.</li><li>[01:29:32] The \"big three\" and where AI goes next.</li><li>[01:44:40] Let your winners run; buy the company, not the product.</li><li>[01:51:08] Digg's relaunch, 5-Bullet Friday, and parting thoughts.</li></ul><p>*</p><p><strong>DISCLAIMER FROM TIM FERRISS</strong>: I am not an investment adviser. Nor is Kevin Rose. All opinions are mine alone. Or his. There are risks involved in placing any investment in securities or in Bitcoin or in cryptocurrencies or in anything. None of the information presented herein is intended to form the basis of any offer or recommendation or have any regard to the investment objectives, financial situation, or needs of any specific person, and that includes you, my dear listener or reader. Everything you’re going to hear is for informational entertainment purposes only.</p><p><em>*</em></p><p><strong>For show notes and past guests on </strong><a href=\"https://tim.blog/podcast\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><em>The Tim Ferriss Show</em></strong></a><strong>, please visit</strong> <a href=\"https://tim.blog/podcast/?utm_source=podcast&amp;utm_medium=podcast&amp;utm_campaign=podcast-description\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/podcast</strong></a><strong>.</strong></p><p><strong>For deals from sponsors of </strong><a href=\"https://tim.blog/podcast\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><em>The Tim Ferriss Show</em></strong></a><strong><em>, </em>please visit </strong><a href=\"https://tim.blog/podcast-sponsors\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/podcast-sponsors</strong></a></p><p><strong>Sign up for Tim’s email newsletter (<em>5-Bullet Friday</em>) at </strong><a href=\"https://go.tim.blog/5-bullet-friday-1/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/friday</strong></a><strong>.</strong></p><p><strong>For transcripts of episodes, go to </strong><a href=\"https://tim.blog/transcripts\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/transcripts</strong></a><strong>.</strong></p><p><strong>Discover Tim’s books: </strong><a href=\"https://tim.blog/books\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/books</strong></a><strong>.</strong></p><p><strong>Follow Tim:</strong></p><p><strong>Twitter</strong>: <a href=\"https://twitter.com/tferriss\" rel=\"noopener noreferrer\" target=\"_blank\">twitter.com/tferriss</a>&nbsp;</p><p><strong>Instagram</strong>: <a href=\"https://instagram.com/timferriss/\" rel=\"noopener noreferrer\" target=\"_blank\">instagram.com/timferriss</a></p><p><strong>YouTube</strong>: <a href=\"https://www.youtube.com/timferriss\" rel=\"noopener noreferrer\" target=\"_blank\">youtube.com/timferriss</a></p><p><strong>Facebook</strong>: <a href=\"https://www.facebook.com/TimFerriss/\" rel=\"noopener noreferrer\" target=\"_blank\">facebook.com/timferriss</a>&nbsp;</p><p><strong>LinkedIn: </strong><a href=\"http://linkedin.com/in/timferriss\" rel=\"noopener noreferrer\" target=\"_blank\">linkedin.com/in/timferriss</a></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+      "external_id": "gid://art19-episode-locator/V0/OQBoU-hjfvFB8He17MDPLgofn5JWl4coC8js136GPqo",
+      "item_slug": "the-tim-ferriss-show-8d51ffbd195c",
+      "language": "en",
+      "published_at": "2026-07-16T13:00:00+00:00",
+      "published_to_feed_at": "2026-07-28T15:29:30.134458+00:00",
+      "source_id": "the-tim-ferriss-show",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "#875: The Random Show — Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for “Someday”",
+      "title_zh": "#875: 随机节目 — Tim 和 Kevin 讨论静修、死亡、人工智能预测、补充剂、接近50岁的攀岩，以及不再等待“某一天”",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "gid://art19-episode-locator/V0/OQBoU-hjfvFB8He17MDPLgofn5JWl4coC8js136GPqo"
+    },
+    "three-blue-one-brown::youtube:Dlsa9EBKDGI": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "youtube:Dlsa9EBKDGI",
+      "last_attempt_at": "2026-07-28T15:32:50.323788+00:00",
+      "last_error": "DownloadError: ERROR: [youtube] Dlsa9EBKDGI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "published_at": "2026-07-28T15:32:49.301167+00:00",
+      "source_id": "three-blue-one-brown",
+      "source_type": "youtube",
+      "status": "failed",
+      "title": "Where my explanation of Grover’s algorithm failed",
+      "url": "https://www.youtube.com/watch?v=Dlsa9EBKDGI"
+    },
     "three-blue-one-brown::youtube:RQWpF2Gb-gU": {
       "attempts": 1,
       "description": "",
@@ -634,6 +1136,19 @@
       "status": "failed",
       "title": "But what is quantum computing?  (Grover's Algorithm)",
       "url": "https://www.youtube.com/watch?v=RQWpF2Gb-gU"
+    },
+    "veritasium::youtube:aoag03mSuXQ": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "youtube:aoag03mSuXQ",
+      "last_attempt_at": "2026-07-28T15:33:13.244584+00:00",
+      "last_error": "DownloadError: ERROR: [youtube] aoag03mSuXQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "published_at": "2026-07-28T15:33:12.299583+00:00",
+      "source_id": "veritasium",
+      "source_type": "youtube",
+      "status": "failed",
+      "title": "The Internet Was Weeks Away From Disaster And No One Knew",
+      "url": "https://www.youtube.com/watch?v=aoag03mSuXQ"
     },
     "veritasium::youtube:cMx139eTxoc": {
       "attempts": 1,
@@ -648,6 +1163,19 @@
       "title": "The asbestos problem is worse than we thought",
       "url": "https://www.youtube.com/watch?v=cMx139eTxoc"
     },
+    "xiao-lin-shuo::youtube:P-NmMX9rlYQ": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "youtube:P-NmMX9rlYQ",
+      "last_attempt_at": "2026-07-28T15:22:43.309957+00:00",
+      "last_error": "DownloadError: ERROR: [youtube] P-NmMX9rlYQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "published_at": "2026-07-28T15:22:42.282329+00:00",
+      "source_id": "xiao-lin-shuo",
+      "source_type": "youtube",
+      "status": "failed",
+      "title": "GDP是会骗人的 | 一口气了解GDP",
+      "url": "https://www.youtube.com/watch?v=P-NmMX9rlYQ"
+    },
     "xiao-lin-shuo::youtube:zsFTTKNLcXM": {
       "attempts": 1,
       "description": "",
@@ -660,6 +1188,49 @@
       "status": "failed",
       "title": "那些被制裁最最严重的国家，都怎么样了?",
       "url": "https://www.youtube.com/watch?v=zsFTTKNLcXM"
+    },
+    "xiao-yue-han-ke-han::bilibili:BV1P6Q2BPEwm": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "bilibili:BV1P6Q2BPEwm",
+      "last_attempt_at": "2026-07-28T15:49:46.368043+00:00",
+      "last_error": "DownloadError: ERROR: [BiliBili] 1P6Q2BPEwm: Unable to download webpage: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)",
+      "published_at": "2026-07-28T15:49:45.790153+00:00",
+      "source_id": "xiao-yue-han-ke-han",
+      "source_type": "bilibili",
+      "status": "failed",
+      "title": "BV1P6Q2BPEwm",
+      "url": "https://www.bilibili.com/video/BV1P6Q2BPEwm"
+    },
+    "yan-su-de-xia-mi::bilibili:BV1HV4Ez6EMP": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "bilibili:BV1HV4Ez6EMP",
+      "last_attempt_at": "2026-07-28T15:42:03.586690+00:00",
+      "last_error": "DownloadError: ERROR: [BiliBili] 1HV4Ez6EMP: Unable to download webpage: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)",
+      "published_at": "2026-07-28T15:42:03.173750+00:00",
+      "source_id": "yan-su-de-xia-mi",
+      "source_type": "bilibili",
+      "status": "failed",
+      "title": "BV1HV4Ez6EMP",
+      "url": "https://www.bilibili.com/video/BV1HV4Ez6EMP"
+    },
+    "yan-zhong-hua-shu::6a4d11412e335a35a80fa724": {
+      "attempts": 1,
+      "description": "<p>– 本节目由GIADA出品 –</p><p>【本期制作人】JustPod</p><p>【本期嘉宾】</p><p>陈玉亭，飞行员</p><p>陈鲁豫，媒体人、主持人</p><p>【本期节目介绍】</p><p>岩中花述第九季第五期节目，鲁豫收到了来自陈玉亭的生日礼物——《Flower in the air》——一本摄影集，框住那些自天空鸟瞰的时刻。</p><p>年轻的飞行员拉起操纵杆、飞机缓缓爬升，她凝望着故乡丙洲岛慢慢缩小成一滴眼泪；岛上的滩涂边蹲坐着一个小孩，被蟹钳夹伤的手指浸在海水里，她紧紧盯住飞机划出的轨迹、想象着她的目的地。两个女孩都是她，这天与地的距离，是她自拿过旗子、只身跑到一群男孩前方的那一刻起，一步步跋涉过的路程，每一步都用尽了全力。</p><p>她深知自己是起点很低的小孩，但这是另一种幸运。她说，「就像月亮有亮面、也有暗面，你不能否认暗面仍是月亮本身，艰难与黑暗也有它的力量，它塑造出“永不言败”的我」。</p><p>面对父亲生病的现实，在留下与逃离之间，她带着歉疚、最终选择了代表「离开」的红药丸。她说，「在失去一切之前，我必须要为自己活一次，我必须做“白眼狼”，但我也承担这选择的全部后果」。</p><p>她触摸过失去温度的身体、经历过命悬一线的时刻，因而知晓只有死亡才算真正结束。她说，「只要我的手指还能动一动，能量仍旧会从四面八方涌来，我会战斗到最后一刻」。</p><p>玫瑰之所以独一无二，不是因为拥有过小王子，而是她选择了自己去冒险，即便要一次又一次拔根、再扎根，她仍旧渴望走得更远，与更多独一无二的玫瑰相遇。</p><p>自出生起就被规则捆住，从丙洲到同安、从同安到重庆、从重庆到世界、甚至飞上天空，她始终背负着规则前进，但她知道自己会越跑越快，因为她有力量、可以不惜一切剪断它们。那个声音不会停止回响——</p><p>玉亭，不要被绳索缚住双腿！不要被淤泥吸住脚掌！玉亭，像那只小黑野猪一样，继续跑、继续跑......</p><img src=\"https://image.xyzcdn.net/FkXrty1xZsaE6LmLap-Ap6veiCOs.png\" /><p>【内容提要】</p><p><strong>Part 1 「小黑野猪」的胜利</strong></p><p><a class=\"timestamp\">04:58</a> 在滩涂抓蟹时被咬住就望向天空，飞机是我的止痛药</p><p><a class=\"timestamp\">10:36</a> 为了战胜男孩小虎，把自己养成高高壮壮的「小黑野猪」</p><p><a class=\"timestamp\">14:28</a> 被男性化的职业磨损、雕刻，也用女性的能量影响它</p><p><a class=\"timestamp\">17:08</a> 从渔村到天空，跨一步就是一个新世界，我用尽全力存活</p><p><a class=\"timestamp\">22:22</a> 规则先于我、压着我，但总能找到一条裂缝，然后冲过去</p><p><a class=\"timestamp\">24:08</a> 在淤泥里讨生活，要像硬骨头、打不碎的野猪一样活着</p><p><strong>Part 2 带着痛苦，选择逃离</strong></p><p><a class=\"timestamp\">27:34</a> 从栋五号跑道起飞，回望故乡小岛、如一滴眼泪</p><p><a class=\"timestamp\">33:19</a> 篮球让我拥有了一条裂缝，带我走进最好的中学</p><p><a class=\"timestamp\">39:55</a> 望飞机是想象外面世界的方式，书和电影拓展了这种想象力</p><p><a class=\"timestamp\">43:18</a> 花30年才走到别人的起点，这是另一种「幸运」</p><p><a class=\"timestamp\">47:33</a> 底层小孩如何往前走？循着女性前辈的声音才找到出路</p><p><a class=\"timestamp\">53:08</a> 高中时父亲生病，我像一个没有明天的人、吞下责任</p><p><a class=\"timestamp\">56:26</a> 在失去一切之前，为自己活一次，哪怕成为「白眼狼」</p><p><strong>Part 3 她的「自卑与超越」</strong></p><p><a class=\"timestamp\">01:07:29</a> 第一次参加招飞，第一个报到、第一个被拒绝</p><p><a class=\"timestamp\">01:09:39</a> 打工赚钱买电脑、自行车，「当白眼狼好爽的」</p><p><a class=\"timestamp\">01:13:36</a> 选美比赛中感受到女性如何被审视、也明白了何为自己</p><p><a class=\"timestamp\">01:19:46</a> 咽下呕吐的感觉，咽下了自卑、获得对基因的超越感</p><p><a class=\"timestamp\">01:28:49</a> 大毕改，生命中又一条缝隙，她全副武装地跳进去</p><p><a class=\"timestamp\">01:35:25</a> 飞行是明知不可为仍要为之的事，是热爱、是信念、是火焰</p><p><strong>Part 4 玫瑰为何独一无二？</strong></p><p><a class=\"timestamp\">01:37:32</a> 「让命运是命运，让我是我，而我相信我」</p><p><a class=\"timestamp\">01:39:58</a> 死亡才是终结，动一动手指，你就会知道身体还在为你而活</p><p><a class=\"timestamp\">01:44:33</a> 你做过的所有事情都会留下痕迹，变成灵魂的一部分</p><p><a class=\"timestamp\">01:47:42</a> 和天空签了契约，我们的安全责任事关乘客、事关无数家庭</p><p><a class=\"timestamp\">01:58:27</a> 在少数派的世界里生存很难，但「存在」就是一种力量</p><p><a class=\"timestamp\">02:12:59</a> 玫瑰每到一个星球都要重新扎根，它仍旧选择去更远的地方</p><p>– 主题曲 –</p><p>《岩中花述》陈婧霏</p><p>– 嘉宾推荐的作品 –</p><p>《风沙星辰》（<em>Terre des hommes</em>），[法] 安东尼·德·圣埃克苏佩里（Antoine de Saint Exupéry）著，梅思繁译，湖南文艺出版社，2012-2</p><p>《千钧一发》（<em>Gattaca</em>），安德鲁·尼科尔（Andrew Niccol）导演、编剧，伊桑·霍克（Ethan Hawke）、乌玛·瑟曼（Uma Thurman）等主演的美国电影，1997年首映</p><p>– 节目中提及的作品与人物 –&nbsp;</p><p>《还是要相信》，陈鲁豫著，新经典·琥珀 | 花城出版社，2021-3</p><p>《平凡的世界》，路遥著，十月文化 | 北京十月文艺出版社，2012-3</p><p>《零诺》，行烟烟著，果麦文化 | 中信出版社，2026-7</p><p>《小王子》（<em>Le Petit Prince</em>），[法] 安东尼·德·圣埃克苏佩里（Antoine de Saint Exupéry）著，马振骋译，人民文学出版社，2003-8</p><p>《童年的终结》（<em>Childhood's End</em>），[英] 阿瑟·克拉克（Arthur C. Clarke）著，于大卫译，读客文化 | 江苏凤凰文艺出版社，2018-9</p><p>《星球大战》（<em>Star Wars</em>），乔治·卢卡斯（George Lucas）主演、编剧，哈里森·福特（Harrison Ford）、凯丽·费雪（Carrie Fisher）等主演的美国电影，1977年首映</p><p>《黑客帝国》（<em>The Matrix</em>），莉莉·沃卓斯基（Lilly Wachowski）、拉娜·沃卓斯基（Lana Wachowski）导演、编剧， 基努·里维斯（Keanu Reeves）、凯瑞-安·莫斯（Carrie-Anne Moss）等主演的美国电影，1999年首映</p><p>《今日说法》，中国中央电视台第一档全日播法制栏目，由撒贝宁等主持，1999年首播</p><p>《翻山海》，朱虹璇导演、编剧，孙新雨、王鑫雨等主演的话剧</p><p>李昌钰（Henry Chang-Yu Lee），刑事鉴识专家、美国康涅狄格州科学咨询中心的名誉主席，康州纽海文大学终身教授、纽黑文大学法医学全职教授。</p><p>洪连珍，中国空军第一代女指挥员、第三批女飞行员，中国民航飞行时间最长的女机长，民航首位飞行至60岁的女飞行员。2025年1月31日因病逝世。</p><p>莱特兄弟（Wright Brothers），美国著名发明家，哥哥是威尔伯·莱特（Wilbur Wright）、弟弟是奥维尔·莱特（Orville Wright），1903年首次试飞完全受控、依靠自身动力、机身比空气重、持续滞空不落地的飞机。</p><p>– 节目中提到的图片 –</p><img src=\"https://image.xyzcdn.net/lgm9ThJ42cLYWzlRi474UCkNaino.jpg\" /><img src=\"https://image.xyzcdn.net/lnzJqp39k8n0cjJ6fuv8_oMTchRA.jpg\" /><p>丙洲岛滩涂</p><img src=\"https://image.xyzcdn.net/lif2J_gUQNJFu_M7eYn7ncE6jHBg.jpg\" /><img src=\"https://image.xyzcdn.net/FnSWBpaMlxklkNO48mOV4P1QK7nR.jpg\" /><p>美国沙漠地区的ocotillo</p><p><strong>「岩中花述」同名图书《岩中花述》（全四册）已经正式上市啦！</strong></p><p>书中收录了由鲁豫老师参与主持的第3-6季中34位嘉宾的对谈内容，并根据不同的话题维度，分为了4本书出版：《我决定，要活得很久》《她们重新发明知识》《不退场的勇气》《这是我修改世界的方式》。</p><p>希望我们都能在嘈杂、偏见的声音中，活到「后来」！</p><p>【《岩中花述》(全四册)】陈鲁豫印签版：http://product.m.dangdang.com/29958646.html</p><p>– 互动方式 –&nbsp;</p><p>GIADA官网：https://www.giada.cn</p><p>GIADA小红书：<a href=\"https://www.xiaohongshu.com/user/profile/631aa198000000002303fe68?xsec_token=YBGy5NA9siS8LeyKCdZuHl4HMOZ-b4D04ZX_airIAIQA0=&amp;xsec_source=app_share&amp;xhsshare=WeixinSession&amp;appuid=5f17e3f6000000000101c05c&amp;apptime=1744696440&amp;share_id=fe3bb34a2253483e9c052cc1f3e1e157\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">GIADA • 岩中花述</a></p><p>GIADA公众号：<a href=\"https://mp.weixin.qq.com/s/vM3nRB9RxorXckNo_VgkkQ\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">mp.weixin.qq.com</a></p><p>GIADA 微博：<a href=\"https://weibo.com/u/5243696839\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">weibo.com</a></p>",
+      "external_id": "6a4d11412e335a35a80fa724",
+      "item_slug": "yan-zhong-hua-shu-bbd808254050",
+      "language": "zh",
+      "published_at": "2026-07-08T00:00:00+00:00",
+      "published_to_feed_at": "2026-07-28T14:57:36.400665+00:00",
+      "source_id": "yan-zhong-hua-shu",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "S9E5 鲁豫对话陈玉亭 | 失去一切之前，我必须成为「白眼狼」",
+      "title_zh": "S9E5 鲁豫对话陈玉亭 | 失去一切之前，我必须成为「白眼狼」",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a4d11412e335a35a80fa724?utm_source=rss"
     },
     "yan-zhong-hua-shu::6a5f4f206356eb2d9be61d72": {
       "attempts": 1,
@@ -678,6 +1249,23 @@
       "translation_provenance": "faster-whisper/small; batch=8; beam=1",
       "url": "https://www.xiaoyuzhoufm.com/episode/6a5f4f206356eb2d9be61d72?utm_source=rss"
     },
+    "yi-xi::6a549f66ca0de6c44ae651f7": {
+      "attempts": 1,
+      "description": "<p><strong>袁西，声音艺术家、@West Sounds树木声音采集。</strong></p><blockquote><p>自然的声音从来没有消失，伴随着人类存在了几百万年。只是我们被太多自认为有意义、有重要信息、有价值的声音占据了耳朵，忽略掉了这些我们觉得好像没什么意义的声音。但其实恰恰是聆听这些没有意义的声音，才能恢复我们的知觉，恢复我们对于这个世界的感觉。</p></blockquote><img src=\"https://image.xyzcdn.net/Fs4uJhfygDOVoNIeVkoTTGtHnofD.png\" /><p>你有多久没有仔细听过周遭环境发出的声音了？生活中，我们似乎习惯了在各种场合戴上耳机，将自己包裹在自我营造的世界里。在这个视觉绝对主导的社会里，听觉往往被人们忽略，但当你真正去认真听一个声音时，你的情绪是一定会随之改变。</p><p>2025年，袁西离开了一家主打“推荐城市生活方式”的新媒体公司。十年里，他一路做到管理层，每天的工作被指标、绩效和裁员填满。高压之下，袁西的生活被工作带来的无意义感侵蚀。</p><p>在陪伴女儿逛公园的过程中，袁西偶然了解到了声音艺术。在他眼中，自然界的万物都是乐器，如果树木是吉他，那天气就是乐手：风是温柔的民谣乐手，雨是热烈的摇滚乐手。不同的乐手们演奏着绝不重复的自然乐章。</p><p>通过接触式麦克风，他开始捕捉到平时听不到的细微声响——水流经过苔藓时的冲刷声、蚂蚁在树干上行走的脚步声，甚至树干传递水分时“咕嘟咕嘟”的律动。在捕捉声音的过程中，袁西渐渐恢复了对于生活的感知。</p><p><br /></p><p>【时间轴】</p><p><a class=\"timestamp\">00:20</a> 我在去年一年录制了很多大家可能这辈子都没听过的声音</p><p><a class=\"timestamp\">01:54</a> 工作带来的是规律和目标，那脱离了这些人该如何生活？</p><p><a class=\"timestamp\">05:28</a> 原来树的内部是有声音的</p><p><a class=\"timestamp\">08:16</a> 我越想控制，就越是什么都听不到</p><p><a class=\"timestamp\">11:27</a> 从前到了自然环境中我会习惯抬头看，但现在我习惯向下寻找</p><p><a class=\"timestamp\">16:42</a> 植物像人一样，也有自己的方言</p><p><a class=\"timestamp\">20:58</a> 聆听这些没有意义的声音，才能恢复我们对这个世界的感知</p><br /><a href=\"https://oia.xiaoyuzhoufm.com/player/6a549f66ca0de6c44ae651f7?openTranscript=true&amp;utm_source=rss&amp;as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&amp;autoOpen=false\">在小宇宙查看该单集文稿</a>",
+      "external_id": "6a549f66ca0de6c44ae651f7",
+      "item_slug": "yi-xi-84b6fc5a21e5",
+      "language": "zh",
+      "published_at": "2026-07-15T23:00:00+00:00",
+      "published_to_feed_at": "2026-07-28T15:00:11.281272+00:00",
+      "source_id": "yi-xi",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "植物也有自己的方言，让我们来感受一下北京到底有多干｜袁西 一席",
+      "title_zh": "植物也有自己的方言，让我们来感受一下北京到底有多干｜袁西 一席",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a549f66ca0de6c44ae651f7?utm_source=rss"
+    },
     "yi-xi::6a606338a3fec224d5a17d2b": {
       "attempts": 1,
       "description": "<p><strong>朱聪，「地衣之家」创办人</strong></p><blockquote><p>我们在街头看到的大部分流浪者，没有人不想回家，没有人不渴望爱。之所以他们说不回去，是因为他们以为自己回不去了。「地衣之家」的理念是，这个世界可以有自由流浪的生活方式，但不应该有无家可归的人。</p></blockquote><img src=\"https://image.xyzcdn.net/FjsjNS2GYLwsnMHA2uL-H22mGoCm.jpg\" /><p>地衣，一种附着在缝隙中生长，虽微小却顽强的生命体。2017年，朱聪创办公益组织「地衣之家」，专为街头流浪者服务。在物资发放之外，「地衣之家」主要做漫长而沉重的个案跟踪：通过帮助流浪者落户、寻亲与就业协助，去修补一个人与社会的断裂。这种跟踪，往往一跟就是好多年。</p><p>在漫长的陪伴中，朱聪逐渐理解了“流浪”这一表象其实是一个关于创伤与阶层的隐喻。他们并非所谓的危险分子，而是一群内心极其敏感脆弱的人，大多有着破碎的家庭、无法言说的过往，以及那些在成长中遭受过暴力与创伤的隐秘伤口。</p><p>朱聪像是一个耐心的补网人，试图把那些跌落的人重新拉回到生活的秩序中。但这并非一个总能通向圆满的故事——无数次努力可能最终换来的是又一次的重回街头。但朱聪认为，这些失败的意义在于，让一个被社会遗忘的人感受到了一份具体的、真实的接纳，并在内心深处留下微小而深远的刻痕。</p><p><br /></p><p>【时间轴】</p><p><a class=\"timestamp\">00:08</a> 乞讨者不流浪，流浪者不乞讨</p><p><a class=\"timestamp\">03:34</a> 自由流浪和拒绝救助的权利不是从来就有的</p><p><a class=\"timestamp\">05:02</a> 职业流浪者找不到去救助站的理由</p><p><a class=\"timestamp\">08:00</a> 想要撕掉「流浪者」的标签，就不能一直只把他们当作受助者</p><p><a class=\"timestamp\">10:19</a> 流浪者没有办法延迟满足</p><p><a class=\"timestamp\">13:04</a> 流浪是一种成瘾行为，那他们究竟为什么流浪？</p><p><a class=\"timestamp\">16:54</a> 流浪者不但不是坏人，还时常被利用</p><p><a class=\"timestamp\">19:55</a> 其实没有原发性疾病的流浪者，比一般人还要长寿，那我们为什么非要改变他们？</p><p><a class=\"timestamp\">24:00</a> 反复的失败也是有意义的</p><p><a class=\"timestamp\">26:34</a> 如果你此生没有家，我祝愿你找到令自己心安的居所</p><br /><a href=\"https://oia.xiaoyuzhoufm.com/player/6a606338a3fec224d5a17d2b?openTranscript=true&amp;utm_source=rss&amp;as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&amp;autoOpen=false\">在小宇宙查看该单集文稿</a>",
@@ -694,6 +1282,19 @@
       "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
       "translation_provenance": "faster-whisper/small; batch=8; beam=1",
       "url": "https://www.xiaoyuzhoufm.com/episode/6a606338a3fec224d5a17d2b?utm_source=rss"
+    },
+    "yu-shi-fang::bilibili:BV1VeE2zHEx1": {
+      "attempts": 1,
+      "description": "",
+      "external_id": "bilibili:BV1VeE2zHEx1",
+      "last_attempt_at": "2026-07-28T15:44:45.593330+00:00",
+      "last_error": "DownloadError: ERROR: [BiliBili] 1VeE2zHEx1: Unable to download webpage: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)",
+      "published_at": "2026-07-28T15:44:45.312766+00:00",
+      "source_id": "yu-shi-fang",
+      "source_type": "bilibili",
+      "status": "failed",
+      "title": "BV1VeE2zHEx1",
+      "url": "https://www.bilibili.com/video/BV1VeE2zHEx1"
     },
     "yu-shi-fang::bilibili:BV1kXZBYPEZb": {
       "attempts": 1,
@@ -721,6 +1322,23 @@
       "title": "BV1X49QBNEC3",
       "url": "https://www.bilibili.com/video/BV1X49QBNEC3"
     },
+    "zhi-xing-xiao-jiu-guan::6a59d6f4a3fec224d59f07fe": {
+      "attempts": 1,
+      "description": "<img src=\"https://image.xyzcdn.net/Fl9TGJMIZCP2KpUfjHHe6OIU9xWb.JPEG\" /><p><strong>🍼 理解养育，也是理解曾经的自己。</strong></p><p>欢迎来到知行小酒馆，这是一档由 <a href=\"https://youzhiyouxing.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">有知有行</a> 出品的播客节目。我们关注投资，更关注怎样更好地生活，我是雨白。</p><p>今年你可能听过一个很火的词，「前额叶」，它经常出现在关于情绪、学习和专注力的讨论里。而这个词能在社交平台上被这么多人认识，很大程度上和我们今天的嘉宾有关。</p><p><strong>今天做客小酒馆的是杨雨坤。他正在奥地利攻读神经科学相关方向的博士，也是一位爸爸。</strong></p><p>很多人第一次认识他，可能是因为他在奥地利一边读博，一边带女儿生活；也可能是因为他用很通俗易懂的方式科普情绪、大脑，尤其是前额叶的运作机制。</p><p>刚拿到他这本新书<a href=\"https://book.douban.com/subject/38491107/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《为父则刚》</a>的时候，我觉得很不可思议，一个讲前额叶的人，怎么写了一本关于父职和亲子的书？</p><p>坦白来说，作为一个没有小孩的人，如果不是凭着这三分好奇，我可能不会打开这本书。但读完后我发现，这不是一本只写给家长看的书，也不只是一本讲「怎么带孩子」的书。它让人重新去思考：<strong>我究竟是如何长大的？</strong></p><p>这期节目也一样，并不只是给那些已经成为父母的人听的。哪怕你没有小孩，也没有生育计划，我仍然觉得这个话题和你有关。<strong>因为我们每个人都曾经是小孩，都曾在家庭、学校和社会给予的种种期待中长大。理解养育，很大程度上也是在理解自己。</strong></p><p>今天，我们会先从雨坤老师自己的经历聊起，聊聊带孩子这件事如何真实地改变了他，以及，从神经科学的角度来看，养育一个小孩，对于养育者本人和这个小孩来说，究竟意味着什么，譬如：</p><p><strong>带娃会对养育者的大脑带来哪些改变？小孩子们那些让人抓狂的「不听话」，究竟是怎么一回事？养育者对待孩子的方式，又会如何影响一个孩子的大脑以及 TA 理解自己的方式？</strong></p><p>希望这期节目，能够帮助你更加了解孩子，也重新理解那个曾是孩子的自己。</p><p>📖</p><p>欢迎在评论区分享你的想法或听后感，我们将抽选 5 位听友送出亲笔签名版《为父则刚》1本。抽奖截止时间：7 月 26 日</p><h2>🔗 官方地址</h2><p><a href=\"https://youzhiyouxing.cn/n/materials/2223\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">如果你所使用的客户端显示不全，请点此访问有知有行的官网查看全文</a></p><h2>🍻 本期嘉宾</h2><p><strong>杨雨坤：</strong>计算神经科学博士生，脑科学科普博主，《为父则刚》作者。小红书：<a href=\"https://xhslink.com/m/AMvwAXix86r\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">杨雨坤-Yukun</a></p><h2>🪡 时间轴</h2><p><a class=\"timestamp\">04:04</a> 兵荒马乱的 25 岁：结婚、成为爸爸、开启一人带娃读博的日子</p><p><a class=\"timestamp\">16:01</a> 「他只是做了一个爸爸该做的事」</p><p><a class=\"timestamp\">20:50</a> <strong>父母对孩子的爱不是天生的，它更像一种「沉没成本」</strong></p><p><a class=\"timestamp\">23:53</a> 不是「一孕傻三年」，而是「谁带娃谁傻三年」</p><p><a class=\"timestamp\">31:50</a> 养娃需要的不止是钱💰还有情绪、精力和时间</p><p><a class=\"timestamp\">37:44</a> <strong>人类这一物种全部的复杂性，都在一个孩童小小的身体中体现</strong></p><p><a class=\"timestamp\">42:19</a> 用自己的手按电梯、关抽屉，用自己的身体理解世界如何运作，人就是这样长大的</p><p><a class=\"timestamp\">52:04</a> 好奇心是写在人基因里的奖励函数，不破坏就是最好的保护</p><p><a class=\"timestamp\">01:01:18</a><strong>「家庭，是许多人第一次体验支配与被支配的地方」</strong></p><p><a class=\"timestamp\">01:05:06</a> 自证预言与罗森塔尔效应：「我几乎很少夸我女儿漂亮」</p><p><a class=\"timestamp\">01:16:30</a> <strong>成年人的大脑依然具有可塑性，你可以成为自己想成为的任何人</strong></p><h2>📑 猜你想看</h2><p><a class=\"timestamp\">09:31</a> 前额叶（Prefrontal Cortex）：涉及与计划相关的高层次认知活动、人格表现、作出决定的过程，以及调节社会活动、语言功能的某些方面等行为，能根据内在目标组织思考与行为。</p><p><a class=\"timestamp\">09:32</a> 杏仁核（Amygdala）：有调节内脏活动和产生情绪的功能。引发应急反应，让动物能够挺身而战或是逃离危险。杏仁核可以产生情绪激励，从而增强记忆，会让人注意到该次经验中最重要的细节。</p><p><a class=\"timestamp\">09:33</a> 海马体（Hippocampus）：参与人类记忆的存储活动，并在空间处理和导航方面发挥着重要作用。在阿兹海默病中，海马体是首先受到损伤的区域，表现症状为记忆力衰退以及方向知觉的丧失。</p><p><a class=\"timestamp\">12:58</a> 陈怡然：美国国家发明家学院院士，国际计算机学会会士，国际电气与电子工程师学会会士，杜克大学约翰·科克电气与计算机工程杰出教授。</p><p><a class=\"timestamp\">26:02</a> 皮质醇（Cortisol）：属于一种肾上腺皮质激素，具有促进肝糖原分解、糖异生，调节微循环和维持血压的作用，且有抗炎活性；由于在应付应激中扮演重要角色，故又称为「应激荷尔蒙」，会提高血压、血糖水平和产生免疫抑制作用。</p><p><a class=\"timestamp\">27:01</a> 脑雾：非医学诊断，主要指注意力涣散、健忘、思维迟缓或大脑一片混乱的主观状态。</p><p><a class=\"timestamp\">29:44</a> 小胶质细胞（Microglia）：是一种存在于脑与脊髓中的神经胶质细胞，是中枢神经系统中反应最快、也是最主要的免疫屏障，负责清除中枢神经系统中的神经炎性斑、病原体，以及损伤或无功能的神经元与轴突。</p><p><a class=\"timestamp\">30:43</a> 研究发现初为人母者在负责社会认知的脑区出现灰质体积减少，变化至少持续到产后两年。</p><blockquote><p>研究出处：Hoekzema E. et al., <a href=\"https://www.nature.com/articles/nn.4458\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">\"Pregnancy leads to long-lasting changes in human brain structure\"</a>, <em>Nature Neuroscience</em> 20, 287–296 (2017)。</p></blockquote><p>后有研究发现，密集参与育儿的父亲，大脑也出现类似变化。在两组国际样本中，初为人父者皮层灰质体积减少的趋势持续存在。</p><blockquote><p>研究出处： Martínez-García M. et al., <a href=\"https://academic.oup.com/cercor/article/33/7/4156/6691667\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">\"First-time fathers show longitudinal gray matter cortical volume reductions: evidence from two international samples\"</a>, <em>Cerebral Cortex</em> 33(7): 4156–4163 (2023)。</p></blockquote><p><a class=\"timestamp\">36:38</a> 突触修剪（Synaptic Pruning）：大脑在发育和成长过程中，为了提高信息处理效率，主动去除冗余神经元连接的生理机制。</p><p><a class=\"timestamp\">42:59</a> 秩序敏感期：指幼儿（通常是两岁前后）对事物特定的顺序、位置，和生活程序极度执着。若秩序被打破，幼儿常会出现强烈的哭闹或抗拒。</p><p><a class=\"timestamp\">50:01</a> 血清素（Serotonin）：一种单胺型神经递质，它参与情绪、认知、激励、学习、记忆等基本功能，同时也参与一些生理反应，如呕吐和血管收缩等。血清素在降低到需要数量以下时，人们就会出现注意力集中困难等问题，会间接影响个人计划和组织能力。</p><p><a class=\"timestamp\">50:02</a> 催产素（Oxytocin）：一种哺乳类动物激素，有助于减轻压力和缓解疼痛。个体在社会化过程中如长期挫折（尤其是在成年以前），将对催产素的形成造成不良影响，进而损害个人社会化能力。</p><p><a class=\"timestamp\">54:38</a> 多巴胺（Dopamine）：一种神经调控分子和单胺类神经递质，普遍认为多巴胺是产生愉悦的物质，但目前药理学研究认为多巴胺其实是记录诱因显著性的物质，即多巴胺表示对某个结果的欲望或厌恶，然后推动人去使它实现，或是避免它实现。</p><p><a class=\"timestamp\">58:09</a> 粉色大象理论：后抑制反弹效应，也被称为「粉红象悖论」或「白熊现象」。表明当一个人故意试图避免思考某种想法或感受某种情绪时，会产生自相矛盾的效果，试图回避不仅在目标上失败，而且实际上会导致思想或情绪更频繁、更强烈地发生。</p><blockquote><p>研究出处：Wegner D.M. et al., <a href=\"https://pubmed.ncbi.nlm.nih.gov/3612492/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">\"Paradoxical effects of thought suppression\"</a>, <em>Journal of Personality and Social Psychology</em> 53(1): 5–13 (1987)。</p></blockquote><p><a class=\"timestamp\">01:05:14</a> 自证预言：，指人「预测」或期待某事的社会心理现象，而这种「预测」或期望之所以成真，只是因为人相信或预期它会发生，并且人的由此产生的行为与实现该信念一致。表明人们的信念会影响 TA 们的行为。</p><p><a class=\"timestamp\">01:06:53</a> 罗森塔尔效应：又称「皮格马利翁效应」：一种心理现象，指对一个人给予的高期望会提高该人在特定领域的表现。</p><blockquote><p>研究出处：Rosenthal R. &amp; Jacobson L., <a href=\"https://people.wku.edu/steve.groce/RosenthalJacobson-PygmalionintheClassroom.pdf\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><em>Pygmalion in the Classroom: Teacher Expectation and Pupils' Intellectual Development</em></a> (1968)。</p></blockquote><p><a class=\"timestamp\">01:09:08</a> 性别平权程度与女性大脑结构的研究表明，基于来自 29 个不同国家的健康成年人的 7876 份核磁共振扫描数据，发现只有在性别不平等程度较高的国家，女性大脑右半球部分区域（尤其是边缘区域）的皮质厚度显著薄于男性。</p><blockquote><p>研究出处：Zugman A. et al., <a href=\"https://www.pnas.org/doi/10.1073/pnas.2218782120\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">\"Country-level gender inequality is associated with structural differences in the brains of women and men\"</a>, <em>Proc. Natl. Acad. Sci. U.S.A.</em> 120(20): e2218782120 (2023)</p></blockquote><p><a class=\"timestamp\">01:11:29</a> 习得性无助：人类会透过了解事物间的因果关系以及行为对周围造成的影响，学会如何适应环境。但假若一旦我们发觉这种因果关系不再存在，便会立刻觉得自己的所作所为没有意义，因为所作所为不能达到自己预期的效果，便会引起这种不良的心理状态。</p><blockquote><p>研究出处：Seligman M.E.P. &amp; Maier S.F., \"<a href=\"https://psych.hanover.edu/classes/learning/papers/seligman%20maier%201967.pdf\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Failure to escape traumatic shock\",</a> <em>Journal of Experimental Psychology</em> 74(1): 1–9 (1967)。</p><p>更正：经典实验的对象是狗。实验设计也并非「撤离玻璃」，而是将两组狗放到一个有障碍物的屋子里，遭受电击时可以通过跳过障碍物逃走。</p></blockquote><p><a class=\"timestamp\">01:15:33</a> 独抚母亲支持计划：由深圳壹基金公益协会支持的公益项目，为独自抚养未成年孩子的母亲（因离异、丧偶、未婚等原因）提供心理、养育、法律等支持服务。</p><p><strong>🎧 相关节目</strong></p><p><a href=\"https://www.xiaoyuzhoufm.com/episode/6780daac1bf3f0ab2b3d6d78\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">E173 家务、生育与婚恋选择，如何给现代家庭生活定价？</a></p><p><a href=\"https://www.xiaoyuzhoufm.com/episode/66597d9194977a26ef39080d\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">E141 做自己的小孩，让那个疲惫、爱付出的自己歇会儿吧（儿童节快乐！）</a></p><p><a href=\"https://www.xiaoyuzhoufm.com/episode/65f3bb1b696bd9a8794ec777\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">E131 我们这一代，要为「生」「育」付出多少钱、时间、机会成本？</a></p><h2>🌐 知行小酒馆公告牌</h2><p>📖 <strong>《中国大类资产投资 2025 年报》实体书首发预售</strong></p><p>一则好消息～陈鹏博士、有知有行和中信出版社一起合作的<strong>《中国大类资产投资 2025 年报》实体书</strong>，即将正式和大家见面。<strong>点击</strong><a href=\"https://item.jd.com/14748519.html\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><strong>链接</strong></a><strong>，即可了解详情。</strong>我们会在下单 1 周后安排预售发货，希望你会喜欢。</p><p>ps. 随书会附赠三张海报，是 SBBI 里的经典图表：一张是中国各类资产的长期收益曲线；一张是中国 A 股整体的滚动年化收益率图表；还有一张，是中国和美国各类资产风险溢价的叠砖图。</p><p><strong>🍻 我们是谁？</strong>「知行小酒馆」是 <a href=\"https://youzhiyouxing.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">有知有行</a> 出品的一档分享投资与生活的播客节目，每周五晚八点更新。我们关注投资理财，更关注怎样更好地生活。在我们看来，投资成功，是我们变成一个更好的人之后，自然的结果。</p><p><a href=\"https://youzhiyouxing.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">有知有行</a> 成立于 2020 年，目前在陪伴投资者用正确的方式学习投资，下场实操。凭借在投资领域的良好口碑，有知有行在初创阶段已与一大批忠实用户同行。未来我们希望成为一家财富管理公司，不仅帮助投资者学习投资，也能让大家在有知有行安心交易，踏实赚钱。<a href=\"https://youzhiyouxing.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">欢迎在「有知有行」社区 和我们互动交流</a>。</p><h2>🎺 创作团队</h2><p><strong>主持 </strong>雨白｜<strong>嘉宾 </strong>杨雨坤｜<strong>制作 </strong>周一｜<strong>后期</strong> 孙称｜<strong>单集封面 </strong>嘉宾供图</p>",
+      "external_id": "6a59d6f4a3fec224d59f07fe",
+      "item_slug": "zhi-xing-xiao-jiu-guan-9a10e7165f5e",
+      "language": "zh",
+      "published_at": "2026-07-17T12:00:00+00:00",
+      "published_to_feed_at": "2026-07-28T14:59:36.041110+00:00",
+      "source_id": "zhi-xing-xiao-jiu-guan",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "E243 对话杨雨坤：大脑会记得，我们是怎样长大的",
+      "title_zh": "E243 对话杨雨坤：大脑会记得，我们是怎样长大的",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a59d6f4a3fec224d59f07fe?utm_source=rss"
+    },
     "zhi-xing-xiao-jiu-guan::6a62ce226356eb2d9be786e0": {
       "attempts": 1,
       "description": "<img src=\"https://image.xyzcdn.net/lnWo90_LZp8oL2KsJFM3lNEKb5B5.jpg\" /><p><strong>🏃 在 48 岁，重新认识自己。</strong></p><p>欢迎来到知行小酒馆，这是一档由 <a href=\"https://youzhiyouxing.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">有知有行</a> 出品的播客节目。我们关注投资，更关注怎样更好地生活，我是雨白。</p><p><strong>今天来到小酒馆的嘉宾，是作家李筱懿。</strong></p><p>我和筱懿认识，是前老板脱不花帮忙牵的线。花姐告诉我，筱懿是小酒馆的老听众，几乎每一期节目都会听。</p><p>我当时很意外。我当然听说过《灵魂有香气的女子》，也知道它是一本畅销书，只是从来没有想过，有一天我会和这本书的作者坐下来聊天。第一次见面的时候，我有些忐忑。<strong>我以为自己会面对一位已经很习惯讲述自己成功经验的人。但真正聊起来以后，我惊讶于她的极度坦诚。</strong></p><p>2014 年，36 岁的筱懿离开了工作多年的报社。也是那一年，她的第一本书《灵魂有香气的女子》成为畅销书。后来，她开始创业，从一个人写作，慢慢走到带领一支团队做内容。</p><p>她和我讲起了创业后的起起伏伏，讲到公司曾估值高达三亿元，泡沫破裂后又重新开始，也讲到婚姻、抑郁、父母养老和女儿进入青春期。她没有试图美化自己，甚至连那些仍然困扰着的、自己也还没有完全想明白的事情，都愿意摊开来聊。</p><p>后来我才意识到，因为她已经听过很多期小酒馆，所以在我们真正认识以前，她就已经熟悉这里的对话，也对这个节目以及对耳机另一端的听友，有了一份信任。</p><p>这也让我格外期待今天这场对话。我不想为你讲述一个大女主逆袭故事，而是想要和你一起，真正走进她的选择：<strong>那些她生命中的关键决策是怎样发生的？这些年，她曾经相信的事情发生了什么变化？当一个长期给父母、孩子、团队和读者提供支持的人自己失去了能量，她是怎样重新找回力量的？</strong></p><p>在录制中，她不断拆解那个看起来很漂亮的成功故事：其中有多少偶然和幸运，又付出过什么代价。她还讲到了，为什么此时此刻，<strong>48 岁的李筱懿，不再想做一个更高、更快、更强的人。</strong></p><p>与其说这是一场对作家李筱懿的访谈，它更像是一位听了小酒馆很久的听众，第一次坐到话筒另一边，把她这些年真实经历过的人生讲给我们听。</p><p>这是一场有很多笑声，也有很多眼泪的聊天。接下来，让我们进入这场对话。</p><h2>🔗 官方地址</h2><p><a href=\"https://youzhiyouxing.cn/n/materials/2230\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">如果你所使用的客户端显示不全，请点此访问有知有行的官网查看全文</a></p><h2>🍻 本期嘉宾</h2><p><strong>李筱懿：</strong>作家、文化媒体人，「灵魂有香气的女子」IP 创始人，「李筱懿」个人 IP 拥有者。代表作：《灵魂有香气的女子》《情商是什么》等。作品被翻译成英、日、韩等多国语言，在世界范围，吸引 2700 万读者与用户。</p><h2>🪡 时间轴</h2><p><a class=\"timestamp\">05:23</a> 离婚、失业、东山再起：<strong>一个糊涂的 36 岁女人，试图让生活有新的可能性</strong></p><p><a class=\"timestamp\">11:23</a> 自媒体盛年，公司估值从 3000 万跳至 3 个亿：难道我就是天选之子？</p><p><a class=\"timestamp\">15:39</a> 密不透风的中年生活：父母、女儿、职场，生活从方方面面向我提出要求</p><p><a class=\"timestamp\">21:42</a> <strong>我厌倦了「更高更快更强」，人活着就必须向上、必须吃生活的苦吗？</strong></p><p><a class=\"timestamp\">27:37</a>「所谓女性成长，其实更像抱团取暖」</p><p><a class=\"timestamp\">37:06</a> 拿回叙事权和主体性的这条路，我走了 48 年</p><p><a class=\"timestamp\">41:34</a> 管理就是激发人的善意：<strong>「别的不说了，钱是女人的胆」</strong></p><p><a class=\"timestamp\">48:33</a> 先卷自己：这个团队的负责人是你啊，你为什么要让打工人操你老板的心呢？</p><p><a class=\"timestamp\">58:42</a> 假装是很消耗人的，我与其假装，不如真的去做点我喜欢的事</p><p><a class=\"timestamp\">01:06:54</a> <strong>一个拥抱 ❤️🫂🌞👍</strong></p><h2>📑 猜你想看</h2><p><a class=\"timestamp\">05:27</a> 张幼仪：银行家、企业家。与第一任丈夫徐志摩离婚后赴德留学，回国后接管经营上海女子商业储蓄银行，任副总裁；并开办云裳服装公司，任总经理。</p><p><a class=\"timestamp\">11:46</a> 吴晓波：财经作家、企业家，哈佛大学访问学者，「蓝狮子」财经图书出版人。</p><p><a class=\"timestamp\">13:12</a> 玛莎·斯图尔特（Martha Stewart）：美国生活方式品牌创始人，被称为「家政女王」。她曾是美国最早的女性股票经纪人之一，回归乡野后她与朋友合办了一家餐饮企业，随后出版《娱乐》（<em>Entertaining）</em>正式进入媒体行业。1991 年，她与时代出版集团合作，推出自己同名的家居顾问杂志《玛莎·斯图尔特生活》（Martha Stewart Living），把个人品牌做成媒体加零售的商业体系。相关纪录片：<a href=\"https://movie.douban.com/subject/37022959/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《玛莎·斯图尔特自传》</a></p><p><a class=\"timestamp\">27:19</a> 许倬云：历史学家，著有《往里走，安顿自己》《万古江河》等。</p><p><a class=\"timestamp\">35:36</a> 嘉宾和团队的合影（嘉宾供图）：</p><img src=\"https://image.xyzcdn.net/FkI4lBSENlhLGsBjtBfPa4heMopK.jpg\" /><p><a class=\"timestamp\">36:02</a> 嘉宾和陪伴了自己十几年的大李姐（嘉宾供图）：</p><img src=\"https://image.xyzcdn.net/FlsFHcF0310XLIzAphHbjEhYcBWA.jpg\" /><p><a class=\"timestamp\">39:39</a> 侯小强：出版人、内容创业者。曾任新浪网副总编辑，盛大文学 CEO，后创办毒药 App。</p><p><a class=\"timestamp\">51:20</a> 彼得·德鲁克（Peter Drucker）：现代管理学奠基者，著有<a href=\"https://book.douban.com/subject/1457028/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《管理的实践》</a><a href=\"https://book.douban.com/subject/1322025/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《卓有成效的管理者》</a>等。</p><p><a class=\"timestamp\">01:02:55</a> 指 19 世纪初英国的卢德运动（Luddite Movement），由于工业革命运用机器大量取代人力劳作，使得许多手工工人失业，工人通过捣毁机器等方式抗议资本家压低工资、恶化劳动条件。</p><p><strong>🎧 相关节目</strong></p><p><a href=\"https://www.xiaoyuzhoufm.com/episode/6a0ffa80e59ebca9361c8451\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">E236 从时间管理到爱你自己：我们如何停止和自己较劲？</a></p><p><a href=\"https://www.xiaoyuzhoufm.com/episode/6932839b4ef12f9fe90cbbba\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">E215 对话欧阳应霁：生活可以没意义，但绝不能没意思</a></p><p><a href=\"https://www.xiaoyuzhoufm.com/episode/671071b2db2cf82757d2301a\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">E161 人生大决策，女性如何选？让这些性别视角的经济学研究，带你超越周期</a></p><p><a href=\"https://www.xiaoyuzhoufm.com/episode/660f70fb4f66d1c1da1df532\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">E134 对话陆晓娅：70 岁的人生就像开卷考试，答案都在手心里</a></p><p><a href=\"https://www.xiaoyuzhoufm.com/episode/6441d6789361a4e7c316d68c\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">E84 对话杨天楠：人到中年，如何防止生活被击穿？</a></p><p><strong>📖 相关书籍</strong></p><p><a href=\"https://book.douban.com/subject/25802595/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《灵魂有香气的女子》</a>｜李筱懿</p><p><a href=\"https://book.douban.com/subject/36524231/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《情绪自由》</a>｜李筱懿</p><p><a href=\"https://book.douban.com/subject/1141406/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《简·爱》</a>｜[英] 夏洛蒂·勃朗特</p><p><a href=\"https://book.douban.com/subject/1068920/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《飘》</a>｜[美] 玛格丽特·米切尔</p><p><a href=\"https://book.douban.com/subject/1666369/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《梦的衣裳》</a>｜琼瑶</p><p><a href=\"https://book.douban.com/subject/36020007/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《暮色将尽》</a>｜[英] 戴安娜·阿西尔</p><p><a href=\"https://book.douban.com/subject/36818389/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《初老的女人》</a>｜[日] 伊藤比吕美</p><p><a href=\"https://book.douban.com/subject/35907571/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《闭经记》</a>｜[日] 伊藤比吕美</p><h2>🌐 知行小酒馆公告牌</h2><p>📖 <strong>《中国大类资产投资 2025 年报》实体书首发预售</strong></p><p>一则好消息～陈鹏博士、有知有行和中信出版社一起合作的<strong>《中国大类资产投资 2025 年报》实体书</strong>，即将正式和大家见面。<a href=\"https://item.jd.com/14748519.html\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><strong>点击链接</strong></a><strong>，即可了解详情。</strong>我们会在下单 1 周后安排预售发货，希望你会喜欢。</p><p>ps. 随书会附赠三张海报，是 SBBI 里的经典图表：一张是中国各类资产的长期收益曲线；一张是中国 A 股整体的滚动年化收益率图表；还有一张，是中国和美国各类资产风险溢价的叠砖图。</p><p><strong>🍻 我们是谁？</strong>「知行小酒馆」是 <a href=\"https://youzhiyouxing.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">有知有行</a> 出品的一档分享投资与生活的播客节目，每周五晚八点更新。我们关注投资理财，更关注怎样更好地生活。在我们看来，投资成功，是我们变成一个更好的人之后，自然的结果。</p><p><a href=\"https://youzhiyouxing.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">有知有行</a> 成立于 2020 年，目前在陪伴投资者用正确的方式学习投资，下场实操。凭借在投资领域的良好口碑，有知有行在初创阶段已与一大批忠实用户同行。未来我们希望成为一家财富管理公司，不仅帮助投资者学习投资，也能让大家在有知有行安心交易，踏实赚钱。<a href=\"https://youzhiyouxing.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">欢迎在「有知有行」社区 和我们互动交流</a>。</p><h2>🎺 创作团队</h2><p><strong>主持 </strong>雨白｜<strong>嘉宾 </strong>李筱懿｜<strong>制作 </strong>周一 星星｜<strong>后期</strong> 孙称｜<strong>单集封面 </strong>嘉宾供图</p><p></p><p><strong>免责声明</strong></p><p>本播客所述投资相关内容皆以交流分享为目的，仅供参考，不构成任何市场预测、判断，或投资、咨询建议。市场有风险，投资需谨慎。主持人及嘉宾对投资相关内容的准确性、可靠性、时效性及完整性不作任何明示或暗示的保证，并提醒您对相关内容请结合自身情况进行独立评估，依据或使用相关内容所造成的后果由您独自承担。</p><p>感谢您对本播客原创内容的青睐。如转载或引用本播客所述内容，请注明出处。转载前请与有知有行联系并取得同意。</p>",
@@ -742,72 +1360,80 @@
   "sources": {
     "ai-wei-qi-vic": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:46:07.072506+00:00",
+      "last_attempt_at": "2026-07-28T15:34:29.239192+00:00",
+      "last_checked_at": "2026-07-28T15:34:28.441786+00:00",
+      "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 1751550967: Request is blocked by server (412), please wait and try later.",
       "title": "ai-wei-qi-vic",
       "type": "bilibili",
       "url": "https://space.bilibili.com/1751550967"
     },
     "an-zhou-mu": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:53:25.126301+00:00",
+      "last_checked_at": "2026-07-28T15:41:28.140925+00:00",
       "title": "an-zhou-mu",
       "type": "bilibili",
       "url": "https://space.bilibili.com/7481602"
     },
     "bi-dao": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:55:27.429555+00:00",
+      "last_attempt_at": "2026-07-28T15:44:58.022906+00:00",
+      "last_checked_at": "2026-07-28T15:44:57.240634+00:00",
+      "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 254463269: Request is blocked by server (412), please wait and try later.",
       "title": "bi-dao",
       "type": "bilibili",
       "url": "https://space.bilibili.com/254463269"
     },
     "bu-shua-ti-de-wu-lao-lao": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:54:22.830420+00:00",
+      "last_attempt_at": "2026-07-28T15:42:31.285737+00:00",
+      "last_checked_at": "2026-07-28T15:42:30.465186+00:00",
+      "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 395877542: Request is blocked by server (412), please wait and try later.",
       "title": "bu-shua-ti-de-wu-lao-lao",
       "type": "bilibili",
       "url": "https://space.bilibili.com/395877542"
     },
     "chi-zao-geng-xin": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T11:59:40.515588+00:00",
-      "last_modified": "Tue, 28 Jul 2026 11:39:44 GMT",
+      "last_checked_at": "2026-07-28T15:00:31.184420+00:00",
+      "last_modified": "Tue, 28 Jul 2026 14:42:58 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T11:53:04.559460+00:00",
+      "last_checked_at": "2026-07-28T14:52:56.990973+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
     },
     "doc-snipes": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:38:43.756886+00:00",
+      "last_checked_at": "2026-07-28T15:26:38.625540+00:00",
       "title": "Doc Snipes",
       "type": "youtube",
       "url": "https://www.youtube.com/@DocSnipes/videos"
     },
     "du-su-juan-liao-wen-xue": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:57:37.543645+00:00",
+      "last_attempt_at": "2026-07-28T15:46:58.512772+00:00",
+      "last_checked_at": "2026-07-28T15:46:57.703178+00:00",
+      "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 84102036: Request is rejected by server (352)",
       "title": "du-su-juan-liao-wen-xue",
       "type": "bilibili",
       "url": "https://space.bilibili.com/84102036"
     },
     "er-hei-hei-a": {
       "force_refresh": true,
-      "last_attempt_at": "2026-07-28T12:45:21.561967+00:00",
-      "last_checked_at": "2026-07-28T12:45:20.867760+00:00",
-      "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 3494381176752600: Request is rejected by server (352)",
+      "last_attempt_at": "2026-07-28T16:18:58.568763+00:00",
+      "last_checked_at": "2026-07-28T16:18:57.789878+00:00",
+      "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 3494381176752600: Request is blocked by server (412), please wait and try later.",
       "type": "bilibili",
       "url": "https://space.bilibili.com/3494381176752600"
     },
     "fang-si-ta-fu": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:40:05.476010+00:00",
+      "last_checked_at": "2026-07-28T15:30:21.418168+00:00",
       "title": "芳斯塔芙",
       "type": "youtube",
       "url": "https://www.youtube.com/@Funstuff2018/videos"
@@ -815,117 +1441,119 @@
     "feng-tou-quan": {
       "etag": "W/\"1f09cb64f169970f81c46de3c3a9f6c9\"",
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T11:40:44.418242+00:00",
+      "last_checked_at": "2026-07-28T14:43:01.259996+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:02:32.975225+00:00",
+      "last_checked_at": "2026-07-28T15:01:57.824546+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
     },
     "gao-qian-nu-hai": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T11:40:50.834940+00:00",
+      "last_checked_at": "2026-07-28T14:43:16.907766+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "han-yu-chen": {
       "force_refresh": true,
-      "last_attempt_at": "2026-07-28T12:59:44.522419+00:00",
-      "last_checked_at": "2026-07-28T12:59:43.627958+00:00",
-      "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 697164824: Request is rejected by server (352)",
+      "last_attempt_at": "2026-07-28T15:48:32.503628+00:00",
+      "last_checked_at": "2026-07-28T15:48:31.669333+00:00",
+      "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 697164824: Request is blocked by server (412), please wait and try later.",
       "type": "bilibili",
       "url": "https://space.bilibili.com/697164824"
     },
     "he-da-ji-chu-yi-xue-yuan-ding-yong": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:52:15.739537+00:00",
+      "last_checked_at": "2026-07-28T15:40:28.197453+00:00",
       "title": "he-da-ji-chu-yi-xue-yuan-ding-yong",
       "type": "bilibili",
       "url": "https://space.bilibili.com/510028707"
     },
     "he-pan-de-bo-jue": {
       "force_refresh": true,
-      "last_attempt_at": "2026-07-28T12:51:09.874976+00:00",
-      "last_checked_at": "2026-07-28T12:51:08.960352+00:00",
-      "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 1596926736: Request is blocked by server (412), please wait and try later.",
+      "last_attempt_at": "2026-07-28T15:39:36.957950+00:00",
+      "last_checked_at": "2026-07-28T15:39:36.106006+00:00",
+      "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 1596926736: Request is rejected by server (352)",
       "type": "bilibili",
       "url": "https://space.bilibili.com/1596926736"
     },
     "hu-feng-nan-du": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:46:33.644517+00:00",
+      "last_attempt_at": "2026-07-28T15:34:49.944447+00:00",
+      "last_checked_at": "2026-07-28T15:34:49.045913+00:00",
+      "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 9341526: Request is blocked by server (412), please wait and try later.",
       "title": "hu-feng-nan-du",
       "type": "bilibili",
       "url": "https://space.bilibili.com/9341526"
     },
     "ji-bu-zhu-up": {
       "force_refresh": true,
-      "last_attempt_at": "2026-07-28T13:00:24.875238+00:00",
-      "last_checked_at": "2026-07-28T13:00:24.246507+00:00",
+      "last_attempt_at": "2026-07-28T15:50:22.277765+00:00",
+      "last_checked_at": "2026-07-28T15:50:21.494194+00:00",
       "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 1433934891: Request is blocked by server (412), please wait and try later.",
       "type": "bilibili",
       "url": "https://space.bilibili.com/1433934891"
     },
     "ji-wei-yi": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:49:10.554332+00:00",
+      "last_checked_at": "2026-07-28T15:37:09.683227+00:00",
       "title": "ji-wei-yi",
       "type": "bilibili",
       "url": "https://space.bilibili.com/1824543376"
     },
     "jia-you-sheng-xuan": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:55:47.110094+00:00",
+      "last_checked_at": "2026-07-28T15:43:23.947300+00:00",
       "title": "jia-you-sheng-xuan",
       "type": "bilibili",
       "url": "https://space.bilibili.com/483784677"
     },
     "jin-ji-de-kong-kong": {
       "force_refresh": true,
-      "last_attempt_at": "2026-07-28T12:53:12.708460+00:00",
-      "last_checked_at": "2026-07-28T12:53:11.984503+00:00",
+      "last_attempt_at": "2026-07-28T15:40:49.037961+00:00",
+      "last_checked_at": "2026-07-28T15:40:48.243889+00:00",
       "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 381389914: Request is blocked by server (412), please wait and try later.",
       "type": "bilibili",
       "url": "https://space.bilibili.com/381389914"
     },
     "knowledge-project-podcast": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:39:08.898929+00:00",
+      "last_checked_at": "2026-07-28T15:28:16.679210+00:00",
       "title": "The Knowledge Project Podcast",
       "type": "youtube",
       "url": "https://www.youtube.com/@tkppodcast/videos"
     },
     "kurzgesagt": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:37:42.269353+00:00",
+      "last_checked_at": "2026-07-28T15:24:13.195133+00:00",
       "title": "Kurzgesagt – In a Nutshell",
       "type": "youtube",
       "url": "https://www.youtube.com/@kurzgesagt/videos"
     },
     "lang-hua-jiang": {
       "force_refresh": true,
-      "last_attempt_at": "2026-07-28T12:58:20.061665+00:00",
-      "last_checked_at": "2026-07-28T12:58:19.360439+00:00",
+      "last_attempt_at": "2026-07-28T15:47:20.798814+00:00",
+      "last_checked_at": "2026-07-28T15:47:19.985174+00:00",
       "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 102584256: Request is blocked by server (412), please wait and try later.",
       "type": "bilibili",
       "url": "https://space.bilibili.com/102584256"
     },
     "lao-mo": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:28:20.120226+00:00",
+      "last_checked_at": "2026-07-28T15:21:19.960124+00:00",
       "title": "老陌",
       "type": "youtube",
       "url": "https://www.youtube.com/@LaoMo666/videos"
     },
     "li-shi-diao-yan-shi": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:48:49.715734+00:00",
+      "last_checked_at": "2026-07-28T15:36:43.597183+00:00",
       "title": "li-shi-diao-yan-shi",
       "type": "bilibili",
       "url": "https://space.bilibili.com/519872016"
@@ -933,44 +1561,45 @@
     "lin-tai-ling": {
       "force_refresh": true,
       "last_attempt_at": "2026-07-28T12:50:05.370532+00:00",
-      "last_checked_at": "2026-07-28T12:50:04.545774+00:00",
+      "last_checked_at": "2026-07-28T15:38:09.371683+00:00",
       "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 243590309: Request is blocked by server (412), please wait and try later.",
+      "title": "lin-tai-ling",
       "type": "bilibili",
       "url": "https://space.bilibili.com/243590309"
     },
     "liu-ceng-lou-xian-sheng": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:51:55.090535+00:00",
+      "last_checked_at": "2026-07-28T15:39:48.432025+00:00",
       "title": "liu-ceng-lou-xian-sheng",
       "type": "bilibili",
       "url": "https://space.bilibili.com/103388721"
     },
     "luan-fan-shu": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T11:40:29.509152+00:00",
+      "last_checked_at": "2026-07-28T14:43:14.660539+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
     },
     "luo-xiang": {
       "force_refresh": true,
-      "last_attempt_at": "2026-07-28T12:44:45.503759+00:00",
-      "last_checked_at": "2026-07-28T12:44:44.758190+00:00",
+      "last_attempt_at": "2026-07-28T15:33:52.556795+00:00",
+      "last_checked_at": "2026-07-28T15:33:51.953946+00:00",
       "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 517327498: Request is blocked by server (412), please wait and try later.",
       "type": "bilibili",
       "url": "https://space.bilibili.com/517327498"
     },
     "mai-pian-xiao-jin-mao": {
       "force_refresh": true,
-      "last_attempt_at": "2026-07-28T12:50:30.528400+00:00",
-      "last_checked_at": "2026-07-28T12:50:29.810010+00:00",
+      "last_attempt_at": "2026-07-28T15:38:29.087856+00:00",
+      "last_checked_at": "2026-07-28T15:38:28.255411+00:00",
       "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 7226269: Request is blocked by server (412), please wait and try later.",
       "type": "bilibili",
       "url": "https://space.bilibili.com/7226269"
     },
     "nan-ban-qiu-liao-cai-jing": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:43:42.262686+00:00",
+      "last_checked_at": "2026-07-28T15:32:22.352045+00:00",
       "title": "南半球聊财经",
       "type": "youtube",
       "url": "https://www.youtube.com/@%E5%8D%97%E5%8D%8A%E7%90%83%E8%81%8A%E8%B4%A2%E7%BB%8F/videos"
@@ -978,7 +1607,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:08:06.258212+00:00",
+      "last_checked_at": "2026-07-28T15:05:19.108368+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -986,21 +1615,23 @@
     },
     "psych2go": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:38:07.517985+00:00",
+      "last_checked_at": "2026-07-28T15:25:18.236065+00:00",
       "title": "Psych2Go",
       "type": "youtube",
       "url": "https://www.youtube.com/@Psych2go/videos"
     },
     "pursuit-of-wonder": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:40:00.462547+00:00",
+      "last_checked_at": "2026-07-28T15:29:42.186408+00:00",
       "title": "Pursuit of Wonder",
       "type": "youtube",
       "url": "https://www.youtube.com/@PursuitofWonder/videos"
     },
     "sai-bo-shi-lu": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:48:05.043654+00:00",
+      "last_attempt_at": "2026-07-28T15:35:48.935071+00:00",
+      "last_checked_at": "2026-07-28T15:35:48.032935+00:00",
+      "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 1937308559: Request is blocked by server (412), please wait and try later.",
       "title": "sai-bo-shi-lu",
       "type": "bilibili",
       "url": "https://space.bilibili.com/1937308559"
@@ -1008,7 +1639,7 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"89170e4dafa61f6b36a184ede94037c5\"",
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T11:59:12.044218+00:00",
+      "last_checked_at": "2026-07-28T14:59:44.515648+00:00",
       "last_modified": "Thu, 16 Jul 2026 10:30:05 GMT",
       "title": "声东击西",
       "type": "podcast",
@@ -1017,7 +1648,7 @@
     "silicon-valley-101": {
       "etag": "W/\"76fa0f5dc1504082900e03a803ae4f5a\"",
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:32:51.949405+00:00",
+      "last_checked_at": "2026-07-28T14:50:50.615890+00:00",
       "last_modified": "Fri, 24 Jul 2026 00:29:08 GMT",
       "title": "硅谷101",
       "type": "podcast",
@@ -1025,7 +1656,7 @@
     },
     "statquest": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:41:05.819813+00:00",
+      "last_checked_at": "2026-07-28T15:30:44.947306+00:00",
       "title": "StatQuest with Josh Starmer",
       "type": "youtube",
       "url": "https://www.youtube.com/@statquest/videos"
@@ -1033,7 +1664,7 @@
     "streamlined-solopreneur": {
       "etag": "W/\"77a947d22e738f1db851eb91d9b4dc79\"",
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:25:40.337765+00:00",
+      "last_checked_at": "2026-07-28T15:17:02.143098+00:00",
       "last_modified": "Tue, 28 Jul 2026 06:01:32 GMT",
       "title": "Streamlined Solopreneur: Systems for Overwhelmed Coaches, Consultants, and Service Providers Who Want Their Time Back",
       "type": "podcast",
@@ -1042,7 +1673,7 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"5f41e147d994741954a190dd0d5ab48c\"",
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T11:50:55.377103+00:00",
+      "last_checked_at": "2026-07-28T14:56:20.297589+00:00",
       "last_modified": "Wed, 22 Jul 2026 04:15:05 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
@@ -1050,14 +1681,14 @@
     },
     "tangshan-laowang": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:41:22.713029+00:00",
+      "last_checked_at": "2026-07-28T15:30:36.289627+00:00",
       "title": "汤山老王",
       "type": "youtube",
       "url": "https://www.youtube.com/@tangshanlaowang/videos"
     },
     "ted": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:42:17.613804+00:00",
+      "last_checked_at": "2026-07-28T15:31:40.536963+00:00",
       "title": "TED",
       "type": "youtube",
       "url": "https://www.youtube.com/@TED/videos"
@@ -1065,7 +1696,7 @@
     "the-a16z-show": {
       "etag": "W/\"cacb636eec303f69f76e8da09b4e311d\"",
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:05:39.903609+00:00",
+      "last_checked_at": "2026-07-28T15:50:06.453096+00:00",
       "last_modified": "Tue, 28 Jul 2026 10:00:27 GMT",
       "title": "The a16z Show",
       "type": "podcast",
@@ -1073,8 +1704,8 @@
     },
     "the-investors-podcast": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:10:32.900888+00:00",
-      "last_modified": "Tue, 28 Jul 2026 12:07:26 GMT",
+      "last_checked_at": "2026-07-28T15:07:52.119802+00:00",
+      "last_modified": "Tue, 28 Jul 2026 14:52:50 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
       "url": "https://feeds.megaphone.fm/PPLLC8974708240"
@@ -1082,7 +1713,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"87f9b1e867072294b70e540422c8b4a8\"",
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:27:53.555056+00:00",
+      "last_checked_at": "2026-07-28T15:18:36.217732+00:00",
       "last_modified": "Thu, 23 Jul 2026 09:35:47 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -1090,7 +1721,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:55:28.457229+00:00",
+      "last_checked_at": "2026-07-28T15:11:44.643395+00:00",
       "last_modified": "Wed, 22 Jul 2026 21:13:22 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -1098,21 +1729,21 @@
     },
     "three-blue-one-brown": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:42:47.477473+00:00",
+      "last_checked_at": "2026-07-28T15:32:48.679659+00:00",
       "title": "3Blue1Brown",
       "type": "youtube",
       "url": "https://www.youtube.com/@3blue1brown/videos"
     },
     "veritasium": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:43:50.484644+00:00",
+      "last_checked_at": "2026-07-28T15:33:11.693121+00:00",
       "title": "Veritasium",
       "type": "youtube",
       "url": "https://www.youtube.com/@veritasium/videos"
     },
     "xiao-lin-shuo": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T13:14:08.118276+00:00",
+      "last_checked_at": "2026-07-28T15:22:41.698223+00:00",
       "title": "小Lin说",
       "type": "youtube",
       "url": "https://www.youtube.com/@xiao_lin_shuo/videos"
@@ -1120,71 +1751,75 @@
     "xiao-yue-han-ke-han": {
       "force_refresh": true,
       "last_attempt_at": "2026-07-28T13:00:50.547012+00:00",
-      "last_checked_at": "2026-07-28T13:00:49.578032+00:00",
+      "last_checked_at": "2026-07-28T15:49:44.534211+00:00",
       "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 23947287: Request is blocked by server (412), please wait and try later.",
+      "title": "xiao-yue-han-ke-han",
       "type": "bilibili",
       "url": "https://space.bilibili.com/23947287"
     },
     "yan-su-de-xia-mi": {
       "force_refresh": true,
       "last_attempt_at": "2026-07-28T12:54:22.664795+00:00",
-      "last_checked_at": "2026-07-28T12:54:21.745357+00:00",
+      "last_checked_at": "2026-07-28T15:42:02.165739+00:00",
       "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 1380778806: Request is blocked by server (412), please wait and try later.",
+      "title": "yan-su-de-xia-mi",
       "type": "bilibili",
       "url": "https://space.bilibili.com/1380778806"
     },
     "yan-zhong-hua-shu": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T11:40:30.873314+00:00",
+      "last_checked_at": "2026-07-28T14:43:13.784785+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T11:56:23.369228+00:00",
+      "last_checked_at": "2026-07-28T14:58:33.745353+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "ying-ping-ren-mao-jian": {
       "force_refresh": true,
-      "last_attempt_at": "2026-07-28T12:57:05.554843+00:00",
-      "last_checked_at": "2026-07-28T12:57:04.867945+00:00",
+      "last_attempt_at": "2026-07-28T15:45:52.451013+00:00",
+      "last_checked_at": "2026-07-28T15:45:51.577380+00:00",
       "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 3546393683691534: Request is blocked by server (412), please wait and try later.",
       "type": "bilibili",
       "url": "https://space.bilibili.com/3546393683691534"
     },
     "yong-gan-de-yong": {
       "force_refresh": true,
-      "last_attempt_at": "2026-07-28T12:47:51.993210+00:00",
-      "last_checked_at": "2026-07-28T12:47:51.297073+00:00",
-      "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 35762548: Request is blocked by server (412), please wait and try later.",
+      "last_attempt_at": "2026-07-28T15:35:28.114982+00:00",
+      "last_checked_at": "2026-07-28T15:35:27.230136+00:00",
+      "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 35762548: Request is rejected by server (352)",
       "type": "bilibili",
       "url": "https://space.bilibili.com/35762548"
     },
     "yu-shi-fang": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:56:33.977604+00:00",
+      "last_checked_at": "2026-07-28T15:44:44.317932+00:00",
       "title": "yu-shi-fang",
       "type": "bilibili",
       "url": "https://space.bilibili.com/34264408"
     },
     "zheng-shuo-qing-dai-shi-er-chao": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T12:58:59.244995+00:00",
+      "last_attempt_at": "2026-07-28T15:48:17.874384+00:00",
+      "last_checked_at": "2026-07-28T15:48:17.050104+00:00",
+      "last_error": "DownloadError: ERROR: [BilibiliSpaceVideo] 1457639978: Request is blocked by server (412), please wait and try later.",
       "title": "zheng-shuo-qing-dai-shi-er-chao",
       "type": "bilibili",
       "url": "https://space.bilibili.com/1457639978"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": true,
-      "last_checked_at": "2026-07-28T11:49:57.486466+00:00",
+      "last_checked_at": "2026-07-28T14:51:25.356177+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-07-28T13:16:53.190888+00:00",
+  "updated_at": "2026-07-28T16:19:34.101765+00:00",
   "version": 1
 }
