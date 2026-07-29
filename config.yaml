@@ -174,7 +174,7 @@ sources:
 
   - id: "lao-mo"
     type: "youtube"
-    url: "https://www.youtube.com/@LaoMo666/videos"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCyaQwmb8Rf1fTYxziB7bGbg"
     language: "auto"
     enabled: true
     max_items_per_run: 1
@@ -182,7 +182,7 @@ sources:
 
   - id: "xiao-lin-shuo"
     type: "youtube"
-    url: "https://www.youtube.com/@xiao_lin_shuo/videos"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCilwQlk62k1z7aUEZPOB6yw"
     language: "auto"
     enabled: true
     max_items_per_run: 1
@@ -190,7 +190,7 @@ sources:
 
   - id: "kurzgesagt"
     type: "youtube"
-    url: "https://www.youtube.com/@kurzgesagt/videos"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q"
     language: "auto"
     enabled: true
     max_items_per_run: 1
@@ -198,7 +198,7 @@ sources:
 
   - id: "psych2go"
     type: "youtube"
-    url: "https://www.youtube.com/@Psych2go/videos"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCkJEpR7JmS36tajD34Gp4VA"
     language: "auto"
     enabled: true
     max_items_per_run: 1
@@ -206,7 +206,7 @@ sources:
 
   - id: "doc-snipes"
     type: "youtube"
-    url: "https://www.youtube.com/@DocSnipes/videos"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCAE3JJi8tX7gfhZEXCUGd_A"
     language: "auto"
     enabled: true
     max_items_per_run: 1
@@ -214,7 +214,7 @@ sources:
 
   - id: "knowledge-project-podcast"
     type: "youtube"
-    url: "https://www.youtube.com/@tkppodcast/videos"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCLtTf_uKt0Itd0NG7txrwXA"
     language: "auto"
     enabled: true
     max_items_per_run: 1
@@ -222,7 +222,7 @@ sources:
 
   - id: "pursuit-of-wonder"
     type: "youtube"
-    url: "https://www.youtube.com/@PursuitofWonder/videos"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC-tLyAaPbRZiYrOJxAGB7dQ"
     language: "auto"
     enabled: true
     max_items_per_run: 1
@@ -230,7 +230,7 @@ sources:
 
   - id: "fang-si-ta-fu"
     type: "youtube"
-    url: "https://www.youtube.com/@Funstuff2018/videos"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UClLEMac0ZjZCsVOTiaBtJBg"
     language: "auto"
     enabled: true
     max_items_per_run: 1
@@ -238,7 +238,7 @@ sources:
 
   - id: "tangshan-laowang"
     type: "youtube"
-    url: "https://www.youtube.com/@tangshanlaowang/videos"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCtRJS7qkLIkW7Xdljeaqk8Q"
     language: "auto"
     enabled: true
     max_items_per_run: 1
@@ -246,7 +246,7 @@ sources:
 
   - id: "statquest"
     type: "youtube"
-    url: "https://www.youtube.com/@statquest/videos"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCtYLUTtgS3k1Fg4y5tAhLbw"
     language: "auto"
     enabled: true
     max_items_per_run: 1
@@ -254,7 +254,7 @@ sources:
 
   - id: "ted"
     type: "youtube"
-    url: "https://www.youtube.com/@TED/videos"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug"
     language: "auto"
     enabled: true
     max_items_per_run: 1
@@ -262,7 +262,7 @@ sources:
 
   - id: "three-blue-one-brown"
     type: "youtube"
-    url: "https://www.youtube.com/@3blue1brown/videos"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw"
     language: "auto"
     enabled: true
     max_items_per_run: 1
@@ -270,7 +270,7 @@ sources:
 
   - id: "nan-ban-qiu-liao-cai-jing"
     type: "youtube"
-    url: "https://www.youtube.com/@%E5%8D%97%E5%8D%8A%E7%90%83%E8%81%8A%E8%B4%A2%E7%BB%8F/videos"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCAH-NTSIOGRCix0yibcyeNQ"
     language: "auto"
     enabled: true
     max_items_per_run: 1
@@ -278,7 +278,7 @@ sources:
 
   - id: "veritasium"
     type: "youtube"
-    url: "https://www.youtube.com/@veritasium/videos"
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"
     language: "auto"
     enabled: true
     max_items_per_run: 1

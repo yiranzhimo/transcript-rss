@@ -9,11 +9,9 @@ from urllib.parse import urlparse
 
 import httpx
 from bs4 import BeautifulSoup
-from yt_dlp import YoutubeDL
 
 from .models import DiscoveredItem, Segment, SourceConfig, Transcript, TranscriptLink
 from .utils import detect_text_language, is_chinese, is_english, normalize_language
-from .youtube import youtube_options
 
 TIMESTAMP_RE = re.compile(
     r"(?P<start>\d{1,2}:\d{2}(?::\d{2})?[.,]\d{3})\s+-->\s+"
@@ -172,90 +170,17 @@ def fetch_podcast_transcript(
     return None
 
 
-def _language_priority(language: str) -> tuple[int, str]:
-    normalized = normalize_language(language)
-    if is_chinese(normalized):
-        return 0, normalized
-    if is_english(normalized):
-        return 1, normalized
-    return 2, normalized
+def build_video_summary_transcript(item: DiscoveredItem) -> Transcript:
+    """Build a lightweight transcript from already-discovered title/description.
 
-
-def _select_youtube_track(
-    info: dict[str, Any],
-) -> tuple[str, dict[str, Any], str] | None:
-    for collection_name, provenance in (
-        ("subtitles", "creator subtitles"),
-        ("automatic_captions", "YouTube automatic captions"),
-    ):
-        collection = info.get(collection_name) or {}
-        for language in sorted(collection, key=_language_priority):
-            formats = collection.get(language) or []
-            usable = [
-                row
-                for row in formats
-                if row.get("url") and row.get("ext") in {"json3", "vtt", "srt"}
-            ]
-            usable.sort(key=lambda row: {"json3": 0, "vtt": 1, "srt": 2}.get(row.get("ext"), 9))
-            if usable and _language_priority(language)[0] < 2:
-                return language, usable[0], provenance
-    return None
-
-
-def fetch_youtube_transcript(
-    item: DiscoveredItem,
-    client: httpx.Client,
-) -> tuple[Transcript | None, dict[str, Any]]:
-    options = youtube_options(skip_download=True)
-    with YoutubeDL(options) as downloader:
-        info = downloader.extract_info(item.url, download=False)
-    selected = _select_youtube_track(info)
-    if not selected:
-        return None, info
-    language, track, provenance = selected
-    response = client.get(track["url"])
-    response.raise_for_status()
-    transcript = parse_transcript(
-        response.content,
-        "application/json" if track.get("ext") == "json3" else f"text/{track.get('ext')}",
-        track["url"],
-        language,
-        provenance,
-    )
-    return transcript, info
-
-
-def fetch_bilibili_transcript(
-    item: DiscoveredItem,
-    client: httpx.Client,
-) -> tuple[Transcript | None, dict[str, Any]]:
-    options = youtube_options(skip_download=True)
-    with YoutubeDL(options) as downloader:
-        info = downloader.extract_info(item.url, download=False)
-    for collection_name, provenance in (
-        ("subtitles", "Bilibili subtitles"),
-        ("automatic_captions", "Bilibili automatic captions"),
-    ):
-        collection = info.get(collection_name) or {}
-        for language in sorted(collection, key=_language_priority):
-            formats = collection.get(language) or []
-            usable = [
-                row for row in formats
-                if row.get("url") and row.get("ext") in {"json3", "vtt", "srt"}
-            ]
-            if not usable:
-                continue
-            track = sorted(usable, key=lambda row: {"json3": 0, "vtt": 1, "srt": 2}.get(row.get("ext"), 9))[0]
-            response = client.get(track["url"])
-            response.raise_for_status()
-            return parse_transcript(
-                response.content,
-                "application/json" if track.get("ext") == "json3" else f"text/{track.get('ext')}",
-                track["url"],
-                language,
-                provenance,
-            ), info
-    return None, info
+    YouTube and Bilibili no longer fetch per-video captions or audio: GitHub
+    Actions' shared IPs get blocked by both platforms' bot detection almost
+    every time. Discovery (channel/space listing) still works, so we reuse
+    the title and description it already collected instead.
+    """
+    text = item.description.strip() or item.title.strip()
+    segments = _plain_segments(text) or [Segment(start=0, end=0, text=item.title.strip())]
+    return Transcript(language="und", segments=segments, provenance="video title/description only (no transcript fetched)")
 
 
 def download_podcast_audio(
@@ -281,27 +206,6 @@ def download_podcast_audio(
     return output
 
 
-def download_youtube_audio(
-    item: DiscoveredItem,
-    work_dir: Path,
-) -> Path:
-    output_template = str(work_dir / "source.%(ext)s")
-    options = youtube_options(
-        format="bestaudio/best",
-        outtmpl=output_template,
-        noplaylist=True,
-    )
-    with YoutubeDL(options) as downloader:
-        info = downloader.extract_info(item.url, download=True)
-        filename = Path(downloader.prepare_filename(info))
-    if filename.exists():
-        return filename
-    candidates = list(work_dir.glob("source.*"))
-    if not candidates:
-        raise FileNotFoundError("yt-dlp completed without an audio file")
-    return candidates[0]
-
-
 def fetch_existing_transcript(
     source: SourceConfig,
     item: DiscoveredItem,
@@ -309,6 +213,4 @@ def fetch_existing_transcript(
 ) -> tuple[Transcript | None, dict[str, Any]]:
     if source.type == "podcast":
         return fetch_podcast_transcript(item, client), {}
-    if source.type == "bilibili":
-        return fetch_bilibili_transcript(item, client)
-    return fetch_youtube_transcript(item, client)
+    return build_video_summary_transcript(item), {}

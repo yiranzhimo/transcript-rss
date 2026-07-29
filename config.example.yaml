@@ -36,7 +36,9 @@ sources:
 
   - id: "example-youtube"
     type: "youtube"
-    url: "https://www.youtube.com/@example/videos"
+    # 推荐用官方 Atom feed（不经过 yt-dlp，几乎不会被限流）：
+    # https://www.youtube.com/feeds/videos.xml?channel_id=UCxxxxxxxxxxxxxxxxxxxxxx
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCxxxxxxxxxxxxxxxxxxxxxx"
     language: "auto"
     max_items_per_run: 1
     scan_limit: 15

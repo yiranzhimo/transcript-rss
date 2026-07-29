@@ -180,9 +180,13 @@ def _feed_xml(
         if not text:
             continue
         page_url = _item_url(config, row)
+        # YouTube/Bilibili items only carry a title/description (no real
+        # transcript, see README), so send readers straight to the video
+        # instead of our thin summary page.
+        primary_url = row["url"] if row.get("source_type") in {"youtube", "bilibili"} else page_url
         node = ElementTree.SubElement(channel, "item")
         ElementTree.SubElement(node, "title").text = row["title_zh"]
-        ElementTree.SubElement(node, "link").text = page_url
+        ElementTree.SubElement(node, "link").text = primary_url
         ElementTree.SubElement(node, "guid", {"isPermaLink": "false"}).text = (
             f"{row['source_id']}:{row['external_id']}"
         )
@@ -221,10 +225,13 @@ def _index_html(config: AppConfig, rows: list[dict[str, Any]]) -> str:
     items = []
     for row in rows:
         date = datetime.fromisoformat(row["published_at"]).strftime("%Y-%m-%d")
+        primary_url = (
+            row["url"] if row.get("source_type") in {"youtube", "bilibili"} else f"items/{row['item_slug']}/"
+        )
         items.append(
             "<li>"
             f"<time>{html.escape(date)}</time> "
-            f"<a href=\"items/{html.escape(row['item_slug'])}/\">"
+            f"<a href=\"{html.escape(primary_url)}\">"
             f"{html.escape(row['title_zh'])}</a>"
             f"<small>{html.escape(row['source_id'])}</small>"
             "</li>"

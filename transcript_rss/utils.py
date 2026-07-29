@@ -4,6 +4,21 @@ import hashlib
 import re
 from datetime import datetime, timezone
 
+from opencc import OpenCC
+
+_TRADITIONAL_TO_SIMPLIFIED = OpenCC("t2s")
+
+
+def to_simplified(text: str) -> str:
+    """Normalize Chinese text to Simplified characters.
+
+    Whisper's Chinese output isn't consistently Simplified, and some
+    podcasts/channels publish transcripts or titles in Traditional
+    characters (e.g. Taiwan/Hong Kong sources). Converting keeps the
+    site's Chinese output consistent regardless of source.
+    """
+    return _TRADITIONAL_TO_SIMPLIFIED.convert(text)
+
 
 def utc_now() -> datetime:
     return datetime.now(timezone.utc)

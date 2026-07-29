@@ -10,12 +10,14 @@ import httpx
 from defusedxml import ElementTree
 from yt_dlp import YoutubeDL
 
+from .bilibili import fetch_video_dynamics
 from .models import DiscoveredItem, SourceConfig, TranscriptLink
 from .utils import parse_datetime, utc_now
 from .youtube import youtube_options
 
 PODCAST_NS = "https://podcastindex.org/namespace/1.0"
 YOUTUBE_CHANNEL_ID_RE = re.compile(r"(UC[A-Za-z0-9_-]{22})")
+BILIBILI_UID_RE = re.compile(r"space\.bilibili\.com/(\d+)")
 
 
 def _datetime_from_entry(entry: Any) -> datetime:
@@ -238,38 +240,36 @@ def discover_youtube(
     return _discover_youtube_with_ytdlp(source)
 
 
-def discover_bilibili(source: SourceConfig) -> list[DiscoveredItem]:
-    """Discover recent videos from a Bilibili uploader/channel with yt-dlp."""
-    options = youtube_options(extract_flat="in_playlist")
-    options.update({"playlistend": source.scan_limit, "skip_download": True})
-    with YoutubeDL(options) as downloader:
-        info = downloader.extract_info(source.url, download=False)
-    entries = info.get("entries") or ([info] if info else [])
+def discover_bilibili(source: SourceConfig, client: httpx.Client) -> list[DiscoveredItem]:
+    """Discover recent uploads from a Bilibili uploader via the public dynamic feed.
+
+    This calls Bilibili's official `x/polymer/web-dynamic/v1/feed/space` API
+    directly (the same one RSSHub's Bilibili route uses) instead of scraping
+    the space page with yt-dlp, which reliably tripped Bilibili's anti-crawler
+    risk control (HTTP 412) from shared/datacenter IPs.
+    """
+    match = BILIBILI_UID_RE.search(source.url)
+    if not match:
+        raise ValueError(f"could not find a Bilibili uid in {source.url!r}")
+    uid = match.group(1)
+    dynamics = fetch_video_dynamics(client, uid, source.scan_limit)
     result: list[DiscoveredItem] = []
-    for entry in entries[: source.scan_limit]:
-        if not entry:
-            continue
-        video_id = str(entry.get("id", "")).strip()
-        if not video_id:
-            continue
-        url = entry.get("webpage_url") or entry.get("url")
-        if not url or not str(url).startswith("http"):
-            url = f"https://www.bilibili.com/video/{video_id}"
-        published = parse_datetime(
-            str(entry.get("timestamp") or entry.get("upload_date") or "")
-        )
+    for entry in dynamics:
+        video_id = entry["bvid"]
         result.append(
             DiscoveredItem(
                 source_id=source.id,
                 source_type="bilibili",
                 external_id=f"bilibili:{video_id}",
-                title=str(entry.get("title") or video_id),
-                url=str(url),
-                published_at=published,
-                description=str(entry.get("description") or ""),
+                title=entry["title"] or video_id,
+                url=f"https://www.bilibili.com/video/{video_id}",
+                published_at=datetime.fromtimestamp(entry["pub_ts"], tz=timezone.utc)
+                if entry["pub_ts"]
+                else utc_now(),
+                description=entry.get("description", ""),
                 metadata={
                     "video_id": video_id,
-                    "channel_title": str(info.get("uploader") or source.title or source.id),
+                    "channel_title": entry.get("author") or source.title or source.id,
                 },
             )
         )
@@ -287,5 +287,5 @@ def discover_source(
         return discover_youtube(source, client, source_state)
     if source.type == "bilibili":
         source_state["last_checked_at"] = utc_now().isoformat()
-        return discover_bilibili(source)
+        return discover_bilibili(source, client)
     raise ValueError(f"unsupported source type: {source.type}")

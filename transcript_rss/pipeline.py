@@ -10,17 +10,16 @@ import httpx
 
 from .acquire import (
     download_podcast_audio,
-    download_youtube_audio,
     fetch_existing_transcript,
 )
 from .artifacts import write_source_artifact
 from .discover import discover_source
-from .models import AppConfig, DiscoveredItem, SourceConfig, Transcript
+from .models import AppConfig, DiscoveredItem, Segment, SourceConfig, Transcript
 from .publish import rebuild_site, write_item
 from .state import load_state, save_state
 from .transcribe import WhisperTranscriber
 from .translate import OpenAICompatibleTranslator
-from .utils import detect_text_language, is_english, normalize_language, utc_now
+from .utils import detect_text_language, is_chinese, is_english, normalize_language, to_simplified, utc_now
 
 
 def _state_key(item: DiscoveredItem) -> str:
@@ -45,18 +44,29 @@ def _download_and_transcribe(
     work_dir: Path,
     transcriber: WhisperTranscriber,
 ) -> Transcript:
+    # Only podcasts can reach here: YouTube/Bilibili items always get a
+    # transcript from fetch_existing_transcript (title/description), since
+    # per-video caption/audio fetches get blocked by platform bot detection.
     if not config.transcription.enabled:
         raise RuntimeError("no usable transcript and audio transcription is disabled")
-    if source.type == "podcast":
-        audio_path = download_podcast_audio(
-            item,
-            client,
-            work_dir,
-            config.transcription.max_download_mb,
-        )
-    else:
-        audio_path = download_youtube_audio(item, work_dir)
+    audio_path = download_podcast_audio(
+        item,
+        client,
+        work_dir,
+        config.transcription.max_download_mb,
+    )
     return transcriber.transcribe(audio_path, source.language)
+
+
+def _simplified_transcript(transcript: Transcript) -> Transcript:
+    return Transcript(
+        language="zh-CN",
+        segments=[
+            Segment(start=s.start, end=s.end, text=to_simplified(s.text), speaker=s.speaker)
+            for s in transcript.segments
+        ],
+        provenance=f"{transcript.provenance}; normalized to Simplified Chinese",
+    )
 
 
 def _record_failure(
@@ -161,6 +171,11 @@ def run_sync(
                                 )
                             chinese = translator.translate_transcript(transcript)
                             title_zh = translator.translate_title(item.title)
+                        elif is_chinese(transcript.language):
+                            # Whisper's Chinese output isn't consistently Simplified,
+                            # and some sources publish Traditional Chinese directly.
+                            chinese = _simplified_transcript(transcript)
+                            title_zh = to_simplified(item.title)
                         else:
                             chinese = transcript
                             title_zh = item.title
