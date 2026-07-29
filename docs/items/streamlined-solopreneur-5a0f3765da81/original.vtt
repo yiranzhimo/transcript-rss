@@ -1,0 +1,585 @@
+WEBVTT
+
+1
+00:00:04.230 --> 00:00:08.750
+short episode where I talk about three things, what's on my mind this week, recommended
+
+2
+00:00:08.750 --> 00:00:13.830
+reading and something fun. This is the show that helps you automate your business
+
+3
+00:00:13.830 --> 00:00:18.620
+so you can take time off, worry free, and hopefully this curation will help you think
+
+4
+00:00:18.620 --> 00:00:22.620
+more about your systems. Systems. I'm your host, Joe Casabona, and here's what's
+
+5
+00:00:30.260 --> 00:00:32.960
+When does implementation hinder you?
+
+6
+00:00:32.960 --> 00:00:36.750
+I'm doing Kyle Adams newsletter Power Up cohort, and it's been
+
+7
+00:00:36.750 --> 00:00:42.480
+fantastic. As a result, I spent a lot of time over the last 10 days working on a
+
+8
+00:00:42.480 --> 00:00:49.380
+new welcome sequence and just cleaning up the near 10 years at this point, cruft
+
+9
+00:00:49.560 --> 00:00:51.240
+in my kit account.
+
+10
+00:00:51.240 --> 00:00:56.190
+I thought long and hard about this experience, how everything is implemented and
+
+11
+00:01:07.310 --> 00:01:10.890
+email a day, and I wanted to make sure everything got to delivered in the order in
+
+12
+00:01:10.890 --> 00:01:11.960
+which I thought it would be.
+
+13
+00:01:11.960 --> 00:01:18.170
+Now, I believe my bias towards action is good. I rarely get stuck in the
+
+14
+00:01:18.170 --> 00:01:21.470
+just need to do it. Phase I'm usually doing.
+
+15
+00:01:21.470 --> 00:01:24.920
+Where I do get stuck is the doing it phase, though
+
+16
+00:01:24.920 --> 00:01:29.340
+I consider the implementation and the long-term ramifications, even if something
+
+17
+00:01:29.340 --> 00:01:33.390
+is just an experiment, and maybe in this case
+
+18
+00:01:33.390 --> 00:01:34.890
+I should have spent
+
+19
+00:01:34.890 --> 00:01:42.260
+a bunch of time on the implementation, but the technical debt of over-engineering
+
+20
+00:01:42.590 --> 00:01:47.570
+implementations of the past that I didn't do or use very much
+
+21
+00:01:47.570 --> 00:01:52.730
+hindered me. An example is last week I rolled out a new lead magnet and I changed
+
+22
+00:01:52.730 --> 00:01:56.420
+the process a little bit and I really thought about the implementation
+
+23
+00:02:05.900 --> 00:02:11.120
+or I build interesting creative, but sometimes over complicated things.
+
+24
+00:02:11.120 --> 00:02:15.570
+And part of it is the tension of wanting to launch quickly
+
+25
+00:02:15.570 --> 00:02:18.710
+with the phrase I've been saying for a long time.
+
+26
+00:02:24.990 --> 00:02:32.340
+that takes time. Rushing to pick a platform or a tool is going to take time. The
+
+27
+00:02:32.340 --> 00:02:33.300
+problem is
+
+28
+00:02:33.300 --> 00:02:38.930
+I spend a bunch of time implementing and then usually have to change something anyway,
+
+29
+00:02:38.930 --> 00:02:43.830
+the truth is that there needs to be some balance.
+
+30
+00:02:43.830 --> 00:02:49.950
+Occam's razor is another idea I think about all the time. It's often quoted as the
+
+31
+00:02:49.950 --> 00:02:53.250
+simplest solution is the right one or the best one,
+
+32
+00:02:53.250 --> 00:02:56.340
+but it's actually more nuanced than that. It's that
+
+33
+00:02:56.340 --> 00:02:59.210
+our solutions to problems
+
+34
+00:02:59.210 --> 00:03:03.270
+should be constructed with the smallest possible set of elements.
+
+35
+00:03:06.660 --> 00:03:10.410
+simplest solution is the best one. But again, that's not entirely true.
+
+36
+00:03:10.410 --> 00:03:14.580
+It's it's actually the smallest possible set of elements. And when I'm trying to
+
+37
+00:03:19.470 --> 00:03:19.770
+there.
+
+38
+00:03:19.770 --> 00:03:23.490
+But something that I need to remember that you need to remember as you are building
+
+39
+00:03:23.490 --> 00:03:24.540
+out your systems
+
+40
+00:03:24.540 --> 00:03:26.520
+is that when we build online,
+
+41
+00:03:26.520 --> 00:03:28.410
+very little is permanent.
+
+42
+00:03:28.410 --> 00:03:31.530
+Yes, something you tweeted near 20 years ago,
+
+43
+00:03:31.530 --> 00:03:33.390
+could resurface at any moment,
+
+44
+00:03:33.390 --> 00:03:35.340
+but the system you build
+
+45
+00:03:35.340 --> 00:03:38.820
+can be iterated on. It's not like building a skyscraper
+
+46
+00:03:38.820 --> 00:03:40.710
+iteration is our friend.
+
+47
+00:03:40.710 --> 00:03:43.650
+I'm really good at doing that part for other people.
+
+48
+00:03:43.650 --> 00:03:48.510
+Let's get you set up as quickly and as easily as possible in a way that's not going
+
+49
+00:03:48.510 --> 00:03:49.350
+to overwhelm you,
+
+50
+00:03:49.350 --> 00:03:52.350
+but I need to be better about doing it for myself.
+
+51
+00:03:52.350 --> 00:03:56.100
+I am not scared of the systems and I like experimenting, and that
+
+52
+00:03:56.100 --> 00:04:01.260
+could lead to over-engineering and ultimately me focusing too much on the implementing
+
+53
+00:04:01.260 --> 00:04:01.620
+part
+
+54
+00:04:01.620 --> 00:04:03.690
+in a way where it becomes a blocker.
+
+55
+00:04:03.690 --> 00:04:06.570
+So that's what I'm thinking about this week. I would love your thoughts on that.
+
+56
+00:04:06.570 --> 00:04:09.690
+If you go to streamlined feedback.com, you can write into the show.
+
+57
+00:04:09.690 --> 00:04:12.450
+But let's move on to recommended reading.
+
+58
+00:04:12.450 --> 00:04:17.790
+This is an article from FanGraphs called The Haters All Star Game. I'm a huge baseball
+
+59
+00:04:17.790 --> 00:04:18.150
+fan
+
+60
+00:04:28.110 --> 00:04:32.490
+even though this year it was like a Vince McMahon's wet dream.
+
+61
+00:04:32.490 --> 00:04:33.690
+but I really
+
+62
+00:04:33.690 --> 00:04:39.150
+love watching the Allstar game. I'm, I'm gonna have to probably put an explicit warning
+
+63
+00:04:45.960 --> 00:04:50.790
+players come together and have fun and celebrate their accomplishments and what is
+
+64
+00:04:50.790 --> 00:04:53.490
+a very long season.
+
+65
+00:05:02.610 --> 00:05:06.540
+once the season resumes there, there may be bitter rivalries,
+
+66
+00:05:06.540 --> 00:05:09.420
+right? The rivalries are for the fans.
+
+67
+00:05:09.420 --> 00:05:13.420
+Players should not hate each other because of the team that they're on.
+
+68
+00:05:22.660 --> 00:05:26.170
+it was seeing Philadelphia Phillies fans, boo,
+
+69
+00:05:26.170 --> 00:05:28.930
+all of the non Phillies players.
+
+70
+00:05:28.930 --> 00:05:33.720
+This is supposed to be a jovial celebration of the best in the game, the best and
+
+71
+00:05:33.720 --> 00:05:34.300
+brightest.
+
+72
+00:05:34.300 --> 00:05:36.100
+And of course, Philly,
+
+73
+00:05:36.100 --> 00:05:41.430
+the city that threw batteries at Santa Claus couldn't abide by that. But
+
+74
+00:05:41.430 --> 00:05:44.670
+the reason I like this article, I'm linking the haters all-star game,
+
+75
+00:05:44.670 --> 00:05:48.900
+is because it got me thinking, should that annoy me?
+
+76
+00:05:48.900 --> 00:05:51.240
+Isn't Philly just being Philly?
+
+77
+00:05:51.240 --> 00:05:57.150
+It didn't seem to annoy my guy, Ben Rice or Home Run Derby winner, Jordan Walker
+
+78
+00:05:57.510 --> 00:06:04.740
+or even William Contrera, someone who famously gets annoyed by everything. The dude
+
+79
+00:06:04.740 --> 00:06:07.350
+starts more fights than Connor McGregor.
+
+80
+00:06:12.690 --> 00:06:15.960
+that professional athletes get paid to play a game,
+
+81
+00:06:15.960 --> 00:06:20.430
+I need to remember that the fans are going to be the fans.
+
+82
+00:06:20.430 --> 00:06:26.160
+And for Philly, that means doggedly defending your home from outsiders,
+
+83
+00:06:34.350 --> 00:06:35.580
+So I really liked that article.
+
+84
+00:06:35.580 --> 00:06:36.960
+Love to Philly fans.
+
+85
+00:06:42.630 --> 00:06:46.640
+you might, if you watched or listened to last week's episode, you might be thinking
+
+86
+00:06:46.830 --> 00:06:47.880
+The Odyssey again.
+
+87
+00:06:47.880 --> 00:06:50.460
+Joe, you recommended The Odyssey last week,
+
+88
+00:06:50.460 --> 00:06:51.300
+and that is true,
+
+89
+00:06:51.300 --> 00:06:53.640
+but this is the Odyssey in one minute.
+
+90
+00:06:53.640 --> 00:06:57.480
+I am so excited for this movie, especially after finishing the book earlier this
+
+91
+00:06:57.480 --> 00:06:57.720
+month,
+
+92
+00:07:04.830 --> 00:07:07.680
+in exactly 60 seconds
+
+93
+00:07:07.680 --> 00:07:12.270
+in Dactylic Hexter, which is the,
+
+94
+00:07:12.270 --> 00:07:17.400
+the melody of the epic poem, right? That's like how the Iliad and the Odyssey
+
+95
+00:07:19.770 --> 00:07:21.870
+It is so dope
+
+96
+00:07:21.870 --> 00:07:23.400
+and I have listened to it
+
+97
+00:07:23.400 --> 00:07:29.580
+a thousand times. Love it. Highly recommend it, watch it a million times. Don't be
+
+98
+00:07:29.580 --> 00:07:32.820
+surprised if next week I recommend the Odyssey of the movie again.
+
+99
+00:07:32.820 --> 00:07:36.270
+I'll try much like House of the Dragon to not keep recommending it.
+
+100
+00:07:36.270 --> 00:07:37.570
+All right, and automations
+
+101
+00:07:37.570 --> 00:07:38.380
+of the week,
+
+102
+00:07:38.380 --> 00:07:42.880
+the automation of the week this week is hunting down opt-ins with Claude. As I mentioned
+
+103
+00:07:42.880 --> 00:07:43.900
+in on My Mind,
+
+104
+00:07:43.900 --> 00:07:46.690
+I've been spending a lot of time on my mailing list and
+
+105
+00:07:46.690 --> 00:07:50.770
+how it delivers my vast amount of lead magnets
+
+106
+00:07:50.770 --> 00:07:51.550
+and content.
+
+107
+00:07:51.550 --> 00:07:58.510
+I also have tons of opt-in pages across multiple websites. And as I have been reworking
+
+108
+00:07:58.570 --> 00:08:04.660
+my lead magnets, my welcome sequence, my delivery mechanisms, I don't want any of
+
+109
+00:08:04.660 --> 00:08:10.120
+those pages or forms or automations to lead to a dead end. So
+
+110
+00:08:10.120 --> 00:08:13.240
+instead of doing a hand done audit,
+
+111
+00:08:13.240 --> 00:08:19.390
+I uploaded exports of all of my pages from my websites, any redirects I had from
+
+112
+00:08:35.440 --> 00:08:40.690
+so that Claude can see what I've got going on in my account. I even had it 'cause
+
+113
+00:08:40.690 --> 00:08:41.170
+it can't,
+
+114
+00:08:41.170 --> 00:08:42.910
+the MCP doesn't expose,
+
+115
+00:08:42.910 --> 00:08:48.100
+kit automations. And so I also had Claude like go out to the browser and have a look
+
+116
+00:08:48.100 --> 00:08:49.200
+at all of my automations,
+
+117
+00:08:49.200 --> 00:08:54.270
+and I got a full report on active forms, the ones that are working well, and all
+
+118
+00:09:05.100 --> 00:09:07.740
+I will redirect to a page with information about the talk.
+
+119
+00:09:07.740 --> 00:09:10.320
+So I was able to
+
+120
+00:09:10.320 --> 00:09:12.780
+redirect, delete, and consolidate.
+
+121
+00:09:12.780 --> 00:09:16.470
+And now Kit is squeaky clean. I have a better
+
+122
+00:09:16.470 --> 00:09:20.310
+understanding of how everything is delivered, and it's just a lot cleaner.
+
+123
+00:09:20.310 --> 00:09:24.150
+This would've been an incredibly time consuming for me
+
+124
+00:09:24.150 --> 00:09:28.410
+or expensive task for my VA without Claude.
+
+125
+00:09:28.410 --> 00:09:33.150
+It's been incredible seeing what insights and data I can grab thanks to the connectors
+
+126
+00:09:33.420 --> 00:09:38.520
+and automation tools that exist within the LLM. And that's why this is my automation
+
+127
+00:09:38.520 --> 00:09:40.920
+of the week. It's, it wasn't a,
+
+128
+00:09:40.920 --> 00:09:45.450
+I set this up and now it's going to run routinely, but it was a, here's all of the
+
+129
+00:09:45.450 --> 00:09:49.530
+data that I have sift through it so that I don't have to sift through it.
+
+130
+00:09:49.530 --> 00:09:51.780
+That is another form of automation
+
+131
+00:09:51.780 --> 00:09:53.760
+and it was hugely helpful
+
+132
+00:09:53.760 --> 00:09:54.810
+in this instance.
+
+133
+00:09:54.810 --> 00:10:00.420
+All of this, let me focus my time where it matters most. Helping you build better
+
+134
+00:10:00.420 --> 00:10:04.950
+systems so you can step away from your business without worrying. And
+
+135
+00:10:04.950 --> 00:10:08.550
+because I was able to free up some time thanks to Claude
+
+136
+00:10:08.550 --> 00:10:13.480
+over the past week, I took most of the afternoon off to see my daughter perform.
+
+137
+00:10:21.730 --> 00:10:22.750
+fully be present
+
+138
+00:10:22.750 --> 00:10:25.150
+because I was able to do the work I had to get done,
+
+139
+00:10:25.150 --> 00:10:25.510
+done.
+
+140
+00:10:25.510 --> 00:10:30.190
+But that's it for this episode of the Streamlined Solopreneur and the Friday Wrap.
+
+141
+00:10:30.190 --> 00:10:36.250
+If you enjoyed this, consider joining my newsletter at streamlined fm slash wrap.
+
+142
+00:10:36.250 --> 00:10:41.410
+You'll get insights and thoughts and ideas about how to build better systems for
+
+143
+00:10:41.410 --> 00:10:43.300
+yourself so that you
+
+144
+00:10:43.300 --> 00:10:44.380
+can confidently
+
+145
+00:10:44.380 --> 00:10:46.570
+step away from your business without worrying.
+
+146
+00:10:46.570 --> 00:10:51.310
+Thanks so much for listening, and until next time, I hope you find some space in
