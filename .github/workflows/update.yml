@@ -85,7 +85,6 @@ jobs:
           OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
           SITE_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
           SOURCE_ID: ${{ matrix.source }}
-          YOUTUBE_PROXY: ${{ secrets.YOUTUBE_PROXY }}
         run: |
           transcript-feed --config config.yaml sync \
             --source "${SOURCE_ID}" \

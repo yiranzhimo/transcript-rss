@@ -60,7 +60,8 @@ def _parse_vtt_or_srt(text: str) -> list[Segment]:
     return segments
 
 
-def _parse_youtube_json3(data: dict[str, Any]) -> list[Segment]:
+def _parse_json3_events(data: dict[str, Any]) -> list[Segment]:
+    """Parse the json3 caption shape (`events`/`segs`), which some feeds serve."""
     segments: list[Segment] = []
     for event in data.get("events", []):
         parts = event.get("segs") or []
@@ -93,7 +94,7 @@ def parse_transcript(
     normalized_type = (media_type or "").lower().split(";", 1)[0]
     if normalized_type == "application/json" or suffix == ".json":
         data = json.loads(content)
-        segments = _parse_youtube_json3(data)
+        segments = _parse_json3_events(data)
         if not segments and isinstance(data, dict):
             rows = data.get("segments") or data.get("transcript") or []
             for row in rows if isinstance(rows, list) else []:
@@ -170,19 +171,6 @@ def fetch_podcast_transcript(
     return None
 
 
-def build_video_summary_transcript(item: DiscoveredItem) -> Transcript:
-    """Build a lightweight transcript from already-discovered title/description.
-
-    YouTube and Bilibili no longer fetch per-video captions or audio: GitHub
-    Actions' shared IPs get blocked by both platforms' bot detection almost
-    every time. Discovery (channel/space listing) still works, so we reuse
-    the title and description it already collected instead.
-    """
-    text = item.description.strip() or item.title.strip()
-    segments = _plain_segments(text) or [Segment(start=0, end=0, text=item.title.strip())]
-    return Transcript(language="und", segments=segments, provenance="video title/description only (no transcript fetched)")
-
-
 def download_podcast_audio(
     item: DiscoveredItem,
     client: httpx.Client,
@@ -211,6 +199,4 @@ def fetch_existing_transcript(
     item: DiscoveredItem,
     client: httpx.Client,
 ) -> tuple[Transcript | None, dict[str, Any]]:
-    if source.type == "podcast":
-        return fetch_podcast_transcript(item, client), {}
-    return build_video_summary_transcript(item), {}
+    return fetch_podcast_transcript(item, client), {}

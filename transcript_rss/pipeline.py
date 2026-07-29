@@ -44,9 +44,6 @@ def _download_and_transcribe(
     work_dir: Path,
     transcriber: WhisperTranscriber,
 ) -> Transcript:
-    # Only podcasts can reach here: YouTube/Bilibili items always get a
-    # transcript from fetch_existing_transcript (title/description), since
-    # per-video caption/audio fetches get blocked by platform bot detection.
     if not config.transcription.enabled:
         raise RuntimeError("no usable transcript and audio transcription is disabled")
     audio_path = download_podcast_audio(

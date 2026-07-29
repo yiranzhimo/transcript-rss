@@ -1,21 +1,15 @@
 # Transcript RSS
 
-把播客 RSS、YouTube 频道和 Bilibili UP 主转换成可订阅的中文文字稿 RSS。项目由 GitHub
+把播客 RSS 转换成可订阅的中文文字稿 RSS。项目由 GitHub
 Actions 定期执行，输出静态 HTML、Markdown、VTT 和 RSS，并通过 GitHub
 Pages 发布。
 
 ## 处理规则
 
-1. 播客优先读取 RSS 中的 `podcast:transcript`；没有字幕时下载音频并用
+1. 优先读取 RSS 中的 `podcast:transcript`；没有字幕时下载音频并用
    `faster-whisper` 转写。
-2. YouTube 和 Bilibili **不转录**：GitHub Actions 的共享 IP 几乎必定被两个
-   平台的风控拦截（YouTube 返回 "Sign in to confirm you're not a bot"，
-   Bilibili 返回 HTTP 412），逐视频请求字幕或音频已被证明不可行。因此这两类
-   来源只做"发现更新"——用来源自带的标题 + 简介生成条目、附上原始视频链接，
-   方便你自己去网页上看/转录，不下载音频也不调用平台字幕接口。
-3. 检测到英文内容时，通过 OpenAI-compatible 接口翻译成简体中文（播客的完整
-   文字稿、YouTube/Bilibili 的标题与简介都会翻译）。
-4. 保留原文，并生成中文全文 RSS。
+2. 检测到英文内容时，通过 OpenAI-compatible 接口翻译成简体中文。
+3. 保留原文，并生成中文全文 RSS。
 
 机器识别和翻译可能有误。页面会保留原始节目链接和原文，重要内容应回到原始
 音视频核对。
@@ -43,7 +37,7 @@ transcription:
 
 ### 1. 修改订阅源
 
-编辑 [`config.yaml`](config.yaml)，删除或替换两个禁用的示例：
+编辑 [`config.yaml`](config.yaml)，替换成自己的播客源：
 
 ```yaml
 sources:
@@ -53,29 +47,9 @@ sources:
     language: en
     enabled: true
     max_items_per_run: 1
-
-  - id: example-channel
-    type: youtube
-    # 推荐直接用官方 Atom feed（不经过 yt-dlp，几乎不会被拦）：
-    # https://www.youtube.com/feeds/videos.xml?channel_id=UCxxxxxxxxxxxxxxxxxxxxxx
-    # 找 channel_id：打开频道任意视频页 → 查看网页源码搜索 "channelId"，
-    # 或者本地运行 `yt-dlp --flat-playlist --playlist-items 1 -J <频道地址> | jq .channel_id`。
-    # 也支持 @handle 地址，但发现过程会退化成 yt-dlp 抓取，更慢也更容易被限流。
-    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCxxxxxxxxxxxxxxxxxxxxxx
-    language: auto
-    enabled: true
-    max_items_per_run: 1
-
-  - id: example-bilibili
-    type: bilibili
-    # 使用 UP 主空间地址，例如 https://space.bilibili.com/123456
-    # 没有官方 RSS，发现新视频仍然通过 yt-dlp 抓取空间页，偶尔会被风控拦截
-    # 一次；失败的来源会在下次运行自动重试。
-    url: https://space.bilibili.com/123456
-    language: auto
-    enabled: true
-    max_items_per_run: 1
 ```
+
+`type` 目前只支持 `podcast`。`language` 可以是 `zh`、`en` 或 `auto`。
 
 `max_items_per_run: 1` 能避免首次执行时处理整个历史库。后续每次 Action
 会继续处理一条尚未发布的内容。
@@ -88,15 +62,9 @@ sources:
 |---|---|---|
 | Secret | `OPENROUTER_API_KEY` | 英文转简体中文 |
 | Variable，可选 | `OPENROUTER_MODEL` | 覆盖 `config.yaml` 中的翻译模型 |
-| Secret，可选 | `YOUTUBE_PROXY` | yt-dlp 发现阶段（Bilibili 空间页、YouTube `@handle` 频道列表）使用的 HTTP/SOCKS 代理 |
 
 默认调用 `https://openrouter.ai/api/v1/chat/completions`。也可以修改
 `translation.api_base` 和 `translation.api_key_env` 接入其他兼容服务。
-
-YouTube/Bilibili 不再逐视频请求字幕或音频（见「处理规则」），所以不需要
-YouTube cookies、PO Token、Deno 之类的反爬配置。`YOUTUBE_PROXY` 只在
-「发现新视频」这一步生效——主要是给经常被风控拦截的 Bilibili 空间页用的；
-YouTube 只要用官方 Atom feed（见上面的 `example-channel`）几乎用不上代理。
 
 ### 3. 启用 Pages 和 Action 写入
 
@@ -172,5 +140,4 @@ RSS 的 `content:encoded` 包含中文正文，并通过 `podcast:transcript` �
 - 音频只存在于 Action 临时目录，不会提交到仓库。
 - GitHub Pages 通常是公开页面。不要用它公开你无权再发布的完整文字稿；个人
   私密使用应改用带访问控制的存储或私有部署。
-- YouTube/Bilibili 的「发现新视频」仍然依赖 `yt-dlp`（Bilibili 空间页、
-  YouTube `@handle` 频道列表），页面结构变化时需要定期更新 `yt-dlp`。
+- 播客源只使用节目自己发布的 RSS，不抓取任何网页。

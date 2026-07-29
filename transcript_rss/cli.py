@@ -13,7 +13,7 @@ from .pipeline import run_sync
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="transcript-feed",
-        description="Generate Chinese transcript RSS feeds from podcasts and YouTube.",
+        description="Generate Chinese transcript RSS feeds from podcasts.",
     )
     parser.add_argument("--config", default="config.yaml", help="path to YAML configuration")
     subparsers = parser.add_subparsers(dest="command", required=True)

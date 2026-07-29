@@ -8,16 +8,11 @@ from typing import Any
 import feedparser
 import httpx
 from defusedxml import ElementTree
-from yt_dlp import YoutubeDL
 
-from .bilibili import fetch_video_dynamics
 from .models import DiscoveredItem, SourceConfig, TranscriptLink
 from .utils import parse_datetime, utc_now
-from .youtube import youtube_options
 
 PODCAST_NS = "https://podcastindex.org/namespace/1.0"
-YOUTUBE_CHANNEL_ID_RE = re.compile(r"(UC[A-Za-z0-9_-]{22})")
-BILIBILI_UID_RE = re.compile(r"space\.bilibili\.com/(\d+)")
 
 
 def _datetime_from_entry(entry: Any) -> datetime:
@@ -126,156 +121,6 @@ def discover_podcast(
     return discovered
 
 
-def _youtube_channel_feed_url(url: str) -> str | None:
-    if "feeds/videos.xml" in url:
-        return url
-    match = YOUTUBE_CHANNEL_ID_RE.search(url)
-    if match:
-        return f"https://www.youtube.com/feeds/videos.xml?channel_id={match.group(1)}"
-    return None
-
-
-def _discover_youtube_feed(
-    source: SourceConfig,
-    feed_url: str,
-    client: httpx.Client,
-    source_state: dict[str, Any],
-) -> list[DiscoveredItem]:
-    response = client.get(feed_url, headers=_conditional_headers(source_state))
-    if response.status_code == 304:
-        source_state["last_checked_at"] = utc_now().isoformat()
-        return []
-    response.raise_for_status()
-    if response.headers.get("etag"):
-        source_state["etag"] = response.headers["etag"]
-    if response.headers.get("last-modified"):
-        source_state["last_modified"] = response.headers["last-modified"]
-    source_state["last_checked_at"] = utc_now().isoformat()
-
-    parsed = feedparser.parse(response.content)
-    result: list[DiscoveredItem] = []
-    for entry in parsed.entries[: source.scan_limit]:
-        video_id = str(entry.get("yt_videoid") or entry.get("id", "")).split(":")[-1]
-        if not video_id:
-            continue
-        url = str(entry.get("link") or f"https://www.youtube.com/watch?v={video_id}")
-        result.append(
-            DiscoveredItem(
-                source_id=source.id,
-                source_type="youtube",
-                external_id=f"youtube:{video_id}",
-                title=str(entry.get("title", video_id)),
-                url=url,
-                published_at=_datetime_from_entry(entry),
-                description=str(entry.get("media_description", "")),
-                metadata={
-                    "video_id": video_id,
-                    "channel_title": str(parsed.feed.get("title", source.title or source.id)),
-                },
-            )
-        )
-    return result
-
-
-def _youtube_listing_url(url: str) -> str:
-    clean = url.rstrip("/")
-    if "/watch?" in clean or "/playlist?" in clean or clean.endswith(("/videos", "/streams")):
-        return clean
-    return f"{clean}/videos"
-
-
-def _discover_youtube_with_ytdlp(source: SourceConfig) -> list[DiscoveredItem]:
-    options = youtube_options(extract_flat="in_playlist")
-    options.update(
-        {
-            "playlistend": source.scan_limit,
-            "skip_download": True,
-        }
-    )
-    with YoutubeDL(options) as downloader:
-        info = downloader.extract_info(_youtube_listing_url(source.url), download=False)
-    entries = info.get("entries") or ([info] if info else [])
-    result: list[DiscoveredItem] = []
-    for entry in entries[: source.scan_limit]:
-        if not entry:
-            continue
-        video_id = str(entry.get("id", "")).strip()
-        if not video_id:
-            continue
-        url = entry.get("webpage_url") or entry.get("url")
-        if not url or not str(url).startswith("http"):
-            url = f"https://www.youtube.com/watch?v={video_id}"
-        published = parse_datetime(
-            str(entry.get("timestamp") or entry.get("release_timestamp") or entry.get("upload_date") or "")
-        )
-        result.append(
-            DiscoveredItem(
-                source_id=source.id,
-                source_type="youtube",
-                external_id=f"youtube:{video_id}",
-                title=str(entry.get("title") or video_id),
-                url=str(url),
-                published_at=published,
-                description=str(entry.get("description") or ""),
-                metadata={
-                    "video_id": video_id,
-                    "channel_title": str(
-                        info.get("channel") or info.get("uploader") or source.title or source.id
-                    ),
-                },
-            )
-        )
-    return result
-
-
-def discover_youtube(
-    source: SourceConfig,
-    client: httpx.Client,
-    source_state: dict[str, Any],
-) -> list[DiscoveredItem]:
-    feed_url = _youtube_channel_feed_url(source.url)
-    if feed_url:
-        return _discover_youtube_feed(source, feed_url, client, source_state)
-    source_state["last_checked_at"] = utc_now().isoformat()
-    return _discover_youtube_with_ytdlp(source)
-
-
-def discover_bilibili(source: SourceConfig, client: httpx.Client) -> list[DiscoveredItem]:
-    """Discover recent uploads from a Bilibili uploader via the public dynamic feed.
-
-    This calls Bilibili's official `x/polymer/web-dynamic/v1/feed/space` API
-    directly (the same one RSSHub's Bilibili route uses) instead of scraping
-    the space page with yt-dlp, which reliably tripped Bilibili's anti-crawler
-    risk control (HTTP 412) from shared/datacenter IPs.
-    """
-    match = BILIBILI_UID_RE.search(source.url)
-    if not match:
-        raise ValueError(f"could not find a Bilibili uid in {source.url!r}")
-    uid = match.group(1)
-    dynamics = fetch_video_dynamics(client, uid, source.scan_limit)
-    result: list[DiscoveredItem] = []
-    for entry in dynamics:
-        video_id = entry["bvid"]
-        result.append(
-            DiscoveredItem(
-                source_id=source.id,
-                source_type="bilibili",
-                external_id=f"bilibili:{video_id}",
-                title=entry["title"] or video_id,
-                url=f"https://www.bilibili.com/video/{video_id}",
-                published_at=datetime.fromtimestamp(entry["pub_ts"], tz=timezone.utc)
-                if entry["pub_ts"]
-                else utc_now(),
-                description=entry.get("description", ""),
-                metadata={
-                    "video_id": video_id,
-                    "channel_title": entry.get("author") or source.title or source.id,
-                },
-            )
-        )
-    return result
-
-
 def discover_source(
     source: SourceConfig,
     client: httpx.Client,
@@ -283,9 +128,4 @@ def discover_source(
 ) -> list[DiscoveredItem]:
     if source.type == "podcast":
         return discover_podcast(source, client, source_state)
-    if source.type == "youtube":
-        return discover_youtube(source, client, source_state)
-    if source.type == "bilibili":
-        source_state["last_checked_at"] = utc_now().isoformat()
-        return discover_bilibili(source, client)
     raise ValueError(f"unsupported source type: {source.type}")

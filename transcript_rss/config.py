@@ -103,8 +103,8 @@ def load_config(path: str | Path) -> AppConfig:
             raise ConfigError(f"sources[{index}].id must contain letters, digits, - or _")
         if source_id in ids:
             raise ConfigError(f"duplicate source id: {source_id}")
-        if source_type not in {"podcast", "youtube", "bilibili"}:
-            raise ConfigError(f"sources[{index}].type must be podcast, youtube, or bilibili")
+        if source_type != "podcast":
+            raise ConfigError(f"sources[{index}].type must be podcast")
         if not url:
             raise ConfigError(f"sources[{index}].url is required")
         ids.add(source_id)
