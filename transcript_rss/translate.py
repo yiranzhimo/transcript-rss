@@ -8,7 +8,7 @@ from dataclasses import dataclass
 import httpx
 
 from .models import Segment, Transcript, TranslationConfig
-from .utils import format_timestamp
+from .utils import format_timestamp, to_simplified
 
 
 def _split_text(text: str, limit: int) -> list[str]:
@@ -128,11 +128,14 @@ class OpenAICompatibleTranslator:
         return result.strip()
 
     def translate_title(self, title: str) -> str:
-        return self._request(
+        translated = self._request(
             "Translate the supplied English title into concise Simplified Chinese. "
             "Preserve names, numbers, and meaning. Return only the translated title.",
             title,
         ).replace("\n", " ")
+        # The prompt asks for Simplified, but models slip into Traditional; the
+        # conversion is a no-op for text that is already Simplified.
+        return to_simplified(translated)
 
     def translate_transcript(self, transcript: Transcript) -> Transcript:
         chunks = build_translation_chunks(transcript, self.config.chunk_characters)
@@ -147,6 +150,17 @@ class OpenAICompatibleTranslator:
         for chunk in chunks:
             text = self._request(system, chunk.text)
             translated.extend(_parse_translated_chunk(text, chunk))
+        # Enforce Simplified regardless of what the model returned, rather than
+        # trusting the prompt alone.
+        translated = [
+            Segment(
+                start=segment.start,
+                end=segment.end,
+                text=to_simplified(segment.text),
+                speaker=segment.speaker,
+            )
+            for segment in translated
+        ]
         return Transcript(
             language="zh-CN",
             segments=translated,
