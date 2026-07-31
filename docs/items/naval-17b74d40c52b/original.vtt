@@ -1,0 +1,69 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:25.440
+We've all seen the pictures of the Raptor engine for the SpaceX rockets and if you look at the various iterations they go from easy to vary to hard to vary because the most recent version just doesn't have that many parts that you can fool around with. The earlier versions have a million different parts where you could change the thickness of it, the width of it, the material, and so on. The current version barely has any parts left for you to do anything with.
+
+2
+00:00:25.440 --> 00:00:53.460
+There's a theory on complexity theory that whenever you find a complex system working in nature, it's usually the output of a very simple system or thing that was iterated over and over. We're seeing this lately in AI research. You're just taking very simple algorithms and dumping more and more data into them. They keep getting smarter. What doesn't work as well is the reverse. When you design a very complex system and then you try to make a functioning large system out of that, it just falls apart. There's too much complexity in it.
+
+3
+00:00:53.460 --> 00:01:12.690
+A lot of product design is iterating on your own designs until you find the simple thing that works. And often you've added stuff around it that you don't need. And then you have to go back and extract the simplicity back out of the noise. You can see this in personal computing where macOS is still quite a bit harder to use than iOS.
+
+4
+00:01:12.690 --> 00:01:23.730
+iOS is closer to the platonic ideal of an operating system, although an LLM-based operating system might be even closer, speaking in natural language. Eventually you have to remove things to get them to scale.
+
+5
+00:01:23.730 --> 00:01:50.780
+And the Raptor Engine is an example of that. As you figure out what works, then you realize what's unnecessary and you can remove parts. And this is one of Musk's great driving principles where he basically says, before you optimize a system, that's among the last things that you do. Before you start trying to figure out how to make something more efficient. The first thing you do is you question the requirements. You're like, why does the requirement even exist? One of the Elon methods in Jorgensen's new book is
+
+6
+00:01:50.780 --> 00:02:17.870
+you first go and you've tracked down the requirement and not which department came up with the requirement. The requirement has to come from an individual. Who's the individual who said, this is what I want. You go back and say, do you really need this? You eliminate the requirement. And then once you've eliminated the requirements that are unnecessary, then you have a smaller number of requirements. Now you have parts and you try to get rid of as many parts as you can to fulfill the requirements that are absolutely necessary. And then after that, maybe then you start thinking about
+
+7
+00:02:17.870 --> 00:02:39.390
+optimization. And now you're trying to figure out how can I manufacture this part and fit it into the right place most efficiently. And then finally you might get into cost deficiencies and economies of scale and those sorts of things. The most critical person to take a great product from zero to one is the single person, usually the founder, who can hold the entire problem in their head.
+
+8
+00:02:39.390 --> 00:02:59.630
+and make the trade-offs and understand why each component is where it is. And they don't necessarily need to be the person designing each component, manufacturing, or knowing all the ins and outs, but they do need to be able to understand why is this piece here. And if part A gets removed, then what happens to parts B, C, D, E, and their requirements and considerations? It's that holistic view of the whole product.
+
+9
+00:02:59.630 --> 00:03:15.570
+you'll see this in the Raptor engine design. The example that Elon gave us that I thought was a good one, he was trying to get these fiberglass mats on top of the Tesla batteries produced more efficiently. So he went to the line where it was taken too long, put his sleeping bag down and he just stayed at the line.
+
+10
+00:03:15.570 --> 00:03:38.110
+and they tried to optimize the robot that was gluing the fiberglass mats to the batteries. They were trying to attach them more efficiently, speed up that line. And they did. They managed to improve it a bit, but it was still frustratingly slow. And finally he said, why is this requirement here? Why are we putting fiberglass mats on top of the batteries? The battery guy said, it's actually because of noise reduction. So you got to go talk to the noise and vibration team.
+
+11
+00:03:38.110 --> 00:03:56.480
+So he goes to the noise and vibration team, he's like, why do we have these mats here? What is the noise and vibration issue? And they're like, no, no, there's no noise and vibration issue. They're there because of heat. The battery catches fire. And then he goes back to the battery to like, do we need this? And they're like, no, there's not a fire issue here. It's not a heat protection issue. That's obsolete. It's a noise and vibration issue.
+
+12
+00:03:56.480 --> 00:04:24.210
+They had each been doing things the way they were trained to do and the way things had been done. They tested it for safety and they tested it by putting microphones on there and tracking the noise and they decided they needed it. And so they eliminated the part. This happens a lot with very complex systems and complex designs. It's funny, everybody says I'm a generalist, which is their way of copying out on being a specialist. But really what you want to be is a polymath, which is a generalist who can pick up every specialty, at least to the 80-20 level, so they can make smart trade-offs.
+
+13
+00:04:24.210 --> 00:04:44.780
+The way that I suggest people gain that polymath capability being a generalist that can pick up any specialty is if you are going to study something, if you are going to go to school, study the theories that have the most reach. I would summarize that further and just say study physics. Once you study physics, you're studying how reality works.
+
+14
+00:04:44.780 --> 00:05:14.100
+And if you have a great background in physics, you can pick up electrical engineering, you can pick up computer science, you can pick up material science, you can pick up statistics and probability. You can pick up mathematics because it's part of it, it's applied. The best people that I've met in almost any field have a physics background. If you don't have a physics background, don't cry. I have a failed physics background. You can still get there the other ways, but physics trains you to interact with reality and it is so unforgiving that it beats all the nice falsities out of you.
+
+15
+00:05:14.100 --> 00:05:36.800
+Whereas if you're somewhere in social science, you can have all kinds of cuckoo beliefs. Even if you pick up some of the obtuse mathematics they use in social sciences, you may have 10% real knowledge, but you may have 90% false knowledge. The good news about physics is you can learn pretty basic physics. You don't have to go all the way deep into quarks and quantum physics and so on. You can just go with basic.
+
+16
+00:05:36.800 --> 00:05:57.980
+Balls rolling down a slope and it's actually a good backgrounder, but I think any of the STEM disciplines are worth studying. Now if you don't have the choice of what to study and you've already passed that, just team up with people. Actually, the best people don't necessarily even just study physics. They're tinkerers. They're builders. They're building things. The tinkerers are always at the edge of knowledge because they're always using the latest tools and the latest parts to build the cool things.
+
+17
+00:05:57.980 --> 00:06:17.460
+So it's the guy building the racing drone before drones are a military thing or the guy building the fighting robots before robots are a military thing or the person putting together the personal computer because they want the computer in their home and they're not satisfied going to school using the computer there. These are the people who understand things the best and they're advancing knowledge the fastest.
