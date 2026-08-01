@@ -1,0 +1,237 @@
+WEBVTT
+
+1
+00:00:00.300 --> 00:00:29.630
+I think distillation is a very common practice that everyone is using. It's something that everyone uses but that is not the main reason for success. Like if you suck, you suck. We are all without distillation. It's hard for me to say like, oh, poor entropy, poor PDI, you're getting unfairly competed with when you're like the fastest growing company in the world. If anything, I think they need more competition than less competition. Yeah. Because we're heading towards
+
+2
+00:00:29.630 --> 00:00:59.500
+A world where a few companies are completely dominating, concentrating all power, all capabilities, all wealth. And that's much more dangerous than them maybe losing a couple billion dollars of revenue. As Aion models become more powerful, governments are beginning to ask new questions about safety, regulation, and who should control access to frontier technology. In this episode,
+
+3
+00:00:59.500 --> 00:01:29.220
+Theo Jaffe and Sofia Puccini sit down with hugging face co-founder and CEO, Clement DeLong, to discuss why he believes open source AI is inherently safer, what hugging face reaching $100 million in annual recurring revenue says about the business of open source, and why the next phase of AI may be defined by model routing rather than a handful of dominant frontier labs. They also discuss GPT-5, AI regulation, local models, Europe's AI ecosystem,
+
+4
+00:01:29.220 --> 00:01:58.210
+and the growing importance of competition across the AI stack. And we are back with Clement DeLong from Huggingface, his second time on MTS. Huggingface is basically the open source AI platform. So, Clement, welcome back to MTS. Absolutely. Yeah, so, um, well, gone. I think we're about to say the same thing. Yeah, we were talking about this interesting recent piece of news.
+
+5
+00:01:58.210 --> 00:02:25.550
+where basically the government is going to restrict GPT 5.6's release sort of unilaterally, basically without precedent. I don't think the government has ever asked a Frontier Lab not to release a model before. Certainly a government has not asked a Frontier Lab to be able to oversee which customers the model is released to. This seems very unnatural. What are your takes on this?
+
+6
+00:02:25.680 --> 00:02:51.730
+Yeah, so it was funny. I was in DC last week. So it was kind of like had some sort of a front row seat to what was happening. Interesting anecdote is that we bumped into a town brown there, like the co-founder of Enchopik. And we were like, oh, it seems to be like a change of staff or something like that before it was made public that they changed a little bit the people talking to the White House there.
+
+7
+00:02:51.730 --> 00:03:19.860
+Listen, I mean, what I've seen, what I'm hearing is that there's a lot of, you know, interest from a lot of people in the USG to really understand the risks of AI and take kind of like a safe approach to the deployment of frontier models. To be honest, I can't really blame them because of the fact that, you know, the frontier labs were...
+
+8
+00:03:19.860 --> 00:03:48.750
+basically do marketing for the past few years. If you remember, GPT2 was too dangerous to release. It was like what, like four or five years ago. And so I don't really blame them for doing things like that. I just hope that progressively we'll get a little bit more transparency about what is safe, not safe, so more focus on transparent evaluation.
+
+9
+00:03:48.750 --> 00:04:16.580
+of models and things like that. I also hope that it's going to stay contained to a few frontier generates models because frankly, I think they're the most dangerous ones. And also, these companies are trillion dollar companies with armies of DC people. So they can kind of deal with it. I hope it's going to stay contained to that and not permit.
+
+10
+00:04:16.580 --> 00:04:46.060
+to a lot of different players, for example startups, small companies, academia, or people who don't necessarily have the money, the size, the ability to really deal with these things, that would be my main concern. Totally. Yeah. What we were just talking about before was just like, could this be applied to open source companies and models in any way?
+
+11
+00:04:46.190 --> 00:05:16.130
+Like is there a way that the US government could come in and restrict open source companies? Either practically or legally I don't think so because you know, I think I think open source models are inherently less dangerous than kind of like the models that are getting restricted now because you know These models are a little bit ahead in terms of like being closer to to the frontier Also open source models are less generally stay more specialized
+
+12
+00:05:16.130 --> 00:05:46.000
+And it's just like nobody or very few people focusing on building dangerous like cyber security capabilities. So it's like a little bit different than kind of like the proprietary labs. So I don't think it would make sense. I don't think it's gonna get to open source just because of some of these differences. A more high level, I think in general open source AI is much, much safer.
+
+13
+00:05:46.000 --> 00:06:15.070
+than proprietary AI for a bunch of different reasons that I've talked about in different outlets. But yeah, so I think the approach there is going to be hopefully going to be a little bit different between kind of like close-source, proprietary, frontier models, and then the rest of the industry and the ecosystem that has in my opinion posed much less, enter much less threats where we want to keep kind of like a
+
+14
+00:06:15.070 --> 00:06:44.770
+supporting and building up to focus on competition, to enable little tech, small companies, everyone to be able to basically participate in the AI. I agree that open source models are less dangerous now, but in six months, if trends continue, you're going to have an open source model from somewhere with like mythos level capabilities that freaks out the government. And you could imagine them at least wanting to.
+
+15
+00:06:44.770 --> 00:07:12.000
+restrict open source models at that time? I'm not that sure because there's this weird thing where basically the most dangerous things usually are not so much developed in open source. Maybe it's this thing that people say like sunlight is the best disinfectant. The funny thing is that sometimes safety people are talking about the nuclear bomb.
+
+16
+00:07:12.000 --> 00:07:40.080
+Nuclear Bomb has never been built in open source and I think it would have never been built in open source. It's been built in a closed source, you know, proprietary team with billions of dollars of, you know, of resources. So it's much less alike, you know, some players and some others. So I think there's also a path where open source keeps building kind of like more specialized models for different domains.
+
+17
+00:07:40.080 --> 00:08:08.290
+and not necessarily for the domains that are presenting the biggest risks. I don't think it's automatic that you build a more powerful model that it's more dangerous for cybersecurity. For example, you could build a more powerful model that is not more dangerous for cybersecurity. For example, if you don't train it on cybersecurity, which really people are not really talking about, but we're not talking about that's rather than talking about, you know,
+
+18
+00:08:08.290 --> 00:08:38.190
+removing the ability to release or putting out like safeguards after the fact that we know are not really working because everyone can jailbreak them. So I think I wouldn't be totally surprised if the open source community just because it's structurally very differently set up than the big labs are actually taking different directions that it's kind of like safer and never really requires the kind of regulation that you need in kind of like a closed source AI labs.
+
+19
+00:08:38.190 --> 00:09:06.850
+Well, is this not also kind of an argument against the capability of open source AI research? I think so, because it solves different problems. Like I sometimes take the example of local models, local intelligence. Being able to be on the flight in airplane mode without network and still be able to get intelligence. You can only get that with open source. You can't get that with API. This just got literally no way to do that.
+
+20
+00:09:06.850 --> 00:09:35.870
+So I think it's just different layers of the stack, right? And actually open source is on top of closed source. A lot of the closed source is using open source models and is using open source infrastructure. And it solves different things. The analogy is like, open source maybe is the engine and gene and the API is the car, right? And obviously the engine is never gonna be like a Ferrari, but that's what can affect powers.
+
+21
+00:09:35.870 --> 00:10:05.340
+powers the Ferrari. So I think that's more like the way we're purchasing. And also, being less good at bad things doesn't mean that you can't be better at good things. Maybe open source is better at solving people's problems. Maybe it's better at helping do stuff really, really important. But it's worse at...
+
+22
+00:10:05.340 --> 00:10:34.110
+creating cyber security attacks. That would be the ideal case. People right now are talking about frontier as kind of like this general thing. The reality is that the frontier is kind of like jagged between different tasks, different domains. This one model is going to be better at some things and it's going to be worse at other things. I think that's more kind of like how we should approach it. Yeah. Does it make sense? No, yeah. This totally makes sense to me.
+
+23
+00:10:34.110 --> 00:11:01.410
+So you guys just crossed $100 million in ARR, right? So I'm curious as like, what do you think this means for like, like the business model of open source? Shen, obviously a lot of companies are doing much more revenue than we do in AI these days. You know, it hasn't really been our priority to optimize for monetization and for revenue given what we're building, which is more kind of like a usage-based platform.
+
+24
+00:11:01.410 --> 00:11:27.490
+to reach like how many and empower as many AI builders as possible. But at this small scale, I think it shows that there's a business model for open source, there's a business model for open source platform. We kind of knew it right because there's been GitHub before and there's been a bunch of open source successful companies. But I guess it's a validation of that.
+
+25
+00:11:27.490 --> 00:11:55.940
+And we've seen, I mean, for the past few weeks, we've seen quite a lot of growth in terms of interest and adoption of not only open source models, but also local models. And so, you know, that also speaks a little bit to that. Yeah, what are some of the specific use cases that people are using local models for? So local models are kind of free.
+
+26
+00:11:55.940 --> 00:12:23.010
+right because they're running on your phone or on your laptop. So you don't even you don't really have to pay for them. So they're much cheaper. They're much more privacy kind of like preserving by design because you don't have to send your data to an API, right? Your data stays on your phone. And so we see people using it a lot for the things when it matters the most.
+
+27
+00:12:23.010 --> 00:12:52.780
+So like for example, if you want to talk about your private health and you don't want to share that with someone else, if you want to share some of your private company data and you don't want to share it externally to an API provider, or if you want to run really, really heavy workloads, for example, agent work loads and really have something that runs 24 seven, then doing it on your laptop or like on the Mac mini or or kind of like a local hardware.
+
+28
+00:12:52.780 --> 00:13:22.370
+makes it much more sustainable. That would be kind of like the use cases. We have this library called Lama CPP, which is the most used runtime for local AI workloads. People are using a lot and they're using GPT OSS, they're using Gwen, Gemma 4, all these models locally on the laptop. Yeah, for sure, for sure. So going back to open models,
+
+29
+00:13:22.370 --> 00:13:49.550
+You can imagine that the government will want to restrict open models because a lot of them come from China. Maybe not restrict them in a strict legal way, but maybe in an export-related way. So do you think that might happen? And if so, what would that mean for Huggingface? Yeah, I mean, like, it's open weights are fundamentally different than an API, right? The way you can restrict it is very different. So for example,
+
+30
+00:13:49.550 --> 00:14:19.380
+you know, if you remove an open-weight from the banking phase, then it's still going to be on Modoscope, for example, which is like the Chinese equivalent, or it's going to be like on torrent platforms. So like restriction, like looks very, very different, I think for open source than for APIs, you can't really block because it's open, so almost by definition, there's going to be some ways to access them. And also,
+
+31
+00:14:19.380 --> 00:14:48.620
+No provenance for open weights doesn't really matter as much because it's open. The people who are sharing it give up the control on it and give up their ability to influence you. So to me, it doesn't matter so much where open weights are coming from. It's a different game, for example, for APIs to run the inference because if you're using an API provider or cloud from China,
+
+32
+00:14:48.620 --> 00:15:18.020
+Obviously, you're sending your data and also they could cut your access or bias your access. That's a much, much bigger problem. But for open weights and open source, it doesn't really matter where it comes from because it's kind of like you get all the control, you get all the transparency. There's no way to kind of like trick you, bias you, manipulate you, remove your access. So I think for open source like for provenance, doesn't matter.
+
+33
+00:15:18.020 --> 00:15:43.810
+as much. Yeah, I'm curious. Your thoughts on just like the US government sort of like restricting the release of like GPT 4.6. Do you think that comes from like them knowing the stakes or not knowing the stakes? Like do you think they're well informed on this matter? Or they just like know that they don't know and that's why they're taking these measures? It's a good question. I can't talk for them. I do think there's a lot of
+
+34
+00:15:43.810 --> 00:16:13.650
+Interesting learning and progress to be made everywhere, not just at the USG, but really everywhere on evaluating models, evaluating risks or for models. I don't think we have really good benchmark for this and that's a big problem. In general, ultimately, I hope we'll have more transparency. There's this agency called Casey that is amazing. I think they're doing an amazing job.
+
+35
+00:16:13.680 --> 00:16:42.740
+And they're building up this capability to really evaluate and work on benchmark and things like that. And I'm really excited for them to take a little bit more of the workload there and kind of like take a very scientific approach to evaluating these models. And I think when they will, it's going to be really good for the shields. Yeah, we definitely want to talk to people from Casey soon. Yeah, it's going to be really tough. I can't lie.
+
+36
+00:16:42.740 --> 00:17:10.400
+We'll try. We'll try. Oh, also yesterday I was talking to Andrew Trask from DeepMind and he had a very interesting viewpoint that he... There's a model on open router called OpenFusion, I think, and it's this fusion model of basically a bunch of different models. And that had a lot of advanced capabilities and surpassed inefficiency in a lot of ways. So do you think we're going to see more of that? I think so, yeah.
+
+37
+00:17:10.400 --> 00:17:39.660
+Yeah, I think what we're seeing right now is that a lot of people companies are realizing that it's too dangerous, it's too risky, it doesn't make any sense to rely exclusively on one model. Why? Because this model can be taken away, this model can be biased, this model can refuse or tell you the wrong things. That's also what we've seen before with Fable 5 before it was taken out. There was some domain where it was intentionally
+
+38
+00:17:39.660 --> 00:18:04.990
+by design, kind of like telling you the wrong things, right? To confuse you. And so I think people are realizing that we need to rely on a multitude of models, right? And so I think that's driving to this outcome of doing more routing.
+
+39
+00:18:04.990 --> 00:18:31.570
+There was an interesting study from Stanford published last year, and of last year that was showing that 70% of the queries that people asked to chat GPT could be accurately answered locally on your laptop. For free. Most of the questions you ask or most of the AI workloads that people do today with frontier models
+
+40
+00:18:31.730 --> 00:19:00.750
+could be done by models that are cheaper, faster, more customizable, more controllable, right? And they don't do it because frankly it's a pain to take the model peaker and be like, okay, this one I'm gonna go for like a cheaper one because, you know, so you're subsidized, so you don't have to care because you have your subscription, so you direct everything. It's like directing everything to Einstein, right? It's like, hey Einstein, what's the weather today?
+
+41
+00:19:00.750 --> 00:19:29.060
+You know, in normal life, it would be like, fuck you, I'm not answering your silly question, but because it's AI and subsidized by the by the labs, all the questions are getting routed to Einstein versus in an ideal world, you can have different people, different models that are more specialized and better at answering your questions in different different domains. So that's kind of like, yeah, what we're seeing and the way to route instead of giving you the model picker.
+
+42
+00:19:29.060 --> 00:19:58.270
+I think it's a very, very smart option and a better one. Lovable is starting to do that too, right? Like doing the routing under the hood. And I think it's possible that it's going to redistribute a lot of the value capture from frontier models, which have been the case now, right? Like majority of the revenue capture was on frontier models to a more like long term of models, which in my opinion makes much more sense.
+
+43
+00:19:58.270 --> 00:20:27.490
+It's like AI maturing, right? Like we're in the first phase of AI where it's very simple, very simplistic. Everyone using just one giant antique model behind proprietary APIs. Now we're moving to the second phase of the AI field, more maturing and using several models, using open source, having control, building themselves. I'm quite excited about it. Yeah. So another big news story of yesterday was Anthropic accused Alibaba.
+
+44
+00:20:27.490 --> 00:20:56.030
+of doing distillation attacks. There's two perspectives on this. One is like, these are the evil people who are like stealing the capabilities of our models, violating our terms of service, like fraudulently accessing our product. And then the other is like, what do you mean? They're creating accounts and they're paying for tokens. And you can't accuse people of stealing when you stole the entire internet. So which one of these two positions are you closer to? Well, I mean, I think distillation is a very common...
+
+45
+00:20:56.030 --> 00:21:25.710
+you know, practice that everyone is using, you know, I wouldn't be surprised if Entropik used distillation in the past for some of their models, for some of the specialized models using kind of like someone else who's better. For example, you know, when when Open AI was better at coding, like you use this model to kind of like help you a little bit in the training of your your your coding model. It's something that everyone uses, but that is not, you know, the main reason for success. Like if you suck, you suck with or without distillation.
+
+46
+00:21:25.710 --> 00:21:53.500
+It's just kind of like a little bit accelerating thing, but it's not what makes you good or bad at training models. So if you stop distillation tomorrow, the Chinese labs won't go down and disappear because it's still going to be good. It's not really going to change the game. And the only point that I'm a little bit biased towards that is
+
+47
+00:21:53.500 --> 00:22:20.910
+Like if there was big competition problems, right? Where it's like, oh, it's really unfair. It's biasing competition. But it's hard for me to accept this one because frankly, you know, I mean, Entropiq OpenAI, they've been the fastest growing companies in the world. They've become overnight trillion dollar companies. And so I don't think they have competition problems. You know, it's hard for me to say like, oh, for Entropiq, for OpenAI,
+
+48
+00:22:20.910 --> 00:22:49.890
+you're getting unfairly competed with when you're like the fastest growing company in the world. Competition has been okay for them. If anything, I think they need more competition than less competition. Because we're heading towards a world where like a few companies are completely dominating, concentrating all power, all capabilities, all wealth. And that's much more dangerous than them maybe
+
+49
+00:22:49.890 --> 00:23:19.900
+you know, losing a couple of billion dollars of revenue. Yeah, totally. So it's just hard to empathize and kind of like think that this is an important problem. I think there are many, many more, much more important problems than that in the world of AI right now. Sure. So since the last time we talked, there have been two big pieces written about Europe.
+
+50
+00:23:19.900 --> 00:23:47.780
+There's this essay Europe 2031, which is basically AI 2027, but for Europe, basically Europe will slide into a relevance if they don't lock in on AI right now. And then the other was Anton Lai, who's a policy writer, wrote this piece on Subset called The Moonshot, which basically explained how if Europe wanted to do so, they could build a frontier lab. Do you think that it's possible for Europe to do this at this point? Could they build a frontier lab if they really tried?
+
+51
+00:23:47.780 --> 00:24:15.140
+I think so, yeah. Yeah. They have a lot of really great resources. They have great people. You already have some great labs, right? Black Forest Lab, Mistral. All these people are doing amazingly and arguably they are the frontier. They have amazing energy. Obviously France, for example, nuclear energy, very abundant. So they could really kind of like...
+
+52
+00:24:15.140 --> 00:24:44.780
+use a lot of clean energy for AI. So yeah, I think they could. It's just a matter of kind of like focusing the energies towards that, building an ecosystem. It never, sometimes we build the stories of like companies emerging out of the blue by their sheer power. But the reality is if it's more an ecosystem, right? And you see that from
+
+53
+00:24:44.820 --> 00:25:14.060
+Open AE, the T of Transformers, obviously it's coming from Google that open source Transformers. And so it's more of a matter of, in my opinion, fostering an ecosystem of open research, open source AI, which is what happened in the US, right? And kind of fostering that progressively to bring more and more companies, organizations closer to the frontier.
+
+54
+00:25:14.060 --> 00:25:43.180
+Yeah, totally. I'm curious, like, since you run such a large platform, like, what are younger people doing with AI? Are younger people actually becoming very, very proficient in like AI native? Or like, how do you see this pattern of behavior? Yeah, yeah. We see them a lot. It's almost kind of like, I feel like young people went through the first phase of being users of AI really quick. And now a lot of them, I think, want to be builders.
+
+55
+00:25:43.180 --> 00:26:11.380
+So we see a lot of very young people going on a new phase, getting models and building products themselves or optimizing training models themselves, building data sets themselves. So I see a lot of building appetites in AI for young people in a lot of different domains, not necessarily...
+
+56
+00:26:11.380 --> 00:26:40.500
+They are not necessarily in the most talked about domains, but also in a lot of topics that are really not talked about like climate change, biology, chemistry, social media, there's a lot of topics that we don't really talk about.
+
+57
+00:26:40.500 --> 00:27:12.530
+talk about, that I feel like are closer to everyone's interest and I see a lot of young people working on these things. It's a good white pill to end on. That is, yeah. Well, thank you so much, Clem. This was so great. Thank you, Clem. Thanks for having me. Thank you. Very big fans. Thanks for listening to this episode of the A16Z podcast. If you liked this episode, be sure to like, comment, subscribe, leave us a rating or review, and share it with your friends and family.
+
+58
+00:27:12.530 --> 00:27:42.460
+For more episodes, go to YouTube, Apple Podcasts, and Spotify. Follow us on X and A16Z and subscribe to our sub-stack at a16z.substack.com. Thanks again for listening, and I'll see you in the next episode. This information is for educational purposes only and is not a recommendation to buy, hold, or sell any investment or financial product. This podcast has been produced by a third party and may include paid promotional advertisements, other company references, and individuals unaffiliated with A16Z.
+
+59
+00:27:42.460 --> 00:27:56.300
+Such advertisements, companies, and individuals are not endorsed by AH Capital Management LLC, A16Z, or any of its affiliates. Information is from sources deemed reliable on the data publication, but A16Z does not guarantee its accuracy.
