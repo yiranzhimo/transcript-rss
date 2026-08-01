@@ -1,0 +1,669 @@
+WEBVTT
+
+1
+00:00:03.980 --> 00:00:33.730
+This is the rational reminder podcast a weekly reality check on sensible investing and financial decision-making from two Canadians We're hosted by me Benjamin Felix chief investment officer and Braden Warwick financial planning product architect at PWL capital Welcome to episode 411 today. We have a pretty nerdy but very interesting episode on expected returns It is really interesting So it's like figuring out what to use as an expected return for stocks and bonds like what is the average return that you expect or any other asset class?
+
+2
+00:00:33.730 --> 00:01:02.340
+is super important. It's one of the most important parts of financial planning and portfolio management. It ultimately informs how you allocate your assets, how much you need to save or spend in your financial plan. Higher expected returns make an asset class more attractive, all else equal, but of course, all else is not always equal. Higher volatility makes an asset less attractive, all else equal, but again, all else is not always equal. And lower cross asset correlations make assets more attractive together in a portfolio, all else equal.
+
+3
+00:01:02.340 --> 00:01:27.180
+but they're always trade-offs. It's never actually all else equal. Modeling those relationships is hard enough, but there are other aspects of expected returns that get less attention while being similarly important. The big one there is the shape of the distribution, and another one is the time series characteristics of asset class returns. That's like volatility clustering in stocks where a little bit of volatility tends to be followed by a lot of volatility.
+
+4
+00:01:27.180 --> 00:01:50.800
+mean reversion in stocks mean aversion in bonds. Those are all characteristics that can materially change optimal asset allocations and modeling outcomes like long-term financial planning outcomes. Now listeners will be familiar with Scott Cedarburg's work on this, which we found illuminating. He and his co-authors used block bootstrap to preserve the time series characteristics of historical stock and bond and cash returns.
+
+5
+00:01:50.800 --> 00:02:15.870
+to show that doing that changes the relative attractiveness of stocks and nominal bonds and cash for long-term investors. So, since hearing from Scott and learning about his research and reading his paper, we've been trying to figure out, basically me and you, Braden, have been trying to figure out how we can improve our expected returns modeling when we're running financial planning projections. And so, that's what we're going to talk about in this episode. Braden, you're going to talk about
+
+6
+00:02:15.870 --> 00:02:45.300
+some of the modeling considerations that go into expected returns modeling and what we're doing now. And then, and this part's pretty cool. We're going to hear from John Yang, who's a financial engineering student at Columbia Engineering, the engineering school at Columbia University. PWL and engaged with John and some of his classmates for their industry project where the students supported by their professor, Professor Michael Robbins, aimed to solve a real problem for a firm. So it's pretty cool. There are a bunch of industry projects that are available.
+
+7
+00:02:45.300 --> 00:03:15.120
+two students and they get to choose which one they want to do. And so I talked to Professor Michael Robbins, explained this expective returns modeling challenge that we had and he was like, cool, I'll propose that as a project. And John and his group of students for the class chose our project and worked through it for a semester. It was a pretty cool experience. Hey, Redden, that was cool. It's stuff that I did when I was in academia working with industry partners. And I always found that pretty impactful when you're actually able to make a difference on real product and real tangible.
+
+8
+00:03:15.120 --> 00:03:44.130
+research that can be applied in the real world. So I think hopefully they took that same experience in working with us, but it was definitely really cool to be on the other side of that where we were able to leverage academia and feel like we're on the bleeding edge of this type of research. So yeah, really cool experience all around. Yeah, I thought it was cool. Our financial planning software that PWL uses right now is called Conquest Planning. They're just conquest. The way that it's returns analysis works when you want to look at how sustainable is this financial planning projection over a projected
+
+9
+00:03:44.130 --> 00:04:13.920
+range of future outcomes, we upload a thousand runs of simulated data. Doing it that way is really cool because some other financial planning softwares will run in Monte Carlo inside the software, but you don't get to change any of the parameters or the shape of the distribution. But because Conquest lets us, or the only way that you can do it is by uploading your thousand runs of data, you can use whatever simulation method that you want and then upload that into the software. Because of that, we're able to do stuff
+
+10
+00:04:13.920 --> 00:04:42.670
+like what John and his team worked on, where we define our own way of creating a distribution of returns and then we can test that in financial planning software. We don't yet have this loaded up in conquest, but Braden has done some modeling work just to look at how John's method of simulating returns compares to what PWL had been doing previously in a long-term projection. How does it change the outcome in these projections? So we will get to that in a minute. So that's the setup. Now, I do want to
+
+11
+00:04:42.670 --> 00:05:11.940
+Speak real quickly about something cool that happened before we just get into the main content. A new PWL client who is Characteristically as many of them are highly analytical and had previously been a successful DIY investor. They wrote down a detailed analysis of their decision to become a PWL client. I believe that they wrote this to share in a group chat with some of their friends. But the cool thing is they also shared the analysis with their new PWL advisor.
+
+12
+00:05:11.940 --> 00:05:37.600
+who then shared it with me and then we got permission to talk about it on the podcast because I thought it was pretty thoughtful analysis. I do have to make some quick disclosures before we get into this. The person who wrote this is a client of PWL Capital, which is a subsidiary of One Digital who also operates One Digital Investment Advisors LLC in the US. As some of our audience is US based, we wanted to properly disclose that the client was not compensated by PWL Capital or One Digital for writing this.
+
+13
+00:05:37.600 --> 00:05:59.220
+Also, keep in mind that clients' experiences vary and therefore their views are not representative of all client experiences. Additionally, the testimonial is not an indication of past or future investment performance. All right. Nice disclosure there to make Ross happy. So I'm going to get into the what this client wrote. So keep in mind, this is a long post that they wrote in a group chat type setting.
+
+14
+00:05:59.220 --> 00:06:22.500
+Here's what factored into my decision to make the change from DIY couch potato style investing to an asset's under management financial advisor. This is just my own thought process. I'm not trying to change anyone's opinion here, but hopefully the share is interesting. I've been self-directed my entire life and have spent the past 10 plus years getting serious about building up more in-depth knowledge about the pros and cons of different approaches to investing. I don't have particularly complex needs.
+
+15
+00:06:22.500 --> 00:06:50.340
+and I've been long a VEQT for ages now, so it took quite a while to work through my hesitations to the AUM, the Assets Under Management Model. Even a few months ago, I was pretty sure I wanted a fee only advisor, so this is pretty fresh and not informed by actual experience yet. I'll start with why I went with an advisor at all, roughly ordered from most important to me to least. Financial planning, my top reason for finding an advisor. I'm starting to think about how to optimize for funding my life after I stop working.
+
+16
+00:06:50.340 --> 00:07:18.350
+I've built fairly complex spreadsheets to project out drawdowns across my accounts to get a baseline idea of where I'm at. But even with tax planning included, they're still crude and unoptimized compared to something like Conquest, which again is the software that PWL uses. An advisor can use it to model and optimize drawdown scenarios, then run thousands of Monte Carlo market return simulations. That's actually a good tie-in because that's what we're talking about, to help buffer against unexpected conditions that build robustness and security into the plan.
+
+17
+00:07:18.350 --> 00:07:47.170
+I knew that I couldn't effectively plan for the future without this level of specific planning capability, and that was totally validated the first time we ran our numbers through conquest. I was way off, but in a pleasant surprise kind of way. The next point is cross-border complexity. One spouse in this couple is an American citizen, which has prevented us from combining our finances beyond our mortgage. We'll miss out on long-term planning strategies, for example, disposal RSPs without qualified guidance on how we should be approaching this.
+
+18
+00:07:47.170 --> 00:08:14.940
+And the spouse is looking for more peace of mind from qualified advice on dealing with the IRS, despite having separate accountants to deal with taxes in each country. There have been some unexpected tax bills due to filing issues. The next point is estate security. We don't have kids, but my wife and I are in different financial positions from both a knowledge standpoint as well as account balances. Odds are all diverse. So establishing a relationship now with an advisor, we both trust who can be relied on to look out for
+
+19
+00:08:14.940 --> 00:08:39.790
+both spouse's best interests in the event that one of them is gone is a huge benefit to everyone's peace of mind. The next point is a hedge against decline. They write, my father-in-law is in the early stages of dementia and we're already seeing how that's having an impact on his finances, having an outside observer who can spot when conditions change and help intervene before costly mistakes are made is great insurance. And I did want to add a note here.
+
+20
+00:08:39.790 --> 00:09:08.000
+PWL always encourages clients to assign a trusted contact person, which is someone that the client trusts who PWL is pre-authorized to contact if something doesn't seem quite right. So someone wants to make a trade or move money to a different country or something like that. If the PWL advises like, I don't know if this, if something doesn't seem right here, they can contact the trusted contact person who can then speak with a client or confirm whether everything's okay or whatever the case may be. There is a paper.
+
+21
+00:09:08.000 --> 00:09:35.260
+that found that older people tend to underestimate their own cognitive decline and that those who have experienced a severe cognitive decline but are unaware of it are more likely to suffer wealth losses compared to those who are aware or did not experience a severe decline. This is a 2024 study, Are Older People Aware of Their Cognitive Decline Misperception and Financial Decision Making? In the paper examined the data from the Health and Retirement Study, a representative panel of the US population aged 50 plus
+
+22
+00:09:35.260 --> 00:10:04.960
+to study the relationships between self-ratings of memory changes, assessed changes in memory performance, and wealth changes across waves of the survey. Results are pretty crazy. They suggest that there is a causal role of unawareness of cognitive decline for wealth losses, and that wealth losses among unaware respondents mainly reflect a decrease in the value of their riskier assets, their investments, their stock portfolio. The authors also find that wealth losses are concentrated in the highest wealth quartiles. Pretty crazy data. Very relevant study.
+
+23
+00:10:04.960 --> 00:10:33.410
+to that point about a hedge against decline. The authors of the paper interpret their findings as the effects of overconfidence where people who have experienced cognitive decline but do not realize it end up making poor financial decisions that can be very costly. Now, we're back to this person's post explaining the decision to hire PWL. The next point is core competency. Having industry experts stay on top of emerging financial research, tax code updates, insurance products, and other changes that might be relevant to me means less things I need to do myself.
+
+24
+00:10:33.410 --> 00:11:01.340
+Sure, I have the basics covered but beyond that is there a new tax credit I should be taking advantage of do I have the right set of insurance products at the right levels of coverage? Is there a new financial research that indicates I should be considering a change in my strategy? Does my will offer the asset protection? I think it does. It could be a full-time job just trying to stay on top of everything that could be relevant to me a Whole team who does this for a living and will get in touch when new information might apply to my situation sounds better than trying to do it myself poorly
+
+25
+00:11:01.340 --> 00:11:28.640
+The next point is dealing with life events extending that last point when big life events happen, particularly unexpected ones. I also have a trusted advisor who can help me make good decisions, particularly in stressful times. Do I know I'm getting good quotes the next time I renew the mortgage? How do my wife and I best handle the inheritance when falls coming our way in the next 10 to 15 years if one of us dies prematurely? How does the other plan for the rest of their financial life? The next point is objective third-party advice.
+
+26
+00:11:28.640 --> 00:11:56.880
+I'm pretty sure I've made every investing mistake you can make in the past, so I feel fairly confident I won't make those ones again, but I'll make new ones. I'm not immune to doubt as market conditions change. I remember 2008, but I had such a small amount invested back then. I can't call how I'll react the next drop like that. Having a steady hand there to keep me on course isn't the first benefit I think of, but I've worked with a personal trainer in the past and saw pretty directly how having someone for accountability can keep me on track.
+
+27
+00:11:56.880 --> 00:12:20.510
+So I trust that will apply here too. That is an interesting one. I think I mentioned the podcast before. I have been working with a personal trainer and for accountability and gut checks on stuff. I have found it to be pretty useful. One less thing to think about. The next point here is freeing up mental overhead. I actually didn't consider this at all before we signed on. This is an interesting one because they hadn't considered it before and then experienced it once they
+
+28
+00:12:20.510 --> 00:12:50.500
+started working through onboarding with PWL. But even through just getting started with PWL, I'm already noticing that the mental space I've been giving to long-term planning and building my financial knowledge is easing up. Good example, I really, really wanted to discuss account drawdown optimization strategies late last year. Now I don't care and that can wait until I'm ready to actually start doing it. There are lots of things I'd like to be good at, but only so many hours each day. Removing this from the list makes room for something else. Good classic case of delegation.
+
+29
+00:12:50.500 --> 00:13:17.140
+And then they had some notes on why they chose PWL in particular. The first point is high trust. I'm a rational reminder listener. So hello listener. If you're listening. So I'm very familiar with the company and their approach. I like their evidence-based philosophy and that they look at the investment strategy as only the tip of the iceberg of the services they offer. There are a lot of bad advisors out there who will happily take your 2% and provide very little value in return. But I have a high level of confidence that PWL is not.
+
+30
+00:13:17.140 --> 00:13:44.850
+that their fee is comparatively reasonable and they'll work hard for me to earn it. And it's already been noted in the thread, I guess this is elsewhere in the discussion thread that this was posted in, but they're also the first to admit that if your needs are simple and you're a perfectly happy DIY investor using globally diversified index funds, you may not be a good fit for their services. I respect that pragmatism. We have always said that. PWL definitely doesn't make advisors in general and PWL don't make sense for
+
+31
+00:13:44.850 --> 00:14:12.060
+Everyone, lots of people can be successful DIY investors, but this person's points on why they chose to work with PDAL are pretty interesting. And then the last point is access to dimensional, more of a nice to have, but moving from DEQT to PDAL plus DFA, take some of the sting out of the overall fee increase. Plus, I like factor investing and dimensional doesn't offer ETFs in Canada. So they only would access their products through an advisor. This was pre-Avantus ETF. So maybe that's changed a little bit, but notably this is the very last point in their list.
+
+32
+00:14:12.060 --> 00:14:40.910
+They conclude, so yeah, very little of the decision was influenced by anything about managing the investments themselves and more about holistic financial planning and services. It won't be for everyone, but the fit was there for our needs. The end. I thought it was just kind of cool to hear from someone who had recently made the decision to work with PWL and then documented their own thought process. I thought it was worth sharing with listeners of the podcast. I also think it's pretty cool that they kind of went through the full range of
+
+33
+00:14:40.910 --> 00:15:08.140
+investor profiles, if you will. They started as a DIY investor. They were obviously very interested in that enough so to listen to our podcast on a regular basis. And then they also were considering fee only financial planning. And I think that's a really popular service right now. And there's a lot of talk around fee only financial planning and a lot of people promoting it. And I don't want to discredit any of the good work that they're doing. But I also think that this clients
+
+34
+00:15:08.140 --> 00:15:34.850
+really laid out the benefits of the AUM model and working with someone and working with a brand that they can trust over time that spans just beyond working with one individual that they're really working with a team of people that have that person's best interests in mind. I think it really speaks to what we're doing here. So I thought it was really cool to read. That's probably why I found it so interesting. If you look online, everyone says never go to an AUM advisor. You have to get a fee only financial planner. But meanwhile, PWL continues to grow.
+
+35
+00:15:34.850 --> 00:16:03.950
+considerably, we're adding lots of new clients that want to work with us. So there's a disconnect somewhere there. And I think this person really filled in a lot of the gaps about why someone might choose specifically the AUM model, even when they know that the fee only financial planning model is available. And it's really that just delegation piece of mind stuff that's kind of hard to measure combined with all of the expertise in financial planning and portfolio management services. Okay. So into the main content here, hopefully people found that interesting and
+
+36
+00:16:03.950 --> 00:16:29.940
+didn't come across as a sales pitch or something, but I thought it was worth sharing. So I'm going to just talk a little bit about PWL's methodology for expected returns, for like estimating moments of the expected return distribution. And then, Brandon, you're going to talk more about a whole bunch of super nerdy stuff, including how we do our simulations now to generate those distributions. At a high level, PWL combines what we call a market-based expected return, which is
+
+37
+00:16:29.940 --> 00:16:57.330
+an expected return that is implied by market prices. So for stocks, we use the inverse of the Schiller-K ratio for bonds. We use the bond yield. That's one piece, the market-based expected return. And then we use what we call the equilibrium cost of capital, which is the very long-term return for that asset class. And for that, we use the Dimson-Mars-Stanton data that goes back to 1900. And then we combine them in different ways, depending on the asset class.
+
+38
+00:16:57.330 --> 00:17:23.620
+For equities, we use 75% historical and 25% market-based expected return. So that's 75% world equity return from the DIMAS Marshaunted data. We do adjust that for valuation changes. So if equity returns have been high recently because valuations have increased a lot or valuations have increased a lot and that's contributed to recent stock returns, we do adjust for that in that long-term.
+
+39
+00:17:23.620 --> 00:17:52.160
+Measure and I mean likewise if stock valuations plummeted all of a sudden and the historical return dropped we would adjust for that valuation change and then we combined that with 25% market-based expected return which as I mentioned is the inverse of the Schiller Cape. It's not statistically robust but we ran a bunch of regressions on how predictive has the Schiller Cape been historically for future returns. Statistician would probably mock us for our methodology on this specific part.
+
+40
+00:17:52.160 --> 00:18:21.730
+But we figured that a 25% contribution from the market-based expected return was roughly in line-ish, approximately, with the historical predictive power of that metric. And then for fixed income, we do the inverse, where it's 25%. Historical return is 75%, the current yield to maturity on bonds. And again, that's because historically, bond yields have been much more predictive of future realized returns than the CAPAS over future realized.
+
+41
+00:18:21.730 --> 00:18:45.330
+stock returns. But again, they're not perfect statistically derived numbers. They're rough estimates that work well for doing our expected return estimates. And then for factor tilted portfolios, we do add factor premiums to market cap expected returns. We use historical factor premiums that we then shrink down for post publication shrinkage of each factor.
+
+42
+00:18:45.330 --> 00:19:13.260
+We also have to do estimates for the composition of expected returns. If you're doing a projection particularly for a taxable investor, you need to split out how much of the return is coming from Canadian dividends, how much is foreign dividends, how much is interest, how much is realized versus unrealized capital gains. So we have methodologies for all of those things and include them in our data. And then you have to estimate a correlation matrix. We use historical correlations for that. And we're currently doing our projections, our
+
+43
+00:19:13.260 --> 00:19:40.340
+distribution of returns using a Gaussian distribution. We simulate returns using a multivariate normal distribution. That gives us our thousand runs of data that we can use for our planning projections. And that specific piece, that simulation process is the thing that we were working with John to try and improve. So, Braden, do you want to jump into the distinction between geometric and arithmetic mean returns and how it relates to these projections?
+
+44
+00:19:40.340 --> 00:20:06.900
+For sure. Before I get there, though, I just want to set the stage a little bit with regards to the research project and with what you'll hear in the interview with John, the problem that we gave him. We're using the multivariate normal distribution. We wanted to change the shape of the distribution, look at the higher order moments. And where we ran into trouble in doing that was because we have so many asset classes, we have our market cap weighted asset classes, our factor tilted asset classes, and then
+
+45
+00:20:06.900 --> 00:20:33.780
+Internally, we also have a bunch of other asset classes like alternative investments and individual stocks and things that we don't make public and we also don't recommend to our clients necessarily, but it's really important for us to have in the planning software so that we can quantify those outcomes. And if clients have questions about investing in a certain other type of asset class that we don't typically recommend, we can actually show how that impacts their financial plan directly rather than just
+
+46
+00:20:33.780 --> 00:21:01.380
+having our story versus the story of another advisor that is trying to sell them something. So when we do that today altogether, it ends up being, I think, four million data points that we end up sending over to conquest planning. But it was going to be really difficult to add in those higher order moments in the way that we're doing it now. So that's why it was really an exciting opportunity to engage John and a dedicated research team led by Professor Robbins to look at the better ways of doing this.
+
+47
+00:21:01.380 --> 00:21:30.620
+Coming back to geometric versus arithmetic means, I really want to set the stage here too because this is an important one that I think most people are aware of, but I'm not sure that everybody fully understands when to use what and the implications. Before I get into the details, I think it's important just to backtrack and define what a geometric mean is and what an arithmetic mean is. I'll use a simple example just so that people can follow along.
+
+48
+00:21:30.620 --> 00:21:59.200
+If we have two years of returns, year one is a negative 10% return and year two is a positive 10% return, we can see that the simple average of those two numbers is 0%. So that is the arithmetic return. But if we walk through what happens to your investment account subject to those returns over time, if you have $100 and it has a negative 10% return in year one, it comes down to $90.
+
+49
+00:21:59.200 --> 00:22:28.610
+And then if it's subject to a plus 10% return, then $90 becomes $99. So at the end of that two-year period, you started with $100, you're left with $99, even though the arithmetic mean is 0%, you're still down $1, and you have a negative realized return over that two-year period. So that is the need for the geometric mean. From that example, it should be clear that if you're doing a multi-year projection, multi-year financial planning projection,
+
+50
+00:22:28.610 --> 00:22:57.970
+with a constant rate of return, you need to use the geometric mean. But if there's volatility included, if you're able to use a varying rate of return year over year, then you can use the arithmetic mean and sample from that distribution accordingly. And then the geometric mean of that distribution, well, would be the geometric mean, I guess. If you run a bunch of simulations using the arithmetic mean and the other moments of the distribution that you have, the geometric mean of
+
+51
+00:22:58.000 --> 00:23:22.370
+Those distributions will be same as the calculated. They should match exactly. So if you sample from that distribution of arithmetic means and then you use that data in your financial planning projection then the geometric mean will kind of come out as the end result. If you're sitting down using Excel or whatever to do a projection and you're just using a constant rate of return, you want to use the geometric mean, but if you're sitting down
+
+52
+00:23:22.370 --> 00:23:49.100
+and simulating a whole bunch of possible returns, you need to use the arithmetic mean and the other moments of distribution. That's right. If you have access to the higher order moments of distribution, which we'll get to with our interview with John, but simply speaking, the difference between the geometric mean and the arithmetic mean is just the volatility drag. That's what it's called. And it's nothing crazy. It's just half of the variance or half of the standard deviation squared.
+
+53
+00:23:49.100 --> 00:24:18.220
+you can easily calculate that based on the data that we publish in our expected returns paper. There's nothing really more to it than that. But it is important. There's a really important implication when you're calculating the portfolio expected return because that volatility drag of the portfolio is different than the volatility drag of those asset classes in isolation. We hear all the time that diversification is the only free luncheon investing. So I think it's really important that you include those diversification benefits.
+
+54
+00:24:18.220 --> 00:24:47.740
+in calculating the expected return of the portfolio. Let me walk through how to do that. In our expected return paper, we publish the geometric return of the asset class as an isolation. And then we also publish the expected return of the portfolio. Our paper has everything in geometric return, so it's simple for people to interpret and to do their own projections with if they want. But there's kind of this intermediate step. You have to convert the asset class geometric means back to their arithmetic means.
+
+55
+00:24:47.740 --> 00:25:11.760
+And then you can take the weighted average of the arithmetic means to come up with the expected arithmetic mean of the portfolio. But then in order to get the geometric mean of the portfolio, you need to know what the standard deviation of the portfolio is. And in order to do that, you need the correlations of those asset classes along with the standard deviations of those asset classes and the weighting that they make up in the portfolio. So once
+
+56
+00:25:11.760 --> 00:25:34.800
+you're able to do that then you have the standard deviation of the portfolio and you can easily convert back to the geometric mean of the portfolio. You may think that this is just unnecessary, it's just complex, it doesn't really add any value, but it provides, well based on our current data, we see about a 20 to 30 basis point increase in the expected return of the portfolio depending on the asset mix.
+
+57
+00:25:34.800 --> 00:26:01.860
+when we do it the proper way, which is converting to arithmetic means, combining the arithmetic means and then converting back to the geometric mean of the portfolio. And the difference that 20 to 30 basis points is the benefits of diversification and the correlation benefits that you get from holding those different asset classes in a single portfolio. Yeah, that's really interesting. If you're not doing that, if you're not going through those steps to calculate the portfolio level, expect a return.
+
+58
+00:26:01.860 --> 00:26:30.800
+you're underestimating your expected returns and you're ignoring the effects of the positive effects of diversification. That's right. And 20 to 30 basis points that can exceed fees in some cases. So it is a meaningful number that I think should be included. And it's worth noting too that, one, conquest will do this automatically for you. It has the proper portfolio math baked in so that if you provide the asset class expected returns that it will do that conversion properly. And two,
+
+59
+00:26:30.800 --> 00:26:57.970
+Previously, we also were making that same mistake. So we were not immune to this. We found the mistake, corrected it. And I think that also kind of speaks to the client testimonial that it's nice to have a whole team of people, a financial advisor to diagnose that issue and fix it is a bit of a tall task because of all the other work that they have going on. But having Ben and I and other people to think through this stuff and to take care of it in conquest, I think is pretty powerful. Constantly nerding out, looking for little things like that. It matters right.
+
+60
+00:26:57.970 --> 00:27:27.140
+As you mentioned, it does increase the expected return that we're using as an assumption, which changes the advice on how much can you spend in retirement, how much you need to save. The future's super uncertain, but I would still say that this stuff matters. Definitely. Real quick, right now, when we do our simulations, returns are modeled as random. We're defining the mean, the standard deviation, the correlations, and then we're just pumping out 1,000 simulations. It's a pretty basic simulation process.
+
+61
+00:27:27.140 --> 00:27:53.390
+John Yang, we're going to go to our interview with him in a second. He's going to talk about what him and his student group did for their industry project and how it changed, how they came up with an improved way to do the simulations. And then once we've talked with John Britten, you've got some really interesting analysis on how using their simulation process instead of ours changes long term projections and what they specifically change and why it's anyway, super interesting.
+
+62
+00:27:53.390 --> 00:28:19.940
+John Yang is a financial engineering student at Columbia Engineering with experience in quantitative modeling markets and applied analytics. The class has now ended, but his project with Professor Michael Robbins was on a synthetic data generation project for PWO Capital, which was focused on building more realistic market scenarios for financial planning and risk analysis. John's work on this project examines how advanced simulation methods can better capture asset behavior, tail risk, and periods of market stress.
+
+63
+00:28:19.940 --> 00:28:51.840
+than traditional models. All right, let's go to our conversation with John. John Yang, welcome to the Rational Minder podcast. Thank you. Great to be here. We're very excited to be talking to you. So real quick for listeners, I'll give a little bit of background. Professor Michael Robbins, who's at Columbia University, reached out to me. He runs an industry project with his class every semester. And the industry project basically takes a group of students and assigns them to
+
+64
+00:28:51.840 --> 00:29:21.500
+someone in an industry or a company in industry and they're given a problem from that person or company or whatever it may be to solve a data-based project. So Professor Robbins reached out, asked if I thought I had anything interesting for students to work on. And I was like, actually, yeah, there's something that we have been trying to solve and we just haven't dedicated the time to do it. And so we landed on that as a project. But Braden, maybe you can real quick introduce
+
+65
+00:29:21.500 --> 00:29:50.860
+the problem that we asked John and his team to solve. It comes back to our expected return assumptions model. We still are using a Gaussian distribution to sample our expected returns for each asset class. And it's not a perfect approach, but it was simple and it wasn't extremely obvious to me how to improve it or what needed to be done to improve the model. We know that returns don't follow a normal distribution in reality, but
+
+66
+00:29:50.860 --> 00:30:18.980
+we knew that it was also going to be a big undertaking to improve that. When this opportunity came up to engage an academic partner, it seemed obvious that this was a great opportunity to improve our model. So John, why don't you tell us a bit about how you try to tackle that problem? So first of all, it's great to be working with you guys for the past two months. And Professor Michael Robbins actually helped us a lot in the process. And how this is going to work is I'm just going to share my screen and I will
+
+67
+00:30:18.980 --> 00:30:47.250
+talk about the approach we took in improving the model. So like Brayden have talked about before, we were essentially trying to simulate test cases for wealth planning using Synthetica data generation. And in the past, it has been done through Gaussian or normal distribution based models. What we are trying to do is to improve that. And I think a good way for the audience to grasp what's going on here is we're essentially translating the forward looking
+
+68
+00:30:47.250 --> 00:31:13.060
+expected returns and volatilities into market scenarios that can be used as test cases. Expected returns and volatilities are very useful in looking at how your portfolio is doing or how the market is going to perform, but they're one dimensional. There's still summary statistics. They don't actually tell us that sequence of returns that you might live through. And when planning, let's say for your retirement, that sequence matters a lot.
+
+69
+00:31:13.060 --> 00:31:41.840
+You're unlikely to experience, say, 6% return year over year, like in a straight line. You experience some good years, some bad years, some recovery years, some drawdowns, and during crisis, assets that crash together when they're expected to diversify each other. The question for us is, once we have the four looking assumptions, how do we turn them into realistic return paths that can be used to test the resilience of a wealth plan? This is why we are generating synthetic data.
+
+70
+00:31:41.840 --> 00:32:05.680
+I think one thing that I need to clarify before I start to talk about approach is that synthetic data is not randomly generated data. It's very mathematically ground estimation that is designed to represent historical scenarios. In our case, each synthetic data point is a part of possible return path that a portfolio could experience. And the goal for us is not to say this exact path will happen, but rather
+
+71
+00:32:05.680 --> 00:32:34.320
+We're trying to create many realistic path so we can ask better planning questions such as what happens if bet returns arrive early or what happens when a crisis hit. So it's basically like we know returns aren't random. Imperially, you can see that by looking at real data. We had been using randomly generated returns to do retirement modeling and stress testing. So you guys were taking, if we look at real historical data, what has actually happened so we know things like
+
+72
+00:32:34.320 --> 00:33:02.750
+There tends to be a little bit of mean reversion like you were talking about. Volatility tends to cluster. Correlations tend to go up during bad times. And so you guys were taking all of those empirical realities and trying to figure out a way to generate synthetic data that reflects those properties. Exactly. Like you said, once we think about the problem that way and think about synthetic data generation, the workflow becomes, I think, more intuitive. So we take the expected returns and volatilities and correlation.
+
+73
+00:33:02.750 --> 00:33:30.590
+assumptions as an input to our model. These inputs are fed into our simulation engine. Its job is to take those assumptions and generate a portfolio return path that can be used for long-time horizon planning. The simulation engine is not trying to create new market forecasts. It's like grounded in historicals and try to generate something that's more realistic. We were not the first ones that are doing this. Like Braden said, Pdbo had a baseline approach before based on Gaussian distributions.
+
+74
+00:33:30.590 --> 00:33:57.950
+This basically utilizes a multivariate normal distribution and run a Monte Carlo model on it. And for listeners who are not familiar with what Monte Carlo simulation is, it is a common framework for generating correlated data. You can basically take expected returns, volatilities and correlations, and the models will generate simulated returns from that normal distribution. There are a lot of advantages to use it like Rayda mentioned. It is very easy to implement.
+
+75
+00:33:57.950 --> 00:34:26.900
+It is also very easy to collaborate. Also on top of it, it's also very easy to explain. So I think it's definitely a great baseline to start from, but it also has its issues at the end of the day, assuming a normal distribution and normal distribution is smooth and is symmetric. We're thinking about the bell curve that look exactly the same perfect on both sides and real markets don't do that at all. In reality, the left tails can be ugly, which means when crisis happens, it goes really bad.
+
+76
+00:34:26.900 --> 00:34:52.930
+losses can cluster like when you have one bad day it doesn't stop there like it goes on a strike. And those are the issues that we're trying to address with our new simulation model. More specifically we have three challenges that we're trying to have our model to address. First each asset need to have its own personality. In the Gotion baseline you're kind of assuming everything follows a bell curve but that's not true.
+
+77
+00:34:52.930 --> 00:35:19.220
+Bonds behave very different from equities. That also behave very different from say oil futures. Each of them has to be like fitted independently instead of just assuming a bell curve for everything. And the second challenge is that the asset classes also need to move together realistically. You can't just model equity without thinking about bound because think about it when equity drops, when it's like reacting to one macro event.
+
+78
+00:35:19.220 --> 00:35:47.340
+Asset classes don't move in isolation. So we're trying to model that correlated behavior in our model as well. And the third challenge that we're addressing is that the model also need to take into the bad outcomes and the tail events seriously. For now, a normal distribution has a relatively thin tail and it's not really giving the tails the attention that it deserves. That was my setup for the problem. I don't know, Ben, if you have any questions about that or anything you would like to.
+
+79
+00:35:47.340 --> 00:36:15.420
+Clarify. No, I mean, I thought that was great. We're simulating each asset individually. As you said, they each have their own personalities, their own characteristics. And then we care about how they behave relative to each other through time. It's the correlation, but it's also stuff like everything going badly at once, which can happen sometimes even with stocks and bonds, which we've seen in pretty recent history. And then the tails, which as you said, in a normal distribution, they really don't get as much attention as they probably deserve.
+
+80
+00:36:15.420 --> 00:36:43.920
+Exactly. Those are the exact steps that we're taking in our assimilation process. To tackle the first thing you've said about like the individual asset classes return distribution, we first built the historical return series for portfolios that represent asset classes. Then we model out its distributions based on its historical probability of having different returns. It's also important to mention that we are building those proxies for those
+
+81
+00:36:43.920 --> 00:37:12.210
+asset classes using indices. For example, we're using the MSCI, EAFE, Investable Market Index for approximating international equities. And we combine them into portfolios to make sure it realistically represent one asset class, for example. And once we do that, we learn the historical distributions. We model out the correlated structure between asset classes. Through doing that, we have our shocks.
+
+82
+00:37:12.210 --> 00:37:38.080
+for the market that we are trying to generate. At that point, those data are still normalized. They're in standardized space. And what's good about this model is it allows you to impose the expected returns that you believe to be true. And that can be adjusted from time to time when you're planning. That's really cool. So the way that you set it up, the shape of the distribution and the correlation properties and the tails and all that stuff.
+
+83
+00:37:38.080 --> 00:38:07.900
+gets defined using historical data, but then once the shape of those distributions and the way that they work with each other are defined, we can put in whatever market assumptions we want. Yeah, exactly. I'm also going to go through that as well and how we do that. But I think we can first look at how we are modeling out the correlation structures and the distributions of the return of every single asset class. Essentially, we are not only thinking about
+
+84
+00:38:07.900 --> 00:38:36.210
+modeling those two things to correlate a structure and a marginal distribution of each asset separately. When we're implementing it, we're also like dealing with them separately using two separate steps. I think essentially we're asking two questions here. First is how does each asset class behave on its own? For example, what does a typical year look like for Canadian equities? How often do we see a strong year? Second question we're asking is how do the asset classes behave together? How do they move together?
+
+85
+00:38:36.210 --> 00:39:00.000
+For example, when US equity is down, are Canadian international equities also down? Or when equity is down, does bond help offset the loss? When we're modeling it, we also do it separately. First, we handle the dependent structure, actually. And we do that through a T-copula. Without being too technical in getting to what copula is,
+
+86
+00:39:00.000 --> 00:39:29.360
+A easy way to explain is it's just a part of the model that links the portfolio, linked asset classes together. It helps you generate the correlated data by encoding it with essentially a matrix. And the reason we're using a T copula rather than the Gaussian copula that PWA was using before is the T copula captures the cope movement at the tail better. That was one of the challenges that we were talking about earlier. And I think what is more interesting is
+
+87
+00:39:29.360 --> 00:39:58.510
+how we are modeling the distribution of each individual asset classes. Originally, the method was just looking at asset classes as a classic bell curve. You're assuming perfect symmetry, smooth distribution of returns, but that is not realistic. So instead of forcing our portfolio into the same bell curve, we let the historical data describe the shape more directly. For the distribution that we're modeling, we also divide this problem into two parts.
+
+88
+00:39:58.510 --> 00:40:27.260
+For most of the distribution, we used the actual historical pattern of the returns. We first standardize the returns, so we are looking at the shape of the return pattern rather than the absolute return level. And then we use that standardized historical pattern as the empirical distribution. We're basically replicating the historical probability of each return level happening in the simulated data. That works for the majority of the distribution because we have enough observation.
+
+89
+00:40:27.260 --> 00:40:53.820
+there, like in the top 90%, but in the bottom 10%, that's like when this asset class is doing the worst, that becomes a problem. This is because these events are rare and bad outcomes. Think about 2021 COVID happens. US equity was down, I believe 34% in a month when it was the worst. So those are sort of outliers. If you purely look at it from a data science perspective,
+
+90
+00:40:53.820 --> 00:41:20.530
+However, from a wealth planning perspective, it is a completely different story because those crises are actually the most important challenges to your wealth plan if you're trying to conserve wealth. For the bottom part of the distribution, we use extreme value theory. More specifically, we're using a generalized Pareto distribution. What it does is it is a specific distribution that is designed to fit those extreme events.
+
+91
+00:41:20.530 --> 00:41:46.270
+So by combining those two methods together when we were estimating the marginal distribution of the return of each asset class, we're essentially using his scroll data where we have enough data and then we are using like tail specific model where data is sparse. Very interesting. So we don't have enough data to properly capture the tails. And so you found a way to sort of manufacture tails that are more realistic. Yeah, exactly.
+
+92
+00:41:46.270 --> 00:42:15.360
+And I wouldn't say manufacturer because it is so based on historical instead of forcing it into a like specific bell shape or forcing it to look like historical exactly, which has a lot of zigzags because the frequency those events happen, we fit it with a more appropriate distribution. And that's how we model the individual asset classes return. And once the individual return distribution and the cope movement structure are defined,
+
+93
+00:42:15.360 --> 00:42:44.300
+We now use Monte Carlo simulation to generate scenarios. Well, Monte Carlo's, what it's simply doing is creating many possible future paths instead of pretending there's only one future. If you only looking at summary statistics, you're essentially assuming there's only one possibilities and that is what I think is going to happen. But Monte Carlo generate many possible paths. And on average, they match the expected volatility and expect to return that you specify.
+
+94
+00:42:44.300 --> 00:43:13.790
+One analogy that I really like when I'm explaining this is that expect a return and expect a volatility is the destination that you set. And Monte Carlo simulation tells you many different passes that you can get there. Yeah, that's very cool. The next part is going to be very useful, especially for wealth planning when the market condition is changing all the time. I mentioned earlier that we're learning the shape of distribution from history, but we're not necessarily assuming the historical return is going to be the same.
+
+95
+00:43:13.790 --> 00:43:43.040
+as what it is now. Instead, we can impose a forward-looking assumption on our simulation model. And up to this point, the model has learned the pattern of risk, the pattern of return from the history, but we do not want to simply replay history. So the model first creates standardized shocks, but now you can re-standardize everything into a standard space and then you impose the target return and target volatility
+
+96
+00:43:43.040 --> 00:44:12.850
+on the shock sizes. Think about the simulation as a generator that's generating shocks, but it only tells you how bad is the shock relative to normal, but you haven't defined what normal is. And by imposing those mean and volatility, you're defining what normal is. Yeah, I love that. That was one of our big concerns with starting this project is that we change our expected return assumptions twice a year. We always restate them based on the way that we calculate them. And we need to be able to take this return generating process and input
+
+97
+00:44:12.850 --> 00:44:42.370
+what our current mean expected return, our current standard deviation are. You guys solved that in a really nice way. It's actually a lot of fun doing that in the process. When we were trying to model it in the first place, we kind of assumed the historical mean is going to be the same as the future because we didn't think that would be an issue. But when we're doing testing, we realize it is completely off because let's say you take a set of data from the 1990s,
+
+98
+00:44:42.370 --> 00:45:10.780
+And then you compare it to today's market scenario, the distribution of the return can even look very different. And not to mention the expected value and volatility. Looking at recent events, the volatility is through the sky. And that is not something that would have happened in the last decade. After doing all of these, the final output that we are getting is a thousand simulated path, and each of them covering 80 years of returns. Throughout testing,
+
+99
+00:45:10.780 --> 00:45:40.350
+we see that our results have preserved more realistic higher order distribution features. For example, skewness and kurtoltz. For listeners who are not familiar with skewness, skewness simply means the distribution is not perfectly balanced or symmetric. And kurtoltz means extreme events in the tails. Essentially we're looking at the tails. If you look at the comparison graph on the right of the slide, the newly simulated distribution using our method are compared with the historical behavior, the historical
+
+100
+00:45:40.350 --> 00:46:08.800
+empirical CDF, the cumulative distribution of the return and the Gaussian baseline that PWL was using before. You can see that the new method followed the historical shape more closely, especially in the left tail where the Gaussian model is way too smooth. Yeah, it's super interesting. You got very close to the historical distributions with your simulations. That's the benefit of using the empirical structure. We're not forcing it into any of the shape.
+
+101
+00:46:08.800 --> 00:46:37.630
+It's the same as running a optimizer. Like when you're trying to optimize, there are constraints that stop you from getting that exact shape that history has showed us. It's also really interesting how different both the simulated and historical returns are from the normal distribution. For people who are not watching, there's a red dotted line showing the normal distribution. And then there's a shaded area and a green line showing the simulated and historical returns. They're not the same shapes.
+
+102
+00:46:37.630 --> 00:47:06.510
+It's even interesting too how it differs from asset class to asset class. Like if we look at the fixed income, there's a dramatic difference between the Gaussian data and the sample data. Same thing with US equities, but Canadian equities and international equities seem to be a little bit closer. And not just visually, we've also ran tests on it to look at how big improvement has been comparing to the Gaussian baseline. We believe at the end of the day, the goal for us is not to
+
+103
+00:47:06.510 --> 00:47:36.350
+producing more complicated model rather we want something that's actually usable. So we look at three things. First, we look at if each acyclic simulated return pattern look more realistic, that is what we mean by the marginal shape score. It can sort of things like quantel gap, skewness, kurtoltis and downsize loss measures like CVAR. And the second metric we look at is if our model does better on the tail, this measure is mainly driven by the tail quantel gap.
+
+104
+00:47:36.350 --> 00:48:04.370
+And third, we also ask, does the model still preserve how assets move together? So that is the correlation structure that I talked about at the start of this presentation. We are measuring this using a basket of correlation measures like Pearson and Kendall, which some argue are more realistic. We're basically combining all of them together to capture all of it. So I see like a dramatic improvement in the shape and the tail score.
+
+105
+00:48:04.370 --> 00:48:34.180
+But the co-movement score is relatively similar to what we had before. Is that right? Yeah, that's correct. That's actually like exactly what we were expecting. Because for marginal and tail shape, that's where our method is mainly improving in. That's because we're using the empirical distribution of return rather than assuming a bell curve shape. That's why it does a lot better in marginal and tail shape. But for co-movement, our goal is to be on par with the Gaussian
+
+106
+00:48:34.180 --> 00:49:03.660
+method. That is because in the Gaussian method, the goal is to optimize for that correlation structure that was given to the model. So it is doing a very good job at it. And we are actually surprised that we didn't have to compromise any of the cold movement score to get a better marginal and tail score in that sense. But yeah, it's great to have. Well, we've only been working on this for the past five months, and this is like far from perfect.
+
+107
+00:49:03.660 --> 00:49:32.220
+There are a lot of things that we still can do and will do in the coming semesters. For us, there are three natural extensions that we're thinking about. The first is dynamic correlation. Right now, we're assuming a statistical relation structure. Essentially, what we're assuming is that the average relationship between asset is stable across all environments. But in real markets, the relationship between asset classes changes.
+
+108
+00:49:32.220 --> 00:50:00.140
+For example, think about the recent tension and the shade of her moose, the oil price, inflation, expectation and bond yields, equities, currencies, those things are essentially responding to the same macro event and they're interacting in the way they do right now. But that is very different. How they interact right now is very different from more stable time when inflation fear is not a trigger for the market, for example.
+
+109
+00:50:00.140 --> 00:50:27.680
+By using a dynamic correlation, we can model each period separately and better replicate the history with more realistic test cases. And the second thing is something we weren't able to address with our current model, that is volatility clustering. Ben mentioned at the start of the podcast, at the start of our conversation that some of the bad days arrive together. For example, in 2008, you don't just get one bad trading date.
+
+110
+00:50:27.680 --> 00:50:55.360
+Once there is a fear in the market, people sell everything and it will sell off continuous for a long time. And those clusterings are not modeled in our current approach because we're assuming independent draws when we're simulating. So that is another extension we're trying to work on. Our current idea is potentially using a Garch style model that deals with time series. And by incorporating the time dimension, we can solve that problem.
+
+111
+00:50:55.360 --> 00:51:25.260
+And the third thing is not as much of an extension to our model, but rather an alternative path that we will explore in the future. That is gang models. So gang is generative, adversarial networks. Those are machine learning models that are the new cool kids on the block situation. People are using that to generate synthetic data. So essentially what it's trying to do is that it is generating a set of samples using a machine learning model and then using another model to judge it.
+
+112
+00:51:25.260 --> 00:51:52.260
+you kind of like go back and forth and find realistic scenarios. The drawback for that is that there's still a lot of research that need to be done. And like a lot of machine learning models, when you're using it, you might be overfitting. You might discover patterns that are not there at all. When you're assimilating it, you're essentially amplifying those patterns. That can be an issue for clients who don't want their wealth to go wrong. Very cool.
+
+113
+00:51:52.260 --> 00:52:21.360
+You'll leave these as sort of breadcrumbs for future student groups, and this project will continue with Professor Robbins, and we may be able to implement some of these return distributions in the future. Exactly. I think to close my talk here, I think the main takeaway from this is that four looking assumptions are starting points. When you're planning for wealth to use those assumptions in planning, they have to be turned into path, and that's what we've been working on for this project. The baseline Gaussian model that we start with
+
+114
+00:52:21.360 --> 00:52:51.070
+is clean and transparent, but it makes market looks way too smooth than it actually behaves. And our frameworks keeps the same assumptions, but it produced paths that are better reflecting the messiness, I would say, of the market. We look at asymmetries. We look at the fat tails. We look at assets that are moving together during crisis. And those are the things that matters a lot for a long-term wealth planner who are planning for their retirement or like preserving the wealth. And for the next phase, we'll continue to work on
+
+115
+00:52:51.070 --> 00:53:17.810
+the extensions that I talked about like dynamic correlation matrix and a GARCH model, which handles volatility clustering. Awesome. I've got to read the sentence that you have here on the key model improvement because it really does summarize it well. The T-copula plus empirical EVT framework is a stronger simulation baseline than the Gaussian model because it better reproduces historical shape and downside risk while maintaining comparable co-movement. Very nice. Very clean. Thank you. Awesome.
+
+116
+00:53:17.810 --> 00:53:50.850
+That was great, John. Thanks so much for coming on and summarizing the work that you guys have done. No problem. It's a pleasure to work with you. All right, that was cool. It was cool to have John Slides and kind of see what they presented to the class. I thought that was just kind of neat to have a peek into that. I thought John was great. This was his first podcast ever, and I thought he spoke really well. For sure. It was great. Really enjoyed working with them over the course of the past few months and really cool to see what they came up with. The main question left in my mind after hearing
+
+117
+00:53:50.850 --> 00:54:19.810
+His analysis is great. This is real improvement on our modeling approach. But how is this going to impact the financial advice? How may this impact the recommendations that we're providing to clients or the financial decisions that we're helping our clients with? That's sort of the genesis of this post analysis. I wanted to quantify that impact on the financial advice, but I also wanted to look at their model using the DMS data. That's one thing we didn't really talk about too much with John, but they were
+
+118
+00:54:19.810 --> 00:54:47.600
+using monthly index data with 12 month rolling time periods. The index data only went back to 2003 for all of the asset classes that we were looking at. So it was a relatively short time period. The first thing I want to look at was what happens when we use the annualized DMS data that goes back to over 100 years of data. How will that change if at all the outcomes of his analysis? I'll say up front.
+
+119
+00:54:47.600 --> 00:55:17.600
+Ideally, I'd like to answer this question of how does this new model impact the financial advice. I'd like to answer that directly in Conquest, but at the moment we can't. We can't send those 4 million data points that I talked about earlier to Conquest directly via API so I can make real-time changes. Instead of doing that, I built like a pretty simple life cycle style model where I was able to capture the basics of the life cycle. So I modeled everything in terms of after tax cash flows.
+
+120
+00:55:17.600 --> 00:55:47.250
+Modeled accumulation and decumulation. I modeled different ages, so different time horizons. So I modeled investors that were 20 years old, all the way up to 80 years old, and 10 year increments. I fixed retirement age at age 65, so that way we can model different lengths of the accumulation and decumulation and also decumulation only. So all of that was captured. And we looked at different asset mixes as well. So the 6040 portfolio, 8020 and 100% equities.
+
+121
+00:55:47.250 --> 00:56:09.230
+And then in each case, I fixed the spending at the sustainable spending amount. So I solved for the spending amount that would lead to an 80% success rate using our previous Gaussian distribution. That way we have a benchmark that we can go back to, and it's also a realistic benchmark. It's representative of an actual plan that we would...
+
+122
+00:56:09.230 --> 00:56:37.070
+work with our clients on and not something that is someone spending way below their means or way above their means is sort of representative of a realistic client scenario. And that way we can benchmark the difference between this new model and our old Gaussian approach. So the results first I'll talk about the differences between the DMS data and the index data. What we found were pretty similar results, but we found the Gaussian represented the DMS data better than it did the index data.
+
+123
+00:56:37.070 --> 00:57:05.970
+This wasn't too surprising for me to see. It was kind of what I was expecting to see because the DMS data goes back a lot further. It's a lot more independent samples. The 12-month rolling time periods, monthly data has data points like the March 2020 drawdown in it, which can lead to these very extreme left-tail events. And that was one of the struggles that we worked with over the course of the project was trying to account for this lack of data.
+
+124
+00:57:05.970 --> 00:57:35.660
+and the index data and the over representation of the March 2020 drawdown, especially when it didn't really impact our long-term financial planning projections. Our clients obviously had to be able to withstand that drawdown, but beyond the behavioral side of it, it didn't really impact our financial planning projections necessarily. Well, it came back so quickly, right? That's one of the crazy things about higher frequency of return data. As you can see these crazy events, even with daily returns, it can be even crazier. There can be these massive short-term drawdowns that bounce back.
+
+125
+00:57:35.790 --> 00:58:02.850
+And it's like if you look at annual data, things just look a lot smoother than if you look at monthly and then likewise with monthly versus daily. So that finding, I think, does make sense. Totally. But importantly, the new model improved on both. So even though the Gaussian was a better representation for the DMS data, this new model performs better regardless in both the DMS data and with the index data. So I think it's a step forward regardless of how you look at it.
+
+126
+00:58:02.850 --> 00:58:32.660
+we can see the same thing too when we're looking at the tails and maybe Matt can overlay some of these graphics on the screen for the viewers to see. But ultimately we can see the same thing that I just talked about where the tails of the index data were fatter than the tails of the DMS data specifically looking at fixed income and US equities where the DMS data was closer to the Gaussian. But like I said, it's still a better representation of the data than the Gaussian. So it's a step forward nonetheless.
+
+127
+00:58:32.660 --> 00:59:01.100
+For that part, basically what we found was that the new simulation method makes the return distributions look more similar to actual historical return distributions than what we've been doing previously. Is that a good summary? Yeah. It's the same finding that John had. I looked at it also through the lens of the DMS data and made sure that the results were still consistent and they were. Then I moved on to answering the bigger question, which is how is this going to impact financial advice that we're giving to our clients?
+
+128
+00:59:01.100 --> 00:59:30.260
+I started by looking at the success rates, the Monte Carlo success rate using the new model compared to the Gaussian model. And remember for the Gaussian I benchmarked the spending rate so that it would result in an 80% success rate. That's what we see exactly with both the DMS and the index data. We see an 80% success rate. And then we see the new model improves that success rate by roughly 2 to 3% on average, not like an earth shattering difference.
+
+129
+00:59:30.260 --> 00:59:57.700
+in terms of the difference in success rates. I don't imagine it would really lead to much different financial advice if you're looking at it through that lens of the success rate only. If we were to do a financial planning update and the new success rate went from 80% to 83%, we probably wouldn't change the financial plan. So I think it fits in that same lens where this change isn't going to completely overhaul the financial plans that are already in place with clients.
+
+130
+00:59:57.700 --> 01:00:25.710
+I personally view that as a good thing. I mean, of course, if we did find something out that drastically changed the financial advice through the lens of the success rate, we would have to implement it, but it would just be a much more difficult conversation. We could see that when we do our expected returns update, which we do twice a year. So it's not a huge deal. Did you look at the impact sorted by age or length of the projection? I did, but there wasn't really anything drastic to note. Interesting. Okay.
+
+131
+01:00:25.710 --> 01:00:54.900
+I also looked at that success rate change over different asset mixes as well. And I found pretty consistent results. Using the index data, there was a bit of a relationship. It was still within 1%. Nothing to note. I think because the results didn't change very much at all, the average was 2% to 3%, but the bounds were a 1% change to a 5% change. So it's really all within the normal financial planning assumptions updates.
+
+132
+01:00:54.900 --> 01:01:23.090
+could change the success rates by that much. So then I went from the success rates to looking at the change in the sustainable spending amounts. And you would expect that those results to be pretty similar because the sustainable spending basically it's the same mechanism. The success rate is going to inform the sustainable spending amount. That's pretty much what we saw. We saw changes of spending that ranged within 1% to 2%. Not a drastic difference, I think. One thing to note, like some people
+
+133
+01:01:23.090 --> 01:01:51.820
+It may be confusing because the tails of the distribution changed so much, but then we're not seeing a ton of change with this. The reason why is it's really the point on the distribution of like say the bottom 20th percentile. If you're looking for an 80% success rate, it's the return at that exact point, the bottom 20th percentile that's going to drive these results. So if there's really not a big shift left or right, then it's really not going to have a dramatic impact.
+
+134
+01:01:51.820 --> 01:02:20.320
+on these metrics specifically. That's an important point. And this is one of the cool things, as John mentioned about the model that they built is that we are still using the same expected returns. We've just changed the way that we're generating the distribution around those expectations. So as you said, we're not shifting the distribution one way or another. We're just changing the shape of the distribution to be more historically accurate, realistic. That's right. So you wouldn't really expect your dramatic shift here anyways.
+
+135
+01:02:20.320 --> 01:02:48.270
+because like you said, Ben, we're already capturing the standard deviation and they expected mean and that's the same as it was previously. It's worth mentioning, you touched on this briefly, because people might be thinking, why did you guys expend all of this effort if it doesn't actually change things that much? One of the big reasons, and we haven't really gotten there yet, but we're moving in that direction. This was a first step. One of the big reasons that we care about those higher moments of the distribution and the shape of the distribution is for other asset classes.
+
+136
+01:02:48.270 --> 01:03:15.280
+So for us to model venture capital, for example, using a mean and a standard deviation and a correlation is just not sufficient to capture the expected effect of that asset class at the portfolio level, likewise for other sort of alternative asset classes. So that's something we struggled for a long time because even though they're not things that we recommend, we do have high net worth clients who have allocations to those for whatever reason. Maybe they were recommended by a previous advisor and maybe they were done as a
+
+137
+01:03:15.280 --> 01:03:42.660
+pattern project or whatever, or maybe they just wanted to explosion that asset class and modeling that in a financial plan has been a thorn in our sides for a long time. Using this type of simulation method is going to be a huge improvement when we get to those asset classes. I thought it was worth mentioning because we're not seeing huge changes to small changes, but we're not seeing huge changes to the simulation results based on this better methodology. But for other asset classes,
+
+138
+01:03:42.660 --> 01:04:10.620
+it'll matter a lot more than for standard stock and bond portfolios. 100%. I'm going to circle back to this point once I cover this next section because it's going to become even more obvious why that is important and why that's going to be super impactful. Up to this point, in terms of the success rate and the sustainable spending amount, not drastic changes. I feel like I make this point every time I'm on, but it always comes back to the goals of the clients. If the goals of the clients are purely focused on sustainable spending,
+
+139
+01:04:10.620 --> 01:04:38.430
+Then they're probably not gonna receive really any different advice for the most part. They're still essentially on track to the same plan that they were using the Gaussian approach. I think that's a bit reassuring too to the general community that if you're just using Gaussian distributions, it's probably okay. Like it's not something that you necessarily need to lose sleep over. But the next section is a lot more interesting when we talk about the distribution of wealth outcomes. So for someone with goals that are
+
+140
+01:04:38.430 --> 01:05:06.350
+aligned to their final after tax net worth of their estate value or they multi-generational wealth. It is a meaningful difference. And I think it's a pretty cool findings that I found. So the first thing here that was a bit tricky to wrap your head around at first when looking at the distribution of wealth outcomes, but the median net worth of the new model increased, but the mean of the new model decreased compared to the Gaussian model.
+
+141
+01:05:06.350 --> 01:05:35.980
+So it's a bit tricky to think about, but let me try to explain this. The median, which is if we're running a thousand simulations, it means the point that there's 500 that perform better and 500 that perform worse, that increased. And that makes sense because we have mean reversion. So we should expect that distribution of outcomes to narrow. We would expect that the median would increase from that. But the mean is not calculated in the same way. And because the lower bound of wealth outcomes is zero,
+
+142
+01:05:35.980 --> 01:06:00.030
+And at the upper bound, the Gaussian distribution or sampling from the Gaussian distribution can lead to these sort of runaway events where just imagine you have a sequence of returns that is a right tail after right tail after right tail that can really compound wealth. So imagine a 30% return and a 40% return and a 50% return all stacked together. It's really going to compound wealth to this crazy high level that we
+
+143
+01:06:00.030 --> 01:06:30.030
+wouldn't really necessarily expect to see in real life because there's no mechanism to pull those returns back down after a right tail return has been realized. In the Gaussian model, you see these really high wealth values that bring up the mean quite a bit. Regardless, the financial decisions should be made using the median outcome. That's how you should be thinking about the expected outcome is in terms of the median, but I'm not sure if that's universally true among financial planners or retail investors that are doing this type of analysis.
+
+144
+01:06:30.030 --> 01:06:59.580
+So I think that's an important distinction to make is the difference between a median and a mean outcome. The median outcome improved using our new model like we'd expect because it has this mean reversion and sequence of return modeling captured more accurately. The mean decreased. Yeah, it's interesting. That's like Japan leading up to 1990. You did have a crazy right tail event where there was just incredible, incredible returns, bam, bam, bam. But then you've got a CAPE ratio at 90 or whatever it was. And returns don't last forever.
+
+145
+01:06:59.580 --> 01:07:26.240
+right tail returns and I'll last forever in real life. But it is interesting how it changes the mean because that right tail in the Gaussian distribution with random returns is totally uncapped. But the left tail is implicitly capped because financial plans stop like failure happens when the assets run out. You don't get a big negative number. That's right. What I thought was really interesting about that is through our conversation with John and our work with John, we spent so much time looking at
+
+146
+01:07:26.240 --> 01:07:50.720
+these left tail events and how to improve the left tail of the distribution. But in terms of the impact of the financial planning distributions, it's actually that upper tail that's impacted the most because it really is pulling these runaway events back down to earth. I thought that was pretty interesting. And the results are pretty meaningful too. We're seeing that the median is improving by on average about a half million dollars in final net worth and
+
+147
+01:07:50.720 --> 01:08:19.810
+the mean is decreasing by a million dollars in final net worth. So these are definitely meaningful numbers that would impact the financial advice, especially for someone who has those types of goals, like estate goals or multi-generational wealth type goals. People never believe, man, I haven't been in client meetings like this for a while now, but I know advisors still have this issue. When we show that long-term projection for someone who's 35 or 40 years old, and it says they're going to have all these tens of millions of dollars in the future,
+
+148
+01:08:19.810 --> 01:08:45.650
+people are always a little bit skeptical. So, I mean, raining that in a little bit by improving our simulation process is great to show a more accurate number. And I think it's more believable for people. Yeah, exactly. Like you alluded to, Ben, if we're able to model this with alternative asset classes, I think that's been the biggest challenge that we've seen so far is that when we have our concentrated stock portfolios in Conquest and we're trying to answer that question, should I invest in this?
+
+149
+01:08:45.650 --> 01:09:13.950
+something that we would think of as like some sort of crazy investment where it's a concentrated portfolio or some sort of bet. It's difficult to show that in Conquest because Conquest will display the distribution of planning outcomes and there's so many runaway events. Obviously we don't publish this data, but I'm sure our audience can imagine that the standard deviation on these concentrated portfolios would be substantially higher than a broadly diversified portfolio that we would recommend. So you see these extreme
+
+150
+01:09:13.950 --> 01:09:40.180
+runaway events where there's 60, 70% returns and the upper bound just goes crazy. So it's very difficult to present that to a client and actually make the case not to do it because it's human nature to look at that upper bound and see like, oh, I'm missing out on all of this potential growth. But meanwhile, like we know that that is statistically almost impossible for that to happen because the
+
+151
+01:09:40.180 --> 01:10:08.340
+distribution of a concentrated portfolio or individual stock is definitely not Gaussian. And the DMS portfolios are a lot closer to the Gaussian distribution than these other portfolios of single stocks or concentrated portfolios would be. And then there's also that mean reversion dynamic that wouldn't be captured either. So the runaways become even crazier with that level of standard deviation. So we've always found it really difficult to actually show that in Conquest. So that's why I'm really excited to see
+
+152
+01:10:08.340 --> 01:10:35.390
+what the next version of this project will look like in terms of getting those other asset classes fitted with this model so that we can make a realistic informed case for clients to look at that scenario through the appropriate lens. Yeah, that's such an example. People have trouble thinking about how much risk should I take? Should I invest in this or that, all that kind of stuff. One of the ways that we always come back to is let's put it in the financial planning projection and see how it affects things. People have a much easier time grasping.
+
+153
+01:10:35.390 --> 01:11:05.140
+this will change my expected retirement date or how much I have to save or how much I can spend in retirement. Those are much more tangible data points for people to use to make investment asset allocation decisions. But you're so right that for some stuff, like should I continue holding this individual stock or should I invest in this private markets fund or whatever, those have historically been a lot harder to show people in our planning projection, like using that same type of approach. Because for the reasons you've described, they often make things look good.
+
+154
+01:11:05.140 --> 01:11:30.990
+even though we know that's not the right thing to show and the right expected result. We didn't previously have the capability to model the components or the characteristics of the return distribution for those asset classes. We're moving in that direction, which is very exciting. Totally. And I'd really love to be able to show a visual of the expected outcome down to completely eliminate those higher bounds because it's really not practical for planning purposes.
+
+155
+01:11:30.990 --> 01:11:53.940
+if we were able to show clients what the expected outcome is, and obviously our audience would know that those other forms of risk are uncompensated risk, so we wouldn't expect the expected outcome to improve in that scenario, but we would expect those downside events to increase and overall the financial plan to look worse. If we're able to just show that, then it would be painfully obvious that this is not the right move, but just...
+
+156
+01:11:53.940 --> 01:12:19.920
+including those upper tail events makes that conversation really difficult because it's human nature to be drawn to that higher potential for growth. After going through this and running the simulations, what are your main practical takeaways? So practical takeaways, again, it comes back to goals. So if the client's goals are focused mostly on spending or almost entirely on spending, then it probably won't change the advice.
+
+157
+01:12:19.920 --> 01:12:49.060
+necessarily. And I think that's good. It makes that transition smoother for us. And we're not completely overhauling a client's financial plan. So from a change management perspective, it makes life easier. But for people that do have any amount of legacy goals or interested in making decisions based on their final after tax net worth at the end of their life, then this does impact the financial decision. We would expect the median outcome to improve using our new model, which is
+
+158
+01:12:49.060 --> 01:13:18.910
+more representative of reality. And we would expect the mean outcome to decrease just because we're decreasing the bound of outcomes. And the runaway events caused that upper bound to have a higher proportional impact on the mean. And also, I think financial planners and retail investors that are doing their own financial projections should be looking at the median outcome rather than the mean outcome. So it shouldn't change the advice. The fact that the median improve should mean that their expectations should improve. And
+
+159
+01:13:18.910 --> 01:13:47.970
+might leave a little bit of extra net worth that they can plan for to delegate out of their estate. Cool. I think we mentioned with John, this project is ongoing. I think the analogy that I use is that John and his team have left some breadcrumbs for the next group of students who'll come through with Professor Robbins' guidance. He's got some pretty cool ideas for how we can make this simulation process even better and account for other interesting stuff like correlations that are time-varying when there's a market crash.
+
+160
+01:13:47.970 --> 01:14:17.570
+things tend to crash together, being able to model stuff like that and just improving the overall simulation process further. And then another big piece that we did not get to with John and his team, even though we talked about it quite a bit, was figuring out proxies for alternatives. Like if we wanted to do this process, for example, using individual stocks or venture capital or private equity or hedge funds or whatever the case may be, a big part of that is finding good quality historical data that we can use to benchmark against what should our simulation look like.
+
+161
+01:14:17.570 --> 01:14:50.960
+So that's something that we're going to continue working through with the next groups of students. But it's pretty cool having this relationship, seeing the impact that it's having. We've moved a little bit in the right direction, but I think once we get through this next iteration, we will actually start deploying this into Coqwest into the way that we're running our simulated data. And at that point, it'll be having real impacts on people's financial planning decisions, which I think is pretty cool. It's very cool. All right. I think that's it for the episode. Thanks everyone for listening. Hey, everyone.
+
+162
+01:14:50.960 --> 01:15:16.510
+It's producer Matt. Thank you so much for tuning in to this week's episode. Before we sign off, here's the disclaimer you've been waiting for. Portfolio management and brokerage services in Canada are offered exclusively by PWL Capital, which is regulated by the Canadian Investment Regulatory Organization and is a member of the Canadian Investor Protection Fund. Investment advisory services in the United States of America are offered exclusively by one digital investment advisor's LLC.
+
+163
+01:15:16.510 --> 01:15:40.000
+One digital and PWL capital are affiliated entities and they mostly get on really well with each other. However, each company has financial responsibility for only its own products and services. Nothing herein constitutes an offer or solicitation to buy or sell any security. Occasionally, we tell you not to buy crappy investments in the first place, but that's not the same thing as telling you to sell them.
+
+164
+01:15:40.000 --> 01:16:08.850
+This communication is distributed for informational purposes only. The information contained herein has been derived from sources believed to be truthy, but not necessarily accurate. We really do try, but we can't make any guarantees. Even if nothing we say is fundamentally wrong, it might not be the whole story. Furthermore, nothing herein should be construed as investment, tax or legal advice. Even though we call the podcast your weekly reality check on sensible investing and financial decision making,
+
+165
+01:16:08.850 --> 01:16:37.730
+you shouldn't rely on us when making actual decisions, only hypothetical ones. Different types of investments and investment strategies have varying degrees of risk and are not suitable for all investors. You should consult with a professional advisor to see how the information contained herein may apply to your individual circumstances. It might not apply to all. Honestly, you can probably ignore most of it. All market indices discussed are unmanaged, do not incur management fees, and cannot be invested indirectly. Which is a shame.
+
+166
+01:16:37.730 --> 01:17:07.410
+because it would be awesome if you could. All investing involves risk of loss, including loss of money, loss of sleep, loss of hair, and loss of reputation. Nothing herein should be construed as a guarantee of any specific outcome or profit. Past performance is not indicative of or a guarantee of future results. If it were, it would be much easier to be a Leafs fan. All statements and opinions presented herein are those of the individual host and or guest and our current
+
+167
+01:17:07.410 --> 01:17:23.160
+Only as of this communications original publication date, no one should be surprised if they have all since recanted. Neither one digital nor PWL capital has any obligation to provide revised statements and or opinions in the event of change circumstances. See you next time.
