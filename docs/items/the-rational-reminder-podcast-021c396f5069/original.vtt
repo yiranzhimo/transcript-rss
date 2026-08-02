@@ -1,0 +1,629 @@
+WEBVTT
+
+1
+00:00:04.020 --> 00:00:33.230
+This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer and Braden Warwick, Financial Planning Product Architect at PWL Capital. Welcome to episode 408. I love the conversation that we just had, Braden, and it's an episode that I have wanted to do for a long time. Professor Elroy Dimpson is a busy man. I was on another podcast in the UK.
+
+2
+00:00:33.230 --> 00:01:03.300
+And that person, Damien is Damien Talks Money podcast has a relationship with Elroy. And so he made an introduction, which finally got the connection made. We would have done this one sooner if we could have, I guess is the point of my long preamble. But I'm super excited that we got to talk to Elroy Dimpson. He is a professor of finance and research director at Cambridge judge business school and by fellow of Gonville and Kias College, Cambridge. He is also emeritus professor of finance at London business school.
+
+3
+00:01:03.300 --> 00:01:33.250
+listeners will likely know his name, Elroy Dimpson, which is the D in the DMS data, which we've talked about many times because we use it a lot in our own research at PWL. We also did an episode, I can't remember the episode number, but we did an episode a while ago, something like lessons from 100 years of stock returns or something where we went through a bunch of their past reports. They do something called the Global Investment Returns Yearbook that they've been publishing for many, many years now. Right now, it's
+
+4
+00:01:33.250 --> 00:02:03.020
+sponsored by UBS, formerly it was sponsored by Credit Suisse, but it's this just incredible book that they publish annually that details stock bond and bill returns for a whole bunch of countries all around the world. They also publish indices, which we PWL subscribe to, we purchase them every year, purchase a license to use them. And in their yearbooks, in the Global Investment Return yearbooks, they also, and he mentioned this during the conversation, they also do a couple of essays where they take a topic,
+
+5
+00:02:03.090 --> 00:02:31.920
+and they use their historical data to analyze it. So an example would be what is the historical relationship between economic growth in a country and its stock returns or industry growth and stock returns. But they've got tons of these different essays over the many, many years that they've been doing this and it's a wealth of incredible analysis and information. They've also got a very famous book called Triumph of the Optimists, which we also discussed. That book was the combination of their
+
+6
+00:02:31.920 --> 00:02:57.650
+work using historical data to reconstruct indexes for a whole bunch of different countries. And we talked about this during the conversation too. It really changed our knowledge of what is the equity risk premium? How much should you expect in stock returns relative to bond returns? Which prior to their work had been heavily influenced by the US historical record, which we all know has been incredible, exceptional. And so their expansion to international markets really
+
+7
+00:02:57.650 --> 00:03:26.290
+gave us more knowledge about what it might be reasonable to expect as an equity risk premium going forward, which was great. We're super fortunate and grateful to be able to talk to Elroy. We talked for about 90 minutes. Braden, any comments? What do you think of the conversation? Well, I think it was just so cool from my perspective as someone who's used the DMS data for years now. I use it all the time to just hear the origin story about why he decided to collect the data.
+
+8
+00:03:26.290 --> 00:03:53.790
+and all that went into it over the course of time. And then it just really brought the data to life to me to hear his perspective on it. Yeah, it was just such a cool conversation. Really a pleasure to talk to Al Roy. He's got his academic experience, but he's also done lots of interesting investment committee work, including with Norway's sovereign wealth fund. It's the biggest single investor in the world. And he helps to form their whole setup and investment policies and all that kind of stuff.
+
+9
+00:03:53.790 --> 00:04:23.090
+He's not just an academic. He's got real world experience dealing with people and he talks about some of those types of issues during our conversation, people and committees and just making like real investment decisions. An incredible wealth of wisdom that comes from both tons of time with the data and doing analysis, but also tons of time working with real humans trying to make investment decisions based on the data and other inputs. That's a good introduction for Professor L. Roy Dimpson. Let's go ahead to our conversation.
+
+10
+00:04:27.730 --> 00:04:57.120
+All right, Dimson, welcome to the Rational Reminder podcast. Thank you for having me. It's a very pleasant afternoon here, but other people who are tuning in will be all over the world, whether maybe different way you are. It's actually a very nice day where I am as well. So that's good. Real quick, all right. Super excited to be talking to you on the podcast. This is something that I've wanted to do for... We've been running the podcast for eight years now. You're someone that I've always wanted to have on. Super excited that we're talking to you. Well, I hope it's exciting for everyone.
+
+11
+00:04:57.120 --> 00:05:26.540
+That's good. To start the first question here, can you talk to us about why it's important to study financial market history when thinking about the future? It's extremely difficult to think about the future without knowing where you've come from. It's an integral part of a journey. If you don't know where the journey started, you can't start thinking about where you're going to end up. What was the process like to assemble the data for your 2002 book Triumph of the Optimus? That's an interesting story because when
+
+12
+00:05:26.540 --> 00:05:52.240
+Paul Martin, Mike Stormfield and I, we all did our PhDs at London Business School. Early on in our academic lives, textbooks all made very heavy use of American data and a little bit of British and a tiny bit of Canadian data. But basically, if you had what the then was a standard textbook of brilliant minds, which now has another couple of co-authors.
+
+13
+00:05:52.240 --> 00:06:18.420
+you would see some indications to what returns you might expect. But there was very little choice other than to recite what had happened in the United States. And so there was heavier alliance, the long-term data which had come out of the University of Chicago. Paul Maas and I had done a bit on looking at the long-term for the UK and there had been one or two snippets of not very satisfactory research on the UK.
+
+14
+00:06:18.420 --> 00:06:47.950
+But that was about it, and even Canada didn't really play a part. We at that time distributed our research, which we began at the very end of 1999. We distributed it through a firm which has sort of changed hands a bit. We've not changed the sponsors much, except when there's been a corporate event amongst the sponsors. It became clear there was demand to go beyond the American and British states that we had.
+
+15
+00:06:48.110 --> 00:07:17.980
+And we were moving into a period of internationalization. Money was kind of free at the end of 1999, expecting 2000 to come along. And the global head was our own knowledge of good research that others were doing, and a practitioner who was thinking globally. And we like that idea. And we worked through the run-up to New Year 2000 on producing a book which was privately published. First, we had a number of countries
+
+16
+00:07:17.980 --> 00:07:45.440
+But as we reached the end of 1999, we found that it was creeping up towards 10. The 10th was actually at quite a late stage. 10 countries for which we had accumulated 100 years and we thought that's a millennium of data. And so the millennium year came along that our work got a great deal of publicity. But one of the things which nobody had noticed at the time was
+
+17
+00:07:45.440 --> 00:08:13.150
+When do you celebrate a birthday? So people would talk about the new millennium as a thousandth birthday. Actually, you have a birthday. You are one year old when you're into your next year. So birthdays actually are calculated differently. And so people pointed this out. And by that time, we discovered data for lots of other countries. And the suggestion was we should have millennium booked too for the real millennium. For the real millennium.
+
+18
+00:08:13.150 --> 00:08:39.790
+was once there were a thousand years behind us and we were in the thousand and one for 2001 year. So the story was one of evolution and that was a big success. Millennium Book II then was an idea that Princeton University Press thought would be something worth bringing to people and the book that you know triumphed at the Optimists, a fairly expensive book which produced by us.
+
+19
+00:08:39.790 --> 00:09:06.220
+building on something which we've already done in a private publication. There's still a few people around who've got the original Millennium Book and Millennium Book too. It pops up on eBay from time to time. The little beginning was once we were into the current century. And we've had 25 years of running with it. It's been an amazing journey. When you're assembling the data, like when you say you got to 10 countries and you keep adding countries, what are you actually doing? Where is the data coming from?
+
+20
+00:09:06.220 --> 00:09:32.420
+Our dataset is primarily a compilation of data. So let me go backwards in time. What would we like now? Nowadays we have high quality indices. And so if you start a particular period, we'll go back where there's a good quality capital gains index with an income series. Nobody would dream of telling you what the return is on Treasury bills excluding income.
+
+21
+00:09:32.420 --> 00:10:01.600
+Because it's a dollar, the value every year is $1 a dollar, $1 a dollar, $1 a dollar. For equitous people, we're managed without think-at-man. That's really strange. So we wanted data which covers a longer period. We presented our data, I can tell you a bit about our very detailed data in a moment. Once we'd got that first book done, it was so much interest in it, we were presenting it all over the place to academics and practitioners, and every so often we'd be in our large room.
+
+22
+00:10:01.600 --> 00:10:30.850
+Question time comes along and somebody would say, you know, I've been collecting data like this from my country. It never occurred to me that anybody would be interested. And so we grabbed. By the time we had our first 10 countries, we had accumulated some long-term return series, but that rapidly went up after that. We used data which has often been assembled by other people in more recent decades commercially before that academics who are doing this job.
+
+23
+00:10:30.850 --> 00:10:59.580
+They've been kind to us and we've been kind to them. We credit their work in great detail and often we were able to extend it a bit. So for example, for South Africa, there was somebody who had done a study like the famous Ibbotson Sinkfield long term return studies for South Africa. It was starting in 1940. But before 1940, South African shares were traded heavily as well in London. And so it was possible to use data to infill
+
+24
+00:10:59.580 --> 00:11:24.510
+missing data and so we've worked in a number of cases with people from other countries to extend the data set and produce a series which starts at a common date so primary start date is a new year 1900. It's drawing on contributions from scores of academics and scores of commercial data sets. Yeah, it's incredible.
+
+25
+00:11:24.510 --> 00:11:52.990
+You mentioned excluding income, having just a capital gains index. Other than that, what are some of the biases and other issues that can affect historical index data? Well, when we first launched our research, we made some remarks about our predecessors work. That really illustrated some of the challenges you face. So, early on, we reported on the Premier Index series for the UK. That was prepared by
+
+26
+00:11:52.990 --> 00:12:21.760
+a predecessor of Barclays Globe investors who you know of, although they've also changed ownership. That started with a stock broking firm in the 1950s, hiring some general economists, the weren't financial economists in those days, to produce a long-term history. And they wanted something which would represent the UK stock market. The FT, the Financial Times Index, had begun in 1935.
+
+27
+00:12:21.760 --> 00:12:51.420
+And they were going to go back further than 1935 to an earlier date. They wanted their series to look similar to the standard FT series. We wanted the pre-1935 data to be reflected with reference to the companies which were in the Financial Times Index after it launched. So we had companies from 1934, 1933, 1932.
+
+28
+00:12:51.420 --> 00:13:18.750
+And as you went back in time, what the Barclays Gold Investors Index or the whole Barclays Capital Index contained was a set of companies that had done well enough to be big and that left out the companies that had died. That index got replaced sometime after our own series came out. But at the time what we were doing was replacing an inadequate index with one that was adequate.
+
+29
+00:13:18.750 --> 00:13:45.230
+This is all ancient history and I dare say, Los can live with that. But if he wants me to retrade anything, he'll tell you. That was great on survivorship bias. I'd love you to talk also about easy data bias when it comes to country indices. The term easy data bias is one that we coined. The easiest state to collect is data which is readily accessible, which is well known.
+
+30
+00:13:45.230 --> 00:14:14.400
+The easy data that people had, including this data series for the UK, started after a period in which markets had become unreliable, had less information behind them. So, for example, the Barclays Index, which is still used by some people, it began life at the beginning of 1919. Why not 1918 or 1917, 1960? It was a war on people who couldn't trust prices.
+
+31
+00:14:14.400 --> 00:14:41.090
+So the series began after the wartime turmoil was out of the way that was easier to do the data was more reliable you take a more extreme case there was a bucklays publication of a similar nature looking at Germany which waited until after the term of the second world war and the succeeding events were out of the way. If you look at Germany.
+
+32
+00:14:41.090 --> 00:15:09.600
+and you include the recovery period after Germany recovered, but leave out what happened in the war, you'll again have a misleading number. And so we discovered that almost everywhere, almost every country was one where if you use the standard index over the standard period, that was easier to do. You didn't have so much in the way of data collection, but performance was very overstated compared to
+
+33
+00:15:09.600 --> 00:15:37.540
+What happens if you imposed a common start date on all of the different markets that you looked at? I would say that that is the most important of the biases that we eliminated, but there are others as well. So what about stock markets that don't survive or succeed? What happens in that case? And how does that affect global average stock returns? If you take markets which are important at the date you're compiling data,
+
+34
+00:15:37.540 --> 00:16:06.700
+you're more likely to incorporate one that had done well and more likely to leave out ones which had started tiny and got smaller still. But it's at bias there in terms of choosing markets which is similar to the choices you have to make within a stock market looking at individual stocks. There are relatively few markets that simply didn't succeed leaving out the capital of major geopolitical.
+
+35
+00:16:06.700 --> 00:16:34.960
+casualties. The demise of the Russian stock markets was important. The acquisition by the state of not only Russian but Chinese resources when China moved towards a communist framework. But mostly there aren't markets which start up, do okay, and then just completely disappear. There have been one or two and I could give you anecdotes along those lines.
+
+36
+00:16:34.960 --> 00:17:02.990
+We make sure that we include everything. And so our history is now cover significantly over 98% of the market capitalization of global equity markets in 1900. And they're equally comprehensive today. So missing countries is not a problem. What is important is how you do the calculations. So if a market
+
+37
+00:17:02.990 --> 00:17:32.180
+Losers some of its assets for example, Austria lost the Hungarian assets, but the Austrian market continued. We want to make sure that we're using the right index and reflecting what went wrong. If we're looking at the world index, we need to include the Russian or the Chinese stocks that became valueless. In just the same way as if you were looking at a conventional single country index, you take in those
+
+38
+00:17:32.180 --> 00:18:01.890
+companies which became value less and that part of the index calculation. The same is true for the global series. That's crazy. It's a lot of really looking at what actually happened in that country to figure out what should be included in the calculation. Well, the back histories, I think, are tricky. And if you look at the early attempts at back histories, which were typically done by general business economists or economic historians, they were perhaps less critical.
+
+39
+00:18:01.890 --> 00:18:26.800
+of the data that they were using. Nowadays, financial history is a big thing. People are much more aware of the dangers of finding ways of losing data and inadvertently having misleading results in the index history. So we go from US market data, maybe some UK, upward biased UK market data being the norm, what everybody knew.
+
+40
+00:18:26.830 --> 00:18:52.540
+How did your work on long-term global returns change our understanding of expected stock and bond returns? Well, let's go back to the book that we were talking about. We call it Triumph of the Optimists. We thought that book times of the optimists. We did that because we have a century of data. If you looked at the beginning of 1900s and you asked, who was investing in financial assets?
+
+41
+00:18:52.540 --> 00:19:20.400
+There will have been a small number of optimists who thought the commercial and industrial companies would do well. And a much larger group of people who were cautious. If you look at US endowments 100 years before, you would find that the endowments were full of bonds. So the 20th century was one in which optimists, that's the people who bought common stocks, did well. That does mean that you can
+
+42
+00:19:20.400 --> 00:19:50.380
+Now look at the sample data because we put into the market data for the last complete century, the 20th century. We've now got a quarter of a century out of sample rolling forward, which has been quite good, but not as good as the 20th century. We can also go back in time and so some people have been looking at evidence that predates 1900 papers by a number of individuals.
+
+43
+00:19:50.380 --> 00:20:19.700
+popular location for talking about these historical issues. And it's clear that if you start in 1900 and you go back in time, performance of our equities wasn't quite so good either. Our data changed the way people think about the reward for risky investment for the equity risk premium. And it's still changing because people are now saying, well, it was a good century, but it wasn't quite so good before that. It's difficult going back in time.
+
+44
+00:20:19.700 --> 00:20:47.090
+We've done that using British data, which goes back further. The attempts at doing the same comparisons for the United States are more difficult because if you want to cover the 1800s, then you can't find history for government bonds. That essentially you can find government bonds apart of it. And that's because there were no government bonds and you would have to settle for corporates or the state securities.
+
+45
+00:20:47.090 --> 00:21:17.010
+And so putting history also gets to be more difficult the further back you go and requires more and more care. In 1900, the optimist end up triumphing, as the title of your book suggests, thinking about how people feel today about the state of the world. Do you think people in 1900 thought that stock returns would be as positive as they were in the future? No, I think they had a pleasant surprise. It was really in the second half of the 20th century. People would have expected
+
+46
+00:21:17.010 --> 00:21:44.220
+I think extrapolating from their experience before and in the early years of the 20th century, they would have extrapolated from a world in which companies did business, generated income, the income was paid out as dividends. Pretty much everything was income-driven. We then moved into the 20th century proper. And at that point,
+
+47
+00:21:44.220 --> 00:22:13.680
+People were making capital gains and in part they were making those capital gains because expectations for the future of Rosie and what you would get from investing in common stocks was more than just the dividends that were paid out. You had rising valuations and that must be something which you talk about and write about in your own business. Absolutely. Comes up all the time, especially today where the US stock market has obviously had lots of capital appreciation on
+
+48
+00:22:13.680 --> 00:22:40.960
+presumably very, very rosy expectations for the future. The United States in all of this is great tricky. I mean, one other form of survivorship, perhaps, is that in the global equity markets, although America was one of several large markets back in 1900, fairly rapidly, it became the biggest one in the world. And it stayed that way with the exception of a very brief period where the Japanese equity market was bigger than any other markets.
+
+49
+00:22:40.960 --> 00:23:09.300
+And so the US has had this amazing history. People who are psychologically attuned to the United States have often said that they think that can only continue. Our expectation was that with a hundred very good years from the US, you couldn't expect it to continue. And Paul and Mike and I were wrong. It did continue. It continued till about a year and a half ago.
+
+50
+00:23:09.300 --> 00:23:38.910
+I've been saying the same thing for a long time now with US valuations being so high just saying the expected return on the US market must be lower based on where valuations are but as you said returns up until recently continued to be higher than expectations would have suggested. I mean once you buy market which represents more than all the others put together you can't imagine anything else which is as big as extrapolating to the history that was
+
+51
+00:23:38.910 --> 00:24:03.550
+going to be used for the future. That's a very difficult extrapolation and yet we really must look at long-term stock market histories in a variety of different circumstances. So we can learn by looking at the differing experiences of markets around the world and not just relying on the US. At the beginning of the status series back in 1900, can you describe
+
+52
+00:24:03.550 --> 00:24:33.380
+What the composition of the country weights look like back then and then how did that evolve over time to get where we're at today? Well, the biggest markets in the world by market cap in 1900 was Britain. There were others that were large Germany, France, and so forth. What did those top market evaluations reflect? Well, part of it was the growing network for communications, physical communications in different countries.
+
+53
+00:24:33.380 --> 00:25:01.360
+So the majority of all of US common stocks, majority of all British common stocks by value was railroad stocks. We had previously had a canal frenzy. Canals did very well, but they found themselves, God, you know, you should say this underwater. But within a few decades, railways have come along and although
+
+54
+00:25:01.360 --> 00:25:30.240
+canals were very efficient compared to lousy ground transport being pulled by a horse and cart. You had the same sort of thing where trains were much better than traveling on canals. Trains were very important. I don't think it would be obvious at the time once there was a railway boom that there would be alternatives like trucking or road transport. Might be alternatives.
+
+55
+00:25:30.240 --> 00:25:59.170
+But nevertheless, it was a longer period of success for trains. And in the end, if you'd stuck with it, railway did quite well, but they went through some very, very difficult periods in the middle of the 20th century. You have data in one of the yearbooks comparing the performance of railway stocks from, I want to say 1900. I don't know. I don't remember the timeline now. We look at railway stocks from 1900 going forward. And then as soon as there is an industry sector,
+
+56
+00:25:59.170 --> 00:26:27.840
+or road transport, which is not as early as 1900, but as soon as that's available, we take that sector index and we start it at the same level on the start date as railways had. And we do the same thing once there's a listed sector on the stock market for airplanes. So we can have a number of series. And what you find is railways did much better than the alternatives, even though
+
+57
+00:26:27.840 --> 00:26:55.420
+Nowadays, nobody would think of railway stocks as a growth stock in any sense. You show in the yearbook that the market capitalization of railway stocks decreased from being massive to being tiny, but the returns outpaced all of those other sectors and the market as a whole. That's just mind-blowing stuff. I love that one. It's fun. We periodically update that work. Typically what happens when we write these books is we produce an essay or two of particular topics.
+
+58
+00:26:55.420 --> 00:27:24.460
+some of those you have acquired because they found their way onto the internet. But we also bring in the long lived pieces of research. And so the book would increasingly grow to having more and more topics. We never realized that if we had this long term history where we could simply ask history, what was the equity risk premium? But instead we could look at all sorts of other questions over time.
+
+59
+00:27:24.460 --> 00:27:54.100
+It's the richness of that data, data which we license you to use in your own research as well. It can answer a whole variety of different questions, whether you are focused on education, emerging markets, and sometimes more of a piece of paper, investments, precious metals, artworks, and so forth. Has the railway analysis held up since you first did it? Yes, the story has made the same. When you see these graphs of different
+
+60
+00:27:54.100 --> 00:28:22.590
+Assets classes or indices moving up at the time. So we've got a horizontal axis, which is for the years and a vertical axis is a value that vertical axis is always plotted in a logarithmic form So if you move one inch up the vertical axis on a page and let's suppose that over that inch on the page You've got values going up tenfold then the next inch on the page will be the 10
+
+61
+00:28:22.590 --> 00:28:52.030
+But coming 10 times as big as a hundred fold and so forth. So when you see a series, you're asking me about one particular series and you see one is winning a great deal compared to others. It needs quite a lot to send them to the back of a queue. You had another chart in one of the yearbooks comparing developed market returns to emerging market returns. The fact that emerging markets underperformed to me was just like mind blowing the first time that I read the analysis.
+
+62
+00:28:52.030 --> 00:29:19.570
+The reason that I think it's related to this question is because emerging markets tend to have high economic growth. Can you talk about the historical relationship between a country's economic growth and its stock returns? Absolutely. If you know in advance that a country is going to have high economic growth, if you've got a crystal ball, you can foresee these things accurately. That would be a good case for buying the stocks. Unfortunately, we don't have a reliable crystal ball.
+
+63
+00:29:19.570 --> 00:29:49.230
+We typically extrapolate from the past and so when we first started looking at emerging markets and comparing them to develop markets there was a wave of interest in emerging markets as being a future the growth opportunity and we don't really argue with that the question is whether as a shareholder you will benefit from that and that's a shareholder stockholder investor if you know there has been a lot of growth in the past
+
+64
+00:29:49.230 --> 00:30:15.970
+Everybody else knows it'll be in the price and so you will pay more for a growth opportunity. And so people who buy into an emerging market, which has done well are coming along too late. So the long-term record of emerging markets is surprisingly disappointing. They've got that behind. What would be the big disappointments if you lose a global war?
+
+65
+00:30:15.970 --> 00:30:44.540
+that can wipe a great deal off your stock market. So the history of Japan, for example, is one in which a huge amount of financial value disappeared during the Second World War. If we stood back from that, we asked, what happens if we begin our index series, not in 1900, not in 1940, but in 1960, or some point in the 60s, emerging markets.
+
+66
+00:30:44.540 --> 00:31:12.560
+I've probably moved in line with development markets and I've actually done a little bit better. But if you look at the entire series, there were some very substantial losses. It's a warning really that there's no guarantee particularly based on extrapolating from the past. The investment strategy will pay off going forward. We talked a lot about that analysis and about Japan in the past episode. And one of the comments that I made was that it's kind of like a reverse lottery.
+
+67
+00:31:12.560 --> 00:31:41.250
+You might expect higher returns from emerging markets, but you have these occasional big events where one country just gets completely wiped out and that causes the long-term record for emerging markets not to be so great, even if the expected return based on something like valuations is high. I think there's another twist on this. That is that you focus on the individual investor and you focus on people who
+
+68
+00:31:41.250 --> 00:32:08.030
+using institutional products. So you might want to ask yourself, this is entirely hypothetical, what would happen if you were selling a global fund, let's suppose it's 1948, and you say, we think Germany looks really good. We suggest you stick a quarter of your assets into Germany. They would have been foaming up for men in white coats to take you out.
+
+69
+00:32:08.030 --> 00:32:35.300
+afterwards we see that if you bought into an emerging market like that you would have done very well but you had to be ever so brave it would not have been a saleable proposition to retail investors and would not have been something which if you were managing a pension fund or some other scheme an institutionally you could have pursued so being counter-selectable focusing on cases where there is
+
+70
+00:32:35.300 --> 00:33:04.880
+scope for a very substantial recovery, you just got to be awfully brave. As far as the dilemma, we have looked at the impact of strategies where you systematically buy into stock markets that have done poorly or sectors that have done poorly. The outcome afterwards is two things. First of all, if you've done poorly in the past, it's a more volatile market. So you're more likely to do very badly. You're also more likely to do very well.
+
+71
+00:33:04.880 --> 00:33:32.000
+In the long term, if you buy into markets that have collapsed, you will be ahead of the game. But typically what most investors will do is they'll lose them. They may allow that story. They've got to stick with it for a long time, and that mostly is beyond their patience. That's super interesting. We talked about railways already, but more generally, what's the historical relationship between industry growth and stock returns?
+
+72
+00:33:32.000 --> 00:34:00.670
+It's a similar story to us talking about early, but if you've got good economic conditions in a country and you know in advance, that's a good idea. The same is true for industry. But historically, I'm going to caveat this in a moment, but historically, if you bought into industries that were cheap, cheap defined, for example, with an aggregate price book or cheap.
+
+73
+00:34:00.670 --> 00:34:28.180
+in relation to dividend yields, historically buying into cheap markets or cheap industries have performed a little bit. But we've just been through a period where that's been a difficult strategy to sustain. So if you have been convinced that buying into sectors that are cheap and avoiding or even shorting ones that are expensive, that's not something which would have done very much good for your business.
+
+74
+00:34:28.180 --> 00:34:57.920
+Definitely a tough period. We do have a bit of a value tilt in our portfolios, which has been not as good as a growth tilt over the last, I don't know, 10 or so years, although recently a little better. Last year or so. The evidence on country economic growth and industry economic growth with respect to stock returns, it seems like it's just kind of noisy. It's maybe even a negative relationship, but it just seems really messy. Why is that? Why doesn't economic growth?
+
+75
+00:34:57.920 --> 00:35:26.980
+translate into higher stock returns.
+
+76
+00:35:26.980 --> 00:35:53.860
+the equity partners in joint ventures or maybe individuals who start up their own business. So economic growth can help a country, can help the people, can help sectors and so forth. The benefits get spread around. Everybody can, to some extent, benefit except those who go into the stock market where prices will already reflect the consensus as to what the future holds. It's super interesting. Makes a lot of sense.
+
+77
+00:35:53.860 --> 00:36:22.380
+What impact has global diversification had on long-term risk and returns? I think that's been very important. Again, if you go back a long way, almost every country had a small number of sectors which were important. So, it has a very small number of stocks that were important. It was difficult to get a broad portfolio. Over the years, two things were happening. One is,
+
+78
+00:36:22.380 --> 00:36:52.380
+that they were more and more industry sector so if you were to look within one large market such as the United States. There was much more opportunity to create a diverse live or totally because. Businesses that used to be private by then were listed and if we think about investing globally. Then you could spread the risks that are associated with particular countries or are associated with the resources that particular countries have.
+
+79
+00:36:52.380 --> 00:37:18.880
+and diversify those much more effectively. So there's a lot of risk which you might have thought is inherent to investing. And it turned out a lot of that could be diversified away. You can spread your money around in a way which eliminates many elements of risk which you would not have recognized as diversifiable in the middle of the last century.
+
+80
+00:37:18.880 --> 00:37:48.830
+Diversification has been important and it's been important as there's been a growth in varied investment opportunities. Some people would say that now, because of the very largest companies, there's a little bit less opportunity to diversify about a quarter of the global equity market is represented by just 10 companies. Of those 10, nine are in one country, the United States, and one
+
+81
+00:37:48.830 --> 00:38:17.870
+is in Taiwan, you would like to diversify. There are some sorts of diversifications which are a little bit more difficult. You've got to be brave in the way I was describing earlier. If you are going to move away from having exposure to those growth companies, we really don't know whether we are in the middle of an upward momentum or whether those stocks have become so expensive.
+
+82
+00:38:17.870 --> 00:38:46.240
+But so that'll be a collapse. We don't know whether we are in early year 2000s, confronting a collapse of the technology companies of that era or whether we're in the middle of continued ascent by technology companies. Can't know the future. In your data, for example, we can look and see that there has historically been a quantitative diversification benefit to global stocks.
+
+83
+00:38:46.240 --> 00:39:15.060
+And I picked this question up from reading one of your yearbooks. What effect could frictions like foreign markets being less accessible to investors historically than they are today have on the perceived quantitative benefits that we see in the data of diversification? When trading costs can impair performance. Performance over the long history that we examine has been helped by trading being cheaper. Cost drag.
+
+84
+00:39:15.060 --> 00:39:44.910
+became something people talked about although the cost are the more people willing to trade well i don't have numbers to share with you my hunch is that if we looked at the aggregate of cost drag that is what it costs to do a transaction and the frequency of which they happen amongst investors as a whole then i think jury for me may still be out it's much much cheaper
+
+85
+00:39:44.910 --> 00:40:12.770
+to invest globally, but 70 people are doing it, but they're not going to get across all investors, they'll make you less of a benefit than you might anticipate. So on that note, how have the benefits of international diversification evolved over time? International diversification evolved, spreading your money across different markets, different jurisdictions and so forth. There's a lot of resistance amongst American investors to investing in
+
+86
+00:40:12.770 --> 00:40:39.310
+markets which are less promising than the US in the eyes of individuals. But on the other hand, it can't be the case that for everyone it makes sense for them to avoid diversifying out of their home market. And so what we can see is that if you had moved into a market which turned out to do well, you prosper and last year.
+
+87
+00:40:39.540 --> 00:41:08.580
+But people who are in the United States who bought foreign stocks may have been persuaded by people like me and my co-authors risk reduction was worth having and therefore they would be better off if they spread their money into other countries. People did do that from the United States. It was a little bit more difficult to do from Canada, but those impediments were lifted because people were convinced that global diversification was worthwhile.
+
+88
+00:41:08.580 --> 00:41:35.520
+There were opportunities like that, but it cannot be the case that there was a strategy which makes money for everyone. So in other words, when Americans put their money outside the US, they were buying stocks which were destined to underperform American stocks. What that means also is that if Europeans or Asians and moved out of their home markets and bought more in the US, they would have bought more.
+
+89
+00:41:35.520 --> 00:42:05.620
+the average return experience across all of them has to be zero. You can't create returns out of nowhere. So the role of international diversification is risk reduction and that you can promise. On international diversification, why do you think? And I will note that we do have a home country bias in our portfolios. We wait more than the Canadian market capitalization. We have about a third of our portfolios in Canadian stocks.
+
+90
+00:42:05.650 --> 00:42:35.200
+And we have reasons for that, which we can talk about if you want. But why do you think investors, and actually one more note on that, our home country bias in our portfolios, which we think is reasonable, is much less than a typical Canadian investor's home country bias, who might have 60% of their portfolio in Canadian stocks. Why do you think investors continue to exhibit home country bias when the benefits of international diversification that you just described are so well known? Some of it may of course be not rational, it has warm feelings.
+
+91
+00:42:35.200 --> 00:43:01.940
+but there may also be other attributes of that so my answer to some extent is colored by taking an institutional and best of perspective. I'm employed by one of the wealthier universities in Europe which is Cambridge and Cambridge when it has people has a mix of paying salaries which are the going rate locally and will stay that way.
+
+92
+00:43:02.000 --> 00:43:31.860
+and some where the going rate is essentially determined globally. The decision is to how much you want exposure to foreign markets compared to local markets. It is something where there isn't a rule that applies to everyone. I think there are individual circumstances which will finesse what you ought to be doing. I do understand, home buyers, for those who have a heavy bond component, I think the story is more compelling as is
+
+93
+00:43:31.860 --> 00:44:00.980
+being able to diversify out of your home bond market and the foreign bond markets is taking a view on how exchange rates are going to change. I'm in favor of diversification however it comes but I can see how for fixed income investors it's a little bit more important because you can hedge more effectively. When it comes to the stock market I still have some sympathy with people who want to stay at home but
+
+94
+00:44:00.980 --> 00:44:31.020
+I think the proportions you describe are not high enough. I think back to the time when I was more heavily involved with the Norwegian sovereign funds, I chaired the strategy council for Norway for about a decade. And early on when I was working with the Norwegians, they had a strong Nordic tilt because they were buying and selling goods and services in the Scandinavia and nearby. And then over time,
+
+95
+00:44:31.020 --> 00:45:00.800
+they came to appreciate that if they bought something which came out of Scanda, it came out of an IKEA store, they weren't really too exposed to the Swedish currency because some of that would be made in China. And if you look through that, China was quite heavily linked to the US dollar. There was a gradual realization that a strong geographic tilt is not in the interests of the Norwegian people compared.
+
+96
+00:45:00.800 --> 00:45:30.660
+to being well diversified globally. I would be saying the same thing in Canada. But there are these geopolitical issues which are being wrestled with now. How much do you want to be self-reliant within a particular country? The world is so complex now. You can probably run another session like this focusing on geopolitical risk. You'll get a lot of listeners. That's one of the things that we had Gene Fama on this podcast years ago.
+
+97
+00:45:30.660 --> 00:46:00.350
+There's a tax efficiency, cost efficiency, local currency argument for home country bias, which I think are fine, but Fama brought up that more geopolitical expropriation risk of investing in foreign stocks that I hadn't thought about before, but when he described it, it gave me another reason for a bit of home country bias, I guess. Earlier in my career, when hedging currency was in its infancy, we used to focus on back-to-back loans. In other words,
+
+98
+00:46:00.350 --> 00:46:30.060
+business rather than taking exposure through setting up a subsidiary in another country would borrow in that country and then invest the money. And it was for exactly those sorts of reasons that you could end up with expropriation of assets you thought you had. My wife's family come from Germany they were refugees at the outbreak of the second world war. My late mother-in-law remembered that the first bit of saving was that they had
+
+99
+00:46:30.060 --> 00:46:58.750
+took to Switzerland they put a small amount in a bank there and she wrote a number which was an account number and in her final years her wife mother was keen to get these savings and so if these were put there they would run to money in case you know they had to run again. We went from bank to bank none of them recognized the number.
+
+100
+00:46:58.750 --> 00:47:27.170
+It had been inadvertently expropriated. We went to the banking ombudsman in Switzerland. And several years later, you wrote that they had identified this deposit. There was no explanation as to what happened to it, explanations to how it got money. But this money, which the young couple who had escaped from Germany at the end of the 1930s was eventually available.
+
+101
+00:47:27.170 --> 00:47:56.400
+much more than half a century later. This expropriation risk is a real dilemma and it's one which as a family we've seen. That's a fascinating story. Yeah, crazy. How important would you say that industry diversification is relative to country diversification? I'd say it has become more important. That's because companies find somewhere to list their shares. And so you end up with
+
+102
+00:47:56.400 --> 00:48:21.180
+listing in locations which are not naturally where they do their profit creation. We have quite a number of years of resource companies being listed on the London Stock Exchange. Not much in the way of resources that comes out of the ground in Britain. When you diversify across markets, you're diversifying different sorts of things.
+
+103
+00:48:21.180 --> 00:48:47.650
+reality of diversifying across industries now is more compelling than it was. What do people say to you? You're that must be something which you talk about. Oh, it's a tough one. We look at different papers and writings, including yours and some of the yearbooks. And it's a tough one. It seems like it changes over time, which I guess you're kind of just describing. Really comes back to that big question of how important is international diversification. I think it comes up a lot for
+
+104
+00:48:47.650 --> 00:49:16.770
+US focused investors and investors in the US who look at, well, look how diversified our industrial base is in the United States. We don't need to diversify outside of the country. And that's one of the main reasons that I've looked at this is, is a well diversified market sufficient diversification relative to being diversified across countries? I think I've landed on international diversification is still important, but it's not a super easy question to answer. It is much cheaper to invest globally.
+
+105
+00:49:16.770 --> 00:49:44.450
+But it was it may be less important, but it can also be a great deal less costly. The burden in terms of costs from investing in a passive global fund is remarkably low. The burden therefore for active investors to compete with that is really difficult. We've mentioned dimensional briefly, but you've looked at longer term historical data than even dimensional would have had when they started their business.
+
+106
+00:49:44.450 --> 00:50:13.660
+Can you talk about how pervasive the size and value effects have been in historical data around the world? It's kind of curious that because when Dimensional was quite young in the London market, they supported us collecting value and size data, value data had previously not existed. I coordinated several PhD students to do that. The work largely was done by
+
+107
+00:50:13.660 --> 00:50:42.000
+Year one, year two, year three PhDs collecting data manually and coordinated by a year zero PhD. The man also has a year zero PhD. He's somebody who we've given a place on the PhD program and he does seem very well organized. This is a man who subsequently became editor of journal finance, so he was my PhD student. We ended up collecting data
+
+108
+00:50:42.000 --> 00:51:10.580
+publishing this in financial journalist's journal, I think it probably could be published somewhere better, but we were in a hurry to get that out. That was the first attempt at a time when, I think in the early years, dementia was much more keen on factor effects within the US than thinking globally, and that was still to come. That's the paper on value and growth in the UK, it was complementary to other stuff.
+
+109
+00:51:10.640 --> 00:51:38.770
+We've looked at performances, you know, you have these checkerboard charts, which are popular in the hedge fund world, but we also look at them year by year, seeing for each year what the best middling and lowest performance was for different factors. And we also do this decade by decade because we've got some data which goes back quite a long way. Some of it a bit further back than the Dharma and French.
+
+110
+00:51:38.770 --> 00:52:05.310
+material which dimensional so kindly make available to researchers as well. The small firm effect was the premier anomaly it seems to be value became a premier anomaly in stock market performance but that's kind of gone away. Jumping around the last handful of years. Maybe some got left behind quite a lot. The one is most striking is momentum.
+
+111
+00:52:05.310 --> 00:52:33.220
+What's striking about momentum is there's a big contrast between momentum investing and size and value investing. For size investing you buy small caps and you hope that they will outperform. And at the end of the year you can reformulate your strategy and if you are really lucky your strategy will be messed up because some of those small companies won't be small any longer. But basically
+
+112
+00:52:33.220 --> 00:53:02.940
+You're fairly doing by small companies and I stay fairly small by value companies and I stay fairly valuable But you can't do that from momentum because from momentum you're buying stocks which are trended up avoiding or shorting stocks which are trended down There's actually no reason why one which is trended up over time should keep doing that so the galaxy would explode I mean that can't happen. It's a high cost strategy
+
+113
+00:53:02.940 --> 00:53:32.700
+size and value has been I think overwhelmed by momentum returns but it's high cost and so whether you do that effectively if you can control costs very well then size and value are pushed down as the relatively unpopular factors now but for a long time and after Paul Mosh and I created the first small gap index in the UK which mirrored what Rothbanks had done as dimensional was being set up.
+
+114
+00:53:32.700 --> 00:53:58.130
+he had done that for the US. The astonishing performance of small caps which continued over a very long period up into about two thirds of the way into the 1980s, that all evaporated. That's a fact and I think we now recognize that there are factors and premiums, there are attributes which are associated with differential performance which may be good or may be bad.
+
+115
+00:53:58.130 --> 00:54:24.960
+attributes which may be associated with a premium because they are giving you exposure to stock characteristics that people don't want to be exposed to and therefore makes those stocks more cheap. Do you think the size and value premiums are still worth pursuing today? I think they should be monitored. If you were looking at institutional active portfolios, then
+
+116
+00:54:24.960 --> 00:54:53.420
+you'll often find that there are inadvertent factor tilts. For example, some charities are constrained to spending income. What that means is that they run the danger of influencing their asset manager to buy high-yielding stocks. So if you are aware of those factor effects, you can discover that in my example, fund manager
+
+117
+00:54:53.420 --> 00:55:22.580
+buys too much of the high yield, because that's the only way that the charity can actually access the money that it's making. There are other similar things. People after small caps have done well want to buy small caps. If they do that through a pooled vehicle, mutual fund or an ETF, small caps are expensive to trade. Those strategies can be expensive.
+
+118
+00:55:22.580 --> 00:55:49.680
+And so you need to understand some of these subconscious influences on the way a portfolio gets constructed. I would argue that an active manager that is not particularly persuaded by your sort of didn't like the passive management is not persuaded by your interest in factors should still be looking at these attributes. That kind of reminds me of
+
+119
+00:55:49.680 --> 00:56:17.680
+Mark Carrhardt and Fama in French both have papers looking at active mutual fund performance through the lens of factor exposures. Is that the line of thinking that you're talking about? Yes. Although, what I'm talking about is traditional active managers primarily who accidentally end up with factor tilts. And then factor tilts are essentially bets being made through the portfolio where they didn't actually intend
+
+120
+00:56:17.710 --> 00:56:43.070
+To make those pets they were doing something which they thought was more innocuous and more geared towards the objective plan that I've been on a lot of investment committees for a pension funds and endowments and I've seen that multiple times over I had a call with a reporter earlier who wanted to talk about equal weighted index funds And this is one of the things I explained is that you're putting significant factor exposures into place
+
+121
+00:56:43.070 --> 00:57:12.220
+by having that equal weights, but it's sort of a naive tilt. And so I was like, if somebody wants those factor exposures, there's probably a lower cost and more efficient way for them to get there. Yeah, I mean, the journalists should be aware that if this is a good idea, it would be a good idea two years or six years ago, which would mean that every time, and if the Magnificent Seven do well, you would reduce your exposure. At the end of the decades, you would feel much poorer.
+
+122
+00:57:12.220 --> 00:57:38.130
+Yeah, I alluded to that too. We talked about the negative momentum exposure that equal weighting is always going to have, which is what you're just talking about. I want to move on to the equity risk premium. Can you talk about what history tells us about the size of the equity risk premium? The size of the equity risk premium is very important. If you were trying to build a modern building, you will have steel pillars that support it.
+
+123
+00:57:38.190 --> 00:58:07.230
+But if you were trying to do that in such a way that the ratio of the diameter of those pillars that support a skyscraper, the ratio of the circumference to the diameter, if you wanted to be anything other than 3.14159663, et cetera, you can't do it. And so we have a number in investment, which is just as important as the Equiris premium. The tunnel is that while we know what the value of pi is,
+
+124
+00:58:07.230 --> 00:58:37.200
+we have no real ideas to what the equity premium is. It's even worse than that because there are lots of different estimates that come out. They seem to vary a lot over time. We think of these as being long-term attributes, but there are sell-side advisors who are constantly changing their minds. We've got limited opportunity to do their business if the equity premium never changes. So we see lots of multiple calculations.
+
+125
+00:58:37.200 --> 00:59:01.260
+In the academic world, this has been a source of discussion for 20 years. So, I started out with Goyal and Welsh, Welsh being based in the US. Goyal now there is being in Switzerland, who looked at what happened if you didn't peek into the future, but just shows as you went through time.
+
+126
+00:59:01.260 --> 00:59:28.780
+to make an investment based on information that at a particular date you've got based on the past. The equity premium that you get if you use long-term data is still there, it's depending on whether you look at the 21st century, the 20th century, or the 19th century. The sort of numbers that we come up with nowadays are much lower than the spending rules that are followed by many endowments.
+
+127
+00:59:28.780 --> 00:59:58.460
+We could live with 3% as the equity premium, the amounts that equities will throw off relative to safe assets. But 4% is, you have to be quite lucky. And in many cases, you find endowments that are the long term investors who think that sustainable spending can run at a level of 5%. Sustainable spending means money that you can spend without destroying the future of the fund. It is not to do
+
+128
+00:59:58.460 --> 01:00:26.980
+with rainforests or climate change. What we're talking about is how much you can take out of the fund and still leave in a good shape for the future. That equally premium estimates that we have are, I think, lower on the consensus is much smaller than it was. I think there's been gradual agreement, so even the most optimistic of individuals, so you might think with Jeremy Segal, is an optimist amongst commentators.
+
+129
+01:00:26.980 --> 01:00:57.020
+Have brought down their numbers and in other cases their estimates of the reward for equity risk compared to Short-term risk free investments or long-term risk free investments It's a smaller number we used to talk about Historically, that's the risk premium. How does that correspond to? the real return on equities Well, we can look at the active premium as the difference between the
+
+130
+01:00:57.020 --> 01:01:26.980
+expected or the realized return on equities, the return on the safe asset, we can do that in real terms or nominal terms, the number will be exactly the same. So if you've got a numerator and denominator, which is nominal, you divide one by the other, it doesn't matter if the top half of that fraction and the bottom half of the fraction are scaled by inflation. So the equity premium is fundamental. It's fundamental whether you are
+
+131
+01:01:26.980 --> 01:01:54.740
+Invest in this focusing on real returns, focusing on the purchasing power of your portfolio, or whether you are focusing on the nominal risks and what a nominally straightforward low risk alternative would be. Crazy. So three or four percent equity risk premium. I think that's already getting high. Wow. Three percent.
+
+132
+01:01:54.930 --> 01:02:24.610
+plenty of institutional investors in the US who would be talking about 5%. But I think to get to numbers like that, you've got to be claiming that you can not only get the equity premium, but you can identify clever managers who will outperform the pack. That's hard. 3%, that's a low number. If we switch from thinking about the equity risk premium to just real stock returns without adjusting for risk,
+
+133
+01:02:24.610 --> 01:02:53.650
+What is a 3% equity risk premium look like in terms of just a real expected stock return? Not a risk premium. I would take the view that over a 10-year period, a plausible real return from bonds might be 2%. And so if that risk premium is relative to bonds, the equity bond premium of 3% would keep rise to 5%.
+
+134
+01:02:53.650 --> 01:03:21.460
+Return that pump inflation that's a number that I think makes sense. Is that pretty close to historical real return on stocks? Well, it will leave you a lot happier than if you've been asking the same question four years ago when the long-term return on bombs would have been zero in real terms or less moves not all the way back to long-term history other sort of numbers that people could plausibly use now
+
+135
+01:03:21.460 --> 01:03:51.740
+are not quite as discomforting as they were. This is actually the heart of what financial advisors who you're working with think about. And I think there's another way of considering what individual savers ought to be doing. So the traditional way would be to look at how much wealth there is and say, well, this is what you can afford to be spending over years into the future. There is another way which is to say
+
+136
+01:03:51.740 --> 01:04:20.140
+Hypothetically at least, you could take out a contract which would cover all of your needs from 800 to 101. Let's assume that you don't expect to live beyond that. But that's something that you could price. It's a manuity. You could also work out how much would be needed to help you live from 99 to 100 or 98 to 99. A built-in shop causes a lockbox. It's working back.
+
+137
+01:04:20.140 --> 01:04:50.140
+in the end of your life as to how much you need rather than something where you are now and having a plan which will take you forward but then when you're say 82 years old you'll have nothing left. The reason I like that is that it helps you focus on how long you should be working for. Some people have a job like mine which they just enjoy. With random people they would quite like to stop working and I think the stage at which they were
+
+138
+01:04:50.140 --> 01:05:19.310
+be able to stop working as something which they could do with guidance. But I should advise you to think about it that way around usually. That is a good perspective to take. So looking at markets today with wars, high valuations in the peer of AI and so on, how should investors remain optimistic? Your listeners will be a range of ages because you are young. You have some young listeners, but you also have some people who have got quite a lot of wealth.
+
+139
+01:05:19.310 --> 01:05:48.190
+I think part of the story is for them to know who they're investing for, what chances they can take. The optimistic ones will be ones who have the good fortune to be able to invest for their children, their grandchildren, for charities or whatever in the end they'll spend their money on. How can they be optimistic? It is through living modestly and investing for a future which stretches out a long way beyond
+
+140
+01:05:48.190 --> 01:06:16.990
+their life if they're fortunate enough to be able to afford to invest that way. What do you think are the risks of being pessimistic about future stock returns? Well, if you're pessimistic, you're still going to put your money somewhere. So that means that you are not like the optimistic invested in the stock market, but you're going to stick your money in the bank. Over any reasonably long period, you are likely to lose purchasing power from doing that. So if this is money you don't need,
+
+141
+01:06:16.990 --> 01:06:47.020
+for the near future, then you should be resting for the long term. You still need some liquidity. I came to New York for one station in 1999, the peak of the TMT bubble. And at that stage, there were taxi drivers who would tell you that they are planning for their daughter's wedding or their son's bar mitzvah or whatever it was. They put some money to one side. And within five or six years' time,
+
+142
+01:06:47.020 --> 01:07:16.270
+They were going to be in a position to spend the money that they needed. They did not understand that the projections in growth for the long run, which the Wharton School Professor Jeremy Siebel had popularized, the third time scale for people who are not such optimists, they are not going to become as wealthy, but the downside is less as well, if you really need the money.
+
+143
+01:07:16.270 --> 01:07:46.210
+My world is also in downwinds. If you look at top-skilling Cambridge colleges, some are terrifically roughly, others are not. If you are worried about whether rain will come through the roof and ruin the organ in your college, you don't stick the money into the stock market if you might need it in a few years' time. That's the cross-subsid if you like between long-term investors and short-term investors. Long-term investors will do better.
+
+144
+01:07:46.210 --> 01:08:16.590
+you got short-term investors, counter-fold losses. That was a great line. We talked about the equity risk premium and that 3% number being fairly attractive, especially once you consider the risk-free rate and inflation. How do you think about the role of bonds in portfolios? The extent to which bonds have gone moved with or being a diversifier for equities is quite important in all of this.
+
+145
+01:08:16.590 --> 01:08:45.820
+We went through a period for the first two decades of the current century in which we had become used to bonds having a role in the portfolio of being a safe asset and then 2022 came along, all bets were off. I think there is a role in bonds, but I give you a personal view because our tastes, I talk personally, are fairly modest. We don't need to spend
+
+146
+01:08:45.820 --> 01:09:15.890
+an awful lot. There's a big benefit from being heavily invested in equities for somebody who thinks that way. People sometimes ask me for advice. I'm not a financial advisor and I don't like giving advice. But I think you need a clear idea as to how risk-averse you are, how much you might need money for an adverse event. And if you can manage it, if you can invest for the long term, that is the second best investment you can make.
+
+147
+01:09:15.890 --> 01:09:44.050
+The very best is investing in yourself. That's getting an education. So that would be where I rank highest. And after that, I look for long-term financial assets. I love that. Make yourself the safe asset. Live modestly so you can invest in stocks. I love it. I share the same philosophy. So confirmation bias. That's why I'm so excited. Last two questions here. We've talked about US.
+
+148
+01:09:44.050 --> 01:10:12.670
+exceptionalism and how the US has just had this incredible performance. How do you think investors should think about expected future returns in the context of the US market? It's never a good idea to be a market's timer. People who ask themselves, what should I be doing now because it looks like they could invest in risky assets now but lose a lot and so I could stay out of the market.
+
+149
+01:10:12.670 --> 01:10:40.980
+That's market timing, which is not something which any advisor would urge you to do. The reason for that is that it's easy to make the decision now to sell your common stocks because you think they may fall, then you may never get the opportunity to buy back what people should be doing. It's focusing on a long-term strategy. That long-term strategy should be as diversified as possible. Costs should be as low as possible.
+
+150
+01:10:40.980 --> 01:11:08.050
+There are instruments for doing that where the platform fees and the asset management fee are incredibly low. So that should be the starting point, I think, for many investors. Great answer. Our last question, Alroy, how do you define success in your life? That's easy for me. We've got four children, four children, and well, so we've got eight children and we've got 10 grand children.
+
+151
+01:11:08.080 --> 01:11:36.930
+And the success is happy people. That is a great answer. I've got four children too, but no children in law and no grandchildren yet. It'll be a while for that still. But if they're happy, you're good with that. Great answer to the question. This has been a great conversation. All right. I mentioned to you that this is just, it flew by for me. I can't believe we've been talking for 90 minutes. Really appreciate you coming to the podcast. This has been fantastic. That's great. Thanks very much. It's time to stop.
+
+152
+01:11:36.930 --> 01:12:07.070
+All right, that's it, Arloy. Thanks so much. We appreciate you spending the time with us. Hey, everyone. It's producer Matt. Thank you so much for tuning in to this week's episode. Before we sign off, here's the disclaimer you've been waiting for. Portfolio management and brokerage services in Canada are offered exclusively by PWL Capital, which is regulated by the Canadian Investment Regulatory Organization and is a member of the Canadian Investor Protection Fund.
+
+153
+01:12:07.070 --> 01:12:35.040
+Investment advisory services in the United States of America are offered exclusively by one digital investment advisors LLC. One digital and PWL capital are affiliated entities and they mostly get on really well with each other. However, each company has financial responsibility for only its own products and services. Nothing here in constitutes an offer or solicitation to buy or sell any security. Occasionally, we tell you not to buy crappy investments in the first place, but
+
+154
+01:12:35.040 --> 01:12:58.860
+That's not the same thing as telling you to sell them. This communication is distributed for informational purposes only. The information contained herein has been derived from sources believed to be truthy, but not necessarily accurate. We really do try, but we can't make any guarantees. Even if nothing we say is fundamentally wrong, it might not be the whole story. Furthermore, nothing herein should be construed as investment.
+
+155
+01:12:58.860 --> 01:13:27.380
+tax, or legal advice. Even though we call the podcast your weekly reality check on sensible investing and financial decision-making, you shouldn't rely on us when making actual decisions, only hypothetical ones. Different types of investments and investment strategies have varying degrees of risk and are not suitable for all investors. You should consult with a professional advisor to see how the information contained herein may apply to your individual circumstances. It might not apply at all. Honestly, you can probably ignore most of it.
+
+156
+01:13:27.380 --> 01:13:56.130
+All market indices discussed are unmanaged, do not incur management fees and cannot be invested indirectly. Which is a shame because it would be awesome if you could. All investing involves risk of loss, including loss of money, loss of sleep, loss of hair and loss of reputation. Nothing herein should be construed as a guarantee of any specific outcome or profit. Past performance is not indicative of or a guarantee of future results. If it were, it would be
+
+157
+01:13:56.130 --> 01:14:20.850
+much easier to be a Leafs fan. All statements and opinions presented herein are those of the individual host and our guests, and are current only as of this communications original publication date. No one should be surprised if they have all since recanted. Neither one digital nor PWL capital has any obligation to provide revised statements and or opinions in the event of change circumstances. See you next time.

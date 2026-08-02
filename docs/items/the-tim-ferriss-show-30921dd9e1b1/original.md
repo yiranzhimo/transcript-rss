@@ -1,0 +1,329 @@
+**[00:00:00]** Hello boys and girls, ladies and germs. This is Tim Ferriss. Welcome to another episode of the Tim Ferriss Show. And I'm going to keep my intro very, very short. There are a few things you're going to want to pay attention to. This blew my mind. I think it will also blow your mind. Two things. Tim.Blog slash Hard Choices. That is the video mini documentary of Prison No More. This is about the transformation that you're about to learn about. You got to watch it. It's very short. And
+
+**[00:00:29]** It almost defies or seems to defy explanation, but there is a method to it. Tim dot blog slash hard choices. That's like number one. The second is if you are interested in supporting or being a part of the cerebral palsy research, go to Tim dot blog slash CP and fill out the Google form. So two more times the mini doc Tim dot blog slash hard choices. Definitely check it out. And after the episode.
+
+**[00:00:57]** if you're interested in the cerebral palsy research, supporting it, being a part of it in any way. Timed up log slash CP. At this altitude, I can run flat out for a half mile before my hands start shaking. Can I also ask you a question? No, I would have seen it in a better time. I'm a cybernetic organism living this year over a metal endoskeleton. Me, Tim, Paris, Seoul. Jersey, nice to see you, as always.
+
+**[00:01:30]** Pleasure. Yeah, I always love spending time with you and I have wanted to have this conversation for doing the math more than 10 years because you told me of this transformation that we're going to be discussing in detail a long time ago and it blew my mind to the extent that you may not remember this. I wanted to try to figure out a way to hire a long-form journalist.
+
+**[00:02:00]** to write an entire long form magazine piece on this and it turned out that a much better format is film and certainly in this conversation we'll talk about it but not to bury the lead for people who don't have any context jersey and i have known each other quite a long time and jerseys appeared on the podcast before alongside neval ravican who also has worked with jersey.
+
+**[00:02:25]** And Jersey is a four-time world weightlifting champion co-founder of UCLA's weightlifting team co-creator with his wife, Anjela, the lovely Anjela of the Happy Body Program. There's a lot more to his story. We get into it in depth in the first conversation. This time around, we're going to talk about a very, very specific transformation that people might not associate with weightlifting when they envision lifting weights in the gym. And that is just how far reaching
+
+**[00:02:55]** coaching transformation can be. And I'm going to read a definition first of cerebral palsy, CP. This is from the AI answer on Google, but you'll see some version of this in most places. So cerebral palsy is a group of permanent disorders affecting movement, posture, and muscle tone caused by abnormal brain development or damage to the developing brain, usually before birth, sometimes it's during birth.
+
+**[00:03:21]** It is the most common motor disability in children resulting in non-progressive limitations. I'm just highlighting a few words here. Permanent non-progressive limitations, meaning the brain injury does not change over time on muscle coordination and balance. Now, I'm going to compare that with a lead into the doc, which I'm making available for free on YouTube, which is called Prisoner No More. We'll have more to say about that. It is quite
+
+**[00:03:51]** short, easy to watch, about 30 minutes to my memory. And here's the description. What happens when a doctor's prognosis becomes a life sense and one person refuses to serve it? Prisoner No More follows Tajin Park and I recognize that is not probably the perfect pronunciation for Korean, but Tajin Park, a young man diagnosed with cerebral palsy who dismantled every physical limitation medical science predicted for him.
+
+**[00:04:17]** through elite athletic training under Olympic strength coach, Jersey Gregorick, and an uncompromising commitment to identity transformation to Jin's story redefines what the human body and mind are capable of. And that's directed by Jeff Wolf. And we will come back to that as well. But let's hop into an actual conversation here and begin with Jersey, if you wouldn't mind, just some before and afters, right? And then we'll go into the entire
+
+**[00:04:46]** chronology of it and everything else. But maybe we could just touch on a few like bench press, what he could do before to Jin and what he could do after math, language. Where would you like to start? Let's start from bench press, I guess. Okay. So the first day he I loaded the bar 15 pounds and he couldn't lift. He couldn't take it off the rack. Right. Couldn't unrack it. Just only 15 pounds.
+
+**[00:05:16]** So I have this wooden bar, Olympic wooden bar that I used to coach children. Four year olds, five. I remember my daughter was doing snatches when she was three years old. It's three pounds. But I put the three pounds on and he lifted three pounds. So I thought, okay, good lift three.
+
+**[00:05:46]** So let's see if we can lift eight. So I added five pounds and he did. It surprised me. The difference. And then I loaded another five on it was 13 and he did. Came back to 15 pounds. He barely lifted that, but he did. So that gave me the insight right away that he is going to progress fast. So I asked for
+
+**[00:06:16]** his father to come to the gym. And I told him, you have to be here and you have to watch every session with him because something is going to happen here. I already get that feelings that something good is going to happen. So I don't want to spoil the story. We're going to get into micro progressions and certainly the importance of the bench press, which you identified really early on. What did he get to as his sort of maximum
+
+**[00:06:46]** working weight in the bench press. He got to 170. What body weight? I think around 140. So he passed his body weight. He became stronger than his father. And his father couldn't believe it. But as the father was watching it for years, and he said, at one point he said, I'm really getting what's the micro progression is. It's amazing thing.
+
+**[00:07:16]** really something. So another layer to this story that makes it all the more amazing and inspirational and mind-boggling is that Tijin also is autistic, if I'm correct. Right? So while you're helping him to build confidence and competence physically, you're also working on a lot of other things and I'm sure we'll get into many of them. But could you just tell us a bit more about his conversational ability before
+
+**[00:07:46]** than after. What the father told me that he was conversational with Tajan was time to go to bed or time to eat. And there were some probably more because he would count to one to ten. But he wouldn't know what is three minus two. So the math, what I noticed that he needs to work on the math because I asked him to do five squads.
+
+**[00:08:16]** and he did six or four, sometimes five. I said to Jen, I wanted five. And said that was five and it was six, right? So he was missing. And that gave me the idea that he needs to work on his math. So I started asking him simple questions, what is three plus two? Three plus five and up to 10 he was okay. But after
+
+**[00:08:46]** 10 didn't know what is the 5 plus 7. The subtraction didn't know at all. So that was the beginning of the math. When it came to English and any conversation, he couldn't have any conversation. So the father, after about probably a year, he said we had the first conversation. Okay, you're training.
+
+**[00:09:16]** Yes, we actually talk about something. That's what was amazing. How long did you train with Tijin? Almost five years. Okay, so at the end of five years with math, where was he at the end of five years? Well, he is in community college. He passed 57 units. So he is waiting for another three units to finish 60.
+
+**[00:09:45]** and go to San Jose State. So you can imagine what his mouth is and English. He writes essays and it's just... It's just let that sink in people. It is so wild and you'll see this in the video. So to not just converse about concrete objects, the mug in front of us or something to the left of us, the dog on the floor, but you had him memorize
+
+**[00:10:13]** poetry so you could discuss things like emotional tone, metaphor, getting into much more complicated terrain. And honestly, the more I learn about this and the more I revisit it, because this is not the first time we've talked about this. And I just rewatched the documentary earlier today in which I did the voiceover for and I got really emotional watching it, to be honest. So I want to talk about the how to
+
+**[00:10:43]** because there's so many, so many pieces to this. Maybe what we should talk about is why previous approaches hadn't worked, right? How are people with cerebral palsy generally treated by society? Why do they have these deficiencies? The lazy explanation is, well, they had this brain damage or abnormal brain development, and that's that. It's a sentence. And then, Tijin had worked with physical therapists before meeting you.
+
+**[00:11:13]** Like why didn't he make progress? I mean those are two different questions, but I'll let you start with maybe how you view the environment and society as implicated in the development for people with cerebral palsy and this applies to many other places by the way It's not limited to cerebral palsy But for instance we were talking about the community college and to Jim when he decided to go back to school which didn't start with college of course and
+
+**[00:11:41]** There were a lot of pressures to put him into a special program and you're like no no special program like he has to be around normal kids. So I'm leading into it a little bit but would you like to say a bit more about that. Well you know I come from Olympic weightlifting as you know so athletics focus always on progress and reaching records breaking records and that's what the athletes are about. But when you think about physical therapist.
+
+**[00:12:11]** chiropractors, doctors. We call them really in weightlifting recoverers. So helping us to recover, occupant massage and all of this is when we do the training, we need recovery. So the recovery is that system that helps us to recover the body for the next day and do the next day something a little bit more than before. And
+
+**[00:12:41]** create the progress. When physical therapy is approached, let's say somebody that is after surgery or has problems, the mission is to return the person to where the person was before. And the same with doctors, make them healthy again. But with Tajan, that's not the case because, or cerebral palsy people, because they are already dead. And they
+
+**[00:13:11]** cannot return anywhere. So they have to progress the same way as athletes forward more. You know, it's a stronger faster what is five plus seven or right align, memorize the poem. And you know, belief system that you talked before, then triggers here too, because he hated
+
+**[00:13:41]** the son, the son, and he hated police and he hated mother and he hated father. And that came out during our process of coaching. So that I had to address to. So the philosophy was also the part of it. It was poetry, philosophy, it was math, and it was English. But coming back to what you said about the whole community,
+
+**[00:14:09]** that works with cerebral palsy. I think that the focus is not athletic focus. The focus is to comfort them, so not really improve them, not to improve them so they are improving, just to comfort them so they have the safety life and they are okay. I guess that's probably the difference here. Readers of the 4-hour Workweek know that I love automation. I do not.
+
+**[00:14:42]** like decision fatigue. I don't like doing things repeatedly anywhere I can set it and forget it is a win and gives me more time for the things I enjoy doing. That is why I'm such a fan of today's sponsor, Matic, as in automatic, MATIC. As their tagline goes, the world's most advanced floor cleaner. Frankly, it does a lot more than that and they've got a lot of cool things coming, but it's the closest thing to a house that cleans itself. To quote Wired Magazine,
+
+**[00:15:11]** Quote, this is the best robot vacuum we've tested and it's scored a rare 10 out of 10. Maddox learns your home and runs quietly in the background. It's very, very quiet. I've been testing it myself. It vacuums, mops, docks itself and doesn't strangle itself on charging cables or you're wedged under your couch. It's pretty amazing. And people with kids and dogs have been telling me all about it. I put out a note on social asking how people liked it, if they liked it. And their response was kind of mind blowing.
+
+**[00:15:38]** Not only because the comments were overwhelmingly exuberantly positive, but my phone blew up. I got texts from nearly a dozen friends telling me how much they love their Matic. So that was a first. So to quote another media outlet, The Verge writes, this Wally-like bot fixes the stuff every other robot vacuum gets wrong. And there are tons of people involved with this who I respect a lot. We've got Silicon Valley legend Naval Rabacot and Shopify CEO Toby Lutke. They love theirs.
+
+**[00:16:06]** And as I mentioned, they're investors and my friend Kevin Rose has been raving all about it. The list goes on and on. So check it out. See what all the buzz is about. Go to mattycrobots.com. That's M-A-T-I-C robots.com mattycrobots.com. And experience the closest thing to a house that cleans itself. New customers get free bags for a year. One more time, mattycrobots.com.
+
+**[00:16:30]** So our place reached out to me as a potential sponsor and the first thing I did was look at the reviews of their products and said send me one and that is the titanium always pan pro and the claim is that it's the first non-stick pan with zero coating so that means zero forever chemicals and durability that'll last forever. I was very skeptical. I was very busy. So I said, you know what? I want to test this thing quickly. I'm gonna test it with two things. I'm gonna test it with scrambled eggs in the morning.
+
+**[00:17:00]** And then I'm gonna test it with a steaks here and it worked perfectly in both cases and the design is really clever it does combine the best qualities of stainless steel cast iron and non-stick into one product. And now our place is expanding this first of its kind technology to their titanium pro cookware sets which are made in limited quantities. So if you're looking for non-toxic
+
+**[00:17:25]** long-lasting pots and pans that outperform everything else in your kitchen, just head to fromourplace.com slash Tim and use code TIM for 10% off of your order. You can enjoy a 100-day risk-free trial, free shipping, and free returns. Check it out fromourplace.com slash Tim. And just to reiterate something for people who are listening right now, we're talking about in some respects two things that will get intermingled as we talk.
+
+**[00:17:55]** which does not mean that we're equating them, but you have on one hand sort of the mood affect and some of the communication challenges and other components of autism spectrum disorder. Then you have the motor challenges and much more of course related to cerebral palsy. We're talking about both. And let's revisit the prior physical therapist, right? Because I believe based on some of the notes that you sent to me,
+
+**[00:18:24]** that his approach was to put Tijin on a treadmill. Is that right? Or you just... There was, in other words, it was... And he hated that. He threw him into a plan, but it wasn't a progression. I don't know if that's fair to say. I mean, maybe there was minimal progression to it. Yeah, maybe some progression of a treadmill. But treadmill, after a while, creates exhaustion, tiredness, and the brain actually becomes depleted.
+
+**[00:18:53]** instead of getting the power, getting the strength, getting more energy. We're talking about resting energy. And when that resting energy can be improved, that resting energy can keep the person awake. He was very lethargic at the beginning. Yeah, he'd sleep in the car, he would sleep whenever he had opportunities. He would sleep in the car, he would sleep whenever he had opportunities. No, never, never was awakened in the car. And when he was in the room, he would usually
+
+**[00:19:23]** sleep because he was not engaged with people. So he was sleeping. And so the bench press seems like it was one of the kind of key components to increasing resting energy. Yes, bench press, a squat, back squat, back squat. And then eventually the back squat was a big challenge because he couldn't sit down. He was very stiff.
+
+**[00:19:53]** because he was stiff, he would fall on daily basis. He was bruised all over the body. And he walked awkwardly. Usually father held his hand and when they were walking and he was just walking very to the left, to the back, awkwardly. That created a challenge. The challenge for the squatting was that he was not able to squat down. He was able to bend. Right.
+
+**[00:20:22]** which is why his parents also took him to the bathroom. He took care of everything. He was looking for the box or the chair. You remember the box that I use. So he was not able to sit on a 20-inch box because he was bending forward and looking for the box. So that was about, I guess at the beginning, about 20-23 inches. When it came to 16 inches, I noticed that he is nicely squatting down.
+
+**[00:20:52]** and also was able to turn. At the beginning he was not able to turn. So when I noticed that, I told the dad, he's ready to go to the restroom on his own and ready for the other things in the restroom. And that was the beginning of the first really independence for Tadjan. He was able to dress himself. The other thing was to tie the shoelaces.
+
+**[00:21:21]** So at certain point I saw that he has these shoes and his shoelaces were untied and the father ran to tie his shoes. I said, no, no, no, he can do that. And he said, okay, so father sat. We were outside of near our lunges in our house. And so he bent and he tried to tie and the father was looking piercing, you know, like, I said, relax.
+
+**[00:21:52]** He's going to be care. And I created this atmosphere of facilitated for T'Ajens so he could relax and he could actually make it happen. It was about 20 minutes before he actually made it but it was a torture for the father. I started really seeing how the parents are with him. That I had to teach the father, the mother to be patient, to wait until he does something.
+
+**[00:22:22]** not to do for him. So that was also element that was needed to be fixed. It's also looking at it with a very, through a very sympathetic lens, I can understand how all three of them have been struggling and working hard to do the best they can over how old was Tijin when you met him? When the five. 25.
+
+**[00:22:49]** They were intense. So 25 years, right? Of conditioning and habit. So it takes time for everybody involved. They were taking bomb. They were so intense with him. And he was so fast to respond. And his also walk was that way. He tried to walk fast because he believed then walking fast, he will
+
+**[00:23:20]** be normal. But I slowed down everything. I taught him how to walk. And it was torture for him. But he said, heal and tell and heal. After about two, three years, he started walking normally. He'll and tell and I know I've had videos. I sent you videos of it. It just was just amazing to watch that Jen to walk with soft arms because
+
+**[00:23:47]** His arms were really up and really contracted. Control extremely control. And then everything started being more soft and relaxed. And he started walking like a normal person, what the father wanted. Came to one of my birthdays and it was just amazing to see him out there about four years. People were just...
+
+**[00:24:17]** So I'd love to highlight a few of the ingredients that were critical for the recipe that led to that because Friend of mine, I'll name them because it's funny. He'll get a good laugh out of it I remember I introduced my friend Mike to you and Mike has very his multitude of issues with his hips He has one titanium hip
+
+**[00:24:47]** And I remember I introduced the two of you. He came over and you guys trained. You laid out a program for him and he was unable to squat properly to a certain depth. So you meet people where they are, right? Everybody can improve, but it's about knowing the starting point. You're famous for saying this. And so you gave him a certain depth and I remember he did that for maybe a week and then he was feeling good. So we decided to do it, you know, five inches deeper or something like that.
+
+**[00:25:14]** and he came back and met with you and your response was you were wasting both of our time. Because the micro progressions are a key component to progressing without injury and also I know that you feel like the no pain, no gain approach to training is a myth, right? Or that belief undergirding training. So I want to mention just a few other things and they're
+
+**[00:25:40]** Of course all in line with your most famous mantra of hard choices easy life easy choices hard life Hard doesn't necessarily mean painful right, but it does mean hard or difficult But I want to mention a few of them here because it's so comprehensive We'll come back to this but you know car spotting right so to Jin was so lethargic as we already noted that he was typically sleeping but after six months or so
+
+**[00:26:08]** you asked his father if he noticed anything new and he remarked that to Jin had noticed a car on the way over. So you started to give him assignments to remember the cars that he spotted, the color, the make, whether the driver was male or female. And you got an inkling of his potential for math because he started memorizing the license place, which is just incredible. Then negativity, right, this sort of negative affect. You already mentioned him hating the sun.
+
+**[00:26:38]** hating the police, hating this, that or the other thing at certain points, hating the workout, which maybe we'll come back to because the, I thought it was very clever how you responded to that with, well, once you're an adult, you can decide if you want to quit the training and you had, and that was a trick. Yeah, it was a trick. And you had hurdles for hitting that. You also gave him assignments though to come back to the negativity.
+
+**[00:27:04]** Having dialogues and asking him questions to see the world more objectively so assignments to have him write in English and explain why the Sun and the police might be important for our existence The use of celebrations so I might ask you about this but having certain milestones for him where you would give him a certificate and then I think it was later on Going to restaurants with his family and giving it to him in front of him but also because his life I suppose seems so perhaps
+
+**[00:27:32]** to him uneventful up to that point like nothing was happening. Maybe you could speak a little bit to that and I'll jump into some of these others. Well, you know, his brain was virgin. So nothing was there. So he didn't have history. So he couldn't really talk about whatever he was doing. He was not doing anything. So I... Right, there's no content. I wanted to create, you know, history in his mind.
+
+**[00:28:02]** create something, memory about something. One of the things was to give him certificates for the breaking records. So whenever he wrote the record, then we printed diploma and I asked father to set up a dinner celebration and every time the record was broken in the squad or bench press, we went for a dinner. During this dinner,
+
+**[00:28:31]** We gave him diploma and some other people came and it was the celebration. And the gen was started liking this was like a star and after about a year I saw him he started talking about this celebration. He talked about math, he talked about poems and so all of it started becoming his memory, his history. It was very important.
+
+**[00:29:00]** And he also started liking Breaking Record. He got crazy on jumping up the box. But that came because he wanted to be an adult. So we're going to get to the adulthood that might come up immediately. I also just want to give credit where credit is due to
+
+**[00:29:24]** the parents and I don't know to what extent it was both parents or the father but driving twice a week. How long was the community? So they were coming twice a week, about one hour and a half driving one way. So they had to have at least four hours to come. Father was devoted, very kind, devoted and stoic. He was there all the time.
+
+**[00:29:55]** and you couldn't really see any irritation in him at all. Loved his son. That was very clear. So he was coming every time when he couldn't come, his mother brought him in. But it was for them four hours drive and I discussed that with the Jen and they told the Jen how
+
+**[00:30:25]** devoted was his father. Eventually when we started having conversation, philosophical conversation, appreciative conversation, I tried to pass on him the appreciation of his father and enlarge the imagination about his father. If the father was not committed to that for five years to bring his son twice a week.
+
+**[00:30:54]** and every time spent four hours and the money. Then I told Tajan, you wouldn't be who you are today. He helped you to become what you are. Tajan was interesting. He was just sometimes look and you could see that he was thinking about something. Sometimes he liked it. The most joy that I saw in him.
+
+**[00:31:23]** He was breaking the records and some videos are there. It was like he was... It's in the dark. It was so joyous. That is like when you see children sometimes very joyous in that moment that nothing else happens. And it was ecstatic, you know. It was so pleasurable to see. Yeah, we're like an athlete winning gold at the Olympics on the platform. Yeah, exactly.
+
+**[00:31:53]** Let's talk as promised about responsibility and adulthood which was a crafty strategy on your part. Could you speak to that? He didn't want to play piano first because he had been required to take Yeah, yeah, so father told you to play piano and he didn't as he didn't like to come to the workout and
+
+**[00:32:21]** Training you didn't like the training so you didn't like the piano and you didn't like the training yeah, and he said I want to stop the piano and I said well, you know, you're not another you cannot do it. You know somebody needs to decide for you, but when you become another you can stop the piano you don't have to come here for the training. As a well you know and what is the adults right.
+
+**[00:32:48]** So we started discussing, so what do you think? And then we started discussing what is really an adult. So I said, well, you know, adult is independent. What does it mean, independent? Working, making money, living somewhere separately, and so on, so on. But then I said, what is the result of the thing that we can consider you an adult if you jump on an 18 inch box? So he was
+
+**[00:33:17]** jumping at that time around 11, 12 bucks. Oh, 11, 12 inches. Yeah. He got so excited and he thought that he can conquer it very quickly. And he was on a mission with this box, I tell you. You know, he was like the energy that was generated in him.
+
+**[00:33:38]** Wow, this is the same energy like in me when I wanted to go to Olympics. I would run to the forest in 2am, whatever it was needed to do. I would do, and I would do with lots of energy and commitment. So he was committed, wanted to jump. But I knew that six inches, it would take two years.
+
+**[00:34:04]** because Michael's progression is there. He was not going to do it easily. But we were on and we were on and on. And then he came to, I think about like 17 something inches, he was so excited. And then we ended up with some problems and he had to heal his back because it's not so...
+
+**[00:34:28]** simple to just jump on 18. It was a huge challenge for me. When people watch the documentary, and I would have mentioned this in the introduction, but I made a short link. It doesn't sound short, but easy to remember link that'll point you straight to it on YouTube. If you just go to tim.blogs.hardchoices. If you go to tim.blogs.hardchoices, it'll take you straight to the doc. But when you watch the doc,
+
+**[00:34:56]** and you look at Dijin's before what his motion motor control walking looked like before and imagine him jumping onto a 17 inch box. It is unimaginable when you look at the starting point. Really just incredible. Now I want to hear you explain another development that I think is just
+
+**[00:35:24]** So compelling and that is related to math. So he starts memorizing license plate numbers You're also working with him on repetitions and building up some of that arithmetic muscle How did he go from that to doing math five to six hours a day and having that fire lit with him? Well, it was progressive. But it was progressive. Yeah, that's why I'm asking how did he get there? So first I started really working on
+
+**[00:35:53]** the counting. So he had to count from until 20 or 30. I just want to pause to just let people have that sink in for a second. Math five to six hours a day, which again, we're going to talk about the journey. Oh yeah. Like most people on 20 cups of coffee a day could not do five to six hours of math a day. I asked him about the counting. First was the counting, that he couldn't count to 20. So I said, okay, let's count to
+
+**[00:36:22]** 15. Can you count to 15? So we counted to 15. When he got to 15, I said, you go home and you start learning to count to 20. So he came back and I tested him. Did you count to 20? Yeah, so okay, count. So he counted. So then I add the addition. How much is five plus seven? He wouldn't know. So homework. Going homework, you learn how much is five by six.
+
+**[00:36:51]** seven and eight, nine, all the calculation up to 20 for the adding, then subtraction, division, multiplication, all of that until we know the number 10 or 20, then counting to 30, 40, 50, 100. And when we got there, I told that he needs a tutor. We need a tutor, math tutor, and English tutor.
+
+**[00:37:20]** in its both. So they hired people to help. So I was testing, of course, but he had these tutors. So I think that it was an amazing addition to work on his brain. And I noticed the same story with other cerebral palsy people that I have difficulties with math. Some of them that I saw that
+
+**[00:37:51]** they had good English, but math looks like difficulties. So eventually, when he progressed with energy, with bench press, came to a certain point within a year that he could press about 100 pounds. And that gave him enough energy that he could go to his computer and spend hours on
+
+**[00:38:23]** a computer to study his elementary school. He started actually elementary school. And, you know, because he was not in elementary school, so he was 25 years old when he was sick. So he joined this program, elementary school program. And he started, you know, working through it on his own. And after two years he passed the whole
+
+**[00:38:52]** elementary school, then he started high school in other two years and he passed. Normal high school, like a normal, the same program as other people do. And father said, the Chinese like on fire. He's like it's 2 a.m. and he's still on his computer and he started like 8 p.m. and at 2 a.m. he's on his computer and he doesn't want to stop or something.
+
+**[00:39:24]** in him awakened and powerful. And at the same time, he started noticing that who he was as a person, that actually he was a person. And he was cerebral palsy. And that generated a lot of negativity in him, a lot of resentment.
+
+**[00:39:52]** to his father and mother and then he started really talking that he hates his mother and then he He did everything at that time. Yeah before I am What did you notice in? And just to flash forward, right? I mean he's His father's reported that he's living an independent existence taking care of his own needs planning zone days orders uber rise to get to his classes manages his own paperwork That's the after
+
+**[00:40:20]** What did you notice in terms of how did you cultivate this if you did? I don't know if you did this deliberately or if it was a byproduct of everything else, but emotional range or facial expressions. Did any of those, did any of that change over the course of the training? Emotionally, he was blank the same for a long time. You mean in whatever circumstances? Yeah. But at certain point,
+
+**[00:40:48]** he started being negative and expressing his negativity. And then he made these moves and couldn't see where he was. I was looking for where he was. But I addressed negativity as something that needed to be fixed. So whenever he said that he hated something, I challenged it. Challenged it in a way, why is it good? Right?
+
+**[00:41:19]** He was negative, but then why police is good? Why the son is good? Why the father is good? Why the mother is good? So expanding and expanding imagination for him to facilitate this so he could find in his mind actually acceptance that actually is a good thing. It's a huge shift in his psyche believing and liking people.
+
+**[00:41:47]** He never liked me. I don't like you. How long did he say that for? All the time. He never liked me. So he'll celebrate and give you a high five for your training, but still. I don't know even today if he likes it. Probably not. I created a lot of hard choices for him. Eventually, he will...
+
+**[00:42:19]** He will come to this point that he may be like what are you done? Maybe but not really me. Oh wow, that's kind of amazing. Well, you know what? As long as you don't care about the credit, you're doing good work in the world. Well, yeah, it's not really, I was not, you know, there to shine. Of course, of course. Could you talk about helping him or asking him to identify heroes a bit? That also stuck out to me.
+
+**[00:42:49]** Could you provide a little bit of context to people on that piece of the puzzle? So he, yeah, he was already in elementary school and he was writing an essay about a hero. That was an assignment. Yes. And he wrote it. So he was... From school, not from you. Yeah, yeah, from school. Because he already had that tutor, English tutor. So he was always proud that when he did something, he was bringing something and reading me...
+
+**[00:43:19]** He read it. So he wrote about Jinkis Khan and I said, okay, so is Jinkis Khan a hero? Yeah. Okay, so I said, well, why he is a hero? He talked a little bit and I said, so who is a hero? Well, that created a philosophical approach. So we ended up that the hero is really risking their own life.
+
+**[00:43:49]** For others to save others but that's not Jin-Gi-San said Jin-Gi-San was not that he was a conqueror but he was not a hero and then at the same time I watched this movie about Admiral actually Korean Admiral about 300 Japanese ships were coming to Korea to you know conquer them and he with one ship and 12 and he stood up to them
+
+**[00:44:20]** And actually the twelve ships, you know, the people didn't want to fight, wanted to surrender. He said, no, and he fought, and he fought. And these other twelve ships, you know, joined him eventually, and the whole armada, Japanese armada, turned back. And I said, that is your hero. And I said, that is your hero from Korea. And you are going to rewrite this essay. But it's too late. I said,
+
+**[00:44:49]** It's not too late. You're going to go to your teacher. You tell the teacher why Jinkerskhan was not a hero and you want to rewrite the essay. Okay. That's okay. You go and do it. And he did. And he rewrote the essay. The teacher agrees. I can see why he might not like you.
+
+**[00:45:13]** It's pretty fair. It was very quick. You know, think about it. I was coaching him. I understand the purpose. He was jumping, he was lifting, and at the same time, we did poetry, math, English, all of it together. And it was...
+
+**[00:45:31]** Wek! Yeah, hard teachers these days. Why he wouldn't like me? I don't know. There are many reasons. But you know, one day he wanted to step on a six inch box. I remember. And he tries to step and he would not step. And this is the one foot up? Just stepping one foot and like on the stair, right? It was like, yeah. It was, I don't know. I didn't like it. I couldn't make it. So I grabbed his shirt.
+
+**[00:46:01]** and pull him in and out. And after about two times, I left him and he was jumping on this box like one of the others stepping one, one, one, and so fast. It's just amazing with the brain. You get a little bit help and suddenly the door opens up and it's the progression is huge and fast. It's amazing. I tell you what I was watching, what I learned.
+
+**[00:46:31]** during this process. Wow. Even to this day, I know that modern science has come to a greater appreciation of brain plasticity and the malleability and adaptability. And of course, just as the, let's call it broadly speaking, this is a simplification, but the control center for the entire body, right? The brain's job is to keep the body alive. So they're dance partners. There is just so much room for improvement. And I mean, a lot of the science that I've
+
+**[00:47:01]** supported has been related to this, but this was the first time I'd ever seen such an amazing transformation in someone with cerebral palsy that was so clearly and well documented also. And I want to talk about next steps in a little bit to try to expand this into a study. But before we get there, can you speak to training logic?
+
+**[00:47:29]** So I think that was after about two years of already training with him, but working on his thought process using poetry. Why did you do that? He couldn't really read the lines of poetry and understand the feelings emotions behind then I started really doing the math and Seeing whether he can think logically so I tested him
+
+**[00:48:00]** if A is B and B is C, so he's A, he's also C and playing these games. And slowly he started not only being logical in asking him about writing something about what is logic and give me the example. So he would bring me, was there logic or not? So we tested that. And then added the math.
+
+**[00:48:29]** But the most difficult for him was to read the line of poetry and know the metaphor. Not really what really happened, but what was the meaning of the line. Behind the words, not just the words. Yeah, and every line. So when I asked him to recite, to remember and recite the poem, he would recite the poem. And then we analyzed the poem, every line, line after line.
+
+**[00:48:56]** and what is the meaning, what is the feeling of the lie. And that was an amazing possibility for him to learn the language and the feelings behind the language, the emotions. At the beginning, he didn't have any clue about the feelings, what the actually written words express when it comes to feelings. When I think about
+
+**[00:49:26]** your entire coaching experience with Tijinam struck by how many different levers you were able to help him pull but one that sort of meta lesson that pops out to me and I'd love for you to Correct this if I'm not thinking about it the right way is that he didn't respond to people in conversation didn't have much of a response in part and I'm projecting here because he didn't have the belief that he could
+
+**[00:49:56]** he had no history to support the belief that he could. And then with physical movement, similar, and you gave the example, I mean, this is a very fast example, but of grabbing the shirt and kind of forcing him to do it. And then within a few repetitions, you let go and he's doing it on his own. And of course, there's the progression over time. But even with the poetry and how you gave him assignments to practice public speaking, without that,
+
+**[00:50:24]** he wouldn't have had the confidence to then speak say in the within the more complicated context of school with classmates and things like that I have to imagine but you know I sometimes have listeners or readers ask me What can I read to develop more confidence? And I'm like well You can try to read to develop more confidence, but really you're not going to fool yourself You need to do things to develop the history of doing things so that you have confidence
+
+**[00:50:52]** Does that resonate or would you add or reframe that somehow? You know, yeah, of course, you know with what you say it's a certain perspective, but I would like to tell you about my perspective Yeah, that's what I'm asking. You know, I show the mind the brain as Something that needs to find the way forward and find the way around those patches that were dead
+
+**[00:51:23]** And I saw it everywhere. I saw it in math when you cannot know what is 2 plus 2 that is for when you struggle. You know, for me the child struggles to find out what is 2 plus 2. Eventually the child knows. So there are certain connections already and then 2 plus 3 and so on. So development of math I saw crucial here.
+
+**[00:51:53]** very important that when I am not there he can practice actually the math and by practicing the math we overcome this many steps steps of progression and micro progression and also that challenge house this plasticity of the brain that that plasticity
+
+**[00:52:18]** You know, like I thought, okay, I make him strong doesn't mean that something else is going to happen, or maybe I will not make him strong because the math is not developed. So I saw the connection between the squad, the bench, the numbers, the words and the beliefs and philosophy. I saw connections everywhere and I created the challenges, the hard choices every time.
+
+**[00:52:48]** Everywhere for me, you know bench pressing going from 100 pounds to 102 Was not different than to know what is 15 plus 17 it is if I know what is 15 plus 17 is another thing that when it happens something happened in the brain that was not there before and I
+
+**[00:53:20]** started facilitating all this development of the brain that would be challenged, developed from different perspectives. And I think that eventually the research needs to be done. I try to understand what I've done because I've never really worked with a person like that. So I try to understand too, what happened there? How did it happen?
+
+**[00:53:48]** and whether there is possibility then to replicate this and help, you know, so many people. You know, Tadjan's progress is amazing, crazy, amazing, magical. And if that could be replicable, wow, we could help a lot of people. Well, let's talk about it because before we start recording, I was trying to get an idea of the rough number of...
+
+**[00:54:16]** cerebral palsy diagnoses in the US and you're based in Northern California So I want to get an idea in California. These are real back-of-the-nap again rough Internet responses, but it seems like let's call it Roughly 1 million diagnoses in the US potentially and then that could be occurrence in that diagnosis, but some would be in 100 and 120,000 in California alone. So this is a non trivial condition. It's very
+
+**[00:54:46]** prevalent. And if you could develop a method, right, through doing research, develop a method that you mentioned could be replicated, could be taught to physical therapists, then this could have a tremendous impact on a wide scale. And maybe we could talk about what some of your thoughts are, and I'm going to create a web form for people who want to potentially indicate interest in certain facets of this.
+
+**[00:55:16]** But what might the program look like? How many patients would you have? What would it look like in practice to do a research project to determine if you can formulate a method that would be replicable or a template maybe with a little bit of tweaking here and there that physical therapists could use or others? Meantime I had some experience with others of policy people and you know my approach is one that I believe that
+
+**[00:55:46]** everybody can improve. So it really doesn't matter for me if it's cerebral palsy or not. If it's chronic fatigue, it can happen. If it's fibromyalgia, the progress can happen. So with cerebral palsy, when we think about cerebral palsy, people, they have different conditions, different beginnings. The most important is to find where is the beginning, where to start.
+
+**[00:56:17]** one the major thing because usually I think that we want too much is not going to happen. So we need to find this very tiny thing. You remember Jewel in Hawaii you helped me to go and coach her. She was 18 at that time and she couldn't control her head and arms and legs. So her mother would hold her and I would
+
+**[00:56:47]** try to find out where is the beginning with her. And she has, you know, hands like this and was moving and I found out that I pointed to one place. I took a ball very close to her, like about an inch from her, you know, arm and then fingers and asked her to touch it. And she struggled and struggled.
+
+**[00:57:15]** And we found a way where actually she could touch her, and she was so happy when she touched. Oh, I have to send you these videos. It's just, you know, it's just you can cry, you know, and you can see things like this. And her joy when she was doing. So also the math. I found out that her mind was very good with stories. She could talk about some things, and she loved the stories to listen to stories.
+
+**[00:57:45]** But her math was not really different than the 10s. It was like she could only count from 1 to 10 and then adding, you know, 2 plus 5 she would. And then we would start with that. So I see the math is major part of that method. The physical is of course the beginning. The beginning is how strong they are and how flexible they are.
+
+**[00:58:14]** Flexibility is the main point here because the awkwardness comes from both. One thing that the brain, the mind cannot control those places, but those places also the parts of the body became that way. So that's why awkwardness is coming in. So the physical and the physical improvement of the physical becomes challenging because they can injure themselves, they can be in pain.
+
+**[00:58:43]** And they have those who will facilitate, they will need to know how to start, how to use the micro progression, how to write everything down. Like, Tejane knew all his numbers. He knew how to measure the time of five or 10 jumps and he would write all the jumps and brought to meet the gym. What he did, his homework was...
+
+**[00:59:13]** numbers, numbers, numbers, numbers, not only the numbers of counting but also the numbers of measure. Right? So just to hop in for a second, I would love to help, of course that's part of the reason we're doing this conversation is to help facilitate trying to create some type of template that can be applied to a lot of people with cerebral palsy.
+
+**[00:59:36]** So the short link, not to bury the lead, the short link will just be tuned up log slash cp and we'll have a web form for people who may want to help from an academic perspective, ideally in Northern California somewhere within near driving distance since you would want to be there. I think the thought is maybe twice a week with these different folks, something like that. Yeah, I see that about maybe five, several policy people and meeting them twice a week.
+
+**[01:00:05]** let's say Tuesday and Friday and for one year and then add another five so now it's ten another five and Do it for five years record everything see how it works Bring therapies or others that could actually watch observe and learn and I
+
+**[01:00:35]** believe that this replicability is possible. We need to test it. We need to explore whether how is it really possible? What can we actually do when we have this 25 people? It could be that it was because I was there, but I don't want to say that it was because of me. Everything happened. It could be that perfect storm happened.
+
+**[01:01:04]** I was a math teacher, I'm a poet, I'm a weightlifter. So all of it happened that I was this one person facilitating that. But when we do research, we don't have to have one person. We can have math people, English, and philosophers, and we can have trainers. We can create a center, and in that center,
+
+**[01:01:34]** we can think about how we can progress, how we can improve and document everything in details the same way as I was doing. Micro-progression is an amazing power. It strikes me also that with the right people involved and with the right consistency, and I mean you might need a faculty member to agree to spearhead it and then
+
+**[01:02:05]** There would be fundraising which you know, it's pretty straightforward to figure out and then they would have postdocs or people underneath them would help with recruitment. Although I don't think that'll be a problem after this podcast patient recruitment and then making the trains run on time but I could see a path as I'm sure you've thought about this much more than I have but where you could end up with something like a core curriculum of principles.
+
+**[01:02:32]** that you're teaching and maybe you're recording video modules to explain these things to practitioners where it's like micro progressions finding a place to start what are different ways to find a place to start and then perhaps there are certain things that won't apply to everyone. So for instance we didn't talk about we don't have to spend a lot of time on it but Tejin was kind of crumpled to the right side right so you had a ball hanging from the ceiling that you would have him reach up to touch to to help correct that. So there might be
+
+**[01:03:00]** core curriculum and principles and then sort of ancillary principles and techniques that can be applied on a case-by-case basis. But then you end up with this core curriculum that people can learn remotely or something like that. I mean, it's really exciting to think about. I think that at this point, I see that we can assess these people from five perspectives, I think, the physical perspective, you know, where they are physically.
+
+**[01:03:30]** Where is the flexibility? Where is the strength? Math perspective, language perspective, philosophy perspective, beliefs perspective, where they are. So easily we can take the psychology and then psychologists and develop certain ways of assessing them, where our beliefs, right? In math, it's very clear, right? In the language, we need probably English teachers and they will
+
+**[01:04:00]** create very quickly curriculum to find out where is the level of that. And then once we have, that says, OK, we have a physical problem that is 80%. Math is only 3%. The person is really good at math in English as well. But we can have also that math is not there at all. And walking is good. So there are all.
+
+**[01:04:29]** possibilities how we can assess from this five perspectives, people. But we need to also explore and experience them. Not only one person to John, because it's just only one person. Now we need to see, can we actually do with five? Can we actually deliver what we delivered? I mean, this is the scientific method, right? And you have such a fantastic starting point.
+
+**[01:04:58]** It's an end of one although you've worked with more than one person with cerebral palsy at this point. But let me just give the URL again. So for people who might be interested, this is if you are at Stanford or UCSF or San Jose State or someplace that might be able to help with this type of research. If you are in a financial position and would like to support this type of research, go to tim.blog.com. Or if you have other resources you want to bring to bear on this in some way.
+
+**[01:05:28]** Tim.Log. The letters CP standing for cerebral palsy. Tim.Log.Cp and just fill out the web form. I'm incredibly excited about this. We covered a lot in our first conversation and we've covered a lot in this conversation. Is there anything else that you'd like to mention or cover that we haven't gotten to already today? Another question. Well, yeah, we covered a lot, but...
+
+**[01:05:56]** I think one of the most important thing is that people can get help. And if we have the right approach, we can facilitate, create it. And of course, they change. We didn't change them. So we have to remember that we are facilitators. We are not really cultures that created the powerful human being, that actually powerful human being created.
+
+**[01:06:26]** themselves, right? We have to create a place where it's athletically aligned with athleticism and not care only. We know, I see that as soon as we care or we exercise without mission or purpose or goals, then we can exercise for 10 years and never change. So I saw these people
+
+**[01:06:56]** thousands of these people. It doesn't play only to cerebral palsy because it applies to the world. But with cerebral palsy, it's very interesting because they have this situation in the mind, in the brain that actually we could work with. These are the patches in the brain that we can create the peripheral nervous system that actually goes around. We can create that mind.
+
+**[01:07:25]** the plasticity of the mind we can create. I have a strong feeling that this is possible. I always believe that it can be done. I just created challenges, constant challenges with the Jan that could deliver the results, the change, the why wanted. It has to be always the where are you going, right, with it. So for me, he had to walk straight.
+
+**[01:07:55]** he had to walk soft and for me I would not sleep until I would get it. So we need devoted people. We need people that are devoted to this, to these people to help them. Not just physical therapies that want us to make money and go home. This is a huge challenge. These people are extremely challenging and we need to also challenge them. And by the creating this challenge we can
+
+**[01:08:24]** He is an amazing thing actually. So it is not something that somebody has cancer and you will get worse. That's not the situation here. This is a very unique situation we are talking about, people. That we have the situation that somebody is and somebody doesn't change for worse. Somebody is like that. It can change for worse too because life happens bad because people are like that.
+
+**[01:08:54]** We have very clear slate to begin with. We are not dealing with ill people, sick people, we are just dealing with people who mechanically something happen to their brain. And that can create for us a really great beginning. And it could be that with almost any subraporty, something like this return to
+
+**[01:09:24]** I wouldn't say they cannot return because many of them they are just that way so they cannot return anywhere but they can improve and become like Tajen become Tajen that is going to college from the person that was only waiting for food and sleep and couldn't go to toilet and
+
+**[01:09:54]** was lethargic all the time, the life was like that for him and that life would be like that. Right? If nothing happened, what actually we did? He would be that person and the parent, here's the parents. The parents, I saw happy parents, but after three, four years, they actually, they were like a ticking bomb, you said about intensity between these three people, right?
+
+**[01:10:24]** But about three or four years I saw them happy first time happy and That is enough, you know to fight for right to give everything whatever you have to create the happiness in this three people who? Were worrying all the time What will happen if they die what will happen if something happened now they don't have to worry
+
+**[01:10:57]** that Johnny is completely independent. He is in college for quite a sake. Just imagine that. And a lot of that, I believe, 100% can happen with everyone. Yeah, the happy body, micro progressions, and your philosophies. And philosophy might scare people off. Your principles can be applied to so many different things that you and Anjala have developed over the years. Really want to make this...
+
+**[01:11:27]** research project happen. So folks, if you're interested in any way, helping with that in whatever capacity, you go to tim.blog.com. And then also want to mention just like the way that you and Anila coach can be applied most certainly to many different conditions, many different circumstances, all circumstances in some sense. I want to give a shout out to Jeff Wolfe, the director of Prisoner No More. I always ask everybody
+
+**[01:11:56]** And before I talked to them or do anything with them, what would make it truly a home run? And he just mentioned the bigger opportunity is to position prisoner no more, not just as a standalone short, but as a proof of concept for a larger series. The vision is a slate under the same umbrella. So you could have prisoner no more for alcoholism, prisoner no more for film the blank, right? Which I think is also very exciting. So I really, really hope people, you got to watch it. You got to see what we're talking about visually. It'll just slide.
+
+**[01:12:26]** a lot of you are going to cry. I'm going to tell you in advance, but it's good cry. So check it out. Tim dot blog slash hard choices in honor of hard choices, easy life, easy choices, hard life. Tim dot blog slash hard choices. Check it out. You can find the happy body and more on Jersey and Anniella's training at the happy body.com and I'll link to everything in the show notes as usual, like Tim dot blog slash podcast. So
+
+**[01:12:53]** If you're like, that's a lot to remember, don't worry about it. Just go to Tim'dUpLogs.podcast and search Jersey, not spelled like New Jersey, but spelled J-E-R-Z-Y. And trust me, there's only one Jersey on my website. It's JerseyGragRig. Jersey, thank you so much for the time. It's always great to see you. Thank you, Tim. Everybody, thanks for listening. We'll grab a bite to eat tonight. Thank you. With the whole gang. And everybody...
+
+**[01:13:22]** who has tuned in as always. I appreciate you. Until next time, be just a bit kinder than is necessary to others and to yourself. But not just comfort. Don't just make yourself feel better. Don't just eat that cheeseburger and watch reality TV on Netflix. Challenge yourself wherever you happen to be. You can make progress. You can make amazing progress. You just need to find the right starting point.
+
+**[01:13:50]** And for that reason, check out thehaveyobody.com. Listen to my first conversation with Jersey on the podcast as well. Until next time, thanks for tuning in.
+
+**[01:14:11]** Between 1.5 and 2 million people subscribe to my free newsletter, my super short newsletter called 5Bullet Friday. Easy to sign up, easy to cancel. It is basically a half page that I send out every Friday to share the coolest things I've found or discovered or have started exploring over that week. It's kind of like my diary of cool things. It often includes articles I'm reading, books I'm reading,
+
+**[01:14:33]** albums, perhaps gadgets, gizmos, all sorts of tech tricks and so on that get sent to me by my friends, including a lot of podcast guests and these strange esoteric things end up in my field. And then I test them and then I share them with you. So if that sounds fun, again, it's very short, a little tiny bite of goodness before you head off for the weekend, something to think about.
+
+**[01:14:57]** If you'd like to try it out, just go to tim.blog.friday. Type that into your browser tim.blog.friday. Drop in your email and you'll get the very next one. Thanks for listening.
+
+**[01:15:09]** So our place reached out to me as a potential sponsor and the first thing I did was look at the reviews of their products and said send me one and that is the titanium always pan pro and the claim is that it's the first non-stick pan with zero coating So that means zero forever chemicals and durability that will last forever. I was very skeptical I was very busy So I said you know what I want to test this thing quickly and it has to have two things I'm gonna test it with scrambled eggs in the morning
+
+**[01:15:38]** and then I'm gonna test it with a steak sear. And it worked perfectly in both cases and the design is really clever. It does combine the best qualities of stainless steel cast iron and non-stick into one product. And now our place is expanding this first of its kind technology to their titanium pro cookware sets which are made in limited quantities. So if you're looking for non-toxic, long-lasting pots and pans that outperform everything else in your kitchen,
+
+**[01:16:08]** Just head to fromourplace.com slash Tim and use code TIM for 10% off of your order. You can enjoy a 100 day risk free trial, free shipping and free returns. Check it out fromourplace.com slash Tim.
+
+**[01:16:23]** Readers of the 4 hour work week know that I love automation. I do not like decision fatigue. I don't like doing things repeatedly. Anywhere I can set it and forget it is a win and gives me more time for the things I enjoy doing. That is why I'm such a fan of today's sponsor, Matic as in automatic, M-A-T-I-C. As their tagline goes, the world's most advanced
+
+**[01:16:46]** floor cleaner. Frankly, it does a lot more than that. And they've got a lot of cool things coming, but it's the closest thing to a house that cleans itself to quote, wired magazine, quote, this is the best robot vacuum we've tested and it's scored a rare 10 out of 10. Madic learns your home and runs quietly in the background. It's very, very quiet. I've been testing it myself. It vacuums, mobs, docks itself and doesn't strangle itself on charging cables or you get wedged under your couch. It's pretty amazing.
+
+**[01:17:15]** and people with kids and dogs been telling me all about it. I put out a note on social asking how people liked it, if they liked it, and their response was kind of mind-blowing. Not only because the comments were overwhelmingly exuberantly positive, but my phone blew up. I got texts from nearly a dozen friends telling me how much they love their Matic. So that was a first. So to quote another media outlet, The Verge writes, this Wally-like bot fixes the stuff every other robot vacuum gets wrong.
+
+**[01:17:42]** And there are tons of people involved with this, who I respect a lot. We've got Silicon Valley legend of all, Robacot and Shopify CEO Toby Lutke. They love theirs. As I mentioned, they're investors and my friend Kevin Rose has been raving all about it. The list goes on and on. So check it out. See what all the buzz is about. Go to mattycrobots.com slash Tim. That's M-A-T-I-C.
+
+**[01:18:03]** robots.com, maddickrobots.com, slash Tim today and experience the closest thing to a house that cleans itself. New customers get free bags for a year. One more time maddickrobots.com, slash Tim.
