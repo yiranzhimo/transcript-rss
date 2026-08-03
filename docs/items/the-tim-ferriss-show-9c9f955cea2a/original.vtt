@@ -1,0 +1,981 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:29.020
+Hello boys and girls, ladies and germs. This is Tim Ferriss. Welcome to another episode of the Tim Ferriss Show, where it's my job to deconstruct world-class performers to try to tease out how they do what they do. And my guest today is Alad Gil. And I have his official bio in front of me, but let me just say that he is one of the most impressive investors and thinkers I have ever met. He repeatedly identifies the right founders in the right markets before anyone else
+
+2
+00:00:29.020 --> 00:00:56.850
+And then materially helps them to win and there are many different examples of this but before the a i rush he wrote checks into perplexity harby a bridge open a i this was before the broader market really reoriented around lm's and that's just the most recent wave he's done this over and over again forty plus unicorns which is just insane when you think about it and.
+
+3
+00:00:56.850 --> 00:01:25.780
+once you're lucky twice your good forty plus times i need to know where that places you but it certainly lead so a lot of guilt can find him on x and all social at a lot of guilt spelled a l a d g i l website a lot of guilt dot com is c o of gill and co a multi-stage investment firm holding company and operating company working on the world's most advanced technologies a lot is a serial entrepreneur operating executive and investor or advisor to private companies including airbnb and a roll coinbase
+
+4
+00:01:25.780 --> 00:01:53.180
+Figma, Instacart, OpenAI, SpaceX, and Striped. He was previously VP of Corporate Strategy at Twitter and started mobile at Google. He was the founder and CEO of Mixer Labs and Color. Elad is the author of the bestseller, high growth handbook, scaling startups from 10 to 10,000 people. I'll leave it at that. Without further ado, please enjoy a very wide ranging, and I think very timely, very important conversation with none other than Elad Gill.
+
+5
+00:01:53.180 --> 00:02:20.270
+At this altitude, I can run flat out for a half mile before my hands start shaking. Can I answer your personal question? No, I would have seen it in a better time. What if I could be out of this? I'm a cybernetic organism living this year over a metal endoskeleton. Me too, Ferris show. Alad, nice to see you. Thanks for making the time. Appreciate it. I have your attention as always.
+
+6
+00:02:20.270 --> 00:02:45.820
+And I thought we could begin with something we were chatting about or you were explaining before we started recording, which is a new phenomenon of sorts. Could you explain what we were just talking about? Oh yeah, we were just talking about some of the acquisitions that are happening in the AI world. We saw that XAI just got an option to effectively purchase cursor, it looks like. Obviously, scale was sort of partially
+
+7
+00:02:45.820 --> 00:03:14.530
+taken by Meta, there's been a variety of these sort of deals that have been happening over the last year or two. And separate from that we're just talking about what does that mean for the AI research community and the AI community in general. And I think one of the interesting things that's happened over the last year or so is Meta really started aggressively bidding on AI talent, which was a very rational strategy, right? They're going to spend tens of billions of dollars on compute. So it made sense to have a real budget to go after people. And normally what happens in tech is a single company will go public.
+
+8
+00:03:14.530 --> 00:03:40.720
+And a bunch of people from that company will be enriched and then a subset of them will continue to be heads down and working really hard and focus on the original mission. And a subset of people start to get distracted. They may go and work on passion projects for society. They may get involved with politics. They may go start a company. They may just kind of check out and hang out or go to the beach kind of thing. And what happened recently is because of the meta offers and then all the other major tech companies having to match offers for their best researchers
+
+9
+00:03:40.720 --> 00:04:10.580
+You know somewhere between 50 and a few hundred people effectively had an IPO But as a class of people it wasn't like they were at one company They were spread across Silicon Valley But all of their pay packages suddenly went up dramatically and they experienced the equivalent of an IPO and that's really unusual it's kind of the personal IPO and The only time in history I can think of where I've seen it happen before is in crypto Where a bunch of the really early crypto holders or founders suddenly as a class all went effectively public in 2017-ish You know and then again more recently
+
+10
+00:04:10.580 --> 00:04:38.300
+This is really interesting, right? It's kind of under discussed. It may not have huge long-term implications, but it does mean a subset of people will change what they're focused on, try and do big science projects to help humanity, work on AI for science maybe. Maybe some people will go off and do personal quests or things like that. Yeah, or just quite quit and do lots of drugs and chase vices. I mean, there's that too. In that case, you look around, say, Austin, you've got the delinear, which refers to
+
+11
+00:04:38.300 --> 00:05:02.450
+del post ip early employees and so on but as a class of people when that happens i suppose we don't know how. How large how long term the implications are but there seem to be implications and i know only a few people who i would go to as. Technical enough and also kind of broad enough in their awareness and networks to watch a i.
+
+12
+00:05:02.450 --> 00:05:31.460
+To the extent that someone can watch it comprehensively, I would put you in that bucket and you wrote this week just to talk about some of the other kind of elements at play here. The compute constraints that AI labs are facing and the implications maybe for the next one to five years. This is in a piece. People check out random thoughts while gazing at the misty AI frontier. Good headline, by the way. Very dramatic. Yeah, very dramatic. I love it. It's very evocative. Before we move to the compute constraints, because I do want you to
+
+13
+00:05:31.460 --> 00:05:59.520
+top to that next but for people who don't have any real context on the talent wars and what you were just mentioning earlier with meta like on the high end what does some of these pay slash equity packages compensation packages look like they're getting offered. I don't have exact knowledge of the full range and everything else the rumors and the things that have kind of made it in the press the claims are that. You know these things are between tens of millions and hundreds of millions of dollars per person and.
+
+14
+00:05:59.520 --> 00:06:27.380
+Again, it's a very small number of people who would get anything that's quite that outsized. But I think the basic idea is we're in one of the most important technology races of all times. And the faster that we get to sort of better and better AI, the more economic value will effectively show up. And therefore people are really willing to pay in an outsized way for the handful of people who are the world's best at this thing. And five, 10 years ago, these people were like well compensated, but it was a completely different ballgame.
+
+15
+00:06:27.380 --> 00:06:54.580
+They kind of just wasn't the core of everything that's happening in technology, but also, honestly, societally and politically, and, you know, for education and health, like, it's gonna have all these really broad, and I think largely positive implications for the world, but it is the moment of transformation. And so, some of these paid packages are going way up. What are the compute constraints that you discussed in your recent piece? All the different people call them labs and have this open AI that's in Tropic, that's Google, that's XAI, et cetera.
+
+16
+00:06:54.580 --> 00:07:24.060
+All the labs are basically training these giant models and effectively what you do is you buy a bunch of tips from Nvidia and you're actually building out a system. You have tips from Nvidia, you have memory from Hinex and Samsung and other places. You're building a data center. There's all these things that go into building these big systems and data centers and everything else. And you basically have clusters of hundreds of thousands or millions or you know, the scale keeps going up of systems that you're buying from Nvidia and from others. Google has their TPU, there's other you know, other systems as well.
+
+17
+00:07:24.060 --> 00:07:50.080
+And you're using that to basically train an AI model. And what that means is you're running huge amounts of data against these big clouds. And eventually the crazy thing is your output or your model is literally like a flat file. It's like outputting a tech stock or something. And that tech stock is what you then load to run AI. Which is insane if you think about it. You use a giant cloud for months and months and months and your output is like a small file.
+
+18
+00:07:50.080 --> 00:08:19.760
+And that small file is a mix of representing all of humanity's knowledge that's available on the internet, plus logic and reasoning and other things built into it. And you can kind of think about that in the context of your brain, right? You have, you know, three or four billion base pairs of DNA, and that's more than enough to specify everything about your physical being, but also your brain and your mind and how it works and how you can see things and talk and, you know, taste things and all your sensors and everything's just encapsulated in these very small number genes, actually.
+
+19
+00:08:19.760 --> 00:08:48.270
+And so similarly, you can encapsulate all of human knowledge into like the slot file effectively. How do you think about the constraints then? What are the constraints? Every year, the constraint on building out these big clouds to train AI and then also what's known as inference where you're actually using these chips to run the AI system itself. You need lots and lots of chips from Nvidia to do this or TPUs or others, but then you also need other things. You need packaging to actually be able to package the chips. And so there's a whole supply chain around building out these systems.
+
+20
+00:08:48.270 --> 00:09:12.080
+And different parts of that supply chain have constraints of them at different times. And so right now the major constraint is memory or a specific type of memory that's largely made by Korean companies. There's some broader providers of it. And people think that that memory constraint will exist for about two years, maybe plus or minus, because ultimately the capacity of those companies has been lower than the capacity for everything else in the system.
+
+21
+00:09:12.080 --> 00:09:40.980
+People think other constraints in the future may literally be building out the data centers or power and energy to run these things, right? But for today it's this memory. And so everybody in the industry is constrained in terms of how much compute they can buy to throw at these things. And so what that does is it creates a ceiling on top of how big you can scale these models up in the short run. Because every lab is buying as much as it can, a bunch of startups are buying as much of this compute as they can, and everybody's constrained. What that means though is you have an artificial ceiling on how big
+
+22
+00:09:41.140 --> 00:10:10.260
+a model can get in the short run and how much inference can run or how many things you can actually do with AI right now. And that also means that you're effectively enforcing a situation where no one lab can pull so far ahead of everybody else because they can't buy 10 times as much compute as everybody else. And there are these scale laws that the more compute you have, the bigger the AI model you can build, in many cases the more performing it can be eventually. And so that may mean that over the next two years-ish, all these labs should be roughly close to each other because nobody has the capacity to pull out.
+
+23
+00:10:10.260 --> 00:10:39.860
+And when the constraint comes off, there is some world where you can make an argument that suddenly somebody can pull far ahead of everybody else. So right now, OpenAI, Anthropa, Google, you know, they're reasonably close in terms of capabilities, although some will pull ahead on one thing versus another. That should roughly continue everybody. Thanks for the next at least two years because of this. So Google is also constrained by the memory from Samsung, Micron, etc. They are similarly constrained as the other players. Right now everybody is similarly constrained.
+
+24
+00:10:39.860 --> 00:11:09.220
+And, you know, a subset of these labs either are already making their own chips or systems like Google has to use and other things. Amazon has actually built its own chips called Traniums. And so there's basically like different systems for different companies, but fundamentally all of them are limited in terms of how much they can either manufacture themselves, purchase themselves. And a year or two ago, the main constraint was packaging. Now it's memory. Two years from now, who knows, maybe something else, right? They're constantly are hitting.
+
+25
+00:11:09.220 --> 00:11:39.220
+bottlenecks as we're trying to do the spelled out. This is probably going to be a naive question because I'm a muggle and not able to write technical white papers or anything approaching that. But it seems to me that I'm the first person to say this, we're better at forecasting problems than solutions potentially. And so, for instance, way back in the day, the price per gallon of gasoline or petrol goes above a certain point. OK, people are forecasting doom and destruction, but past a certain price per barrel,
+
+26
+00:11:39.220 --> 00:12:08.910
+Suddenly new means of extraction became feasible and there were investments made in things like fracking and so on. Is there sort of a plausible scenario in which there is some type of work around? Along those lines, if that makes any sense. I don't know. Maybe there isn't. As far as I know there so far at least is not. Yeah, part of that is because of the way that some of these things are built. And it's basically the capacity that you need. For example, for memory is basically a type of fab.
+
+27
+00:12:08.980 --> 00:12:37.700
+And so you need time to build out the fab and to get the equipment and put the lines in place. So it's a traditional sort of CAPEX and the infrastructure cycle. And these companies basically under-invested in that because they didn't quite believe their demand for accounts that other people had around this stuff. And so now they're trying to get them. And so it's one of these things where everybody keeps saying, well, yeah, it's growing so fast. How can it possibly keep growing at this rate? But it keeps growing at this rate, right? It just keeps going.
+
+28
+00:12:37.700 --> 00:13:06.850
+And that's because its capabilities are so impactful and so important. And so you look at the revenue of these companies. It's interesting. I can send you the chart later, but Jared on my team pulled together a graph of how long did it take for companies to get to a billion dollars in revenue and then from a billion to 10 billion and then from 10 to like 100, right? And there's only a small number of companies that have ever done that. And you can literally look by generation of company how long it took. And so for example, I can't remember it was 80p or somebody, it took them 30 years to get to the billion in revenue or whatever it is.
+
+29
+00:13:06.850 --> 00:13:35.540
+And Anthropoc and OpenAI did that in like a year. For Google, it took four years or whatever. I don't remember exactly what the numbers are, right? But it was kind of like, as you go through these subsequent generations, it gets faster and faster to get to scale. Right now, OpenAI and Anthropoc are each rumored to be roughly around $30 billion run rate. That's crazy. And that's 0.1% of US GDP. So AI probably went from 0 to 0.5% of GDP, at least as a revenue contributor.
+
+30
+00:13:35.540 --> 00:14:02.580
+and you extrapolate out and if they hit 100 billion in revenue in the next year or two years, whatever it is, then we're getting close to a place where each of these companies is a percent or two of GDP. That's insane if you think about that. It's bananas. Yeah, it's bananas. So, it's not just really actually important when we scroll it. That doesn't include the cloud revenue for Azure for doing AI stuff or Google GCP or AMOLED. It's just those two companies. It's insane.
+
+31
+00:14:05.710 --> 00:14:32.500
+Just a quick thanks to our sponsors and we'll be right back to the show. Readers of the 4-hour work week know that I love automation. I do not like decision fatigue. I don't like doing things repeatedly. Anywhere I can set it and forget it is a win and gives me more time for the things I enjoy doing. That is why I'm such a fan of today's sponsor, Matic, as in automatic, M-A-T-I-C. As their tagline goes, the world's most advanced
+
+32
+00:14:32.500 --> 00:15:00.670
+floor cleaner. Frankly, it does a lot more than that. And they've got a lot of cool things coming, but it's the closest thing to a house that cleans itself to quote, wired magazine, quote, this is the best robot vacuum we've tested and it's scored a rare 10 out of 10. Maddox learns your home and runs quietly in the background. It's very, very quiet. I've been testing it myself. It vacuums, mobs, docks itself and doesn't strangle itself on charging cables or you wedged under your couch.
+
+33
+00:15:00.670 --> 00:15:23.330
+It's pretty amazing. And people with kids and dogs have been telling me all about it. I put out a note on social asking how people liked it, if they liked it. And their response was kind of mind-blowing. Not only because the comments were overwhelmingly exuberantly positive, but my phone blew up. I got texts from nearly a dozen friends telling me how much they love their Matic. So that was a first. So to quote another media outlet, The Verge,
+
+34
+00:15:23.330 --> 00:15:49.980
+writes, this Wally like bot fixes the stuff every other robot vacuum gets wrong. And there are tons of people involved with this who I respect a lot. We've got Silicon Valley legend of all Robocon and Shopify CEO Toby Lutke. They love theirs. And as I mentioned, they're investors and my friend Kevin Rose has been raving all about it. The list goes on and on. So check it out. See what all the buzz is about. Go to mattockrobots.com slash Tim. That's M-A-T-I-C.
+
+35
+00:15:49.980 --> 00:16:08.640
+robots dot com medic robots dot com slash tim today and experience the closest thing to house that cleans itself new customers get free bags for a year one more time medic robots dot com slash tim. You guys know i love wearables i'm sure you do as well and they're great but they give you data.
+
+36
+00:16:08.640 --> 00:16:30.020
+Typically they do not give you solutions. That's why I absolutely love the pod by this episode sponsor 8 Sleep. I've been using their stuff for many, many years now. It fits over your existing mattress, tracks your heart rate with 99% accuracy plus respiratory rate, HRV and sleep stages. It is wild how much it correlates accurately.
+
+37
+00:16:30.020 --> 00:16:43.710
+to the stuff that you wear on you. Then the pods autopilot analyzes your biometrics and automatically adjust your bed temperature while you sleep with independent temperature control for couples. Also important for a domestic piece.
+
+38
+00:16:43.710 --> 00:17:05.380
+Users report falling asleep up to 44% faster. This matches with my experience. I've experimented with all sorts of stuff, countless sleep aids, and I've yet to come across a better solution that both measures and fixes my sleep within the same system. Summers don't need to mean terrible sleep. So go to 8sleep.com that's spelled out.
+
+39
+00:17:05.380 --> 00:17:32.000
+EIGHD, 8sleep.com slash Tim and use code TIM for $350 off of the Pod 5. With their 30-day trial and free returns, you can try it out risk-free. So check it out, 8sleep.com slash Tim. I would love to dig into your thinking, because you're one of the best kind of first principles and also systems thinkers I've met.
+
+40
+00:17:32.000 --> 00:17:58.750
+And I love having conversations with you because I always learn something new and it's not necessarily a data point, but often it might be a lens or a framework for thinking about different things and that framework evolves for you as well. But for instance, if I was looking at this interview you did, this is a while back with first round capital and you're talking about sort of market first and then strength of team second, but you talked about passing on investing in Lyft series C. This was at the time.
+
+41
+00:17:58.750 --> 00:18:26.770
+And ultimately, part of it seemed to hinge on winner-take-all versus oligopoly versus other. And I'm curious how you are thinking about that within the AI space, because I mean, you started skating for that puck before almost anyone I know, if not everyone I know. And how are you thinking about that? And this ties into something that you mentioned, your piece that I haven't heard anyone else talking about. But...
+
+42
+00:18:26.770 --> 00:18:56.560
+I'll give the sentence as a cue. I don't think you'll need it, but founders running successful AI companies should all take a cold hard look at exiting in the next 12 to 18 months, which might be a value maximizing moment for outcomes. And you sort of went back to the dot com bust and the sort of survival rates and then breakout rates. Could you just explain that sentence and then also explain how you're thinking about whether you think this will be winners take all oligopoly like what type of dynamic you think emerges.
+
+43
+00:18:56.560 --> 00:19:25.580
+In terms of the precedent, and that doesn't mean it's going to happen here, but if you look at every technology cycle, 90, 95, 99% of the companies in that cycle go bust. And that dates way back even to what was high tech 100 years ago, which was the automotive industry. And Detroit had dozens of car companies and hundreds of suppliers, and it collapsed into a small number of auto companies. And so this is not a story during the internet cycle or bubble of the 90s. 450 companies went public in 99.
+
+44
+00:19:25.580 --> 00:19:54.580
+450 or so companies went public in the first few months of 2000. And so that was 900 companies. And say another 500 or 1000 went public in the couple of years before that. So you had somewhere between 1500 and 2000 companies go public. Go public, right? So that means they kind of made it. And of those, how many have survived? A dozen, maybe two dozen, right? And so that's the out of 2000 companies, 1,980 or so went under.
+
+45
+00:19:54.580 --> 00:20:21.200
+or more another, maybe they got bought for a little bit. And so there's no reason to think that AI cycle will be any different. And every cycle is like that. NASA is like that, and mobile is like that, and crypto is like that. So most companies are not going to make it. A handful will, and we can talk about those. And so if you're running an AI company right now, you should ask yourself, what is the nature of the durability of your company? And are you one of that dozen or two that are going to be really important 10 years from now?
+
+46
+00:20:21.300 --> 00:20:50.430
+Or is now a good moment for you to sell because what you're doing will start to get commoditized or will be competed by a lab or will be something that the market will shift or the technology will shift and you'll become obsolete and There's a handful of companies that will continue to be great. They should never sell. They should never exit. They should keep going But there's probably a lot of companies that now or the next 12 to 18 months is the best moment for them possible in terms of the value that they'll get for what they're doing and for every company
+
+47
+00:20:50.430 --> 00:21:19.840
+there's a value maximizing moment where they hit their peak. And it's usually a window. Usually, you know, six, 12 months where what you're doing is important enough, you're scaling enough, everything's working before some headwind hits you. And sometimes it's very predictable that that headwind is coming and you can see it. And often you see it in the second derivative of growth, like how fast you're growing starts to plateau a little bit and you're either going to keep going up or you should sell. And so that's really what that's meant to be. I'm incredibly bullish around AI as you can tell from the rest of the conversation.
+
+48
+00:21:19.840 --> 00:21:49.070
+And so it's lots about the transformation that's happening overall because of the technology and more that only a handful of companies are going to continue to be really important. And so are you one of them or not? If you're one of them, you should never ever ever sell. So what are the characteristics of that handful? The handful that have durable advantage, right? Because you look back at 2000, it's like, man, what would you have used to try to pick out Google and Amazon? Yeah. And I'm not saying that's the best comparator, but with
+
+49
+00:21:49.070 --> 00:22:12.380
+in the avalanche of a i companies which are those that you think have durable advantage i mean of course some of the name brand. Labs come to mind maybe they become the interface for everything else who knows. But how would you answer that in terms of either shared characteristics or actual names what sets apart the handful do you think.
+
+50
+00:22:12.380 --> 00:22:38.530
+The core labs will be around for a while, so that's open AI, Anthropa, Google, barring some accident or disaster or some blow up. But it seems like they're in a really durable spot. And to your point on market structure, I wrote a substack post, I don't know, three years ago or something predicting that that would probably be an oligopoly market and there'd be a handful and be aligned with the cloud. That's roughly kind of what happened. I mean, there's Meta and there's XAI and there's other players that may change this. It didn't exist when I wrote that post.
+
+51
+00:22:38.530 --> 00:23:07.090
+But it feels to me like in the short run, that's an oligopoly. There's no reason for that to be a monopoly market unless one of them pulls ahead so much in capabilities that it just becomes the default for everyone. And that could happen, but so far it hasn't. And again, the SCEP2 constraint may prevent that in the short run or at least provide an asymptote on it. As you move up the stack and you see, well, there's different application companies. There's Harvey for legal. There's a bridge for health. There's Decagon and Sierra for customer success. There's these different companies for application. There's three or four lenses that you can look at.
+
+52
+00:23:07.180 --> 00:23:36.930
+One is if the underlying model gets better, does your product or service get dramatically better for your customers in a way that they still want to keep using you? Second, how deep and broad are you going from a product perspective? Are you building up multiple products? Are they all integrated in a cohesive whole? Is it really being built directly into the processes in a company in a way that it's hard to pull out? Often the issue for companies in adoption of AI isn't how good is the AI. It's how much do I have to change the workflows and the ways that my people do things?
+
+53
+00:23:36.930 --> 00:24:06.450
+in order to adopt it. It's about change management. Usually it's not about technology. And so if you've been able to embed yourself enough into workflows and how people do business and how they work and how everything else kind of ties together, that tends to be quite durable. Are you capturing and storing and using proprietary data? Sometimes it's useful. I think data modes in general are overstated, but I think sometimes it can be actually quite useful and that's usually the system of record view of the world. So, you know, there's a handful of criteria around like, will this thing be long-term defensible or not?
+
+54
+00:24:06.450 --> 00:24:36.560
+And the application level that's often one potential lens on it. So question, if people are listening to this and they are in the position of perhaps a founder who should consider identifying their kind of short period of maximum valuation and perhaps hitting the parachute in some way, what are the options? Because I think of some of these companies, I'm not going to name them, but there are multiple companies that have multi-billion dollar valuations.
+
+55
+00:24:36.560 --> 00:25:06.190
+seems to be again from a mostly lay person perspective, i.e. me that the labs probably can build what they are currently selling without too much trouble. Do they aim to be acquired by a lab? In which case there's sort of a build versus buy decision for the lab itself. Are they aiming for one of not the open AI's or Anthropics but maybe somebody who's trying to get more skin in the game?
+
+56
+00:25:06.190 --> 00:25:29.520
+Like Amazon or fill in the blank. What are the exit options? I think there's a lot of exit options and the thing that's crazy right now is that if you go back 10 or 15 years, the biggest market cap in the world was like 300 billion. The biggest tech market cap was, I don't know, 200ish or something. I think the biggest one at the time was Exxon or somebody, right, like 15 years ago. And over the last...
+
+57
+00:25:29.520 --> 00:25:57.360
+10 or 15 years, what happens is we suddenly ended up with these multi-trillion dollar market caps, which everybody thought was nuts at the time, but things will probably only get bigger. There will probably be more aggregation versus less into the biggest winners. And there's more and more companies who have these market caps between, say, $100 billion and a few trillion in a way that's just unprecedented. And that means there's enormous buying power because 1% of $3 trillion is $30 billion. Right? It's looking at 1% and paid $30 billion for something.
+
+58
+00:25:57.360 --> 00:26:26.670
+which is insane, right? That's really unprecedented. And that means that these really big acquisitions can happen. For the companies that I'm imagining again, I don't want to name names that may have seemed to have a limited lifespan. When I'm in these small group threads with friends of mine who are often time, not always, but I'm in a bunch of them. And when they're tech investors, very successful tech investors, and I'm like, okay, these five companies, you've got 10 ships, how would you allocate your 10 ships? Right? There are certain companies that can consistently get zero.
+
+59
+00:26:26.670 --> 00:26:49.970
+even though they're reasonably well known. Why would one of the labs buy one of those? Depends on what it is. And it may be a lab. It may be one of the big tech incumbents in Apple, Amazon, Google's kind of the things. There's Oracle. There's Samsung. There's Tesla. There's SpaceX now in the market doing things that, you know, there's a bunch of different.
+
+60
+00:26:49.970 --> 00:27:17.950
+buyers of different types. There's snowflake and Databricks, there's Stripe, Coinbase if you're doing financials. There's just a ton of companies that actually are quite large. That's kind of the point. And so often you end up selling to one of four things, right? You can sell to one of the big labs or hyperscalers or giant tech companies. You can sell to somebody who cares a lot about your vertical. So for example, a Thompson Reuters if you're doing legal or accounting or things that are kind of related to that. I think actually one thing that doesn't happen enough is merger of competitors.
+
+61
+00:27:17.950 --> 00:27:44.580
+particularly private companies where you can do that because ultimately if your primary vector is winning and your neck and neck with somebody you're competing on every deal and you're destroying pricing for each other, like maybe it's better to just merge, right? That actually was X.com and PayPal in the 90s, right? Elon Musk, here we're running different companies and they merged because it said, we're people doing this, why fight? Yeah, or Uber, Lyft way back in the day, right? That might not have been a merger, it might have been an acquisition.
+
+62
+00:27:44.580 --> 00:28:10.910
+Yeah, and the rumor is that that almost happened and then the Uber side walked away from it. But all the money that Uber spent on fighting Lyft for all those years maybe would have been better spent just buying them. Maybe not, right? I don't know the exact math on it. But often it actually does make sense to say, you know what, we'll just stop fighting it out and we'll just combine and just go win. Because if the primary purpose is to win the market you're already fighting all these big incumbents that already exist anyhow. So why make it even harder?
+
+63
+00:28:10.910 --> 00:28:37.340
+As you know we talk about this a lot but we'll talk about you with your investing hat on but before you even put that let's call it full time investing hat on. You had a lot in your background that may or may not have helped you and I'm curious if you look at your biology background the math background. Do you think any of those things or other elements materially contributed.
+
+64
+00:28:37.340 --> 00:29:06.830
+to how you think about investing that has given you an advantage in, I suppose, there are different stages to kind of winning deals, but sometimes they're not crowded. But let's just talk about the selection process. The math stuff helped me, I think, in two ways. One is it's helped me with certain aspects of like technical or algorithmic CS and understanding it. And sometimes it's useful in the context of how certain things work in AI or things like that or just fluency of numbers and data and
+
+65
+00:29:06.830 --> 00:29:35.060
+I don't have to call it nerd language or something. And I did the math degree honestly just for fun and I think that's actually the thing that was helpful. You know, I only did an undergrad degree in math so I didn't go that far with that. But I did the very sort of abstract pure math stuff and I think that was a good forcing function of how to really think logically step by step about things because you know, roughly the way that at least I learned how to do proofs was you do the logical sequence but then sometimes you do these intuitive leaps and then go back and try and prove it to yourself.
+
+66
+00:29:35.060 --> 00:30:04.880
+or fleshed out the reasoning behind that intuitively. And I think sometimes investing is a little bit like that. When did you first have the inkling that you could be good at investing? And that could be investing writ large. It could be maybe within the context of our conversations, startups and angel investing. When did you first kind of go, huh, yeah, maybe I could be good at this. Was there a moment or a deal or anything like that?
+
+67
+00:30:04.880 --> 00:30:35.120
+that comes to mind? Not really. I'm really hard on myself. So, you know, even now I second guess myself a lot. Somebody was telling me that the two people that always beat themselves up the most in hindsight is me and this one other person is another well-known founder slash investor. And so I think, you know, I don't think there's a single moment where I'm like, wow, this makes sense for me to do. I think it just kind of organically kept going because I was getting into some very strong companies. And then that allowed me to sort of continue what I'm doing.
+
+68
+00:30:35.120 --> 00:31:01.810
+Yeah, I wish I had a moment like that. God damn it. You need to revise your Genesis story like every good founder. Yeah, I mean, everything's that was seven and I've been thinking about investing in technology. Right. So getting into those deals, what allowed you to get into those deals? Right? Because some people have an informational advantage and they put themselves in a position to have an informational advantage. Right? And I think that had I not
+
+69
+00:31:01.810 --> 00:31:30.720
+Don't want this to be a leading question. I was like, had I not moved to Silicon Valley when I did like 2000 and then subsequently stayed there and moved to San Francisco specifically like nothing that I was able to do in Angel of Bestie would have been possible. But there's more to your story because a lot of people move there with hopes of startup riches in whatever capacity. Not saying that that's why you moved there. But what was it that allowed you to get into those deals? Right? There are certain things
+
+70
+00:31:30.720 --> 00:31:56.000
+that come to mind based on our prior conversations, but I'll just leave it at that. Like why were you able to get into or select those deals? I think it was what happened early and what happens now. And I think those two things are different. I think to your point, the single most important thing for anybody wanting to break into any industry is go to the headquarters or cluster of that industry. Like move to wherever that thing is.
+
+71
+00:31:56.000 --> 00:32:24.500
+And all the advice that you can do anything from anywhere and everything's remote is all BS. And you see that for every industry, not just tech. You know, if you wanted to get into the movie business, people wouldn't say, you know, hey, you can write a film script from anywhere, or you can digitally score from anywhere, you can edit it from anywhere, you can film it anywhere, like go to Dallas. They'd say, go to Hollywood. And if you want to do something in finance and you're like, well, all you could raise money from anywhere and come up with trading strategies and a hedge fund strategy from anywhere and you could do it from anywhere.
+
+72
+00:32:24.500 --> 00:32:54.750
+You know, people wouldn't say, hey, go to, you know, whatever, Seattle, they'd be like, go to New York or go to XYZ Financial Center. So the same is true for tech. Shreya and I, my team has been performing this sort of unicorn analysis of where is all the private market cap aggregating for technology. And traditionally about half of it's been the US and then half of that has been the Bay Area. But with AI, 91% of private technology market cap is the Bay Area. One percent of the entire global set of AI market cap is all in one.
+
+73
+00:32:54.750 --> 00:33:22.340
+You know, I invite the head area. So if you want to do stuff in AI, you should probably be in the Bay Area. Probably the secondary places in New York and then after that it drops off a cliff, right? And really it's the Bay Area. If you want to do defense tech, you probably should be in, you know, Southern California, close to Earthspace X and Andorral R and sort of Irvine, Orange County, etc. Or El Segundo, there's a lot of startups there. If you want to do fintech in crypto, maybe it's New York. But the reality is these are very strong clusters.
+
+74
+00:33:22.340 --> 00:33:50.660
+So to your point, number one is I was just in the right location. I was in the right networks and I default was, you know, I was running a startup myself. I was at Google for many years and then I left to start a company and people just started coming to me for advice. And the way I ended up investing in Airbnb is I was helping them when there were eight people or something raise their Series A and introduce them to a bunch of people and help with some of the strategy there in very light ways, right? They would have done it without me. And they said, hey, at the end of it, do you want to invest a little bit? I said, great, that sounds wonderful.
+
+75
+00:33:50.660 --> 00:34:20.640
+So it's very organic. Or the way I invested in Stripe is I'd sold a sort of infrastructure early API company to Twitter. And when Twitter was saying 90 people or so, and I sent an email to Patrick, the CEO of Stripe, just saying, Hey, my for great things about you. And I really like what Stripe is doing. And I would use it for my own startup. And I sold this API company myself. Do you want to just talk about this stuff? And so it went on a couple of walks. And then a week or two later, he texts me and he's like, Hey, we're doing around. Do you want to invest? So the first few things that I did were very organic where the founders were like,
+
+76
+00:34:20.640 --> 00:34:39.410
+want you on board. I didn't think, oh, I should be an investor and I'm going to chase things. I just like really like talking to smart people and I liked working on certain business problems and I love technology and its translation and so it's very like, you know, I was just a nerd and I met other nerds and we get hit it off. It just struck me that.
+
+77
+00:34:39.410 --> 00:35:08.220
+I'm sure people have heard or I'm sure you've heard this before, but if you want money, ask for advice. And if you want advice, ask for money. It just struck me that it kind of goes the other way around too. It's like, if you offer a bunch of advice, oftentimes you get to give money. And if you try to give money, you might get slitted for advice. Yeah, yeah. It's a good point. When did you write the high growth handbook? When was that published? It's about a while ago. That's probably like seven years ago, something like that. Seven years ago.
+
+78
+00:35:08.220 --> 00:35:34.270
+All right, we're going to come back to that in a minute. You were in the right place geographically speaking, right? You were in the center of the switchboard. And like you said, some of these initial kind of standout investments came about very organically. And what I'd be curious to hear, because you also said yourself not too long ago, that there's what I did then, there's what I did now. There's also what you did in between, right along the way.
+
+79
+00:35:34.270 --> 00:36:04.020
+I'm wondering, for instance, if you would still stand by this, this is from that first round interview I was mentioning. As a general rule, when I make investments, it's market first and the strength of the team second. And there's more to it. But would you still agree with that? 90% yes. Everyone's probably going to meet somebody exceptional and you just back them or something may be so early. Like when I, I led the first round of perplexity, like the very, very first round. And the way that came about was, Arvin, the CEO, just, I think he like ping me on LinkedIn.
+
+80
+00:36:04.180 --> 00:36:33.620
+Literally, and this was when nobody was doing anything in AI and he was like an open AI engineer or researcher and he's like, hey, I'm at open AI, which nobody cares about at the time. And I'm thinking of doing something in AI and I heard that you're talking about this stuff and nobody else is talking about it and can we meet up. And so we just started meeting every two weeks and brainstorming and then that led to like investing in that. And that was kind of a people first thing where he was just so good. And every time we talk, he'd show up a week later with the thing that we discussed built. Like who does that? Yeah, yeah, that's a good sign.
+
+81
+00:36:33.620 --> 00:37:01.170
+So good. Or, you know, the way I ended up investing in Andriel was, you know, Google shuts down Maven, which was their sort of defense project. And so I think, well, if the incumbents are going to do it, what a great place for startups to play. Because there's been a long history of the, you know, Silicon Valley and the defense industry. That's HP and that's a lot of the, you know, early brands. It says just looking for something. There's somebody to work on this area and is very unpopular at the time.
+
+82
+00:37:01.170 --> 00:37:31.250
+And I ran into, I think it was Trace Stevens, who's one of the co-founders of Andaril, who's also a founder's fund at some lunch or something else, again, right city to be in. And he said, oh, I'm working on this new defense thing. And I said, amazing, let's talk about it. Sometimes it's just looking for these things too in a market and sometimes it's people. So Andaril was looking for a market and then finding amazing people. Proplexity was kind of in between where it was like, I was looking at everything in AI because I thought it was going to be incredibly important, but not very many people were. And then I just ran across an exceptional individual.
+
+83
+00:37:31.250 --> 00:38:00.400
+And that's when I funded OpenAI. That's when I funded Harvey, which is the early growth. I funded a lot of really early stuff because they were the only people doing anything in this market that I thought would be really important. Let me come back to a few things you said. So you mentioned the perplexity founder or later the founder who said you're talking about this stuff, right? Or he heard or read or found you talking about this stuff. Where was that? Was that posts on your blog? Was it somewhere else? How did he actually find you talking about anything?
+
+84
+00:38:00.400 --> 00:38:27.440
+Yeah, I mean, I think he pinged me in part because I was involved with a bunch of the prior wave of technology companies, Airbnb, Stripe, Coinbase, Instacart, Square, a bunch of stuff like that. And so I think at that point I was already known as a founder and investor. But then on top of that, I was just trolling AI researchers and just asking them about what's going on because it was so interesting. There's a bunch of art that was being done with these things called GANs at the time, these generative adversarial networks.
+
+85
+00:38:27.440 --> 00:38:53.230
+And so I was playing around with that. I tried to hire engineers to build me effectively with Mid Journey because I just thought it'd be really cool to make it easy to make AI art. Let me pause for a second because this is my second question and it's a good time. When you mentioned AI, I thought it would be incredibly important. What were the indicators of that? What was the smoke in the distance where you're like, oh, that's an interesting direction? I think there was two or three things.
+
+86
+00:38:53.230 --> 00:39:16.500
+AI was one of those things that people always talked about. So when I was doing my math degree, I took a lot of theoretical CS classes and there were the early neural network classes and things like that and the math behind it. And so there's always this promise of building these artificial intelligences of different forms. And one could argue Google was a first AI first company. And back then it was called machine learning and it was different technology basis in some sense.
+
+87
+00:39:16.500 --> 00:39:46.420
+I think 2012 was when AlexNet came out and there was this proof that you can start scaling things and have really interesting characteristics in terms of how AI systems work. And then 2017 is when the team at Google and met into the transformer architecture, which everything is based on now or roughly everything. And so for example, if you look at GPT for chat GPT, the T stands for transformer and around 2020-ish, I think was when GPT-3 came out. And that was such a big step from GPT-2. And it still wasn't good enough to really do stuff with.
+
+88
+00:39:46.480 --> 00:40:16.420
+But you're like, oh shit, the scaling law papers are out. The step function and capabilities was huge. You suddenly have a generalizable model available via an API that anybody can ping. And so just extrapolate that out to the next step and this is going to be really important. So it's basically looking at that capability step and playing around with the technology and then reading the scaling law papers. Or just in general, the scaling laws seem to work for everything. And you're like, wow, this is going to be really, really important to let me start getting involved with it.
+
+89
+00:40:16.420 --> 00:40:44.370
+would have or could have done that without a mathematics background. I'm guessing there were probably some other folks, but that leads me to the question of like, how are you ingesting, finding and ingesting that? Was it the talk of the town? So it was in a sense like within your social circles and the networks that you're a part of, it was open discussions so you were engaged with it, or are you ingesting vast quantities of information from different fields? And this happened to be something that really caught your attention.
+
+90
+00:40:44.370 --> 00:41:09.710
+I guess that's three things. I mean, I've always ingested a lot of information from a lot of different fields just because I like learning about stuff. And I was always this mix of like math and biology and, you know, anime and art and other things. So, you know, it's always kind of a mix. And then it was something that my friends were talking about, but it was a bit more like toy like, oh, this is cool. And look at what came out. And but most people didn't then extrapolate. It's kind of like early crypto or Bitcoin. Like everybody was talking about it, but very few people bought it.
+
+91
+00:41:09.710 --> 00:41:34.300
+And so I think that was part of it. And then third, honestly, I just thought it was really good stuff that kept playing around with. This is back to the GAN stuff and the art where these different models would come out and you could mess around with them. And, you know, one of the things that's really are discussed in terms of the importance of it relative to this wave of foundation models and AI and everything else is the way AI or machine learning used to work is your team at a company or wherever else
+
+92
+00:41:34.300 --> 00:42:03.330
+would go and there'd be what's known as an ML Ops team. Operations team whose whole thing was like helping you set up all the data and the pipelines and everything to train a model. And you train a model that was custom to your use case and what you're trying to accomplish. And then it was, you had to build a bunch of internal services to interact with that model. So it's a huge pain to get to the point where you had a working ML system up and running in production. And then suddenly you have a thing where you just do an API call. So with a line of code or a few lines of code, anybody anywhere in the world
+
+93
+00:42:03.330 --> 00:42:32.690
+can ping it, but not just that, it's generalizable. So it's not just specialized to one use case, like spell correction or whatever. You can use it for anything. And it has all of the internet embedded in it in some sense in terms of the knowledge base. And it can start having these advanced reasoning capabilities. And so one of the most important things is, hey, you can get it with a couple lines of code. You don't have to go and build an ML Ops team. You have to host it. You have to interact with it. You don't have to do all this extra stuff. It just works. That's really important. It's huge. Yeah.
+
+94
+00:42:32.690 --> 00:43:04.670
+It's kind of hard to overstate. Just a quick thanks to our sponsors and we'll be right back to the show. As many of you know, for the last few years, I've been sleeping on a midnight lux mattress from today's sponsor, Helix Sleep. I also have one in the guest bedroom downstairs and feedback from friends has always been fantastic. It's something they comment on without any prompting from me whatsoever. I also recently had a chance to test the Helix Sunset Elite. The Sunset Elite delivers exceptional comfort
+
+95
+00:43:04.670 --> 00:43:34.270
+while putting the right support in the right spots. It is made with five tailored foam layers, including a base layer with full perimeter zoned lumbar support right where I need it and middle layers with premium foam and microcoils that create a soft contouring feel. This spring, if you're thinking about upgrading your sleep, Helix will ship it to your door for free in the US. Let you sleep on it for 120 nights. And if you don't love it, they're happy with Helix guarantee. It makes returns completely painless. So check it out. Go to Helix Sleep
+
+96
+00:43:34.270 --> 00:43:55.970
+Back in the day, this was 2004 maybe. I had someone approach me in a coffee shop and said, good day, mate. And introduce himself. Who was that? It turned out to be the founder of AG1.
+
+97
+00:43:55.970 --> 00:44:22.140
+Believe it or not, way back in the day. And people often ask me what has survived after 20 plus years of testing every supplement under the sun just about what actually has stayed in the rotation in the toolbox. This episode sponsor, AG1 is at the top of that very, very short list. I started using it close to 15 years ago when it was still called Athletic Greens. I put it in the four hour body, didn't get paid to put it in there. And it's outlasted almost everything else that I've tried.
+
+98
+00:44:22.140 --> 00:44:32.540
+One scoop covers your nutritional bases, right? Fills the gaps. You want to eat good food, of course, but 75 plus ingredients, including probiotics, B vitamins, and whole food nutrients.
+
+99
+00:44:32.540 --> 00:44:59.970
+act as, in my opinion, pretty cheap nutritional insurance. I take it first thing every morning with cold water. And at this point, it's automatic, like brushing my teeth. If you're looking for one simple daily habit that supports gut health and fills common nutrient gaps, this is where I'd start. So check them out. Subscribe today to try the next gen of AG1. Listeners will also get a free bottle of D3K2 and AG1 Welcome Kit and AG1 Travel Packs with your first order.
+
+100
+00:44:59.970 --> 00:45:29.540
+So start your journey with AG1's next gen and experience the difference first hand. Simply go to drinkag1.com slash Tim. That's drinkag1.com slash Tim. So I have a million questions for you. The problem with this is like the embarrassment of riches of directions that we could go. So I am using and my team, Claude Code and assorted tools for all sorts of stuff right now. And one of them
+
+101
+00:45:29.540 --> 00:45:52.270
+it just so happens overlaps with an area of great skill for you and experience which is angel investing so this is the first time where i feel really enabled to do and there is some manual effort involved as you might imagine but to go back and do an analysis of 20 years of angel investing to try to.
+
+102
+00:45:52.340 --> 00:46:22.240
+Do any number of things and I suspect that a lot of what interests me is not particularly useful like doing some counterfactuals What if I had held each of these for three years for five years for whatever? I mean that's kind of like just opus day whipping myself in the back for the most part but in doing an analysis like that There are certain things that immediately come to mind for me that might be of interest and I want to hear what you would do if you would even do this I mean part of it is frankly just curiosity are the stories I tell myself about this true or not
+
+103
+00:46:22.240 --> 00:46:50.860
+So I'm interested, like who made certain introductions? Are there certain people who just took me there, basically people in hospice care and like shipped them over as like a last ditch effort? Are there people who actually sent me good stuff consistently, etc, etc? So there are a million and one ways I could try to interrogate the data and enrich it. We're doing a pretty good job of enriching it. I mean, Claude has been other tools, you know, opening eyes very good at this. What are some of the more interesting questions or lines of
+
+104
+00:46:50.860 --> 00:47:15.740
+examination you think looking back whatever it is in my case it's about roughly 20 years of stuff. Yeah. You know the weird thing I've been doing is uploading pictures of founders and asking the models to predict if they'd be good founders. Oh wow. Because if you think about it, we do this all the time when we meet people. We quickly try to create an assessment of that person and their personality and what they're like. And there's all these micro features like
+
+105
+00:47:15.740 --> 00:47:40.670
+Do you have crow's feet by your eyes, which suggests that your smiles are genuine? And what does that imply about the sense of humor you have? Or furrowed your brow over time? And what does that mean? So there's all these micro features. And when you meet people, you actually can get a pretty quick impression of them pretty fast. It doesn't mean it's correct, right? But we actually do this really fast as people. So I have this whole set of prompts that I've been messing around with just for fun.
+
+106
+00:47:40.670 --> 00:48:09.140
+around can you extrapolate like a person's personality based off of a few images? And therefore can you be predictive about their behavior in any way? I think that's fun, right? Yeah. Are you finding any signal there? Yeah, it works pretty well. Wow. So I've been doing a weird shit, right? Practice smiling people. Yeah, I know. But I think it's interesting, right? Because we do this all the time where we read people. And that's part of the prompt. It's like, you're a very good cold reader of people based on micro features.
+
+107
+00:48:09.140 --> 00:48:37.470
+and etc etc, you know, kind of spell it out. And then based on that, you know, not only give me your interpretation of this person, but explain the specific micro features for each thing that you're stating about the person. And it'll break it down for you. It's amazing. Like imagine what this technology is. It's crazy. And again, I'm not saying it's fully accurate and I'm saying, you know, it'll be predictive, but it's done pretty well in terms of nailing people. It's even done things like, oh, this person probably has this type of sense of humor.
+
+108
+00:48:37.470 --> 00:49:06.240
+Or this person probably holds themselves back in most social settings and then chimes in with a witty, writhing that nobody expects. I mean, it's very specific. Very specific. Wow. That's amazing. Right? And so I've been doing stuff like that, which may not be your question, but I've been finding it really fun. Well, it's related in the sense that, and I'm sure I'm missing some steps, but I love angel investing. The dose makes the poison. So there's usually a case to be made.
+
+109
+00:49:06.240 --> 00:49:36.050
+When I get to a certain threshold, I'm like, okay, this isn't fun anymore. I love dark chocolate too, but I don't want just to be force-fed dark chocolate all day. But, and Ian and I have talked about this, I really do enjoy the learning and the sport of it, frankly, and interacting with some very, very smart people, not all of them work out as far as founders of companies, but ultimately I'm trying to figure out how to separate signal from noise and also
+
+110
+00:49:36.050 --> 00:50:04.750
+It's fun to try to use anything, but in this case, investing to sharpen your own thinking, right? And to stress test your own beliefs and the assumptions that undergird some of your predictions, right? Things like that. Yeah, I'm just wondering if you've ever done like sort of a retrospective analysis of your startup investing or if you're like, no, more market recent style, only forward. You know, early on when I was first starting to invest, I would have this long grid of things by which I would score each company.
+
+111
+00:50:04.750 --> 00:50:34.670
+And then I go back and see if it was correct. It was roughly correct. I think the hard part is there's a lot of like randomness in outcomes. You know, there's the company that sells for a few billion dollars that you thought was dead or whatever it is, right? Sure. How do you score things like that? Right now we're in this really weird market moment where trillions of dollars of market cap are all chasing the same price. And so they're going to do all sorts of stuff that wouldn't happen normally. And it's rational stuff in my opinion, but it's just stuff that in any other time would never happen.
+
+112
+00:50:34.670 --> 00:51:04.400
+So it's really hard to account for that kind of thing relative to all this. I'm much more in the Mark and recent camp of like, I think very little about the past. I think close to zero about my own past, you know, I just said, like, let's keep going. And maybe that's bad. And there should be dramatically more self reflection. I try to self reflect in the moment, but I don't try to re extrapolate and examine my entire life and decisions. And, you know, if anything, most of the decisions have been ones where I'm really upset with myself for not being more aggressive on something.
+
+113
+00:51:04.400 --> 00:51:32.340
+In other words, I invested in the company, but I should have tried even harder to invest more even if I tried really, really hard because, you know, there's a hint of companies that really matter. That's all that kind of matters as an investor. Obviously, as a person, I enjoy getting involved with different companies and different founders and helping them whether the thing works or not, or I think the technology is interesting or whatever. But the reality is from a returns perspective, there's a very clear power law that people talk about and it's true. And I remember a friend of mine did this analysis thinking maybe
+
+114
+00:51:32.530 --> 00:52:01.040
+during Milner or someone where it's like look at all the companies from like I don't remember the exact dates 2000 or 2004 until today and technology and it was something like a hundred companies drove like 90 something percent of all the returns and 10 companies total drove like 80% of all returns over a two decade period technology Right, if you weren't if you weren't one that 10 companies you were a bad investor
+
+115
+00:52:01.140 --> 00:52:28.460
+Once you start dealing with these power laws and the outside outcomes and all that, you know, how can you rate that right? It's basically to do hit one of 10 things or not. That's really the rating. That's probably the correct rate for investment. So I love to try to focus on some early-ish decisions on this podcast because like you said, the earlier decisions, there's how you did things then there, how you're doing things now, which isn't to say that one is better than the other, but certainly
+
+116
+00:52:28.460 --> 00:52:58.060
+what you do in the past tends to inform what you're able to do and what you do in the present. And what I'm curious about, and we won't spend a ton of time on this, but it might be interesting to folks is to discuss when you moved from purely doing angel investing yourself to involving other investors in your deals. And there are multiple ways to do this. But the reason I want to ask this is because you did a number of
+
+117
+00:52:58.060 --> 00:53:25.580
+SPVs I'll explain what that is special purpose vehicle, but for folks you might be familiar with venture capital firm they have funds and They raise let's just call it a hundred million dollars for a fund that can be more or less of course then they invest in a bunch of different companies and then you sort of see Who wins who lose and then their profits I guess conventionally that let's just use the textbook example the venture capital firm takes 20% of the upside and then the
+
+118
+00:53:25.580 --> 00:53:55.090
+LPs the investors get 80% and the venture capital firm takes a management fee to keep the lights on although it usually does a lot more than keep the lights on with the SPVs it's you're investing in let's just say for simplicity a single company and There are advantages to that in simplicity for somebody who's putting together the SPV But you also have a lot of reputational risk except if you have a fund you have a couple of losers Your investors don't automatically go to zero
+
+119
+00:53:55.090 --> 00:54:25.010
+Right. But even SPV and it goes to zero, that could really hurt you reputationally. And when I look at some of your early SPVs, which I think included certainly a number of name brands like Instacart and so on, how did you choose which companies to do the SPVs with? Right? Because it seems like a very important set of decisions to lay the groundwork for creating optionality for what you do after that. I think to your point, I've always been terrified of losing other people's money. Like I'm fine if I lose my old money.
+
+120
+00:54:25.010 --> 00:54:44.530
+It's my decision. I'm an adult. It's okay. But I've always been, and you know, people give me money or adults or institutions, etc. to invest on their behalf. But you know, similarly there, I was just terrified of ever losing money for people. And so I've tried over time to be judicious behind the SPBs that I did early on. And the focus was on things that I thought would really be
+
+121
+00:54:44.530 --> 00:55:14.140
+outsized companies and so that was to your point Instacart. It was early Stripe. It was Coinbase. There's a couple things like that that were amongst my very first SPVs and the emphasis was very much on do I think this can be a massive thing, you know. And also do I think there's enough downside protection in some sense that if it didn't work as well as I thought it would still be a good outcome for people. So yeah, I try to do that very diligently. It's interesting because a lot of people ping me for help as they think about becoming investors or their scouts for a fund, which means basically they're given a small amount of money by a venture capital fund.
+
+122
+00:55:14.140 --> 00:55:43.710
+Sequoia famously has this program that give people money and then those people invest money on their behalf. And some of the scouts that I've talked to basically treat it like free money or an option. They're just kind of like, I'll just throw it a bunch of stuff, maybe something works. And I pointed out to them, hey, if you actually want to become a professional investor at some point, this is kind of your track record. A, you're a fiduciary in some sense, so maybe you'll be able to work out from that perspective, but B, this will establish like your track record. And do you want to have a good one or bad one? And how do you think about that? And again, sometimes people just
+
+123
+00:55:43.710 --> 00:56:12.060
+get lucky and they hit the one thing out of 100, but that more than returns everything and they look great. But it's hard to be consistently good at this stop for consistently hit great come. All right. So I want to double click on a few things you said and maybe you could walk us through a pseudonymous example. It doesn't need to be a named company. But when you're talking about setting your track record, right, you did an excellent job of that before you then went on later to raise funds and so on. And
+
+124
+00:56:12.060 --> 00:56:40.990
+I would love you to perhaps explain some of the things you do in diligence or how you weight things differently and also how you think about like the capped minimum downside. I'm not sure that's exact wording that you used in selecting those deals because you could have selected any number of deals on a sort of due diligence level. What's the kind of stuff that you focus on maybe more than others? And what are the things you pay less attention to than others? There's a big difference between early and late things. On the early side,
+
+125
+00:56:40.990 --> 00:57:08.690
+To that point earlier, I tend to spend a lot more time on the market than most early stage investors. Most early stage investors say, I just care about the team and how good are they? But I've seen teams crushed by terrible markets and I've seen reasonably crappy teams do very well. And so, you know, at this point, I think the market is more important, although I think obviously great teams can find their way if they decide to shift around a bit. So I index a lot on market early and that may be customer calls, that maybe is trying to understand, I think something could be big. It could just be some intuition around, hey, you know,
+
+126
+00:57:08.690 --> 00:57:37.500
+Defense is really important. Nobody's doing defense. Let me find a defense company. So I tend to index a lot on that and Relatedly I've tended to avoid science projects and there's some people who get really Distracted by wow, this is really cool. It's quantum and it's this and it's that and I've largely avoided those things and you know, sometimes I miss things that were really good but often That was where I call actually thinks back saved the sort of hard tech in science-based investing industry because if you look at what happened basically at the market peak
+
+127
+00:57:37.500 --> 00:58:06.180
+A bunch of SPACs took a bunch of companies public that would not have been able to raise money in private markets later. And they gave them enough money to keep going, but more importantly, they returned a bunch of money to these hard tech funds and that saved them from going under. It gave them all the returns with basically the SPAC era. So Chamath basically saved hard tech. I mean, that's seriously not a big in-cheek. And I largely avoided that kind of class of companies. And I'm not saying it was smart, I would have made money off of it. I just thought there were all sorts of capitalization issues and science risk and market risk and other things to them.
+
+128
+00:58:06.180 --> 00:58:36.050
+For later stage stuff, the hard part often is everything on paper gets modeled out for a late stage company as a two to three acts from that investment point. Right. Because all the funds that are driving the rounds underwrite against some IRR clock, 25% IRR, whatever it is. And so they all come up with these models. And then the models all say all these companies are basically going to two to three acts and the art there, or the science there, or whatever you want to call it is, is that a point five X company? Is it going to drop in value or is that a 10X?
+
+129
+00:58:36.210 --> 00:59:04.110
+And how do you know it's a 10x versus a 2 to 3x versus a 0.5? And that's the harder part of growth investing. And there's a subset of things that you're like, this thing will just keep going. And here's why. But often it's not mathematical. Often that's just like, some market dynamic or some core insight or some market share question. And people tend to make that stuff really complicated. And they have these really complicated multi-page models and 50 page memos and all the rest. And often these things boil down to one single question.
+
+130
+00:59:04.370 --> 00:59:34.260
+What is the one thing I need to believe about this company that makes me think it's gonna continue to be really big if it's three things It's too complicated. It's probably not gonna work if it's no things then you know, it doesn't make much sense So usually there's one or two things that are really the core insights you need to understand like the outcome for something could you give an example of One of those beliefs for any company that comes to mind I'll give you two or three of them I mean coinbase part of it was just hey This is an index on crypto and crypto will keep growing because if coinbase trades every
+
+131
+00:59:34.260 --> 00:59:58.500
+Main cryptocurrency and they take a cut of every transaction and have enough volume to effectively bought a basket of every cryptocurrency by investing in Coinbase. That was the premise there. Stripe it was they're an index on e-commerce and e-commerce will keep growing. Back then, now it's much more complex and there's all sorts of great drivers of its performance. Andrew was, hey, machine vision and drones are going to be important. AI and drones are going to be important for defense.
+
+132
+00:59:58.500 --> 01:00:22.770
+Well, that was it for the belief for the core but it was like cost-plats model versus, you know hardware margin, you know Andrel actually had four or five things that were important there That were kind of like a checklist for a defense tech company But for a lot of the other ones it was like the commerce is good. This is probably too inside baseball But what were the stages of the companies that you mentioned when you created the SPVs? roughly
+
+133
+01:00:22.770 --> 01:00:51.410
+Well, I first invested in Stripe when it was like eight people and then I kept following on and I ran out of my own money, frankly And that's when I started doing SPVs. So I think I did my first SPV in Stripe around the series C-ish We're in there something like that. Got it and were the others more or less similar-ish Instigart etc. You know, it's probably roughly in that ballpark CD kind of that range No, I didn't have funds and everything else and you know, I was putting as much as I could personally into these things
+
+134
+01:00:51.410 --> 01:01:18.100
+both earlier but obviously I just kept going when I could. When you're looking at trying to determine if something is a 0.5x or a 10x, in addition to the core belief, what are other layers of due diligence that you bring to bear on trying to ascertain that? Where something falls on that spectrum? I mean, I do enormous due diligence. So, you know, me with the CFO multiple times, walk through other financials, walk through the financial model, walk through customers, call customers, look at executive team, you know, it's a bunch of stuff.
+
+135
+01:01:18.100 --> 01:01:44.780
+My fund is the only one I know that actually does like cash re-conciliations where we'll go through and do a cash audit to look at cash flows for later stage things. So I do enormous diligence because I want to make sure I'm not doing something inappropriate. But the flip side of it is most of it just collapses into like what's the one thing. Also when I work with a company, I actually try to be very fast and straightforward on the diligence in terms of saying, let's just talk about, A, we need to just make sure financials are correct. And if you know, like there's the basics, but like
+
+136
+01:01:44.780 --> 01:02:12.270
+Let's collapse it down into one or two core questions, right? That help us understand if this thing will keep going. Not, here's 30 pages of questions that don't matter. Right? They're like, hey, we need to know the secondary cohort on this fucking thing that's like a tiny product that who cares? They just waste time, right? They waste a hundred times all the team's time. And I try very, very hard enough to do that as a former entrepreneur myself. I know how precious the time is and I know how annoying those questions are.
+
+137
+01:02:12.750 --> 01:02:37.470
+I was actually going to at one point ask you about this, but we don't need to spend too much time on it. You have a post. This is from a while back, 2011, listing questions. If you see will ask a startup, you omitted some of the questions like the one that you just mentioned, but I am curious if any of these questions or additional questions come to mind when you are talking to founders could be early stage or later stage.
+
+138
+01:02:37.470 --> 01:03:06.110
+that you actually apply yourself. And I know it's from 2011, so I'm not expecting you to remember the post itself. Yeah, I haven't looked at that post in a really long time. I'm actually writing another book now that is sort of the zero to one startup phase. And I guess into some questions like that, you know, I think the reality is venture capital has changed dramatically since I read that post, right? Because in 2011, the venture capital funds were largely doing like seeds through series, D, maybe, and then companies that go public. You know, this whole like
+
+139
+01:03:06.110 --> 01:03:34.930
+20 year private company thing didn't exist. Do you know why there's a four-year vest on stock? No, why is that? I can kind of guess now that we're talking about IPOs, but go ahead. Why? Yeah, in the 1970s they came up with a four-year vest on stock options for employees because companies would go public within four years and so then you're done. Yeah, yeah, yeah. Literally, right? And so it's like a four-year clock usually and then when Google looked six years ago public everybody's like, oh my gosh, it took them so long to go public.
+
+140
+01:03:34.930 --> 01:04:03.630
+Like they just flattened on their hands. Do you know what I mean? Yeah. Literally people would say that, right? And so what happened is venture capital used to be very early stage. And then what we now call growth investing was public market investing, right? That was the stop. People in the public markets would do after four or five years of a company's life. And so the public market used to be involved very early. And then as Sarbanes Oxley came out and companies decided they didn't want to go public and there's more private capital available.
+
+141
+01:04:03.630 --> 01:04:32.080
+the timeline until going public stretched out. And so suddenly venture capital firms are doing all the growth investing that used to be public market investing. And in 2011, that really wasn't happening much. It was kind of Yuri Milner from DST and a few other folks, but it wasn't that much of an industry. And so the nature of venture capital shifted radically over the last 15 years. And that means those questions that I listed there didn't include what I'd consider more growth-centric questions because there wasn't a lot of growth investing in venture.
+
+142
+01:04:32.080 --> 01:05:01.950
+What would be an example of growth-centric questions? Honestly, it would overlap with some of the earlier stages, but it would be much more, by the time you hit a very late stage, it's very financially driven. And so often what at least I and my team look at is what is just the core business and how do we extrapolate that going? And then what are these insular things that the company is doing that are almost like options in the future that may or may not come through? And so usually we base our investment on that core. Can they just keep doing the thing they're doing forever? Because most companies mainly get big off of one thing.
+
+143
+01:05:01.950 --> 01:05:31.100
+At least for the first decade, there's a very few companies that end up with multiple things that all work. It was with one thing and then 10 years later, it made me come up with the second thing that really works. It's like Google Cloud for Google, although obviously there's YouTube and there's a bunch of other stuff in Waymo and all these interesting things now. But it took a while for a long time to search, search and ads. But then sometimes there are these extra things that are potential really interesting drivers on a business. Like SpaceX was launched and then it became satellite, right? It became Starlink. Yeah, man, Starlink.
+
+144
+01:05:31.100 --> 01:05:58.580
+What a thing. It's too bad I have so much tree cover here. Can't use it anywhere I spend time. But let's turn to the high growth handbook for a second. That was, let's just call it seven-ish years ago. It is an outstanding book. People should really check it out. I mean, especially if you're playing in the venture-backed game. What's the subtitle? The subtitle is Scaling Startups from 10 to 10,000 people. There's a lot of good advice in this book. I wanted to ask you...
+
+145
+01:05:58.580 --> 01:06:22.300
+If there's anything in this book that you wish startup founders the book was intended for would pay more attention to or if there's anything that you would add or expand to the book. So when I read the book I had an outline for it that was two three times the length of the actual book in terms of chapter. So there's a lot of stuff I didn't write about sales and marketing and growth and a bunch of other stuff.
+
+146
+01:06:22.300 --> 01:06:50.700
+But, you know, the book was basically written as sort of like a tactical guide. It wasn't meant to be read it from start to finish. There's a bunch of interviews with different people who are, I think, amongst the best practitioners in the world of those areas. But, you know, fundamentally it was meant to be more like you're suddenly involved with the M&A, jump to the chapter and read that and then put it aside until something else comes up around hiring that you need to look at or whatever. And so it really is meant to be like a handbook or guide or companion to a founder versus, hey, I'm just going to read it, start to finish. Then there'll be some pithy quotes in it or whatever.
+
+147
+01:06:50.700 --> 01:07:20.420
+or one concept over 500 pages. I try to avoid stuff like that. It's very practical. It's very tangible. It's very specific. And this new book that I'm working on is basically the zero to one version of that. It's like, how do you hire your first five employees as a startup? How do you, somebody tries to buy you, what do you do? How do you raise your first round of funding, that kind of stuff? It's kind of like the zero to one technical guide. Let me ask you about one specific section. I think this is chapter two. This is on boards.
+
+148
+01:07:20.420 --> 01:07:49.730
+And if this is getting too in the weed stomach, we can hop to something else. But I am curious if you could talk about their two things. Take a better board member over a slightly higher valuation. And if you want to revise these, that's fine too. But there are two things I'd love to hear you talk about just because this is something that founders have been involved with bump up against constantly. Take a better board member over a slightly higher valuation and then write a board member job spec. And then specifically for independence, maybe I'd love to hear you maybe just elaborate.
+
+149
+01:07:49.730 --> 01:08:17.250
+But could you speak to either of those a bit? And if you want to take it a different direction, I mean, it's really just boards writ large. When founders pull together boards, often the early boards are investors because investors ask for a board seat as part of it or as part of the investment. And sometimes the founders want somebody on board who's really committed to the company and will help that extra. And to some extent, when somebody takes a board seat, it really means or it should mean that they're all in to help you versus, you know, you can have lots and lots of investors be a very few board members.
+
+150
+01:08:17.250 --> 01:08:46.690
+Reid Hoffman has this thing, which is like a board member at its best as like a co-founder that you wouldn't be able to hire and say you bring them onto your board and they kind of, it's somebody that you want to spend more time with on specific issues related to the company. But fundamentally, your board should be able to help with different areas of the company. It could be strategic direction. It could be closing to one of its, it could be product areas, it could be customer intros, it could be a variety of things. And usually you want to kind of think of your board members as a portfolio of people. It's going to change between an early stage company and a
+
+151
+01:08:46.690 --> 01:09:12.620
+late stage in a public one, you only different types of people over time usually. But most companies are very reactive on their board versus proactive. And so they tend to end up with a couple investors and then they kind of add somebody from an industry seat and they don't really think through like who they won and why. And if your co-founder is kind of like your spouse, your work spouse, your work husband or your work wife, your board members are like your in-laws.
+
+152
+01:09:12.750 --> 01:09:42.670
+You know, you have to see the prince giving and you have to like chat with them all the time, you know And so hopefully you have somebody you want to see all the time and who's helpful and wonderful and the bad version is like, oh, it's the like father-in-law or mother-in-law is always like berating you or whatever and so You kind of need to find the right person and it's for many many years, right? You end up sometimes the people on your board for a decade and if they're an investor you can't get rid of them Right, you literally can't fire this person because they have a contractual ability to be on your board because of the investment
+
+153
+01:09:42.670 --> 01:10:09.820
+That's why it's really important to figure out the right person and that's back to valuation. Sometimes founders will take a better price from a worse person because it's a better price. And our mutual friend, Naval, has this great quote that valuation is temporary but control is forever. Yeah. Very Naval. Very Naval. And I think that's very true. And so if you're choosing a board member and part of that is a control thing, people who control the board can in some cases fire the CEO.
+
+154
+01:10:09.820 --> 01:10:39.120
+You really want to choose the right people and maybe take a worse price for somebody who's really going to be helpful and they're minimally non-destructive and hope to have around for 10 years. Any other books or resources for people who are outside of the high growth handbook who specifically want to learn about boards, recruiting, incentivizing the co-founders that you couldn't hire to join the board, etc., etc. Any particular approach you would take there if they wanted to get more conversant?
+
+155
+01:10:39.120 --> 01:11:08.300
+I don't have anything super useful there. I think the best thing is to call other founders, other people who've added people to their board and see how they approached it. I do think writing up a job spec. You write a job spec for everything else in your company. Why wouldn't you write one for a board member? So it's good to write that up and say, what am I actually looking for and why and what am I optimizing for? So there's a common view of that. You know, you can use thrift firms, you can ask people, you can target people that you know, you know, if you have angel investors, getting to know them is a great way to see if you want to add one of them eventually to your board.
+
+156
+01:11:08.300 --> 01:11:34.130
+That's what we did. Howler, we eventually added Sue Wagner, who was a co-founder of BlackRock, on our board. Her other board seats were Apple, BlackRock, and SwissRU when she joined our board. I just got to know her through just like she invested and we just started working together and really enjoyed her feedback and insights. And so we added her to the board there. So it's kind of like that. You know, you kind of want to maybe get to know some people. Next, I want to come to our, we were joking earlier about the
+
+157
+01:11:34.130 --> 01:12:02.750
+in some case revisionist history, Genesis stories. I'm looking at this from 2018, this is a while back. This is on a Y Combinators blog and you're being interviewed about the high growth handbook. The end of this piece that I'm looking at says, these stories are never told. People always say, these things just grow organically and isn't it amazing. But almost every company ended up tens of billions or hundreds of billions in Merck Gap did this, which is,
+
+158
+01:12:02.750 --> 01:12:32.610
+taking an aggressive approach to distribution, whether that's sort of Google and the Firefox story or Facebook running ads against people's names in Europe. I just wanted to hear you tell some of these stories because it is the stuff that kind of conveniently that gets left out of TED Talks later. Do you know what I mean? Yeah, I mean, actually the origin stories for founders is always like, ever since Sarah was three years old, she dreamed of starting an accounting software firm. Yeah, like, come on. Do you know what I mean?
+
+159
+01:12:32.610 --> 01:13:02.990
+Yeah. Yeah. It's so ridiculous. And so a lot of the stories that are told about founders are very revisionist and they make it the life's passion of this. You know, it's sometimes it really is, but you're like, no, when there were five, they did not collect things and when that turned into Pinterest 30 years later or whatever, like it's not or that turned into always dreamed of building AGI when there were four. And that's why, you know, some almost started to open AI or whatever. So I think a lot of these things are very
+
+160
+01:13:03.250 --> 01:13:26.380
+kind of ridiculous in terms of how they're written later. And I think the product really, really matters and I think sometimes great product just wins. And the reason great product just wins is it opens up a form of distribution that didn't exist before or people will buy it despite the lack of distribution or relationships for a company. The flip side of it is that the companies that are really good have an enormously good product engine, and then they have an amazing distribution engine.
+
+161
+01:13:26.380 --> 01:13:51.630
+And sometimes a distribution engine is built into the product that's like cursor or a windsurf just distributing through product like growth where developers just find it and start using it and it helps them. And so they tell their developers in his press word of mouth, but often there's very aggressive sales, marketing, other components to it. And so for example, when I was at Google, they were spending hundreds of millions of dollars a year, which at the time was real money on.
+
+162
+01:13:51.630 --> 01:14:21.580
+putting search and they had this little thing called the toolbar that would like fit into a browser because right now browser is like with Chrome you type in words or whatever and then it instantly searches it back then the main browsers were like Nutscape and Internet Explorer etc. And the browser bar thing didn't exist and I had this little client app that you'd install and they paid basically every company on the internet to cross download it and now there was installing Adobe you're installing some malware detector thing it was saw and it would always download the toolbar because they got paid distributed right so very aggressive
+
+163
+01:14:21.580 --> 01:14:50.850
+tactics and you know, do you know Facebook and Facebook buying ads against people's names? Can you explain that? What are they doing? What was their end game? Yeah, they were basically trying to create network liquidity in markets where they were earlier behind and so they would basically buy ads of literally a person's name and one of the most common queries is people searching themselves. And so you'd be like, oh, let me look up Tim Ferriss on Google or whatever. And there'd be a Facebook ad saying, hey, Tim Ferriss on Facebook and you'd click and land on the sign up flow for Facebook. This was years ago.
+
+164
+01:14:50.850 --> 01:15:17.620
+This was TikTok and ByteDance. It was basically they spent billions of dollars distributing TikTok so they could build enough of a network to train algorithms to start telling people what to do and also to get content cores on. Where did they spend that money on distribution in this case of say, TikTok? My sense is it's ads again. You kind of see this over and over again. I mean, for enterprise, Snowflake spent billions of dollars on salespeople and compensation and channel partnerships. So again, like distribution is really important.
+
+165
+01:15:17.620 --> 01:15:46.210
+Every once in a while you see a company that actually wins not because of product, but because they're just better at sales and marketing and distribution. And often that's a bummer for technologists such as myself because you're like, you know, the product should always win. Sometimes it does, but sometimes it's just who was early and developed a brand or who got ahead on distribution, you know. I'm looking at a piece in front of me. This is from a while ago, but it's you discussing long-held dogma that ends up
+
+166
+01:15:46.210 --> 01:16:16.340
+being unbiable. So for instance, the common held belief after PayPal sale to eBay that fraud will kill you in the payment space. I'm wondering how you orient yourself as an investor to stress test those types of dogma. It's really hard because you start out with some set of beliefs. You think something's interesting. Maybe you invest in it. Maybe you start a company in it. And then it turns out that the thing you think is really interesting turns out to be really hard and you get killed. And then five years later, a company comes up that actually does it and wins.
+
+167
+01:16:16.340 --> 01:16:46.290
+The question is why? Why did the thing suddenly work when it didn't before or you know, there's 10 attempts to do X and then suddenly is it the technology got good enough? It could be a regulatory change. It could be a market shift. It could be whatever. An example that may be Harvey and legal where selling the law firms traditionally has been awful. And Harvey's not much broader than that, right? They also had very strong enterprise adoption and you know, lots of different people using them in different ways, but the dogma was always like building stuff for law firms as crappy as a business and you should never do it.
+
+168
+01:16:46.320 --> 01:17:12.530
+But what AI did is it shifted things from selling tools to selling work product or selling units of labor That's really the shift in generative AI. We're going from seats and we're going from software and SAS and we're moving into a world where we're selling human labor equivalents We're selling work hours or labor hours or whatever you want to call it. It's a cognition and so Harvey is effectively helping really augment lawyers in different ways
+
+169
+01:17:12.750 --> 01:17:42.580
+And part of that's a knowledge corpus, but a lot of it is this tooling that really helps lawyers achieve the goals that they have in different ways in a collaborative manner in some cases. And so this is a fundamentally different type of product from what people were selling before. And so it opened up the market in a way that the market wasn't up before. There's actually a broader conversation around is the world market limited or founder limited in terms of entrepreneurial success. The wide combinator school of thought is that we just don't have enough founders and if we had 10 times as many founders, we'd have 10 times as many big companies.
+
+170
+01:17:42.640 --> 01:18:10.000
+And there's an alternate school of thought which is how many markets are actually open in any given moment in time. And those are the ones where you can build big companies because if the market isn't open to innovation or change or whatever is undergoing a shift, you can't really build anything or anyhow. So why do it? And the striking thing about AI is it's opened up tons and tons of markets that were closed for a long time. And it's opened it up because of capabilities, but it's also opened it up because every CEO is asking themselves what's my AI story.
+
+171
+01:18:10.190 --> 01:18:40.300
+And the worry more open is to try things than I've ever seen in my life. And so we have this odd moment in time where things are massively available for founders to do new things. And if you're a AI company and you're not seeing explosive growth quickly, something's fundamentally broken because the markets are so open that you can suddenly grow at a rate that you've never grown before. There's always been cases of companies that just go like this. But again, you look at the ramps of open and anthropic and it's the fastest ramps to tens of billions ever. Like percentages of GDP. It's like crazy.
+
+172
+01:18:40.300 --> 01:19:09.410
+If we come back to your comment of not necessarily market first and strength of team second all the time, but like you said, you 90% agree with that. And if you have an excellent team in a terrible market, like that's going to be a difficult one to execute. How do you determine what is a good versus great market or just what is a great market? What do you look for? And the example you gave, I might be over-reading this, but when you said that when Google shut down, I think it was Maven.
+
+173
+01:19:09.410 --> 01:19:34.380
+That's an interesting kind of event-based approach as an input to investing, right? Because you're like, okay, if they're not going to build it, that suddenly creates a playing field for startups to play in that space. So could you speak to more of how you determine or look for great markets? I mean, there's a few different ways to think about it. One is like, some people take the framework of why now.
+
+174
+01:19:34.380 --> 01:20:02.560
+What's shifted now that makes it something an interesting market because people have been trying to do things for a long time in every market. And so that may be a regulatory shift. Some SARA, the fleet management company, benefited from the fact that some of there's regulation around needing in-cap monitoring of drivers. So you had suddenly cameras watching people so they don't fall asleep while they're driving trucks on the road. And so that was their entry point at that start building, not a suite of software. But it was a regulatory shift. Sometimes there's technology shifts like what's happening in AI. And the crazy thing about the AI shift is
+
+175
+01:20:02.560 --> 01:20:28.510
+The foundation models instantly plugged into a massive set of markets, which is basically all enterprise data and information and email and just all-way color work was suddenly available to AI. Because it was the perfect technology for that. It also plugged into code, which is a type of white color work. So suddenly it just inserts into language and languages used everywhere in enterprises as well as in consumers. So there's just a massive market to tap into and transform or set of markets.
+
+176
+01:20:28.510 --> 01:20:55.460
+Robotics is a little bit different from that because even if you had the world's best robotic model, the sub markets that already have robotic hardware are quite small on a relative basis. And so you don't have that instant runway that you would with language unless you come up with something new there. That's kind of an aside. But I think robotics is really interesting and will be important. It's more just that nuance of like, what's the instant thing you plug into commercially? There's regulatory shifts, there's technology shifts, there's incumbency or company shifts, competitive shifts.
+
+177
+01:20:55.460 --> 01:21:23.580
+A company may blow itself up, they may get bought by a competitor. One company I'm excited about on the security side is called InPhysical and they're basically competing in part with Hashie. Hashie got bought by IBM. Anytime you get bought by IBM, you slow down a lot, usually. Suddenly it creates more opportunity for a startup. So I just feel like there are these different things that can change at a given moment in time. They could be the market's growing really fast. That's Coinbase and crypto, right? You just have something of this adoption and proliferation of token types. So there's lots and lots and lots of different.
+
+178
+01:21:23.580 --> 01:21:48.670
+Markets that are interesting the commonality is usually like is it also big is there a big enough town and there's two types of town is there's fake town? So yeah, just for people listening you might not have it your total addressable market. Yeah, yeah, it's probably so market So what's a market you're in and so nice people come up with these fake markets. They're like, oh well We are facilitating global e-commerce and global e-commerce. I'm making up the number is 30 trillion dollars a year
+
+179
+01:21:48.670 --> 01:22:17.580
+And so we're in a $30 trillion dollar market. And if we get just a tenth of a percent of that, it's $300 billion of revenue, like that's not your market. Your market is like, you built this little optimization engine for SMB websites or whatever. That's not a $30 trillion dollar market. So really it's kind of defining the market. There's a really famous example of this where defining your market changes how you think about it. And so that was Coca-Cola. Coke and Pepsi were roughly neck and neck in terms of market share for decades. And then one of the
+
+180
+01:22:17.580 --> 01:22:46.610
+Coke CEO said, hey, maybe we should be thinking about our share is share of liquid sold like drinks, not share of soda. And so we just went from 50% market share to 0.5%. And that's why they bought the Sony and that's why they entered all these other markets, right? Because they said our definition of our market is wrong. We're out of the soda pop business, we're in the drinks business. And so I think also sometimes reconceptualizing what you're doing can really help change your scope of ambition or how you think about what you're doing.
+
+181
+01:22:46.610 --> 01:23:13.280
+If you were trying to spot along the lines of the fraud will kill you in the payment space, right? Any dogma in the AI world, the sphere of AI, anything hop to mind where you think, eh, maybe that's not true now, or maybe in like two years, it'll be completely untrue, but people will have latched onto this belief as one of the thou shalt not or thou shalt commandments.
+
+182
+01:23:13.280 --> 01:23:42.300
+Yeah, I don't know. I mean, there's some things that have circulated in the past around what's the ROI and the capex spend of then will it ever be paid back? I think that stuff is probably off. I think fundamentally there are moments in time where it's very smart to be contrarian and moments in time where being consensus is the smartest possible thing you can do. And I think right now we're in a moment in time where being consensus is very right. You know, you can really overthink it and what's a contrarian thing. We should go do a bunch of hardware stuff because blah, blah, blah.
+
+183
+01:23:42.300 --> 01:24:11.440
+You know, I can manage to buy more AI. I think people make these things way too complicated. Yeah, true. In every aspect of life, probably. Let's just say you were mentoring. This is somebody you really care about. We can make up an avatar, whatever. Nephew of one of your best friends, or son of one of your best friends, daughter who's really smart, got an engineering degree, came out of MIT, has a couple of hits in angel investing, and they're like, all right, I think I'm going to raise a fund.
+
+184
+01:24:11.440 --> 01:24:40.300
+but they don't have the access necessarily that you do to AI. Let's just say, are there any things categorically you would say would be on the do not invest list because they're likely to be annihilated or consumed or replicated by AI? I think the reality is that when people start off as investors, a lot of the times the reason they have early stage funds is because you can always get access to the earliest stages of companies if you just start helping people.
+
+185
+01:24:40.300 --> 01:25:07.760
+I mean, that's kind of what I did accidentally, but the reality is I've seen it over and over. You follow in with the right group of people because the smartest people all self aggregate together and you just start helping people out and they just ask if you want to invest and you start investing and some of you have a great traffic herd and you raise bigger funds and then you go later stage. That same cohort has grown up and they've started doing later stuff and then suddenly you can get access to everything else, right? That's kind of the traditional venture story and it has been I think for decades in some sense.
+
+186
+01:25:07.760 --> 01:25:33.280
+I think that's still very tenable and you can still be afraid for anything. I don't think you have to go off and do like investing or something. You have mentioned in the past a key learning. Maybe that's an overstatement, but you can correct me from Vinod Kosla. And I think the wording is along the lines of your market entry strategy is off it different from your market disruption strategy. Yeah. Can you speak to that?
+
+187
+01:25:33.280 --> 01:25:59.940
+Two or three versions of this version. One is you do something that's really weird and it starts off looking like a toy and then it turns out to be really important. And that would be Instagram or Twitter or some of these more social products, right? Where the initial use case is very different from how it's used today and it kind of evolved as a product and how people perceive it and use it. And that's one version of it. And that's usually more consumer centric. Another version of that would be SpaceX and Starlink where they started off with launch and getting things up into space. And they realized, hey, they have a cost advantage for satellites.
+
+188
+01:25:59.940 --> 01:26:29.810
+And then they built out the Starlink network, which is now like a major driver of their business. And so what they did expanded a lot and kind of shifted in terms of their market entry with Space Launch, their disruption is Starlink in some sense. So I do think there's lots of examples like that over time. Coming back to information and consumption, how do you consume most of your information? What would the pie chart break down to in terms of if you listen to podcasts versus books versus
+
+189
+01:26:29.810 --> 01:26:57.870
+X versus white papers versus something else. I think a lot of what I've done is collapse into three things. It's X. It's reading some technical papers, slash journals, in some cases, if it's more of the biology side. Although I don't do biology investing, I just like it. But, you know, papers is, although the papers in the AI industry had really dropped off given the competitive nature of everything now. And then talking to people. And so I found that like 20 minutes with somebody really smart on a topic,
+
+190
+01:26:57.870 --> 01:27:27.330
+gives me more information and insights and leads on what to go read about when doing some exhaustive sorts. Actually, the fourth thing is now using models to do research for me. That could be OpenAir, that could be Cloud, that could be Black City, that could be Gemini, but and for each of them actually use different things or I do different things with each of them. What do you do with the different models? I'll just give you one example versus go through every single one of them, but Gemini I actually feel like if I'm looking up more like activities like, hey, I'm planning a trip somewhere.
+
+191
+01:27:27.330 --> 01:27:55.790
+I actually feel like the Google Corpus and all the stuff they built over time is quite usable for like travel tips with four types. And so that'd be a gemini specific thing. That doesn't mean the other models can't do it well. It's more just like I've tended to get more accurate rankings of things that way. And also for like breakdowns and rankings across multiple dimensions and all this stuff for scoring and things. I did like a deep dive on a few different areas of like ADHD and ASD. What's ASD? Oh, I'm sorry. It's autism spectrum. I see. I got it.
+
+192
+01:27:55.790 --> 01:28:21.950
+So basically, like if you look at autism, it went from I'm going to misquit the numbers. So, you know, I should look at it later. But I think it's something like one in a few thousand of the population was diagnosed with autism like 30 years ago, 40 years ago. And now it's like 3%. So you're like, well, what is that? Is that a change in older parents having more kids, which it turns out that that's not the driver? Is it some shift in the environment? It turns out it's just diagnostic criteria shifted.
+
+193
+01:28:21.950 --> 01:28:47.020
+And there's a lot of incentives to actually diagnose people in the schools. That's roughly the summary of why we have so many kids that are classified as either having attention deficit, where there's also like a financial incentive for doctors to do it because they can prescribe drugs versus autism, but both have gone up dramatically in terms of diagnoses. And it's unclear to me that more people actually have it, as it's diagnosed dramatically more broadly. Which model were you investigating that with?
+
+194
+01:28:47.020 --> 01:29:16.350
+Usually when I do things like that, I use two or three models at once, and then I ask for primary literature, and then I ask for summary charts. And I actually have this whole breakdown of stuff that I asked for it to output so that I can go back and double check the data, and then reread the literature and everything else. And there's really interesting things that came out of the autism one in particular because it turned out maternal age actually has a bigger impact than paternal age in some of the studies. And people always talk about paternal age. And then you're like, well, why are people only talking about paternal age? Is there a societal incentive for that?
+
+195
+01:29:16.350 --> 01:29:43.620
+political belief system like why is that the point of emphasis? So there's other things that kind of come out of that in terms of questions in terms of the why of things. Why were you looking into that specifically? I saw it was interesting. Yeah. Okay. God. Seems like it's gone up a lot. Let me try to understand why. And so I started looking into it. I was also talking to a friend of mine in her sort of mid to late 30s.
+
+196
+01:29:43.620 --> 01:30:12.930
+And she was dating a guy who was in his late 40s, early 50s, and she brought up, oh, she was worried about autism and what would happen with them if they had kids and all the stuff. And so then I did this deep dive as part of that too. The takeaway was, I can't remember exactly what it was. It was like, I'm making it up. So please don't quote me on this. I can look it up later. But it was like, there's a 10% increase for every five to 10 years in criminal paternal and maternal age. And again, maternal was actually a little bit stronger in some of the data sets.
+
+197
+01:30:12.930 --> 01:30:40.900
+And the thing is though, if you believe that it's one in 5,000 or one in whatever in the population, that 10%, 20% difference doesn't matter from a population frequency perspective. It's just diagnostic criteria went way up. Yeah, that's true for a lot of diagnoses. A lot of stuff. But like, societally we're told, oh, it's the age of the parents that's driving all these autism rates up and you're like, no, it's like all these incentives. And then you look at some of the school systems, it's like 60%.
+
+198
+01:30:40.900 --> 01:31:04.510
+Of all the autism diagnoses and I think it was a state of New Jersey or something were not actually based on any clinical criteria. It's just a teacher randomly saying this person is autism. God, terrible. You start to get into these things and you're like, wow, this is super interesting and these models are really valuable and helpful for that. So I've been doing a lot of back here question of where do I get information. Part of it has been these deep dives with models and like questions that I just find interesting where
+
+199
+01:31:04.510 --> 01:31:33.940
+I asked them to aggregate clinical trial data or aggregate different types of information and they give me the primary sources and then give me summaries and double check things. And so I have like a whole series of prompts around that to kind of also clean data and check it and that's really fun. And then I always set it up in local models and just see like what they each come up with. When you talk to people, this may be too much of a kind of amorphous topic for us to dive into in a meaningful way. But let's just say you find somebody you want to talk to for 20 minutes.
+
+200
+01:31:33.940 --> 01:32:03.170
+How do you typically find those people? I suspect there are a lot of ways, but are you finding them on X versus finding them in a technical paper versus finding them somewhere else just to get an idea? And then when you get on the phone with such a person, are there repeating trains of questioning or certain ways that you like to approach it? I think there's three different types of things. One is, hey, I'm doing a deep dive in an area just because I think it's interesting or maybe it's relevant to like an area I want to invest in. Often honestly, this is interesting.
+
+201
+01:32:03.170 --> 01:32:30.530
+And then I'll try to quickly triangulate for the smartest people on the thing and that may be technical papers that may just be asking each person I talked to who's really smart was one form of that which is hey it's very informational and I'm trying to do a deep dive on something. I mean I work with some of the early AI researchers at Google that's how I knew like Noam Shaziar we started a character and then went back to Google and then I've met a bunch of other folks but some of the people I just met you know just the interesting paper let me look them up or hey everybody says this person's really smart let me talk to them. That's one form.
+
+202
+01:32:30.530 --> 01:32:57.710
+A second form is I do think really smart people tend to aggregate, and so if you're just hanging out with smart people, you keep meeting other smart people. And people who are polymathic tend to hang out with people who are polymathic. It's kind of like attracts like frauds or things. So that's sort of a second set. Those are probably the two main things. I mean, sometimes people also just refer people over to me. They'll say, hey, I think you two would like chatting. There's a separate thing, which is there's people that I go back to recurrently, which is more like, I think this is one of the smartest people about...
+
+203
+01:32:57.710 --> 01:33:27.540
+Where AI is heading and let me talk to them all the time or There's a one of the smartest people about longevity like Kristen the CEO by way, did I call some times about random longevity related things because she knows so much about every topic in it. She's very Thoughtful she's very willing to question her own assumptions. It's very just like Truth-seeking in a way that aren't and people always use that term and say but she really is just like what's correct Let me just figure it out. She's like a PhD
+
+204
+01:33:27.540 --> 01:33:54.580
+and postdoc and like bioinformatics and aging and you know she's super legit and so that's an example of somebody they'll call for like longevity stuff. So I just have certain well I'll call for certain topics. So you have literacy in biologies it's kind of quaint how you know I went to the first quantified self-made up and whatever it was 2008 or something with 12 people sitting around and Kevin Kelly's house talking about measuring things with
+
+205
+01:33:54.580 --> 01:34:23.490
+Excel spreadsheets, the world has changed. So there are armies of tens of thousands of self-described biohackers and so on talking about longevity. There's a lot of nonsense for yourself personally. Where have you landed in terms of interventions or thinking about interventions for yourself? I haven't done a ton. It feels like a lot collapses into like sleep well, exercise a lot, etc. Like, is that a handful of things that kind of matter? E-Well.
+
+206
+01:34:23.490 --> 01:34:49.680
+And so I've kind of collapsed on that stuff. I think there's one or two things that maybe you can take that are helpful and then there's some things I always thought would be fun to experiment with that I haven't done yet. Like what? I thought it'd be cool to try like a wrap on my simple or something. So stuff like that. But the reality is that I'm kind of waiting for the real drugs to come out and then maybe I'd use those. Some of the ones that I actually think were really impinge on longevity or certain systems like we were talking earlier about.
+
+207
+01:34:49.680 --> 01:35:14.340
+as you age muscle that holds the lens of your eye weekends and that's part of the reason that your your ability to focus kind of gets screwed up and so there should be eye drops for that like there's a bunch of stuff around neurosensory aging that I'd love to fund a startup there's a bunch of stuff around the cosmetics of aging that have long been talking about trying to find actually funded clinical trial at Stanford to work on that for example because I think it's very your message in and peptides to me is basically that I think a lot of
+
+208
+01:35:14.340 --> 01:35:43.700
+people are taking peptides as certain forms of health, but also certain forms of cosmetic applications like 5HKCU and melatonin and all these things are basically cosmetic in nature. You mentioned a handful of things that seem helpful to take. Are those just vitamin D or are we talking about other things? What are on that short list? Vitamin D and creatine. Yeah, got it. I don't know, work on your list. I mean, you've thought about this so much more than I have. What are you taking or what are you thinking about? I'm much more conservative than I think people would expect.
+
+209
+01:35:43.700 --> 01:36:11.020
+played around with a lot of things in my earlier days and a lot of it is very, I would say, capped risk if you're experimenting as I was with first-generation Dexcom continuous glucose monitors in 2009, very unpleasant to wear and I might have been, I wasn't aware of any non-type 1 diabetics using them at the time, but I wasn't using much in terms of
+
+210
+01:36:11.020 --> 01:36:39.650
+let's just say questionable gene therapy flying to other countries to use something like a fallastatin not to throw it under the bus, but I feel like the general surestic of no biological free lunch I recognize it's very simplistic, but it's pretty helpful at least it will aid you in avoiding a lot of pitfalls so I mean there are things I'm experimenting with different forms of ketone esters and salts for instance I think some could be very very interesting for
+
+211
+01:36:39.650 --> 01:37:03.070
+cerebral vasculature and since I have Alzheimer's disease, Parkinson's, etc. in my family, including for people who are ApoE33, so there are certainly many other risk factors, I'm paying a lot of attention to that side of things. You know, obisetropib, I think, is one to keep an eye on that's not yet ready for primetime, but rapamycin is interesting.
+
+212
+01:37:03.070 --> 01:37:31.100
+I do think rapamycin is interesting with a lot of asterisks because you can screw yourself up if you don't know what you're doing. If you're playing with any immunosuppressant, I mean, you just have to be very careful. But looking at combining that, for instance, one of the experiments that I might do is, and I would have a cleaner read of signal if I only did one intervention, but real life is different from waiting for science sometimes.
+
+213
+01:37:31.100 --> 01:37:59.740
+So possibly combining like Norwegian 4x4 interval training with Rapamycin pulsing to look at volumetric changes, if any, in the hippocampus and other areas. I think that's a pretty interesting hypothesis we're testing. But otherwise, it's basic basic, right? It's creatine. It's the vitamin D is look if you have methylation issues or you're taking medication as I am like omeprazole, which
+
+214
+01:37:59.740 --> 01:38:29.020
+can inhibit magnesium absorption and other things like you want to keep an eye on that but not too fancy. You know, I think your Lithin A is pretty interesting. The data keeps mounting on that. I do have a key and interest in mitochondrial health. So if there are things which could also include regular intermittent fasting and occasional three to seven day fasting, which could be a fast mimicking diet most recently for me based on the input from
+
+215
+01:38:29.020 --> 01:38:57.070
+Dr. Dominic Dagestino trying to foster autophagy and mitophagy with some regularity. Not all the time. I'm not trying to optimize for that all the time. One thing I've been wondering, so if you look at like a computer and often the key to fixing your laptop or the key to fixing any system is you just fucking reboot it, right? Yeah. You reload the system and it just works magically and there's a bunch of cruft that kind of a came up. Is there like a
+
+216
+01:38:57.070 --> 01:39:24.400
+Equivalent of that is it like going under for anesthesia is it? Some nerve like freezing thing that some people have been doing recently. Yeah, I don't know. Sounds scary. Oh, maybe still a ganglion block. Yeah, that's it. The cell ganglion block. Yeah. I mean the rebooting I'm letting out an exhale because there are some interesting options for very specific use cases.
+
+217
+01:39:24.460 --> 01:39:52.610
+It makes sense conceptually, you're more qualified to speak to this, but I would say just spending a lot of time around neuroscientists, and I spend a lot of my time in terms of information intake, reading, or doing my best. Fortunately, with AI tools, it's become a lot easier, not just getting a synopsis, but actually using it to help you learn concepts that you can kind of layer in some rational sequence, but it read a lot of neuroscience stuff.
+
+218
+01:39:52.610 --> 01:40:12.290
+And a lot of optical stuff, there's actually a surprising amount of, I mean, there's maybe not so surprising, like very strong intersection there. So if you're looking at like PBM and photobiomodulation through the eyes, I mean, you can do it transcranially as well. I would give a note of caution for that for folks. But the reboot side, I would say, for instance,
+
+219
+01:40:12.290 --> 01:40:41.150
+And people have experienced this to a lesser extent with GLP1 agonists. If they take it for weight loss, maybe they stop smoking or they cut back on drinking or they have these kind of system-wide decreases or increases in impulse control. For someone who's saying opiate addict, I think that Ibogaine, which in the future may take the form of an active metabolite or something like that,
+
+220
+01:40:41.150 --> 01:41:06.750
+in flood dosing, at least that seems pretty necessary at this point, relatively high doses. Under medical supervision, because you can have fatal cardiac events, co-administration and magnesium seems to help, but it's dangerous stuff. People should be careful. You can, and there are lots of people historically who deserve a lot of credit for this, like Howard Lotsoff and his wife, but opiodatics can go through
+
+221
+01:41:06.750 --> 01:41:35.460
+flood dosing of Ibogaine and come out and they're basically given a window with which they won't experience withdrawal symptoms, physical withdrawal symptoms. And I think there are probably applications to other things with Ibogaine or pharmacological interventions like Ibogaine. And some of the craziest stuff honestly related to that molecule is, and I'm skeptical of this simple description, but sort of reversal in brain age. So it changes in
+
+222
+01:41:35.460 --> 01:42:04.050
+the brain based on MRIs, Nolan Williams, Rest in Peace, and his lab looked at this pretty closely, pre and post-dosing of Ibogaine for veterans with traumatic brain injury. And some of that might be due to something called glial-derived neurotrophic factor. People might be familiar with like BDNF. So Ibogaine is one interesting option. Anesthesia, I've become a lot more cautious with
+
+223
+01:42:04.050 --> 01:42:34.160
+general anesthesia. I just had surgery yesterday and I opted for local anesthesia, which in this case was not a big deal because it was just you can see it had something cut out of my head. But coming back to the, and I'm going to riff for a second here, but the autism spectrum disorder and ADHD example you are unpacking where you talked about the incentives, they might be in perverse incentives to diagnose. Well, I mean,
+
+224
+01:42:34.160 --> 01:43:01.740
+not to quote monger right but like follow the money right and a lot of people are put under general really don't need to be put under general but it adds a very very very huge. Line item to the tab and there are people who go under anesthesia and wake up and do not retain. The same ability to recall memories and so on like their personalities become.
+
+225
+01:43:01.780 --> 01:43:27.520
+in some way destabilized. And the fact of the matter is that a lot of anesthesia is very poorly understood. We know it works, but it's very poorly understood. And I don't think a lot of people realize because why would they unless they've just spending a lot of time looking into this. There are lots of medications that are incredibly well known, commonly prescribed,
+
+226
+01:43:27.520 --> 01:43:56.540
+for which the mechanisms of action are really poorly understood if they're understood at all we know based on studies they appear to be well tolerated like side effects profiles include a through z. And it certainly seems to exert this effect or have an impact on biomarker acts but we don't actually fucking know how it works and there's just a lot of stuff that falls into that bucket and so i am cautious with a lot of it but to come back to your question i went off on a bit of a Ted talk.
+
+227
+01:43:56.540 --> 01:44:23.860
+The most interesting reboot that I've seen, I don't want to really water it down to like the dopaminergic system because there's a lot more to it. But I began, I think, more so than I began itself shows what is possible. And I don't know if that's limited to drugs. I am very bullish. They're going to be fuck ups. They're going to be some sidebars that don't look so good, but brain stimulation and bioelectric medicine, broadly speaking.
+
+228
+01:44:23.860 --> 01:44:52.980
+is one of the great next frontiers certainly in treating what we might consider psychiatric disorders but also for performance enhancement and we're at a point kind of looking for those external why now answers right there are actually some really good answers to why now for this is a field and i think people will be experimenting a lot with this but without the use of pills and potions and ivs and actually non invasive brain stimulation maybe some.
+
+229
+01:44:52.980 --> 01:45:20.000
+invasive in the case of implants. So that's a long answer. But yeah, that's somewhat I'm thinking about and tracking. I mean, some of this stuff we'll see. But I think a lot of this stuff could be outpatient procedure. You walk in, you're in there for an hour or two, and then you're out. So we'll see. Let me ask just a couple of last questions. And then if there's anything else we want to bat around, we can bat it around. But I appreciate the time. A lot of five years from now is looking back at a lot of today. Are there any
+
+230
+01:45:20.000 --> 01:45:49.780
+Beliefs positions could be related to AI or otherwise that you think are more likely than others to be wrong I think those are the things that gonna get wrong and I think we're living through a period of big changes means big uncertainty and so I wouldn't be surprised if half the things I think are gonna happen don't or happen even more so or whatever maybe and that's part of the fun of it You know in terms of if we had a perfectly predictive future it'd be very boring right because we know exactly what's going on and that'd be awful We just ties into notions of free will and all sorts of other things right
+
+231
+01:45:49.780 --> 01:46:17.390
+So I think, you know, I'm sure there's a lot. There's a separate question of just one exercise I've been going through recently is, and I've never done this before, you know, a lot of what you do in life, it's back to the John Lennon quote, like, is what happens when you're making other plans. For the first time, I'm actually thinking like, what's my tenure plan across a few different dimensions of life. And the basic question is, you know, I won't get it right. I can try and have a plan for 10 years. Of course, it's not going to be what I think, but it's more, does it change the scope of ambition?
+
+232
+01:46:17.460 --> 01:46:46.770
+that you have. Does it change how you think about life? I've been trying to think in those terms like what do I want to do over the next decade? And that what does that mean in terms of the near term what I do? In order to get there in 10 years and so I think that's been very eye-opening for me in terms of shifting some of my mindset around what I should be trying or not trying to do. Now the AGI PELD people will say well in two years we have AGI so it doesn't matter where your plans are. But I find that to be a very kind of defeatist view of the world, you know, it's like I'm gonna give up
+
+233
+01:46:46.770 --> 01:47:16.770
+versus saying, great, I'm going to have this plan and I can adjust it as needed. But through this time of change, there'll be some really interesting things we'll be to do in the world.
+
+234
+01:47:16.770 --> 01:47:44.910
+Yeah, thanks man. Always a pleasure and to everybody listening or watching, we will link to everything in the show notes, Tim.Logs. Podcast. And until next time, as always, be a bit kinder than is necessary to others, but also to yourself. Thanks for tuning in. Hey guys, this is Tim again. Just one more thing before you take off and that is Five Bullet Friday. Would you enjoy getting a short email from me every Friday that provides a little fun before the weekend?
+
+235
+01:47:44.910 --> 01:48:07.500
+Between one and a half and two million people subscribe to my free newsletter, my super short newsletter called Five Bold Friday. Easy to sign up, easy to cancel. It is basically a half page that I send out every Friday to share the coolest things I've found or discovered or have started exploring over that week. It's kind of like my diary of cool things. It often includes articles I'm reading, books I'm reading,
+
+236
+01:48:07.500 --> 01:48:31.540
+albums, perhaps gadgets, gizmos, all sorts of tech tricks and so on that get sent to me by my friends, including a lot of podcast guests and these strange esoteric things end up in my field. And then I test them and then I share them with you. So if that sounds fun, again, it's very short, a little tiny bite of goodness before you head off for the weekend, something to think about.
+
+237
+01:48:31.540 --> 01:48:47.550
+If you'd like to try it out, just go to tim.blog.friday. Type that into your browser tim.blog.friday. Drop in your email and you'll get the very next one. Thanks for listening. You guys know I love wearables. I'm sure you do as well. And they're great.
+
+238
+01:48:47.550 --> 01:49:10.400
+but they give you data typically they do not give you solutions. That's why I absolutely love the pod by this episode sponsor 8 Sleep. I've been using their stuff for many, many years now. It fits over your existing mattress, tracks your heart rate with 99% accuracy plus respiratory rate, HRV and sleep stages. It is wild how much it correlates accurately.
+
+239
+01:49:10.400 --> 01:49:40.140
+to the stuff that you wear on you. Then the pods autopilot analyzes your biometrics and automatically adjust your bed temperature while you sleep with independent temperature control for couples. Also important for domestic peace. Users report falling asleep up to 44% faster. This matches with my experience. I've experimented with all sorts of stuff, countless sleep aids, and I've yet to come across a better solution that both measures and fixes my sleep within the same system.
+
+240
+01:49:40.140 --> 01:50:00.910
+Summers don't need to mean terrible sleep. So go to 8sleep.com that's spelled out. E-I-G-H-T 8sleep.com slash Tim and use code TIM for $350 off of the Pod 5. With their 30-day trial and free returns, you can try it out risk-free. So check it out. 8sleep.com slash Tim.
+
+241
+01:50:01.940 --> 01:50:28.800
+Readers of the 4-hour workweek know that I love automation. I do not like decision fatigue. I don't like doing things repeatedly. Anywhere I can set it and forget it is a win and gives me more time for the things I enjoy doing. That is why I'm such a fan of today's sponsor, Matic. As in automatic, M-A-T-I-C. As their tagline goes, the world's most advanced floor cleaner. Frankly, it does a lot more than that.
+
+242
+01:50:28.800 --> 01:50:41.040
+They've got a lot of cool things coming, but it's the closest thing to a house that cleans itself. To quote Wired Magazine, quote, this is the best robot vacuum we've tested and it's scored a rare 10 out of 10.
+
+243
+01:50:41.040 --> 01:51:04.820
+Matic learns your home and runs quietly in the background. It's very very quiet. I've been testing it myself. It vacuums, mops, docks itself and doesn't strangle itself on charging cables or you're wedged under your couch. It's pretty amazing and people with kids and dogs have been telling me all about it. I put out a note on social asking how people liked it, if they liked it and their response was kind of mind-blowing. Not only because the comments were
+
+244
+01:51:04.820 --> 01:51:30.420
+overwhelmingly exuberantly positive, but my phone blew up. I got texts from nearly a dozen friends telling me how much they love their Matic. So that wasn't first. So to quote another media outlet, The Verge writes, this Wally-like bot fixes the stuff every other robot vacuum gets wrong. And there are tons of people involved with this who I respect a lot. We've got Silicon Valley legend Naval Robocot and Shopify CEO Toby Lutke. They love theirs.
+
+245
+01:51:30.420 --> 01:51:54.350
+And as I mentioned, their investors and my friend Kevin Rose has been raving all about it. The list goes on and on. So check it out. See what all the buzz is about. Go to matikrobots.com. That's M-A-T-I-C robots.com matikrobots.com. And experience the closest thing to a house that cleans itself. New customers get free bags for a year. One more time matikrobots.com.

@@ -1,0 +1,609 @@
+WEBVTT
+
+1
+00:00:03.920 --> 00:00:33.380
+This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from three Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, Dan Bordelotti, Portfolio Manager, and Banda Wilson, head of M&A at PWL Capital. Good to be back. Yeah, good to be back. This episode 406, exciting to get into the main topic later on this episode. But before we get to that, exciting news that many people have probably already heard by the time this episode is coming out.
+
+2
+00:00:33.380 --> 00:01:02.910
+PWL made a pretty cool acquisition in Vancouver, BC, partnered up with the McDonald's, Shimko and company team out in Vancouver. So we now have a great team out there and officially a PWL office space. So as we continue to grow and find like-minded advisors that are implementing a similar philosophy and financial planning driven approach to their clients, we are expanding our presence across the country. And this is a great.
+
+3
+00:01:02.910 --> 00:01:31.730
+team to be partnered with. Pretty well-known financial planning firms have been around for a long time and pioneers in that industry specifically feel-only planning, I think originally, spitting to have them on board. If the only planning pedigree and they went into portfolio management and on that side of the business, they're super, super aligned with the way that PWA operates. You said pioneers down, I was going to say OGs, but you know, they're one of the oldest financial planning firms.
+
+4
+00:01:31.730 --> 00:02:01.570
+around and have been in business for a very, very long time and they've been super involved with moving the financial planning profession in Canada forward. Very cool to have them part of our team. Some of the early founders were part of creating the RFP designation, which is the registered financial planning designation, which is now become known as almost a step above the CFP. The CFP is a prerequisite and it's kind of elevating the profession to a higher advanced planning level.
+
+5
+00:02:01.570 --> 00:02:27.940
+Yeah, the RFP is a more advanced kind of version of the CFP, I guess. IAFP, who issues the RFP designation is a very cool organization that, as you said, McDonald's Shimco has been heavily involved with, as was one of PWL's founders, Tony Layton, back in the day. Very cool to partner with these guys. Makes a ton of sense, I think, from both firms. Absolutely. In the spirit of PWL's growth and what we're doing on the M&A inorganic growth side work.
+
+6
+00:02:27.940 --> 00:02:56.300
+trying to build up what we're calling an integrated wealth management firm which is a bit unique in the independent space in Canada in particular, but we're trying to focus on the idea that markets work and planning matters and trying to find like-minded partners that are looking to be part of something bigger. We have started a monthly webinar series that's primarily directed at advisors. By the time this episode comes out, next one is slated for May 26th. Keep an eye out for
+
+7
+00:02:56.300 --> 00:03:24.290
+News on that episode but those webinars are kind of centered around what's your next chapter exploring what might be possible how PWL's model might be different and looking at what you might want to consider through your succession options and Be curious. It's always important to think ahead to your succession plan even if you're not ready to make that move in your career Seems like a pretty good opportunity for advisors to talk to a group of people that have spent a lot of time thinking about practice management and succession
+
+8
+00:03:24.290 --> 00:03:57.840
+They've always been great discussions so far and we've already done a few of those and lots of engagement lots of great questions and people are just curious to learn more and that's all it's about making connections and learning from each other awesome. Alright we jump into the main topic it's do it let's do it. I did a video on this topic and the title is kind of aggressive I don't know very out of character break that I don't know if we'll call this episode the same thing with that one we called the mega IPO grift. Anyway that's roughly what the topic is just about.
+
+9
+00:03:57.840 --> 00:04:27.340
+some of the big IPOs that are coming down the pipe here potentially. People who watch my YouTube channel may be thinking that this is going to be a repeat of what they saw on my channel. And a lot of it is similar content, but I do have some new information to add to this episode discussion on a few points. I had some emails with Professor Jay Ritter and got some interesting new data points. I also talked to the folks at Avantis about how they handle IPO inclusion, which is actually different from how dimensional does it.
+
+10
+00:04:27.340 --> 00:04:55.890
+I mentioned dimensional in the video. So that's interesting, but we'll get to that in a minute. The main issue here, and I saw this coming up a lot online, which is why I thought it made sense to make a video about it. The main issue is that some massive private companies are set to go public soon. SpaceX, OpenAI, Anthropic, there are a few other ones, Databricks, a couple others as well. And these are private companies that would rank among the largest public companies if they were public.
+
+11
+00:04:55.890 --> 00:05:21.740
+The interesting thing is, and the relevant thing is for people who think like us and invest like us, buying the market basically, at least as a simplification, the implication here is that if those companies go public and get included in an index, if you are an index fund investor, you're going to end up potentially buying some of these companies when they go public, whether you like it or not. I think there are lots of other issues around this too.
+
+12
+00:05:21.740 --> 00:05:51.420
+separate from the investment thesis. Some people don't like the idea of investing in certain companies for other reasons. We won't get too much into that. But the issue is that index funds buy these stocks if they get included in the index. One of the issues with IPO inclusion, and we've done episodes at least tangentially related to this, although in some cases directly related to this in the past, is that IPOs tend to be pretty terrible investments. And these ones in particular, these big SpaceX and OpenAI raised some, I think, pretty interesting questions.
+
+13
+00:05:51.420 --> 00:06:19.630
+We'll talk through in this episode how stock indices and the index funds tracking them include IPOs, which is a whole interesting thing in itself. How do the different indices include them? How that might affect index fund returns and what investors can do about it. We'll also cover whether index fund investors are missing out on private market returns, which I think is a really interesting topic and a common perception based on companies like the ones we're talking about staying private longer and getting bigger in private markets.
+
+14
+00:06:19.630 --> 00:06:48.510
+That's the setup. Do you guys have any comments before I keep going? We got into that question about whether index fund investors were missing out on private markets in a previous episode. Barely controversial topic. Some smart people disagree on it. But yeah, I guess now we're kind of looking at the opposite is that is there a portion of the market that index fund investors might want to recuse themselves from and we'll see where that goes. Right. I think this is also a fascinating example of how
+
+15
+00:06:48.510 --> 00:07:15.040
+different changes in the markets can impact investor behavior, which we'll be commenting on throughout the episode as well. For sure. People want to find the problem with index funds. There are problems with index funds. We've talked about them on this podcast in the past. In general, though, they're great investments because they just deliver the returns that the stock market has to offer. That doesn't mean that they're perfect. The pieces where they're not perfect are always interesting to talk about, but I think index funds are still
+
+16
+00:07:15.040 --> 00:07:42.350
+great investments, but people love to find that thing like, this is a thing. This is the final thing. This is the thing that breaks index funds. I don't think this is that. I'm not that worried about this, but I do think it's a really, really interesting topic. The main issue is that because their primary role is representing the stock market, some indices aim to include new IPOs soon after the company goes public. Now, you got to think, if the purpose of the index is representing the stock market,
+
+17
+00:07:42.350 --> 00:08:11.730
+Not being a great investment, whatever, whatever. It's like our goal. We are the index. We're representing the stock market. That makes perfect sense. You should include IPOs. Ideally, in an ideal world, they get included immediately, as soon as they're listed. The problem, or the nitpick at least, is that IPOs have had historically terrible returns if you invest in them soon after the IPO. If your own private company shares before the company goes public, there tends to be a first day pop. So that can be kind of nice. But if you buy
+
+18
+00:08:11.730 --> 00:08:41.650
+on the secondary market once the company's trading, the returns on average historically have been pretty terrible. We'll come back to that later with some interesting data just on IPO returns. But just to bring it back to index funds, index funds today control trillions of dollars. There's one Vanguard fund with $2 trillion of assets in it. It's a dual, it's an ETF mutual fund share class, one of those funds, but $2 trillion between the two share classes in one fund. Like that's wild. It's huge number. It's crazy.
+
+19
+00:08:41.650 --> 00:09:08.340
+Now, if you're a company listing on the stock market or if you're an investment bank facilitating an IPO, getting the stock included in a major index or multiple indices even better can mean huge investment dollars flowing into the shares of the company on public markets because index funds are forced to buy. Now, what does that do? Well, it increases the price probably and we know that it does from some of the data we'll talk about. It gives sellers liquidity, increases the share price.
+
+20
+00:09:08.340 --> 00:09:36.960
+If you're the company or involved with taking the company public, index inclusion is really desirable for shareholders, for the company, the group that it's not so great for is the index fund investors who are potentially left holding the bag. Now, it tends to be a small portion of the index that we're talking about here. So it's a tiny little bag, but it's still a bag that they're left holding. So why do we see this happening? This doesn't have to be an irrational, inefficient markets thing.
+
+21
+00:09:36.960 --> 00:10:05.380
+Lubosh Pasteur has a paper that I'm pretty sure we talked to him about when he was on our podcast. There are rational reasons for there to be waves of IPOs. Companies go public basically when they think they can sell their stock at a high price, which doesn't mean anything inefficient or irrational is happening. It's just for whatever reason, their company has a high stock price at that time. That means for the public market investors, when these companies go public, they have by their own evaluation a high stock price. Public market investors.
+
+22
+00:10:05.380 --> 00:10:35.090
+buying the stock in a secondary market, get the opportunity to invest in these companies when they're, if we wanted to use the word overvalued, here is where we would use it. But at the very least, we could say when they have low expected returns is when you get to buy. It kind of gets to the heart of the fundamental reason why index funds were created. And you touched on this. The whole point of the index fund is not to be arbitrary, but to represent the market. And if it's going to do that,
+
+23
+00:10:35.090 --> 00:11:03.420
+then it needs to make some sort of accommodation for IPOs, even if historically their returns have been lagging. Somebody in the community posted a funny meme that said, if you're going to buy the haystack, you need to buy all of the hay. And that's a reference, of course, to Bogle's comment that instead of looking for the needle in the haystack, just buy the haystack. I think it's important for us to...
+
+24
+00:11:03.420 --> 00:11:32.240
+just be careful before we go down the rabbit hole that anytime you deviate from the basic premise that an index fund is designed to replicate the entire market, you got to be really careful about imposing rules that deviate from that fundamental philosophy. And it's not to say that there can't be any rules. All of the major indexes impose some rules for specific reasons, whether it's float or
+
+25
+00:11:32.240 --> 00:11:59.070
+the length of time being listed publicly, liquidity, all of those things. And those are done for reasons to protect investors, but they're not done because they think certain companies will outperform other companies, which is just the forecast. I think it's just really important to keep that in mind as we go forward. And I would say those considerations are done to make the indexes replicable by index funds, but they're not done to give it better returns or anything like that. It's just like, okay.
+
+26
+00:11:59.070 --> 00:12:27.600
+We want this index to be a representation of the market, but we also want it to be investable. Therefore, we're going to make sure stocks are liquid and whatever other criteria they choose to include in that specific index. In the old days, I guess, when indexes were nothing but benchmarks, then those considerations were less important. But now that indexes are not just benchmarks for other funds or other managers, they are actually investment strategies as well.
+
+27
+00:12:27.600 --> 00:12:57.580
+then they do need to be investable for all of those reasons. Those rules are there for good reasons, but as you said, Ben, they're not there because the index for fighters think that they will enhance returns. We kind of left off there with IPOs have low expected returns. Companies go public when they think their stock price is high and they can get a good valuation for their business, which means if you're investing in IPOs on the secondary market, you might expect low returns from those investments and index funds just by nature of the reason that they exist tend to invest in IPOs.
+
+28
+00:12:57.710 --> 00:13:27.420
+on the secondary market. Although when we talked to Jim Roly from Vanguard, they mentioned that they do try to get IPO allocations when possible, but even then, Vanguard's not going to get a big enough IPO allocation to fill what they need in general for a newly listed company just because their funds are so big. I think in general, we can say index funds are buying these shares on the secondary market, which doesn't tend to look so good. And again, we'll come back to those data in a minute. So if you're an index fund investor, I mean, you probably don't love the idea of buying overpriced stocks, but
+
+29
+00:13:27.420 --> 00:13:56.960
+index funds do it because they're representing the market. They gobble up whatever gets included in the index regardless of its price. The IPO inclusion rules do vary across indices. This is important. As of right now, as of the time of recording, the S&P 500 does require a stock to have been trading on a public exchange for 12 months before inclusion. So as of right now, and this is one of the things there have been some rumblings about changing, although these are unsubstantiated anonymous source type information,
+
+30
+00:13:56.960 --> 00:14:26.370
+But apparently S&P is considering changing their inclusion rules for some of these big IPOs. But as of right now, factually, they do require 12 months of trading before inclusion. So that's S&P 500, which is a subset of the S&P 1500 composite. Now that S&P 1500 composite has a different set of rules than the S&P total market index. So the S&P total market index allows for inclusion of IPOs within five days for stocks that meet certain criteria.
+
+31
+00:14:26.370 --> 00:14:56.190
+Pretty interesting, two very different methodologies even within S&P indices. Now that within five days, that's sort of near immediate inclusion. That's called fast track entry. So that's a concept that is pretty important to understand on this topic. Basically stocks that meet certain criteria can be eligible for near immediate inclusion in some total market indices. I mentioned S&P 500 has historically required shares to trade for a year. Yeah. So there's this article from Bloomberg saying that S&P may be considering an S&P 500 rule change.
+
+32
+00:14:56.190 --> 00:15:25.060
+to accelerate the inclusion of some of these big IPOs like SpaceX. When I wrote these notes originally, NASDAQ was considering, so I had my notes in past tense, but they've since adopted similar changes for the NASDAQ 100 to accelerate inclusion of some of these big IPOs. And we can talk more about the details of those changes. There's some interesting stuff there. The implications for index fund investors are pretty important. And this paper that I want to talk about comes from Marco Salmon, who we've
+
+33
+00:15:25.060 --> 00:15:54.640
+had on this podcast and talked to him about this paper on the podcast. So his 2025 paper looks at how fast track entry into Crespo, so that's the Center for Research and Security Prices, Indices, Affects Stock Returns and IPO Deal Structure. This is fascinating stuff. Index funds have become so big that index inclusion affects stock prices. You can see that, but it actually affects the structure of IPO deals. It's just crazy. These sort of second-order effects of the growth of index funds. It's like the tail lag in the dog.
+
+34
+00:15:54.640 --> 00:16:21.820
+the index fund is created to mirror the market or represent the market, but the market is evolving to squeeze itself into the index fund. Which is crazy. A big part of this topic and why it's so interesting is that there's been some speculation that, as I mentioned, S&P, and we know NASDAQ did change their rules. There are two ways you can interpret that. One way is that it's nefarious, in the case of NASDAQ at least, that they're changing their index rules.
+
+35
+00:16:21.820 --> 00:16:51.700
+so that their funds tracking their index like the NASDAQ 100 will buy SpaceX stock and that they're doing that to curry favor with Musk to get SpaceX to list on their exchange. So that's the sort of bad intent view. The noble intent view is that, well, these are massive companies. And again, why do indexes exist to represent the market? Of course you want to have a massive company that has listed on the market included in your index as soon as possible. So that's the noble intent view. Anyway,
+
+36
+00:16:51.700 --> 00:17:12.770
+So VTI, which is the massive $2 trillion index fund that I mentioned earlier, that's a Vanguard US Total Market Fund. It tracks the Crisp US Total Market Index. Now Crisp is another index that adds eligible securities to the index within as few as five days for fast track entry. So Marco Salmon and his co-author in this paper show that the
+
+37
+00:17:12.770 --> 00:17:39.280
+expected index investor demand for IPO shares causes fast track IPOs to outperform their non fast track counterparts by over 5 percentage points following their listing. So they list the pop as tends to happen. So their price increases relative to their listing price. But the fast track inclusion stocks pop more they outperform by more. Now this is the interesting part. The outperformance peaks at the index inclusion date.
+
+38
+00:17:39.280 --> 00:18:08.210
+and then reverts significantly within two weeks. So what's happening there, basically index funds are being front run by intermediaries like hedge funds who know that index funds are going to be buying the shares once they become eligible for inclusion. And then the index funds end up holding the shares as they revert back down closer to their IPO price. So they're getting front run basically. And the index fund investors are paying what the authors of this paper call a shadow tax. It's like ticket scalpers for concerts and sporting events. Same idea.
+
+39
+00:18:08.210 --> 00:18:37.340
+So the idea is that this is probably not an enormous obstacle for moderately sized IPOs. The size of them relative to the index fund, the share that it takes in the index is likely to be so small that it's not a huge issue for index fund investors. But what's changing here is the size of the companies we're talking about now.
+
+40
+00:18:37.340 --> 00:19:07.250
+SpaceX is several orders of magnitude bigger than any recent IPO. What used to be, let's call it a relatively trivial observation is no longer so trivial and could actually create some significant issues, at least in theory. That's the concern. Is that fair? That is for it. There's another paper that we'll talk about later, which is another Marco Salmon paper. This front-running IPO paper doesn't put the number into basis points.
+
+41
+00:19:07.250 --> 00:19:35.150
+And maybe I could have tried to figure that out. They don't talk about that. They put a dollar figure on it. But anyway, there are other paper that we'll talk about later, not just for IPOs, but for IPOs, buybacks, like all the different market composition changes, that's where they estimate a 50 to 70 basis point drag relative to an index that delays making those changes. So we call it 50 basis points. And that's from all the smaller mid-sized companies that are making changes and whatever, corporate actions and secondary season equity offerings, all that kind of stuff.
+
+42
+00:19:35.150 --> 00:20:05.140
+To your point Dan, these companies are so much larger relative to the index that whatever effect we've seen historically, these ones would amplify it. But like not actually though, because CRISP, just use that as an example, like if we look at SpaceX, there are two things, and I'm getting way ahead of my notes here, but there are two things that are really important. One is the float. What proportion of the shares are available to trade on the public market, freely available to trade? CRISP waits by the free float. SpaceX apparently, there was an article in the FT saying that SpaceX
+
+43
+00:20:05.140 --> 00:20:34.860
+was aiming for a $1.75 trillion valuation, although I saw today a headline that they're aiming for $2 trillion valuation now, which is like wild, but they're only going to float 5%. So at $1.75 trillion, that's an $88 billion free float. So Crisp waits them as an $88 billion market capitalization company. But in the case of Crisp, they would exclude them entirely because Crisp has a 10% float cutoff. So it's like, we're talking about this. And say, yeah, these are big companies, but if you actually go, how does Crisp actually include stocks?
+
+44
+00:20:34.860 --> 00:20:59.780
+I don't think it's relevant at all unless we assume they're going to go public with a higher float. I think that's a really important point to stress. You touched on it earlier, Ben, when you said it seems like people are always kind of looking for the fatal flaw in traditional indexing. And these are structural inefficiencies. They're not ideal. If we could snap our fingers and make them go away and smooth them over, then sure, we would do so.
+
+45
+00:20:59.780 --> 00:21:28.670
+But we can't do that without all kinds of other knock-on effects that are likely to be more detrimental than any improvement we might get by changing this specific rule. So we always have to be very careful that just because we're talking about this as an issue, as a genuine concern, we're not saying abandon your strategy if you're a committed indexer because now all of a sudden it's fatally flawed. That's the wrong takeaway for many of this.
+
+46
+00:21:28.670 --> 00:21:58.640
+Yeah, I agree 100%. My title may have been too dramatic. I hope I didn't scare anybody off of index funds. It's maybe worth mentioning quickly that in this IPO paper, I didn't have this in my notes, but Marco talks about the solution maybe being that companies give index funds a predetermined, significant IPO allocation. And that helps to let the company that's raising capital keep more of the price increase. So they might be able to raise more at a higher price by sort of pre-agreing with index funds how much they're going to buy.
+
+47
+00:21:58.640 --> 00:22:27.300
+Because right now it's the intermediaries that are taking a big chunk of that price increase in the secondary market. Anyway, it's just an interesting tangent about what a potential solution to address that inefficiency could be. So that's IPOs and index funds buying IPOs, potentially pushing up their price, leading to lower expected returns, all that stuff. Another important index definition, I just mentioned it, but it's proving to be relevant to these mega IPOs is the concept of free float. So free float is the proportion of a company shares that are available for purchase in the public equity market.
+
+48
+00:22:27.300 --> 00:22:56.980
+freely available for purchase. So like a company director that's required to hold shares, for example, would not be included in the free-fro. And then there are a whole bunch of other criteria like that. Most major indices, as I just mentioned with CRISP, have a minimum float requirement, and they weight stocks by their public float. NASDAQ 100 is an exception to that, and we can talk more about that in a minute. But a company could go public while only making a small portion of their overall market capitalization freely available on public exchanges, which is often the case. Companies will tend to have
+
+49
+00:22:56.980 --> 00:23:25.410
+20 to 30% or something like that as a public float. Some of these companies, I mentioned the FT article, it's speculated that these companies are going to go public with low public floats, like as low as 5%. As I mentioned before, at a $1.75 trillion valuation for SpaceX, total market valuation at a 5% float, their weight in the eyes of indices is $88 billion, not $1.75 trillion. Pretty big difference. It's a huge difference.
+
+50
+00:23:25.410 --> 00:23:52.660
+And it fundamentally changes the issue too, doesn't it? 100%. So when we're talking about, oh, these companies are so much bigger, this makes this issue magnified. Well, yes, if they floated 100% of their equity, yeah, it's a huge difference. If they float 5%, it's a non-issue. If they float 10% and they're able to enter the index at all, okay, now they're a whatever. One of the biggest companies that's ever existed. When investors are thinking SpaceX is going to have a big impact to the index, it may be
+
+51
+00:23:52.660 --> 00:24:21.140
+you're fearing what the headlines are saying without actually understanding the actual application. Yes, but and there is a but. So Nasdaq did change its rules. And I talk about that in a second. A lot of the headlines are about the index providers considering changing the rules to accommodate these big IPOs. But you're right, man. As of right now, this is actually not that much of an issue. Unless you're investing in the Nasdaq 100, which you probably shouldn't be doing anyway. That's a whole other topic for the other day. Nasdaq, when I originally wrote these notes down,
+
+52
+00:24:21.140 --> 00:24:49.260
+they did have a 10% minimum float, and they weighted stocks based on the value of all listed shares of the company with no regard for free float. So that's pretty interesting. But they had this whole index consultation process, which some other index providers are also doing publicly like footsie is in the process of a public consultation right now, they're requesting people to write in about potentially making changes to their indexes. S&P, as I mentioned, is apparently considering doing this, but they haven't made a public consultation as far as I know.
+
+53
+00:24:49.260 --> 00:25:17.940
+So NASDAQ though was an outlier. So they did have a minimum float, which was not an outlier, but they valued for waiting companies in their index. They used the total capitalization with no regard for free float. Now in their consultation, one of the things they changed, or well, a few of the things they changed, they did eliminate the minimum float. So now you could have a 1% float and technically be included in the NASDAQ 100 index. And then they introduced a float factor in their waiting of low float.
+
+54
+00:25:17.940 --> 00:25:47.380
+stocks. I want to talk a little bit more about that because Dan, you and I were chatting about this before we started reporting. A lot of the speculation about NASDAQ making these changes was that they were trying to change things to increase the weight of low-float companies in their index. But NASDAQ actually calls this out specifically in their concluding remarks summarizing their consultation process. So they say some respondents in their analysis of the impact appeared to assume that the NASDAQ 100 index
+
+55
+00:25:47.380 --> 00:26:16.620
+is currently free float weighted. However, this does not reflect the current methodology. As noted in the consultation, index constituents are currently represented at the full market capitalization of eligible listed shares without regard to free float considerations. Accordingly, the proposed low float security weight adjustment, not to exceed the full list of market capitalization would represent a more conservative weighting approach than the one currently in place rather than the more aggressive one. So they've eliminated the 10% cutoff for minimum float.
+
+56
+00:26:16.620 --> 00:26:43.820
+So it'll take any level of float, but they have adjusted the way that they wait securities to be more conservative for low float stocks, not more aggressive, which is different from a lot of the perception while they were in their consultation process. So it goes some way to reducing this enormous concentration. Right. We'll take your low float securities, but we're going to wait them more conservatively than we would wait a typical security.
+
+57
+00:26:43.820 --> 00:27:13.100
+But they did change the rules and they did change them in a way that would allow companies like SpaceX to be included in the index, which would not have previously been possible. They also sped up the inclusion. They shortened the timeline for how quickly an eligible company can be included in the index. I mentioned earlier that the sort of cynical view here is that NASDAQ is changing the NASDAQ 100 index rules to win SpaceX over in an effort to get their listing. And there was a bunch of articles on that speculating this and it's plausible.
+
+58
+00:27:13.100 --> 00:27:41.340
+Fine. That's because including a stock like SpaceX in the index would force significant index fund of buying, which likely ends up being good for SpaceX, good for SpaceX's early investors, good for Nasdaq if they get the listing, but potentially comes at the expense of Nasdaq 100 index fund investors if they end up buying a high priced stock that ends up having poor returns afterwards. It's a conflict of interest that probably should be considered. I agree. It's a conflict, yeah.
+
+59
+00:27:41.340 --> 00:28:08.050
+Now, we've already talked about this at some length, but the crisp US total market index, for example, tracked by VTI, does, as of now, continue to have a low float cutoff of 10% for fast track entry. If you're invested in VTI, this is a non-issue at the current moment in time. So between inclusion criteria and index weighting methodologies, there's quite a bit of uncertainty about how these mega IPOs will initially show up in indices.
+
+60
+00:28:08.050 --> 00:28:37.410
+Over time, what tends to happen is the free flow tends to increase and whatever, whatever. And the seasoning happens. So like in three years, all of these companies probably are included in the index. But the big concern about buying high priced IPOs in the secondary market and then having them tank, it's not clear how problematic that's going to be for a lot of index funds. Over a longer period of time, as I just mentioned, these listings will change the public market. To reiterate, that's why index providers are considering making these changes to get these companies represented in their indices.
+
+61
+00:28:37.410 --> 00:29:07.380
+Sooner indices are meant to represent the stock market. So if all of a sudden there's this massive new company list on the stock market, like, yeah, the indexes probably shouldn't hold it. They're not designed to be investments. They're designed to represent the market. Putting that in context, this is pretty interesting. So there's a blog post from S&P where they show that SpaceX, OpenAI and Anthropics, those three of those big private companies, at the time of writing the post, which is fairly recent, those companies would make up 2.9% of the S&P world index.
+
+62
+00:29:07.380 --> 00:29:32.540
+at their full market caps. So that's like full free float or just whatever their full market cap. So that's almost as much as Canada, three companies, three newly listed companies, which is pretty crazy. As I just said, that was their total market cap. So no consideration for free float. Now, since a lot of these companies are expected to have low public floats, I think that has to be accounted for and estimating their impact on the overall market. There's another post.
+
+63
+00:29:32.540 --> 00:30:02.610
+from MSCI where they calculate the potential changes to the MSCI, all country world and best of all market index in the event of some of these big companies going public in 2026. Now this was written back in February 2026 when SpaceX, they had a modest valuation of only 800 billion. Now I mentioned it's expected to be 2 trillion. I think the general points are still relevant. Kind of crazy to whatever that is, two and a bit X their valuation in the course of a couple of months. That was pre the XAI acquisition.
+
+64
+00:30:02.610 --> 00:30:31.060
+So part of that is just them acquiring XAI and their valuation increasing on that basis. But I think it's probably like a 2X even over that combined valuation anyway. So this blog post from MSCI asks, what would happen to the index, to this MSCI All Country World IMI Index? IMI Investional Market Index. So it's pretty much all stocks that exist. What would happen to the index if the 10 largest companies from the MSCI All Country Venture-backed Private Company Index went public?
+
+65
+00:30:31.060 --> 00:30:58.050
+Now they comment that since the free float at a time of listing is unknown, as of now, we'll know when they list, they go through a few different scenarios. At a 5% float, which again is what SpaceX is expected to go public with, only four of the 10 large private companies that they're looking at would actually achieve index inclusion based on MSCI's inclusion rules. So again, we come back to that case where not all of these companies would be index eligible.
+
+66
+00:30:58.050 --> 00:31:26.590
+MSCI has different criteria than CRISP or S&P, but based on their rules, four of the 10 would be eligible at a 5% float. At a 10% float, seven of the 10 companies would achieve index inclusion, but they'd be pretty small weights in the index. And there's a chart that we can hopefully include in the video that shows the ranking of these companies in the market by size. But what's interesting is that while the overall market weights in percentage terms would not be huge, even at a 25% float scenario,
+
+67
+00:31:26.590 --> 00:31:52.660
+MSCI finds that the dollar flows just for funds tracking MSCI indices would be huge with newly listed private companies receiving billions of dollars in investment and the largest existing public company seeing billions in outflows. So I think those flows are really what matter to index fund investors because even a small percentage change, if it's billions of dollars changing, moving from one equity to another, that's what matters for
+
+68
+00:31:52.660 --> 00:32:17.140
+the index funds were being forced to buy and sell shares. I think there are probably some interesting tax considerations here too. I don't know enough about how exactly that would play out with US listed ETFs because they do have some mechanisms to reduce tax, but this would be a lot of buying and selling. It will be interesting to see how that plays out too. So just to recap, index funds, depending on the rules of the specific indices they track may or may not invest in these mega IPOs.
+
+69
+00:32:17.140 --> 00:32:46.860
+And even if they do, it's likely going to be an await reflecting their public float unless we're talking to the NASDAQ 100, which as of recently would use its newly adopted float factor, which again is more conservative than their previous methodology of using the total market capitalization. So that's kind of where we're at. On your YouTube video, I noticed many comments about why their rules, if we're just going to go change them to include companies like this, what's your take on that, those questions? And the market changes like it's not normal. So take the S&P 500.
+
+70
+00:32:46.860 --> 00:33:16.880
+Normally, a company that goes public, it wouldn't even be a consideration that that company may make it into the index because it wouldn't be big enough. Like it's the 500 leading companies in the US while a newly listed company is not going to fit that criteria. But now we're in a world where, okay, companies are staying private longer, they're going public when they're much bigger. I mean, if I'm S&P, yeah, I'd be considering making changes too. If you want to represent the 500 leading companies in the US market,
+
+71
+00:33:16.880 --> 00:33:46.340
+Wow. Just because it hasn't been listed long enough, I don't know if it makes sense to exclude it. Yeah, it's interesting. It makes sense. These are massive companies and very rare situation when they're at IPO time, I would expect. This is not a normal thing to see in the market. There have been some other changes. The one that comes to mind I can think of is the S&P TSX capped index that is a non-issue today.
+
+72
+00:33:46.340 --> 00:34:14.420
+But the rule, I think it's probably still part of the index methodology in Canada that no company can represent more than 10% of the index. And no company in Canada currently is very close to that. But that goes back to the old Nor-Tel days in the late 90s, early 2000s when one company represented more than 30% of the index. And they said, we get it. The index is supposed to represent the market. But this is
+
+73
+00:34:14.420 --> 00:34:44.350
+really a pretty egregious bit of word diversification with a single company representing one third of the country. So we're going to put in this rule because it just seems sensible. Now, is it arbitrary? Maybe. Is it defensible? I think so. It's basically a circuit breaker. It's not really there to shape the index on an ongoing basis. It's just there as a guard in case something gets really inflated and presents
+
+74
+00:34:44.350 --> 00:35:12.980
+an unusual concentration risk to index investors. This seems like it's kind of motivated by the same thing. The rules almost always work, but when some really strange situation comes about and you've got an IPO valued at $2 trillion, something that's never happened before, that maybe it's worth at least questioning the original rules and tweaking them. That makes sense.
+
+75
+00:35:12.980 --> 00:35:41.570
+saying that they're always going to make the right decisions, but it does seem reasonable to revisit them. Yeah, that makes sense. Don't just ignore something when a $2 trillion company is about to IPO pretty substantial event. For sure. There's a couple of things that I want to add here. One is I'd be very interested, Dan, to see the S&P, TSX composite and capped composite side by side, but free float adjusted.
+
+76
+00:35:41.570 --> 00:36:10.190
+Because S&P didn't start float adjusting their indexes until 2005, I believe. I could imagine that Nortel would have had a lot of closely held shares. They had a lot of shares in their pension plan, for example. I'd be interested anyway. I wonder how much free float adjustments mitigate that concentration risk in the index. In other words, it would not have represented such a large share had they had that free float adjustment in place in the past. Yeah. That's my hunch.
+
+77
+00:36:10.190 --> 00:36:38.620
+because that was in late 90s that that index concentration got so serious in Canada. And I know that they changed to float adjusted weights in 2005 on the idea of changing index methodologies. That's a huge one. S&P in 2004, they announced that in 2005, I believe that they would start free floating prior to that. They were not using free float weights. I found an article about this from 2004.
+
+78
+00:36:38.620 --> 00:37:08.110
+It's all focused on the sense of most index users that float adjustment reduces the costs of running index funds and ETFs because stocks with less float and therefore less liquidity have lower weights in the index. Index users also feel that basing the index on available shares instead of total shares means that the index is a better reflection of the market and through the market of the economy. I would agree with that. Shares that are not available to the public is not really what most of us mean by the market.
+
+79
+00:37:08.110 --> 00:37:34.290
+The index is not supposed to represent the economy. It's supposed to represent the stock market. And the stock market doesn't really include shares that don't trade. That makes good sense. That's actually super interesting. I wish I'd looked at this earlier. In an October 2003 concept paper prior to announcing the decision to move to float adjustment, S&P highlighted reasons against the switch. We looked at the academic and theoretical basis for indexing.
+
+80
+00:37:34.290 --> 00:37:53.020
+but found no arguments for or against float adjustment, said Blitzer. Side note, David Blitzer was an early guest on this podcast when he was still with S&P before he retired. It's an episode worth checking out if you want to hear more about some of the inside baseball of how indexes are created and managed.
+
+81
+00:37:53.020 --> 00:38:21.890
+More quote from David Blitzer increased interest in investing outside the US seems to have raised the awareness of float issues in foreign markets where cross holdings and strategic holdings by governments or founding families are more common than the US. That's also interesting on the topic of indexes make changes to reflect changes in the market. And I think as this article also points out changes in how indexes are being used by investors. I think we heard about that when I was in New York and talked to Jim Rowley and Tim Edwards.
+
+82
+00:38:21.890 --> 00:38:50.420
+They talked a little bit about this, just about how index providers and index fund providers work together to figure out what the index should look like. And then I also wanted to mention this episode is coming out the week after we had Tim Edwards on the podcast, who is the managing director and global head of index investment strategy at S&P. So he also had a bunch of comments just on, I asked him about that. Why would an index provider change to accommodate these big companies? And he had some interesting stuff to say.
+
+83
+00:38:50.420 --> 00:39:16.580
+That was a big tangent there. Lots of fun though. Why does all this matter? Why do we care about index inclusion of IPOs? A big piece of understanding why we're even talking about this is understanding that investing in IPOs on a secondary market is one of the worst investment strategies that you could possibly employ. They tend to have a first day pop where the price on the public market jumps up relative to the IPO price.
+
+84
+00:39:16.580 --> 00:39:43.780
+But most investors don't get the IPO price. Getting an IPO allocation, especially in hot IPOs like this is really, really hard. And even if you get one, it's not going to be as big as you kind of hoped it would be. And then investing in the shares once they're listed on the public market has been rough, to say the least. They're the sort of consistent pattern of IPO underperformance. Even as a name, named by Jay Redder, who's also been a guest on this podcast, they called it in a 1995 paper, the new issues puzzle.
+
+85
+00:39:43.780 --> 00:40:12.960
+So they had looked at companies issuing stock. So this is IPOs, but also seasoned equity offerings. Companies issuing stock from 1970 to 1990 tended to be poor investments. So in this paper, they find that investment IPOs receive average returns of only 5% per year, while similar listed firms return 12% over the same period. So the paper notes that to achieve the same wealth five years later, an investor would have had to put 44% more money.
+
+86
+00:40:12.960 --> 00:40:36.500
+into new issues in the sample then into established firms of the same size. Pretty crazy. And hope that they're right. And hope that they're right yet. I guess that's true. You have to make that bet ahead of time without knowing the historical data on that particular investment. That is a good point. That's data ending in the 90s. And there's a more recent 2019 study from dimensional fund advisors where they looked at
+
+87
+00:40:36.500 --> 00:40:55.980
+The first year secondary market performance of more than 6000 IPOs from 1991 to 2018. So that actually does pick up right where JRitter's sample ends. And they find that a portfolio of IPOs generally underperform the market and the small cap index by about 2% per year. The main exception
+
+88
+00:40:55.980 --> 00:41:20.270
+is the 1992 to 2000 period when the IPO portfolio outperformed the small cap index by about 1.1% annually. And that was mainly due to IPOs consisting of small tech companies that their prices took off during the dot-com boom. But we all know what happened after that. So it looks good for a bit, but not so good afterwards. If you sold in 2000, we did great. Correct. Exactly. If you timed the bubble perfectly.
+
+89
+00:41:20.270 --> 00:41:49.380
+This dimensional study finds that the poor returns were largely explained by the factors in the FOMET French five factor asset pricing model. The IPO portfolio behaves like a portfolio of small growth, low profitability, high investment stocks, also known as junk in a QR's language or small crap growth, as I've heard it called by some people. These are types of stocks that they're more volatile and they tend to lag behind the broader market. If you can choose to avoid them, you might want to. A really interesting thing is that
+
+90
+00:41:49.380 --> 00:42:18.500
+Dimensional Paper ends in 2018, but their finding is pretty easy to update and replicate because there are actually two ETFs that invest in IPOs. They invest in IPOs when they list and they hold them for three years and then sell them. There's the Renaissance IPO ETF, which exclusively invests in large US IPOs. And as I said, they hold them for three years and then sell them. It has underperformed VTI, which just tracks the total US market by more than 6 percentage points annualized.
+
+91
+00:42:18.500 --> 00:42:43.760
+since inception in October 2013. As expected, if you run a quick regression, which I did in portfolio visualizer, it behaves like a portfolio of small stocks with high prices, low profitability and aggressive asset growth. And then there's another one that has international stocks. This one has been listed since 2014. Its ticker is IPOS, which I think is quite a comical or unfortunate ticker choice. It's also underperformed by
+
+92
+00:42:43.760 --> 00:43:13.540
+a wide margin relative to just an index. You can also see similar underperformance. If you look at Jay Ritter's data, his data from 1980 to 2023 shows similar underperformance. So that's just a broad picture of IPO data. There are different ways you can slice it. And I'll talk about that from a couple of different perspectives in a minute. The first one I'll talk about low float IPOs. Before I do that, do you guys have any comments? It seems to me your strategy, Ben, is buy the index short the IPO ETF. That's not investment advice. It's just an observation. Not bad.
+
+93
+00:43:13.540 --> 00:43:41.580
+Maybe Mark McGrath can do that in his sons, whatever that is, R-E-S-P. Triple leveraged in his R-E-S-P. I'll send him a message. Got a new idea. More realistically, and we'll talk about dimensional in a second, dimensional just excludes those types of stocks. It's even more nuanced than that because not all IPOs are necessarily bad. Let me keep going in the flow that I have this written down. So those are IPOs. They kind of suck as investments in the secondary market. They're great if you're a holder of the private company shares. They're great initially.
+
+94
+00:43:41.580 --> 00:44:10.830
+The problem for employees of companies is they tend to have lockup periods. If you have to wait whatever a long period of time, you don't usually get to participate in that pop. But if you held the shares and for whatever reason don't have a lockup, the IPO is kind of great. But if you're buying in the secondary market, not as great. Low float IPOs. So we talked earlier about what float means. SpaceX is probably going to go public with a low public float and some of the other companies may also do something similar. If we look at low float IPOs in particular,
+
+95
+00:44:10.830 --> 00:44:40.450
+The data look particularly bad. So just to reiterate from earlier, a low float IPO means that only a small portion of the company shares are available for public trading. And that can amplify price swings because demand is concentrated on a relatively limited supply. That's kind of what we're expecting to see from some of these big private companies. There's another way to slice the data here that's important. Low float IPOs for high revenue companies, because SpaceX and OpenAI, they are generating large revenues. So low float, high revenue.
+
+96
+00:44:40.450 --> 00:45:08.690
+or high sales is pretty rare but not unheard of. I have been emailing with Professor Jay Ritter about this for a bit now. He did send me a table that we can show in the video. I saw Bloomberg report on these data but I hadn't seen the table anywhere. So I'm pretty sure that our viewers here are getting a pretty exclusive look at some neat data. So Professor Ritter found 11 low float. So again, below 5% public float, IPOs for companies with inflation adjusted trailing 12 month sales of 100 million or more.
+
+97
+00:45:08.690 --> 00:45:36.610
+10 of the 11 IPOs underperformed the market within three years with average underperformance of roughly 50% relative to the market from the offer price and 60% from the first day close. So we see there actually was a pop because if you bought it at first day close, you did worse. Doesn't look good. It looks worse than the average IPO. Now, when I was emailing Professor Ritter, he also mentioned that these examples, yes, they had low floats. They also tended to have high price to sales ratios at the time of the IPO.
+
+98
+00:45:36.610 --> 00:45:58.900
+Now again, that's relevant for these current potential mega IPOs. If SpaceX were to achieve its $1.75 trillion valuation, let alone its $2 trillion valuation that I've seen more recently, it would have a price to sales ratio of more than 100 times based on trailing sales. Wild. Now, why does that matter? Professor Ritter also showed, and this is one of the things that's not in my video on this.
+
+99
+00:45:58.900 --> 00:46:27.860
+Professor Ritter also showed me the data for all IPOs. So not just low float IPOs anymore. All IPOs sorted on their price to sales ratio measured from the first close. The market adjusted three year buy and hold return decreases with an increasing price to sales ratio for IPOs of companies with sales over 100 million. No surprise, I guess evaluations matter even for IPOs. What is the price to sales of 100 times mean just for context, the highest price to sales ratio for a
+
+100
+00:46:27.860 --> 00:46:55.730
+public S&P 500 constituent is Palantir, which at the time that I wrote these notes had 73 time ratio, price to sales of 73, the index as a whole, the S&P 500 trades at a price to sales of 3.1 times. Now in general, as listeners, no high valuations are associated with low expected returns and these current private companies seem to have very high valuations or are expecting very high valuations when they list. For index fund investors, the problem is
+
+101
+00:46:55.730 --> 00:47:21.740
+Pretty complicated. Large private companies go public with high valuations. They're going to change the landscape of the broader market. Now in response, we've talked about indices have to rebalance to remain reflective of the broader market. That's why they exist. Market cap weighted indices will rebalance in response to stock market composition changes, which includes a whole bunch of things, including buybacks and seasoned equity offerings, as I mentioned earlier, but also IPOs in making those changes.
+
+102
+00:47:21.740 --> 00:47:50.740
+Indexes and index funds, they're implicitly engaging in a form of market timing. That language comes from Marco Sam and his paper on this topic. It has to be really bad market timing though. And again, as we talked earlier, the issuers, the companies that are listing on the public market, they'll generally want to issue stock when their own company's valuation is high and buy back stock when their company valuation is low. Indexes and index funds, because they're always to track indices that reflect the market,
+
+103
+00:47:50.740 --> 00:48:19.540
+end up systematically buying high and selling low at the margins. I want to reiterate this isn't not a death blow for index funds. It's just a thing. I'll put a number to it in a second. So in Marco Sammons 2025 paper, which is now published in the journal financial economics, which is pretty cool. We had him on before it was published to talk about it index rebalancing and stock market composition do indexes time the market is the paper. It estimates that that adverse selection is what he called it an earlier draft of the paper, but that market timing ends up.
+
+104
+00:48:19.540 --> 00:48:48.660
+creating a performance drag of between 47 and 70 basis points per year relative to a delayed rebalancing approach that waits like 12 months, for example, to reflect changes in market composition. So there is like a lasting negative effect on index fund returns that could be avoided if index funds delayed rebalancing of the prioritized expected returns rather than tracking your to an index. If an index did this, they'd have massive tracking your to the index. I mean, it wouldn't be an index fund basically at that point.
+
+105
+00:48:48.660 --> 00:49:16.980
+And that tracking error would be sad as listeners know I'm a huge fan of index funds But as listeners also know we don't use them the assets that I oversee at PWL We use dimensional funds rather than index funds I personally don't invest in market cap weighted index funds and this is I mean there are a bunch of reasons for that but this is one of them dimensional weights six to twelve months after a company lists before considering including it in their portfolios dimensional also intentionally tilts away from
+
+106
+00:49:16.980 --> 00:49:46.830
+what I call the junk earlier that IPOs tend to behave like more generally. PWL uses dimensional funds, but they're not paying us to say this. I gain nothing from people using dimensional products. They have ETFs in the US and they're competitor, Adventus, which I'll talk about in a second, has products in Canada. So I mean, this is not intended to be like a sales pitch. It's just there's a company doing this a different way. So that's dimensional. They wait six to 12 months to include IPOs. It's more complicated than that because they also tilt toward smaller and lower price companies, which have
+
+107
+00:49:46.830 --> 00:50:15.460
+in many cases, and particularly in the US, underperformed. So even if we can say, well, hey, Dimensional didn't pay the IPO inefficiency cost, in the US market at least, they did underperform because they tilted away from the large stocks that did really well over the last 20 years. Anyway, it's complicated. Yeah. And as the tireless defender of traditional index funds, again, worth pointing out is that no one's arguing that any of these strategies is free of those structural inefficiencies.
+
+108
+00:50:15.460 --> 00:50:43.620
+And very often, you're just exchanging one set for another when you change investment strategies based on relatively small things like how you weight an index. These are fairly subtle changes. Sometimes they eliminate some problems and just introduce others. There's a play on words there. How you weight and how you weight. The weighting is the hardest part, as they say. I agree, Dan. And I do want to reiterate.
+
+109
+00:50:43.620 --> 00:51:13.040
+This is not intended to say index funds are bad. It's just this is just part of the indexing lifestyle. It's a cost. People are worried about this right now because of these big potential IPOs. But this is a cost that index funds have been paying. I don't know for how long. I think Marco's dad in that paper goes back to 1980, if I remember correctly. It's there. It exists. But index funds have still outperformed pretty much everything. How bad is it really? In my video on this, I mentioned dimensional as doing things.
+
+110
+00:51:13.040 --> 00:51:42.380
+in a way that intentionally avoids the costs that we're talking about with IPOs, which introduces other trade-offs, as you just mentioned, Dan. I got a ton of questions about Avantus. If I did not mention them in the video, frankly, I did not know how they dealt with IPOs when I recorded the video, and I didn't have time to reach out. But I got that question so many times that I reached out to them and just asked. I had assumed that it was pretty similar to what Dimensional does. Dimensional, again, they wait six, 12 months, and then they incorporate the newly listed security after that. Avantus
+
+111
+00:51:42.380 --> 00:52:09.250
+to my surprise, has no problem including newly listed companies and portfolios if they have enough information on their full set of financials and they trade at attractive prices relative to those financials. And they also mentioned that, well, the aggregate IPO data that we just talked about is terrible. If you sort IPOs on profitability, the more profitable ones aren't so bad. So if you're investing in negative earnings stocks at IPO, yeah, you did poorly.
+
+112
+00:52:09.250 --> 00:52:36.620
+But if you sort by profitability, the more profitable stocks that shows up in professor Ritter's data too. That was interesting. That surprised me. So they are really just looking at expected returns more so than a blanket exclusion of IPOs. They also noted when we were chatting about this that they are totally aware of the issues surrounding index inclusion post IPO. And so they try not to be on the same side of indices when they're buying and selling. They try to be on the opposite side or stay neutral during the rebalancing period.
+
+113
+00:52:36.620 --> 00:53:04.640
+That was interesting. They have their own way of dealing with IPOs, but they're not doing a blanket exclusion or waiting period in the way that dimensional invests. In summary, there's three different strategies that each come with their own trade-offs. No one way is necessarily more right or wrong than the other. It's just trade-off that investors have to accept. They'll all introduce their own tracking error, whatever you want to call it. They'll introduce performance differences relative to each other. If we held all else equal, but just had one
+
+114
+00:53:04.640 --> 00:53:32.080
+fund that's going to invest in IPOs within five days, one fund that's going to wait six, 12 months, and one fund that is going to do what a bad just does, all else equal and just let the IPOs be different. There'd be pretty meaningful tracking year, more than the any fee differences across the funds. Which comes back to the question for the investor. Marco talks about this in his paper too, knowing that you're going to introduce tracking year from doing something. You have to have a lot of conviction knowing that you can live with tracking year that the expected long-term outcome is good.
+
+115
+00:53:32.080 --> 00:54:01.060
+Which is an interesting question because in the short term, there's going to be a lot of noise. Excluding IPOs might look really bad over some periods. I mean, even in the, we'll show the chart for that IPO ETF, there was a period where it was outperforming. And so if you're excluding IPO during that period, you're going to look at your decision to be like, man, I was wrong. But I think you have to think about what is the long-term expected outcome of this thing and then acknowledge that because we're dealing with a ton of uncertainty in financial markets, in the short term, there's going to be a lot of noise. And you have to be able to stick through whatever you have decided to do through the noise. And I think that applies to
+
+116
+00:54:01.060 --> 00:54:28.180
+somebody choosing to use dimensional funds that applies to somebody using index funds. It applies right now where people are worried about all these IPOs. But like, man, if you've been investing in index funds, you've been exposed to this exact thing. And now just because it's a big headline is not a reason to bail on the strategy. This comes up all the time. Investor discipline is key. There's so much noise that comes up. Right now we're talking about these mega IPOs, but tomorrow would be something different. Next week, next month, it'll be something
+
+117
+00:54:28.180 --> 00:54:53.310
+different than that. But if you're constantly looking for the edge or the downside to protect against, you're probably going to end up worse off if you keep changing and adjusting your strategy. It's better just remain disciplined to A, try it into strategy that you're committed to for the long term. Great. The last little segment I have here is index funds in private markets with companies staying private longer and going public when they're larger.
+
+118
+00:54:53.310 --> 00:55:21.220
+I think it's a natural question to ask whether investors should be seeking exposure to private company shares before the companies go public. There are a couple of things to think about here. There's a huge amount of survivorship bias in private company outcomes. For every SpaceX or OpenAI, which are dominating headlines today, there are thousands of companies that did not grow or failed entirely. That skewness exists in public markets too, but it's way more brutal in private markets. It's really easy to look back right now and say,
+
+119
+00:55:21.220 --> 00:55:50.210
+Oh, I should have bought SpaceX shares you probably couldn't have, but I wish I found a way to get SpaceX. But there are ton of private companies that failed over the same period over the time that SpaceX has been operating and growing to its current size, including other space companies. It's tough out there. And another big thing is that the fees and costs associated, and we talked about this in a lot of detail in the previous episode, the fees and costs associated with private company investments can often absorb the financial benefits of owning private assets. As we've talked about that has
+
+120
+00:55:50.210 --> 00:56:19.540
+largely been true with private equity funds in general, which have delivered net of fever terms roughly in line with public markets, especially when they're properly matched to comparable public equities. There are some really interesting stories floating around right now about the length that some people have gone to to buy what they hope are SpaceX shares. So they did these things called special purpose vehicles that get created in order to pool investor money together and buy private company shares. Private companies don't want hundreds of
+
+121
+00:56:19.540 --> 00:56:44.670
+investors on their cap table. So a special purpose vehicle can pool a bunch of money together. So there's just one entity that's buying shares. So there's one special purpose vehicle reported on by the Wall Street Journal that had a 4% upfront fee with an additional fee of 25% of future profits when the shares are sold. You can get exposure to the shares through this SPV, but how much of the benefits are you actually going to keep?
+
+122
+00:56:44.670 --> 00:57:14.210
+One of the other things that comes up is that there are questions about who actually owns what because the special purpose vehicle structures and the layers of ownership are so complicated that it's hard to know what you actually own. And then there are also stories of just outright fraud in some of this reporting where people were saying they could get access to some of these private company shares and they were actually just stealing the money, which hopefully is not too common. It's out there anytime there's something people really want, I think it will create a vector for fraud.
+
+123
+00:57:14.210 --> 00:57:34.350
+People will see something like SpaceX. They'll imagine all the money they can make if they were able to buy some SpaceX shares or whatever company shares at a low valuation and then sell when it goes public, which is true if you can do that. Yes, but unless you're an employee or otherwise have direct access to the company shares, early and direct access to the company shares, financial intermediaries that
+
+124
+00:57:34.350 --> 00:58:01.760
+do have access or able to get access are not typically going to give you the end investor access to an equity like that on terms that are better for you than they are for the intermediary selling them to you. Financial intermediaries, they don't tend to be in business to give you the investor money for free. There are some pretty interesting stories about ETFs that have gotten exposure to SpaceX. There are some like Fidelity. There are a couple of fund companies, Active Managers, who legitimately
+
+125
+00:58:01.760 --> 00:58:30.740
+participate in fundraising and were able to invest in some of these companies early, which is pretty cool. It'll be interesting to see how that affects the returns of those funds because obviously this isn't their only holding. We'll keep an eye on that. But there are some ETFs that tried to get exposure through special purpose vehicles later on. So there's one ETF that attracted quite a bit of reporting and attention. The ER shares private public crossover ETF. So it bought into SpaceX through an SPV.
+
+126
+00:58:30.740 --> 00:58:58.580
+in December 2024. Now, SPVs are not liquid, not very liquid at least. So this ETF, it's XOVR, I think it's the ticker. It's had to deal with some pretty unique practical issues because it's a liquid vehicle, it's an ETF, holding a large stake in an illiquid asset. So Jeff Tack from Morningstar has done a bunch of interesting writing on this. What's even more interesting though, at least to me, is that despite SpaceX reported to be rising in value substantially,
+
+127
+00:58:58.580 --> 00:59:26.880
+since this ETF invested in it in December, 2024, the fund has actually lost money in absolute terms and even more so relative to the market since it made that investment. There's a whole bunch of reason for this. And Jeff Tak goes through a bunch of reasons in an article. A lot of it is just that the other securities, the public securities that are in the ETF have performed quite poorly. Jeff Tak is the managing director from Morningstar Research Services. People don't know who he is. He wisely notes in one of his posts on this that
+
+128
+00:59:26.880 --> 00:59:55.600
+When it comes to investing, the more you covet something, the more you should probably question your desire to own it in the first place. I think a lot of investors are so eager to get a piece of SpaceX and some of these other companies. In this case of this ETF, XOVR, they got burned. They ended up losing. Some good news, and then this is also quite interesting, is that, well, it's generally difficult to get access to the private company shares that you want. A lot of public companies will make strategic investments into private companies.
+
+129
+00:59:55.600 --> 01:00:22.020
+From that perspective, public market investors are not entirely locked out of private markets. Google invested in SpaceX in 2015. More recently, EchoStar received SpaceX stock as part of a deal for a wireless spectrum. Amazon, Microsoft, and Nvidia are major investors in open AI. There was a leak of open AI's cap table. Microsoft owns a huge portion of their equity. I don't know, man. The hottest private companies in many cases, public companies,
+
+130
+01:00:22.020 --> 01:00:50.450
+who saw potential in that now hot private company have invested in them. And so if you're a public market investor, you're indirectly or not even indirectly, like you're participating in some of those private market successes before they trade on public markets. I think Microsoft Stock actually popped on, it was an open AI announcement about their valuation, I think it's there. It's not totally locked out of private market growth. Yeah, it just shows the power of sales and marketing when you
+
+131
+01:00:50.450 --> 01:01:19.900
+hear about these different offerings. Fund managers are actually just preying on the desires and interests of investors and creating products that make it sound attractive, but they're either high fees, hard to access, or like this ETF, who, given exact love, are going to result in an undesirable outcome. Obviously not guaranteed. Some people get lucky, but product manufacturers design things like this in a way
+
+132
+01:01:19.900 --> 01:01:49.760
+to profit themselves. Sometimes it benefits the investors, but unless you pick the right one at the right time, you're probably going to be worse off. I think this is a really good reminder too that when you own the whole market, you don't have to worry too much about FOMO because I've made this argument with people before who say they want to diversify more by buying crypto or AI plays or whatever it is.
+
+133
+01:01:49.760 --> 01:02:17.170
+We even real estate. These are things that are not necessarily directly represented in the index, but they are indirectly just by, well, I said a minute ago or earlier in the episode that the index isn't really designed to represent the economy. It's designed to represent the stock market. The stock market is a proxy for the economy. It doesn't always map it directly, but the idea is to this point here, if you own
+
+134
+01:02:17.170 --> 01:02:44.830
+the total market, you already own a big chunk of Amazon, Microsoft and Nvidia, and therefore you also own a big chunk of open AI. There's not a lot more you can do other than own virtually every public company that's available. And when you do that, you know, buy trickle down, sort of own a little bit of just about everything. As long you're okay with that, yeah, sure, you can over concentrate in one or the other stock or sector.
+
+135
+01:02:44.830 --> 01:03:12.210
+But if you just want a little bit of exposure to everything, buying the total market index is still the best way to do that. I agree. Microsoft owns a huge portion of OpenAI. Does it make sense for you to go out and try your best to find a way to buy more OpenAI? Do you need to own more than what is represented by Microsoft? I mean, I don't know. I guess after the fact now, if you knew to do that a while ago, we can say that, hey, that would have made a lot of sense. But again, as I mentioned earlier, the ton of survivorship by us there,
+
+136
+01:03:12.210 --> 01:03:34.930
+Go back in time 10 years, which private companies should we invest in? I don't know, man. Not so easy. It's hard enough to pick public companies. It's harder to pick private ones with there's less information available to make those decisions. All right. So my wrap up here, yes, it is possible that these upcoming mega IPOs will affect market indices, especially if these companies end up being fast tracked for inclusion.
+
+137
+01:03:34.930 --> 01:04:04.900
+Then due to index fund mechanics index funds will buy up IPO shares at any price if they're included in the index they're tracking leading to adverse selection and potentially even making the problem worse for themselves because people know the index funds are going to be buying those shares. If you're an index fund investor, I think this is a really important point. This is a cost that you have been paying and still outperformed most everything. Maybe these cases as you mentioned earlier Dan are a bit more extreme just because of the size of the companies but
+
+138
+01:04:04.900 --> 01:04:33.140
+This is it. This is part of the indexing lifestyle. You're deciding to accept what the public market has to offer, which includes investing in IPOs that sometimes have high prices. You can either accept that and carry on, which has been a very successful strategy. I suspect it will continue to be a very successful strategy in the future. Or you can look at alternatives like dimensional funds or Aventus funds that we talked about, which have their different methodologies for avoiding IPO flops.
+
+139
+01:04:33.140 --> 01:04:59.950
+and those are also low-cost, broadly diversified, systematic funds. They just have their various ways of not auto-investing in IPOs at any price. And then the last piece is, no, you probably can't get access to these private companies directly prior to the IPO. You can try and get an IPO allocation. When everyone wants to buy something, either its price or the cost of accessing it is going to absorb a huge portion of the benefit that you think you're going to get from investing in it. And then as we talked about,
+
+140
+01:04:59.950 --> 01:05:26.510
+You've already got exposure to a lot of this stuff through public companies that have invested in those private companies already. That's it. Good discussion. And I think a nice elaboration on the original video, I think we took it in a few different directions that were pretty productive. Well, it helps a lot having you guys here to chat with us. So I think about that. Is it repetitive to have the same topic on my channel where I just talk about it myself and then also on the podcast? But even
+
+141
+01:05:26.510 --> 01:06:00.800
+setting aside additions like the additional information from Avantis and Professor Ritter. I think having you guys giving your commentary and interpretations as we're going through the topic, it just makes it way more interesting and adds a ton of elements I don't have on my own. By the time you've released the video and we record this episode, there's already a bunch of comments on the YouTube video or in the channel that prompts new thinking and questions or clarifications. It's worthwhile. And not ever to listen to Paul. It's another important point. True.
+
+142
+01:06:00.800 --> 01:06:30.770
+One review. I'll read the disclaimer. You want to read the review, Dan? Sure. We have a review from Apple Podcast to read. Under SEC regulations, we are required to disclose whether a review, which may be interpreted as a testimonial, was left by a client, whether any direct or indirect compensation was paid for the review, or whether there are any conflicts of interest related to the review. As reviews are generally anonymous, we are unable to verify if the reviewer is a client or disclose any such conflicts of interest, which there won't be because we don't pay for reviews.
+
+143
+01:06:30.770 --> 01:06:58.640
+All right, so this one is titled, Valuable and Insightful Podcast. Love the podcast and always find the uninterrupted time to listen for content. Not being a finance nerd, I find some of the topics over my head, but over time my understanding is improving. I appreciate the scientific approach and listening always puts me in a higher thinking mindset. Love the rent buy and happiness index type topics as well. The banter before and after is great.
+
+144
+01:06:58.640 --> 01:07:27.940
+and really like to hear what Cameron is up to. His gentle nudges for Ben to share are always entertaining. Shout out to Mark. I really caught on to his dry wit and felt he was a great addition. All the hosts are great, keep striving for topics from a Canadian perspective as we all get more US influence. I will say that the disclaimer we're all waiting for has mainly overstayed its welcome at this point. I can listen to the factual one without skipping, but the fun one is only good for a couple of listens. It's fair enough.
+
+145
+01:07:27.940 --> 01:07:57.010
+Could be time for an in-between version for those who can't easily skip it, just my opinion. I've also tried to watch the YouTube, but maybe all my team's meetings at work have soured me on this format for your content. That being said, the positive educational and informational benefits of your content far outweigh any of my critiques. I will continue to be a fan of Ben, Cameron and company for as long as we have the privilege to keep learning and listening. Thank you for such great shows. From Jeff in IT, from Aurelia.
+
+146
+01:07:57.010 --> 01:08:29.810
+This is a new review, and Cameron's barely in the podcast anymore. This guy must have gone back to older episodes. But another shout out to Mark, so we got him into the episode a couple of times today. Mark and his lasting impact on the podcast. Indeed. Alright, that's all I have. Anything else from you guys? Hell, he a next time. Thanks everyone for listening, and thanks guys. Hey everyone, it's producer Matt. Thank you so much for tuning in to this week's episode. Before we sign off, here's the disclaimer you've been waiting for.
+
+147
+01:08:29.810 --> 01:08:55.380
+Portfolio Management and Brokerage Services in Canada are offered exclusively by PWL Capital, which is regulated by the Canadian Investment Regulatory Organization and is a member of the Canadian Investor Protection Fund. Investment Advisory Services in the United States of America are offered exclusively by One Digital Investment Advisors LLC. One Digital and PWL Capital are affiliated entities and they mostly get on really well with each other. However,
+
+148
+01:08:55.380 --> 01:09:23.580
+Each company has financial responsibility for only its own products and services. Nothing herein constitutes an offer or solicitation to buy or sell any security. Occasionally, we tell you not to buy crappy investments in the first place, but that's not the same thing as telling you to sell them. This communication is distributed for informational purposes only. The information contained herein has been derived from sources believed to be truthy, but not necessarily accurate. We really do try.
+
+149
+01:09:23.580 --> 01:09:51.200
+But we can't make any guarantees. Even if nothing we say is fundamentally wrong, it might not be the whole story. Furthermore, nothing herein should be construed as investment, tax, or legal advice. Even though we call the podcast your weekly reality check on sensible investing and financial decision making, you shouldn't rely on us when making actual decisions, only hypothetical ones. Different types of investments and investment strategies have varying degrees of risk and are not suitable for all investors.
+
+150
+01:09:51.200 --> 01:10:19.200
+You should consult with a professional advisor to see how the information contained herein may apply to your individual circumstances. It might not apply at all. Honestly, you can probably ignore most of it. All market indices discussed are unmanaged, do not incur management fees, and cannot be invested indirectly. Which is a shame, because it would be awesome if you could. All investing involves risk of loss, including loss of money, loss of sleep, loss of hair, and loss of reputation.
+
+151
+01:10:19.200 --> 01:10:45.360
+Nothing herein should be construed as a guarantee of any specific outcome or profit. Past performance is not indicative of or a guarantee of future results. If it were, it would be much easier to be a Leafs fan. All statements and opinions presented herein are those of the individual host and or guest, and are current only as of this communications original publication date. No one should be surprised if they have all since recanted.
+
+152
+01:10:45.360 --> 01:10:54.920
+Neither one digital nor PWL capital has any obligation to provide revised statements and or opinions in the event of change circumstances. See you next time.
