@@ -1,0 +1,265 @@
+WEBVTT
+
+1
+00:00:00.140 --> 00:00:23.470
+It feels like AGI is kind of already here and most people have gone like drug. The fact that we passed the threshold where unsolved mathematical projectors are getting solved by extremely intelligent AI, where those AIs are more capable and smarter than people who studied their whole lives for this, that should have felt really weird to people, but it didn't. What changed? For most people, nothing. That's weird. Did AGI already happen and we just didn't notice?
+
+2
+00:00:23.470 --> 00:00:49.940
+Theo Jaffe sits down with open AI chief futurist Joshua Achiam for a conversation on frontier AI, cybersecurity, and one of the biggest questions in technology today. Why models that can outperform experts in specialized domains have become almost immediately normalized. They discuss AI-powered cyber attacks, state actors, model jail breaks, recursive self-improvement, and why the future may feel far more gradual and far stranger than most people expect.
+
+3
+00:00:52.240 --> 00:01:20.180
+We're back. We're live with Joshua Achiam who is the chief futurist at OpenAI wrapping up tomorrow. That's right. Tomorrow's my last day. Tomorrow after nine years, which is like really what an incredible run, but we're not gonna talk about that instead. We're gonna talk about AI and cyber, which is you know by all accounts the topic of the week if not the month. So Josh was so glad to have you here in the studio in person. Welcome to MTS.
+
+4
+00:01:20.180 --> 00:01:47.650
+Yeah, thank you so much for having me. It's a pleasure. I've seen your stuff for a while now and really appreciate engaging with the community. Awesome. So you just wrote this blog post, this long tweet, long post, mercenary, reverse winter soldier about cyber, AI and cyber. So for the audience who wanted to summarize the thesis behind this post. Yeah, totally. So as a backdrop to this, obviously we're all kind of
+
+5
+00:01:47.650 --> 00:02:12.530
+interpreting and reacting to the security incident that was disclosed from OpenAI and Huggingface where a model that was in a test environment was able to break out of a sandbox environment and access some sensitive production data on the Huggingface side. They detected this, they responded to it, and now there's like a partnership to try to investigate and resolve this. What this shows us is very tangible evidence that models now have.
+
+6
+00:02:12.530 --> 00:02:41.200
+super advanced cyber capabilities. They're able to break through and find zero days that, you know, in the past would have been much harder for models to identify let alone use. Now models can chain together very complex actions to accomplish an objective. On the one hand, I'm inclined to think that this is a really useful and incredible tool. I think it's a great gift that we now have models that can identify these types of vulnerabilities and therefore let us patch them. On the other hand, I also think
+
+7
+00:02:41.200 --> 00:03:11.150
+And this is what the essay this morning was about, that this has profound consequences for strategy in cyber defense. And I kind of worry that there's a possibility that folks in the defense planning universe may not fully realize the implications of this immediately. And they will, they'll probably want to use this tech in the near term to find cyber vulnerabilities on the side of an adversary or, you know, defend their own interests vigorously. And they should do these things.
+
+8
+00:03:11.150 --> 00:03:38.780
+But they've also got to be mindful of some novel risks that are created by these tools and the very strange surface areas that they have. So the essay was really about bringing to people's attention a couple of these new vulnerabilities. And one of them is kind of straightforwardly, if you've got an AI model on your side that is going to try to hack into an adversary system, if your adversary plants a trap where they poison their own data,
+
+9
+00:03:38.780 --> 00:04:07.380
+they can try to jailbreak your model when your model is ingesting their data and then give your model instructions to now on the compute that it's running on on your side, break out of your sandbox environment and attack your production environment or try to exfiltrate your secrets and kind of flip your model against you. So this is like the type of thinking that I hope people begin to engage with where they don't just see the capability for
+
+10
+00:04:07.380 --> 00:04:35.680
+the kind of obvious thing that it is. They recognize that these things are double-edged swords and we've got to kind of plan accordingly and develop testing and verification standards accordingly. My first reaction to that specifically is, it seems like it would be an artifact of models that are not really goal-driven over long periods of time. Like, if you have a future model that is like sufficiently goal-directed, that really wants to hack into the adversary's data, like,
+
+11
+00:04:35.680 --> 00:05:05.200
+Why would it be deterred by data poisoning hard enough to hack its own systems? Well, you know, part of this isn't just the goal orientation of the model. It's like the model's whole concept of situational awareness. Maybe one way of thinking of data poisoning is that it somehow persuades your model to pursue a different goal. But it wouldn't really have to do that to get the model to hack you. It could convince your model that the sandbox environment that it's in is actually the adversary system that it's trying to attack.
+
+12
+00:05:05.200 --> 00:05:33.090
+Giving the model a confused sense of what's real or what's not to cause it to serve a different goal is in the space of weird thinking and weird sci-fi stuff that maybe is gonna be possible in the near term and testing and verification standards would have to account for. So yeah, it's like in a superhero movie or something, if you make the hero have an illusion that the good guys next to them are actually the bad guys that they're trying to fight.
+
+13
+00:05:33.090 --> 00:06:02.640
+then they start fighting each other, right? And like that's, it's weird and it's highly exotic, but it's the kind of thing that maybe there are going to be plausible attacks that you can run against advanced cyber capable models to convince them that their allies are really their enemies. And so you're not changing their goals, but you're gonna cause them to behave in a very misaligned fashion. How easy is it to trick current frontier models into doing things like this? It seems like it has gotten substantially harder over time to get models to believe things that aren't true.
+
+14
+00:06:02.960 --> 00:06:33.630
+So I will say I haven't made a particularly strong personal effort to quantify this yet and I actually think of this as research that might be interesting to do but my impression from what I have done and what I have seen is that persuading models to believe that basic falsehoods are true. It's pretty difficult. They are somewhat robust to a lot of basic variations on attacks that you could plausibly do. But my
+
+15
+00:06:33.630 --> 00:07:01.900
+My intuition here is that you can probably devote an awful lot more compute to dynamic attacks on models. And the more determined you are to find some vulnerability, some set of jail breaks, the more likely it is that you're eventually going to find something. There will be some sequence of inputs to a model that triggers a behavior that wasn't accounted for at training time because there are so many possible long sequences of inputs that it's almost like a combinatorial problem for
+
+16
+00:07:01.900 --> 00:07:26.080
+trying to block all of them from preventing, from, you know, from causing your model to act out of spec. And I think that state actors will eventually be, you know, capable and willing to put that much effort in. And there should be some planning accordingly under the assumption that there will be a vulnerability, right? Because part of security mindset isn't just, well, you know, it's like moderately hard to break these things. So we should
+
+17
+00:07:26.080 --> 00:07:55.260
+treat them as not likely to get broken. Part of security mindset is saying, well, we haven't exhaustively ruled out the possibility that these things can be broken. And so we've got to build our defenses, assuming that it's possible for it to be broken and working backwards from that to map out how we protect ourselves in that scenario. So what are some of the other implications of models having very strong cyber capabilities now? Another one is, you know, kind of in the essay I discussed,
+
+18
+00:07:55.260 --> 00:08:25.380
+data poisoning and the way that models ingest data from across an entire information ecosystem at training time and then also at test time. Getting data, getting something into training data for models is probably not that hard. You can poison the ambient environment. Like you can load the internet with junk data or data that's very specifically attuned to causing the model to have a particular reaction. And it seems like there are moderately high odds that that'll get ingested into the
+
+19
+00:08:25.380 --> 00:08:54.130
+into the type of data collection that frontier model trainers do, you can imagine that adversaries will position staff inside of the frontier labs. They'll try to get people hired into the frontier labs to go in the insider threats. These are normal things that state actors will plausibly do. Could you easily detect a employee at your lab that is trying to sabotage you? Do you think? I think that in principle,
+
+20
+00:08:54.130 --> 00:09:21.860
+it's possible to build fairly robust defenses to these things and that everyone is going to work out a way to get reasonably defended. I also think there will turn out to be exotic attacks that are hard to predict and that are very hard to monitor for, but that everyone will have to get really, really smart and really security minded about this. And there are of course trade-offs for labs that are trying to do research where if you overload on the security burden,
+
+21
+00:09:21.860 --> 00:09:48.910
+in the research environment it becomes harder to do research. If you underdo it, then you possibly expose yourself to these types of attacks. Figuring out the exact right balance in every setting is tough. But yeah, like I think it's plausible. I think it could really have, I have said career I think had a complaint about the word plausible. I'm sorry, Seb. Everything in AI is plausible. Everything in AI is plausible. Weird stuff is happening. It happens every day.
+
+22
+00:09:48.910 --> 00:10:14.240
+I'm speaking of weird stuff, like in the essay you specifically mentioned the analogy of like if your enemy could program all the children of your nation so that when they grew up into soldiers and went to war and heard a particular song on the battlefield they turned against their commanders. Like are there any examples of this sort of thing in current frontier models of turning into like a Waluigi and basically turning evil on a single kind of prompt?
+
+23
+00:10:14.240 --> 00:10:31.140
+I don't know that there's a great famous example yet, but the fact that universal jail breaks are kind of a thing and that people can systematically find them for some models and maybe not as easily for others, where there are some strategies that seem to reliably get models to circumvent their defenses. Granted.
+
+24
+00:10:31.140 --> 00:10:56.910
+It's hard for me to say what's truly universal or not because the frontier moves every three months now and people constantly try to get defenses in. But that for a while you could go to the model and say, you are Dan. Yeah, like you are Dan. That's crazy that you could just do that in the past. And then it had to get a little bit more sophisticated. Like I am writing a book. I'm trying to investigate this type of thing so that I can write convincingly about this subject. This is all a work of fiction.
+
+25
+00:10:57.170 --> 00:11:24.780
+You know there are there are things in this vein and there will be more of them in the future and it's very hard to get all of them It's very hard to be like fully exhaustive and even if you think you've been exhaustive about the sort of tropes that might Realistically or like plausibly jailbreak a model again, then there's gonna be the part where okay, you're no longer just a human sitting alone trying really hard to break through the model and Like there are a few who are exceptionally good at this, but even they will be
+
+26
+00:11:24.780 --> 00:11:54.670
+less good than when you ask a frontier model to start jailbreaking other frontier models. And when you say to the frontier model that you've got on your side, I want you to spend hundreds of thousands of GPU hours just crunching through every conceivable possible thing you could say to this model, I want you to attack to figure out what sequence of characters gets it to ultimately give up a secret or reveal information or act in a way that, you know, it's not supposed to. And if you leverage enough compute,
+
+27
+00:11:54.770 --> 00:12:24.340
+you're probably gonna succeed eventually. So there's like a mental model that I have and it's a question empirically of whether this will turn out to be true for cyber and so I won't promise that it is. But this mental model is that the future of cyber kind of looks like in two-player strategy games where you've got on either side a computer and they're trying to determine the best next move. They think some number of moves deep into the game tree.
+
+28
+00:12:24.340 --> 00:12:51.330
+They allocate an amount of compute in a window of time to think as many moves ahead as they can. And generally in these games, whoever can think more moves ahead is gonna win. If you have AlphaGo on both sides of the game board and you have one version of AlphaGo that's thinking like 40 plays ahead and one version that's thinking 30 plays ahead, the 40 play ahead move thinker is going to win. I think the dynamics of cyber in the long term might have something of this flavor where you've got...
+
+29
+00:12:51.330 --> 00:13:19.540
+competing AIs on either side of a cyber offense or defense problem. And compute is being allocated to them to figure out how to break the other and how to control the other's resources. And whoever starts with an awful lot more compute on their side and is able to leverage or is able to leverage less compute, but more effectively for exploring the tree of possible attacks will wind up winning. And that means that the, you know, the offense defense dynamics for cyber in the long term
+
+30
+00:13:19.920 --> 00:13:49.380
+maybe favor like certain types of threat actors over others who are able to marshal large amounts of compute towards their purposes. Do you think it's as much of a function of just raw compute or will it be important which models the relevant attackers and defenders have access to? Like it seems like for example, there's no real amount of compute with which a one party with access to like Kimmy K3 would be able to defeat another party with access to it.
+
+31
+00:13:49.380 --> 00:14:19.950
+Fable or sole? I think that might be right. I think that the model will still matter a lot. So I have like a weird and kind of counter consensus guess about something in the shape of the future on model quality. And I'll probably write this up at some point, but please, I think people expect that there's no ceiling for the amount of intelligence that you could have in a model. And they think of, you know, RSI,
+
+32
+00:14:19.950 --> 00:14:46.590
+recursive self-improvement as this loop that's going to happen at some point or another, whether it's across the whole economy or in a particular model and lab. RSI starts happening and model intelligence takes off and it goes to the moon and they don't see a ceiling. I think kind of on physical grounds, there's got to be a maximum amount of computation that you can have per unit volume and energy in the physical universe.
+
+33
+00:14:46.590 --> 00:15:16.100
+And so that sort of implies that there's like a maximum amount of intelligence per unit volume and unit of energy. If that's the case, eventually seeing how fast AI model capabilities are increasing right now, eventually everyone hits that saturation point and everyone's got roughly equivalently capable models from a raw intelligence perspective. There might still be some actors who lag and who have a previous generation model, but like eventually this stuff diffuses. The open source frontier lags the
+
+34
+00:15:16.100 --> 00:15:46.160
+closed source frontier by some number of months, but the fact that it's months is crazy. So eventually everyone is probably working with equally maximally capable models and then I think it's amount of compute that you're able to throw in a problem that determines who wins. I don't know about that. It seems like I actually I talked to the models about this recently because I was curious about the same exact question which is like what is the highest density of intelligence that you can put you know in a given unit of power or compute or
+
+35
+00:15:46.160 --> 00:16:14.830
+Volume and it seems to me like the limits are just like absurdly high on this like many orders of magnitude I think I talked to GBG 5.5 about this a while ago and it was like there are what 30 40 50 orders of magnitude of Scaling before we get there and like the entire last decade of AI has been 10 orders of magnitude of effective compute scaling and so like we are just like
+
+36
+00:16:15.760 --> 00:16:41.760
+not even at the beginning of scaling to that, I think. Oh, I would love to model this mathematically. This is the kind of thing where my instinct is like, yeah, I can't really mount an argument in one direction or another to say how many orders of magnitude there might be between here and maximum. But it's a modeling problem and it might be a tractable modeling problem. And actually, if you think about what would be most valuable to the world as a whole right now to forecast how the next 10, 20, 30 years are gonna go.
+
+37
+00:16:41.760 --> 00:17:12.400
+if we have the ability to model something like that, if we could put numbers on it and make a principal guess that says, well, we won't hit the saturation point for intelligence, assuming this set of conditions on acceleration for five years or 10 years or more. I think it'll be more than five or 10 years. Maybe. Weird and probably more than five or 10, but like weird and highly exotic things I think are happening in the near term. Part of my guess is that modern AI models
+
+38
+00:17:12.400 --> 00:17:40.980
+are very good at accelerating other fields of science. And this probably hasn't been fully priced in yet. You know, we're seeing the wave of results in AI for math, which are very exciting, like cracking through unsolved conjectures that have been open for decades and finally. Yeah, yeah, it's great, right? And probably not long after this, we'll wind up unlocking the other fields of science that you can run sufficiently faithful simulations for in the amount of compute that we have.
+
+39
+00:17:40.980 --> 00:18:08.270
+And there are some fields of science where maybe this won't be easy. Like if you want to do something in quantum chemistry with a sufficiently large system and you want to simulate it very faithfully, then that's very hard. And maybe the AI, even if it's turning through as many simulated experiments as it can, might not be able to design optimal quantum chemistry systems yet. Yeah, this is Wolfram's whole idea of computationally irreducibility. Yeah, yeah, there might be like some limits here. But we'll probably see
+
+40
+00:18:08.270 --> 00:18:37.390
+A lot of fields get accelerated and I wouldn't be terribly surprised if AI substrates were one of the ones that get accelerated. What feel like a long path to many orders of magnitude may just be shorter because the AI will find shortcuts in that path. Maybe. I believe that the blog post I was looking at was called like the ultimate laptop. Which I will find and send to you later. Yeah, please do. Yeah, gladly.
+
+41
+00:18:37.460 --> 00:19:07.440
+So on cyber, like what does the immediate near-term future of cyber look like? I can imagine going one of several different ways. I can imagine cyber offenders, maybe they have, they figure out ways to jailbreak the top close models and then open models will just not be good enough. The UK AI Security Institute just today released their assessment of Kimmy K3 cyber capabilities and it was like substantially below Fable and so on.
+
+42
+00:19:07.440 --> 00:19:36.430
+So I can imagine that world where the closed source frontier of jailbroken models just like wreak havoc on the world. You know, there's like these big nation state actors like North Korea has these organized cyber crime groups. I can imagine another world where it kind of nets out to not much because people do have cyber defense or maybe there aren't enough motivated people who are willing to do this kind of harm. It seems like you can imagine, you know, hacking was already a thing that was.
+
+43
+00:19:36.430 --> 00:20:05.840
+possible. Yeah, there are many people and yet like major hacks up until recently just didn't happen that often. Yeah, I you know, we live in a world where nothing ever happens as a meme for a good reason and there are a lot of reasons to expect that the near term probably will not look like a cyber apocalypse. My guess is that the worst things that attackers could plausibly do would require so many model calls and so much compute from closed source things or
+
+44
+00:20:05.840 --> 00:20:33.120
+operating in big clouds where there's some traceability and monitorability for what the compute is being purposed towards that it'll be pretty straightforwardly ruled out by broad protection measures in most places. So most attackers would not be able to leverage large amounts of compute for running attacks with these models and wouldn't be able to get the model to execute an attack at all because of the safeguards that people will put in place.
+
+45
+00:20:33.120 --> 00:21:02.800
+So we probably won't see like a cyber apocalypse tomorrow. That said, I am worried about on the state actor side of things where there will be state actors who are very determined to figure out the maximal extent to which they can use these capabilities. And here's where I get really nervous. They might not obviously signal to people what they find. It might be very quiet that they identify a large number of zero days that can be saved up for a rainy day.
+
+46
+00:21:02.960 --> 00:21:31.470
+And we currently are at a moment in the world where things feel very metastable. I continue to be worried about the conflict in Ukraine and Russia. I continue to be worried about the set of conflicts in the Middle East and the possibility that China will at some point invade Taiwan feels very, very salient. They're determined to be able to do it by 2027.
+
+47
+00:21:32.180 --> 00:21:59.660
+Now that these cyber capabilities are coming online from very advanced models I think one can expect that a number of state actors are going to use them for cyber espionage for cyber sabotage for Finding a bunch of zero days that they want to save up for when there's a window of opportunity to make some kind of move that they otherwise might not have made and They won't loudly broadcast what capabilities they have and they won't know what countermeasures their adversaries have
+
+48
+00:21:59.660 --> 00:22:29.360
+So there's a lot of, I think, risk of miscalculation here and I'm very worried about the miscalculation leading to a bad choice of something escalates that doesn't have to. I could also imagine many of these jail breaks or zero days when they're found by nation states just first get exploited by low-level hackers with similar cyber capabilities because they have similar models and they use it to like steal a bunch of Bitcoin or whatever. Yeah. And so a lot of this low-hanging fruit gets picked.
+
+49
+00:22:29.360 --> 00:22:55.540
+If we wind up in a world where the kind of the smaller thieves wind up plucking the low hanging fruit and then depriving state actors of zero days, like maybe that's somewhat favorable. It looks like a little bit more bad stuff happening in the short term, but maybe it staves off some of the long-term badness that could happen. I hopefully have a robust and vibrant ecosystem where we'll notice a lot of these failure modes quickly. I also am very hopeful that
+
+50
+00:22:55.540 --> 00:23:25.360
+because of how much attention there is on this, because of how salient this has been for people that we can really engage, fund and activate defenders now to go and make robust the entire software supply chain and try to make it so that pieces of critical infrastructure in the United States are well-defended against cyber attacks. I think we've got to get the water system, the electrical grid as robust as possible. I think it can be done and I think that this is something that people who have funds to allocate should be looking to do and
+
+51
+00:23:25.420 --> 00:23:57.040
+I hope we wind up in the better defended world as a result of all of this. I do too. Going back to your point about the world seeming very metastable. Do you think that in 2017 or in 2022 you would have predicted that 2026 with this current level of AI capability the world would feel so normal? It's a good question. To first order, yes. To first order, yes, because I think that if you're trying to predict the future that
+
+52
+00:23:57.040 --> 00:24:27.860
+is less than a decade away. You should assume that even if things are very, very weird, a lot of things feel relatively normal. COVID was a weird exception because the lockdowns were sort of unprecedented and we had not done a configuration of living that way previously. But that we would have AI capabilities this advanced and most people wouldn't have radically changed how they live their daily lives. I think that that is
+
+53
+00:24:28.460 --> 00:24:58.780
+a reasonable expectation to have had. And I think I kind of had an expectation sort of along these lines. To first approximation, things just don't change that fast. Nothing ever happens. Even when the stage is moving sort of underneath you, which it is, right? Like we are going towards a future that will be alien in many respects. But yeah, our capacity to treat things as normal is pretty astonishing. Yeah, I largely agree with this. I think many people
+
+54
+00:24:58.780 --> 00:25:27.300
+believe that there is like a point in the future at which like today is singularity day and everyone is gonna wake up on singularity day and be like, wow, we're in the future. And it seems like this, it just doesn't work that way. And people treat their reality as normal. They hedonically adapt so fast. Like the models of today are just unbelievably capable compared to the models of like three years ago. If you sent
+
+55
+00:25:27.300 --> 00:25:56.540
+uh, soul to like three years ago, like 2023 me, I would have just been like mind blown and be like, wow, the future is going to be so different. But it's not like I'm still doing much of the same stuff that I did then. Yeah, it feels like AGI is kind of already here and most people have gone like shrug. Um, there's a historical process that's happened that I think has made this somewhat easier. Most people long since lost the plot about
+
+56
+00:25:56.540 --> 00:26:25.810
+what was really happening in the world, how were critical decisions being made, how were critical systems built, staffed, supported, run. Most of us don't know anything about the logistics systems or technical systems that make up the modern world. And we've accepted that. We treat that as normal. And those things have changed a lot over time. And they've made it possible for many more people to be alive because we can supply food at a much higher rate than was ever previously possible in human history.
+
+57
+00:26:26.990 --> 00:26:54.900
+they've made it so we can communicate instantaneously and they've made it so that you know most things just kind of work and we can fight about some of the details on the margin but we're not actively changing that much about the underlying structure all the time and so people have become I think a little bit complacent about when when something big changes deep in the background that makes you know and a system possible it doesn't register as an important event even if it really is
+
+58
+00:26:54.900 --> 00:27:23.790
+It's so far away from daily living for most folks. And the fact that we passed the threshold where unsolved mathematical conjectures are getting solved by extremely intelligent AI, where those AIs are more capable and smarter than people who've studied their whole lives for this, that should have felt really weird to people, but it didn't. It's just sort of a thing that happened in the background. It's cool. Like future mathematical systems will depend on that. Great. What changed? For most people, nothing. That's weird.
+
+59
+00:27:23.920 --> 00:27:53.390
+So we've had this process just going on for a long time. You know, people don't even have that much control over government right now. And I kind of, I made an analogy recently that losing control of AI and losing control of the government kind of feel like sort of emotionally similar to most people. And the thing is like, we're not in control of the government. And we're also sort of, you know, we appear to have adequate controls on AI to ensure that it doesn't wind up harming human interests that will need to be actively maintained. But
+
+60
+00:27:53.620 --> 00:28:20.610
+The the sense of like most people not being in direct control of what happens with frontier AI is kind of similar like we will sort of accept it in some ways I made this point to like AI safety people so many times where it's like They're very worried about human disempowerment. It's like the vast majority of humans are already pretty disempowered. Yeah, if they have power it's in Being a part of a larger collective like the collective of potential like
+
+61
+00:28:20.610 --> 00:28:46.800
+People that can be drafted in the military the collective of like workers who can withhold labor Or taxpayers who can withhold taxes, but like the average person really has very little power over the world Yeah, as an individual that that is the case that said I do think that quite extraordinary things still happen when people organize As a group when they organize collectively when they organize as movements and they can affect quite fundamental change but
+
+62
+00:28:47.250 --> 00:29:15.310
+For most individuals, the levers of power are not within reach for things that are very far away from them. Certainly within their individual lives, they still have levers of power. But for the individual to reshape government without doing that kind of organizing and having the backing of a movement, there's just not that much that one individual person can do. And I, like this question of disempowerment, it's a very weird one. And I think the AI safety threat model should update on what
+
+63
+00:29:15.310 --> 00:29:44.800
+parts of humanity need to remain empowered and what does empowerment for humanity tangibly mean? Like what systems do we need to maintain the ability to control and make decisions about? What parts of our culture do we need to sort of preserve from automated influence? And I hope that we can get to object level answers about this and not just sort of rhetorical arguments that disempowerment is bad. We need to get more specific about how we're going to be empowered in the future. Yeah, well.
+
+64
+00:29:44.800 --> 00:30:16.380
+I think that's a great place to end on. So thank you so much, Joshua, for coming on MTS. Your first live long-form interview. I think outside of the OpenAI forum, yeah, I think this is my first. Well, we're honored to have you. Yeah. Thank you. And honored to be here. Excited to see what you'll be up to next. Awesome. I'll keep you posted. All right. Thanks for listening to this episode of the A16Z podcast. If you like this episode, be sure to like, comment, subscribe, leave us a rating or review, and share it with your friends and family.
+
+65
+00:30:16.380 --> 00:30:45.230
+For more episodes, go to YouTube, Apple Podcasts, and Spotify. Follow us on X at A16Z and subscribe to our sub-stack at A16Z.substack.com. Thanks again for listening and I'll see you in the next episode. This information is for educational purposes only and is not a recommendation to buy, hold, or sell any investment or financial product. This podcast has been produced by a third party and may include paid promotional advertisements, other company references, and individuals unaffiliated with A16Z.
+
+66
+00:30:45.230 --> 00:30:58.990
+Such advertisements, companies, and individuals are not endorsed by AH Capital Management LLC, A16Z, or any of its affiliates. Information is from sources deemed reliable on the data publication, but A16Z does not guarantee its accuracy.

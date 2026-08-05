@@ -3043,6 +3043,23 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://a16z.simplecast.com/episodes/fei-fei-li-on-spatial-intelligence-and-robotics-j8HvsWJf"
     },
+    "the-a16z-show::e4ebaa91-7ab6-4995-ba37-8a1dccf036d1": {
+      "attempts": 1,
+      "description": "Theo Jaffee is joined by Joshua Achiam, Chief Futurist at OpenAI, for a conversation on AI cybersecurity, frontier model capabilities, and why he believes society may have already crossed the threshold into an AGI-era without fully recognizing it.\nThey discuss AI's rapidly advancing cyber capabilities, state-sponsored hacking, model jailbreaks, recursive self-improvement, and what happens when AI systems begin discovering vulnerabilities faster than humans can patch them. Joshua also explains why most people have quietly adapted to capabilities that would have seemed unimaginable just a few years ago, and why the biggest changes from AI may arrive gradually rather than all at once.",
+      "external_id": "e4ebaa91-7ab6-4995-ba37-8a1dccf036d1",
+      "item_slug": "the-a16z-show-4be840ceff8c",
+      "language": "en",
+      "published_at": "2026-08-04T14:56:48+00:00",
+      "published_to_feed_at": "2026-08-05T03:45:31.553713+00:00",
+      "source_id": "the-a16z-show",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "OpenAI's Joshua Achiam: Did We Already Reach AGI?",
+      "title_zh": "OpenAI的Joshua Achiam：我们已经达到了AGI吗？",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://a16z.simplecast.com/episodes/openais-joshua-achiam-did-we-already-reach-agi-kjP0kXD4"
+    },
     "the-a16z-show::ef54f007-9c46-4d15-b039-1183f989a26d": {
       "attempts": 1,
       "description": "Steven Sinofsky joins Theo Jaffee and Sofia Puccini for a conversation on AI regulation, open-source models, and what history can teach us about technological revolutions. Drawing on decades of experience leading products at Microsoft, Sinofsky argues that governments are rushing to regulate AI before they fully understand the technology, risking innovation in the process.\nThey discuss the \"precautionary principle,\" why open source has historically accelerated innovation, the role of regulation in emerging technologies, the AI competition between the U.S. and China, and why existing laws may already address many of the risks people attribute to AI.",
@@ -4097,6 +4114,23 @@
       "translation_provenance": "faster-whisper/small; batch=8; beam=1",
       "url": "https://www.xiaoyuzhoufm.com/episode/6a5f4f206356eb2d9be61d72?utm_source=rss"
     },
+    "yan-zhong-hua-shu::6a719a98ab3a91c24a0f95e2": {
+      "attempts": 1,
+      "description": "<p>– 本节目由GIADA出品 –</p><p>【本期制作人】shiyue</p><p>【本期嘉宾】</p><p>芮迺伟，职业棋士</p><p>陈鲁豫，媒体人、主持人</p><p>【本期节目介绍】</p><p>岩中花述第九季第七期，鲁豫遇到四十年前中日围棋擂台赛的女先锋芮迺伟，那曾是她对女棋手的全部想象。</p><p>11岁时走进围棋训练班，芮迺伟很快显露出一种天赋：坐得住。围棋给了那个戴眼镜的孤僻女孩一个可以安放专注力的地方，也让她从赢棋中一点点长出了自信。直至进入国家队，她突然感受到男女棋手机会的悬殊，于是只能说服自己忘掉性别去拼。</p><p>1988年，她升为世界围棋史上首位女子九段。也是那一年，一份训练局年终报告里的“行为不检点”五个字让她决定出走。此后十年，舞台一直在那，她上不去。漫长的等待让她确认了一件事——在棋盘中努力、在赛场上争胜，是自己到了下辈子也想继续的事业。还好，最终她回来了。</p><p>漫长的等待与煎熬后，她说自己幸运——因为能者多助，因为她熬过来了；AlphaGo击败人类世界冠军后，她说感到幸福，因为AI展示了自己没能看到的奥妙，引领着自己继续探索。</p><p>在一盘棋里，只要还有机会，就不能中盘认输。在人生的棋局中，只要还能让自己精进，她就愿意等、愿意守。如今63岁的她还在下职业围棋，最小的对手12岁，是她当年差不多开始学棋的年纪。</p><p>她说：“比起输棋，没有棋下更难受。只要还能比赛，明天的太阳就依旧升起。”</p><img src=\"https://image.xyzcdn.net/Fgr2fpNXM8lXG1dmkhjpsgamPAQ3.jpg\" /><p>【内容提要】</p><p><strong>Part 1 上场</strong></p><p><a class=\"timestamp\">03:59</a> 围棋让那个孤僻的孩子找到自信</p><p><a class=\"timestamp\">10:18</a> 走职业道路还是考大学，父母犹豫，我却惶恐回到学校</p><p><a class=\"timestamp\">12:40</a> “优势说不出来，劣势很多”——围棋里的性别困境</p><p><a class=\"timestamp\">19:19</a> 不再把自己当女棋手，要不然就不去幻想能有重要的比赛</p><p><a class=\"timestamp\">27:55</a> 背负了太多期待而后输棋，就是世界末日的感觉</p><p><strong>Part 2 出走</strong></p><p><a class=\"timestamp\">32:50</a> 冲动可以消解一时的压抑，却终归要回到原来的世界</p><p><a class=\"timestamp\">35:40</a> 1987年的三峡事件——“行为不检点”五个字改变一生</p><p><a class=\"timestamp\">42:56</a> 大不了不做棋手去上学，可等离开后才发现还是更想下棋</p><p><a class=\"timestamp\">47:16</a> 命硬需有认死理的品质，也需有命运的眷顾</p><p><a class=\"timestamp\">51:23</a> 舞台一直在那儿，但我上不去</p><p><a class=\"timestamp\">55:45</a> 和江铸久异地三年，他从未让我退居幕后</p><p><a class=\"timestamp\">63:16</a> 沉船的刹那，赶快下棋，那下辈子就还能做棋手</p><p><strong>Part 3 归来</strong></p><p><a class=\"timestamp\">68:21</a> 22年后终于回国，能够用母语思考和交流的感觉真好</p><p><a class=\"timestamp\">71:57</a> 学习师傅吴清源，将围棋作为一生的修行</p><p><a class=\"timestamp\">76:28</a> AlphaGo与李世石比赛，人类棋手成为命运共同体</p><p><a class=\"timestamp\">81:02</a> 赛场年龄差不断增长，学棋的时代在变好</p><p><a class=\"timestamp\">84:59</a> 走过了三毛去过的许多地方，但还是得有棋啊</p><p><a class=\"timestamp\">92:02</a> 输棋会慢慢习惯，但只要还能下，就要多享受<br /></p><p>– 主题曲 –</p><p>《岩中花述》陈婧霏</p><p></p><p>– 节目中提及的作品与人物 –</p><p>中日围棋擂台赛，由中国围棋协会、日本棋院和中国《新体育》杂志社联合举办的围棋团体对抗赛，于1984年10月首次举办，至1996年共进行11届，中国队以7比4的总比分获胜。</p><p>应氏杯，由中国台湾企业家应昌期出资创办，中国围棋协会和应昌期围棋教育基金会共同主办的世界级职业围棋个人赛。</p><p>《一盘没有下完的棋》，1982年中日合拍电影，由孙道临、三国连太郎主演。</p><p>罗洗河，中国围棋九段棋手，现任中国围棋甲级联赛深圳龙华队主教练。</p><p>常昊，中国围棋九段棋手，现任中国围棋协会主席。</p><p>华学明，中国围棋七段棋手，先后担任国家围棋队领队、中国围棋协会副主席。</p><p>杨晖，中国围棋八段棋手，前国家围棋队主力。</p><p>聂卫平，中国围棋大师，职业九段，曾任中国围棋协会名誉主席、中国国家围棋队总教练，有“棋圣”称号。</p><p>江铸久，中国围棋九段棋手，曾在第一届中日围棋擂台赛取得五连胜。芮迺伟的丈夫。</p><p>张文东，中国围棋九段棋手，中国首位从初段直升九段的职业棋手，毕业于北京大学历史系。</p><p>俞斌，中国围棋九段棋手，中国国家围棋队总教练。</p><p>张璇，中国围棋八段选手，女子围棋世界冠军。</p><p>柯洁，中国围棋九段棋手，中国围棋史上最年轻的八冠王，曾连续40个月稳居世界等级分第一。2016年与阿尔法围棋展开三番棋对决，均告负。</p><p>郝克强，《围棋天地》《新体育》杂志创刊者，中国围棋协会原副主席，中日围棋擂台赛发起人。</p><p>陈祖德，中国围棋九段棋手，新中国首位击败日本九段棋手的国手，“中国流”布局首创者，中国棋院首任院长。</p><p>吴清源，被誉为“昭和棋圣”“十番棋之王”的围棋大师，其提出的“21世纪的围棋——六合之棋”开创了现代围棋新时代。</p><p>曹薰铉，韩国围棋九段棋手，职业生涯夺得九个世界冠军，有“围棋皇帝”之称，培养了“石佛”李昌镐。</p><p>车敏洙，韩国围棋五段棋手、职业扑克选手，赴美发展，曾任韩国职业棋士会会长。</p><p>李世石，韩国围棋九段棋手，职业生涯中14次世界比赛冠军，也是唯一战胜过AlphaGo的人。</p><p>大竹英雄，日本围棋九段棋手，别称“美学棋士”。</p><p>加藤正夫，日本围棋九段棋手，曾任日本棋院院长。</p><p>武宫正树，日本围棋九段棋手，被称为“宇宙流”。同大竹英雄、加藤正夫等五人并成为日本围棋“六超”。</p><p>伊藤友惠，日本围棋七段棋手，曾在1961年中日围棋友谊赛中取得八战全胜。</p><p>阿尔法围棋（AlphaGo），第一个击败人类职业围棋选手、第一个战胜围棋世界冠军的人工智能机器人，由谷歌旗下DeepMind公司戴密斯·哈萨比斯领衔的团队开发。</p><p>《约翰·克里斯多夫》，罗曼·罗兰的长篇小说代表作。</p><p>三毛，原名陈懋平（后改名为陈平），中国台湾当代作家、旅行家。著有《高原的百合花》《万水千山走遍》等。</p><p>周国平 ，当代学者、作家，中国研究尼采的学者之一。著有《尼采：在世纪的转折点上》等作品。</p><p>刘正杰，艺术家，毕业于中国美术学院国画系山水专业，现为浙江画院研究员。</p><p>节目最末芮迺伟所和陆游《咏梅》：异乡羁旅中，独放我自主。本是岁寒枝更劲，无惧风和雨。报春亦争春，一任群芳妒。零落成泥碾作尘，来年香如故。<br /></p><img src=\"https://image.xyzcdn.net/FgTLdjLO2jZxcxPtkmR2h_tIZ2v8.jpg\" /><p><strong>「岩中花述」同名图书《岩中花述》（全四册）已经正式上市啦！</strong></p><p>书中收录了由鲁豫老师参与主持的第3-6季中34位嘉宾的对谈内容，并根据不同的话题维度，分为了4本书出版：《我决定，要活得很久》《她们重新发明知识》《不退场的勇气》《这是我修改世界的方式》。</p><p>希望我们都能在嘈杂、偏见的声音中，活到「后来」！</p><p>【《岩中花述》(全四册)】陈鲁豫印签版：<a href=\"http://product.m.dangdang.com/29958646.html\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">product.m.dangdang.com</a></p><p></p><p>– 互动方式 –</p><p>GIADA官网：<a href=\"https://www.giada.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">www.giada.cn</a></p><p>GIADA小红书：<a href=\"https://www.xiaohongshu.com/user/profile/631aa198000000002303fe68?xsec_token=YBGy5NA9siS8LeyKCdZuHl4HMOZ-b4D04ZX_airIAIQA0=&amp;xsec_source=app_share&amp;xhsshare=WeixinSession&amp;appuid=5f17e3f6000000000101c05c&amp;apptime=1744696440&amp;share_id=fe3bb34a2253483e9c052cc1f3e1e157\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">GIADA • 岩中花述</a></p><p>GIADA公众号：<a href=\"http://mp.weixin.qq.com/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">mp.weixin.qq.com</a></p><p>GIADA 微博：<a href=\"http://weibo.com/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">weibo.com</a></p>",
+      "external_id": "6a719a98ab3a91c24a0f95e2",
+      "item_slug": "yan-zhong-hua-shu-af3933dff415",
+      "language": "zh",
+      "published_at": "2026-08-05T00:00:00+00:00",
+      "published_to_feed_at": "2026-08-05T03:48:15.037969+00:00",
+      "source_id": "yan-zhong-hua-shu",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "S9E7 鲁豫对话芮迺伟｜一生手谈，半生漂泊，归来棋未凉",
+      "title_zh": "S9E7 鲁豫对话芮迺伟｜一生手谈，半生漂泊，归来棋未凉",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a719a98ab3a91c24a0f95e2?utm_source=rss"
+    },
     "yi-xi::69e05435e2c8be315557a995": {
       "attempts": 1,
       "description": "<p><strong>余明锋，同济大学人文学院副教授</strong></p><blockquote>当我们摒弃了自我的激情，单纯把生命自身手段化而投入生活的时候，我们就陷入了无限的内卷，每个人都卷成一个沙砾化的原子。我们过的是全然算计的生命，甚至于我们还要算计自身。当生命的所有方面都可以被手段化，我们就必然面临根本的虚无。</blockquote><p><img src=\"https://bts-image.xyzcdn.net/aHR0cHM6Ly9vYnpnMm43M3JnLmZlaXNodS5jbi9zcGFjZS9hcGkvYm94L3N0cmVhbS9kb3dubG9hZC9hc3luY2NvZGUvP2NvZGU9TURSaFlUTTVNek15WTJKak5UaGlNemc1T1RNeU16WmtOVEV5TkdJd056SmZTbmxKZEVabVJGUkVlVEJKUVhJeVRsVjNWbWxPZFhCTU5FdFJURWw0V1ZWZlZHOXJaVzQ2VVdGdmNXSnFaMVEwYnpJNFptSjRWVVZQVEdNelRHWTFibWRpWHpFM056WXpNRGt5T0RJNk1UYzNOak14TWpnNE1sOVdOQQ==\" /></p><p>我们从小就被要求“努力、上进、有规划”，以至于教育似乎不再指向生命、自由和精神的展开，而是成为了优化人生的手段。</p><p>家长们从孩子上幼儿园起就开始计划如何挤进优质学区，赢在起跑线，学生刚进大学就开始计算参加哪些活动、积累多少段实习才能找到好工作。于是，我们一路埋头苦行，却会在生活的某个时刻突然和眼下的日常拉开距离，忍不住质问：这样生活的意义是什么？</p><p>尼采早在1872年就明确批判过当时的普鲁士教育模式：学校不再培养独立的人，而是培养顺从而“有用”的国民，教育被目的、效率和国家机器绑架。余明锋认为，这150年前的批判放到当下来看仍有其预见性。</p><p>如果教育不是为了变得有用，那究竟是为了什么？教育究竟该引领我们成为怎样的人？</p><p>【时间轴】</p><p>00:10 当一切围绕绩点展开，就会出现「双重倦怠」</p><p>04:25 我们越重视教育，就越是遗忘教育</p><p>07:11 从第二次工业革命开始，大学专业的学习只是职业的预备</p><p>08:50 一个人所允许具有的文化程度，仅限于赚钱的需要</p><p>11:14 学者也成为螺丝钉</p><p>12:20 教育之所以变成今天这样，是因为它还关系到民族国家的生存斗争</p><p>14:28 教育的手段化背后，是生命的手段化</p><p>16:27 「末人」：不再追求自我超越的人 绝对安全的人</p><p>18:50 虚假的利己主义：所利的那个“己”本身是被掏空的</p><p>21:23 人身上还必须有一种混沌，才能孕育出一颗飞舞的星球</p><br /><a href=\"https://oia.xiaoyuzhoufm.com/player/69e05435e2c8be315557a995?openTranscript=true&amp;utm_source=rss&amp;as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&amp;autoOpen=false\">在小宇宙查看该单集文稿</a>",
@@ -4611,15 +4645,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T14:47:39.045707+00:00",
-      "last_modified": "Tue, 04 Aug 2026 14:30:32 GMT",
+      "last_checked_at": "2026-08-05T03:40:43.574673+00:00",
+      "last_modified": "Wed, 05 Aug 2026 03:24:14 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T14:44:35.524666+00:00",
+      "last_checked_at": "2026-08-05T03:38:57.622915+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -4627,28 +4661,28 @@
     "feng-tou-quan": {
       "etag": "W/\"1f09cb64f169970f81c46de3c3a9f6c9\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T14:43:29.166257+00:00",
+      "last_checked_at": "2026-08-05T03:37:59.285549+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T14:47:50.901555+00:00",
+      "last_checked_at": "2026-08-05T03:40:43.178231+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
     },
     "gao-qian-nu-hai": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T14:43:04.742508+00:00",
+      "last_checked_at": "2026-08-05T03:37:42.368718+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T14:43:33.473551+00:00",
+      "last_checked_at": "2026-08-05T03:37:53.425380+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -4656,7 +4690,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T14:48:53.002102+00:00",
+      "last_checked_at": "2026-08-05T03:41:32.860054+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -4665,17 +4699,17 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"89170e4dafa61f6b36a184ede94037c5\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T14:46:48.145934+00:00",
+      "last_checked_at": "2026-08-05T03:39:55.206664+00:00",
       "last_modified": "Thu, 16 Jul 2026 10:30:05 GMT",
       "title": "声东击西",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/shengdongjixi/rss"
     },
     "silicon-valley-101": {
-      "etag": "W/\"ed0348679cabc6467a82242768d66496\"",
+      "etag": "W/\"067de64aa367d57f5c7e3fdbd853265e\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T15:02:16.988709+00:00",
-      "last_modified": "Sun, 02 Aug 2026 11:07:28 GMT",
+      "last_checked_at": "2026-08-05T03:38:50.703439+00:00",
+      "last_modified": "Wed, 05 Aug 2026 03:24:26 GMT",
       "title": "硅谷101",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/sv101/rss"
@@ -4683,7 +4717,7 @@
     "streamlined-solopreneur": {
       "etag": "W/\"94e1d9eea6b3141126b39cf26d29f680\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T14:51:35.700819+00:00",
+      "last_checked_at": "2026-08-05T03:42:48.016391+00:00",
       "last_modified": "Tue, 04 Aug 2026 06:01:59 GMT",
       "title": "Streamlined Solopreneur: Systems for Overwhelmed Coaches, Consultants, and Service Providers Who Want Their Time Back",
       "type": "podcast",
@@ -4692,24 +4726,24 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"5f41e147d994741954a190dd0d5ab48c\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T14:45:48.945623+00:00",
+      "last_checked_at": "2026-08-05T03:39:56.347481+00:00",
       "last_modified": "Wed, 22 Jul 2026 04:15:05 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"36bb3e9ca615bfaf462b1b57b3f9cbda\"",
+      "etag": "W/\"fa0f0cd77a252457c58ec1c166f23e8c\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T14:49:04.453774+00:00",
-      "last_modified": "Sun, 02 Aug 2026 10:46:57 GMT",
+      "last_checked_at": "2026-08-05T03:41:11.918208+00:00",
+      "last_modified": "Tue, 04 Aug 2026 14:57:10 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T14:50:41.424250+00:00",
+      "last_checked_at": "2026-08-05T03:41:48.682983+00:00",
       "last_modified": "Sun, 02 Aug 2026 00:00:00 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
@@ -4718,7 +4752,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"34e469c87927e1aff89c97545fb56a0f\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T14:51:56.641791+00:00",
+      "last_checked_at": "2026-08-05T03:43:33.760985+00:00",
       "last_modified": "Thu, 30 Jul 2026 09:36:03 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -4726,7 +4760,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T14:50:50.610802+00:00",
+      "last_checked_at": "2026-08-05T03:42:37.649429+00:00",
       "last_modified": "Thu, 30 Jul 2026 22:10:23 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -4734,26 +4768,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T14:43:03.646585+00:00",
+      "last_checked_at": "2026-08-05T03:37:58.914371+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T14:45:50.713075+00:00",
+      "last_checked_at": "2026-08-05T03:39:44.509159+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-04T14:44:18.275600+00:00",
+      "last_checked_at": "2026-08-05T03:38:59.617537+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-08-04T15:02:51.997219+00:00",
+  "updated_at": "2026-08-05T03:48:50.227025+00:00",
   "version": 1
 }
