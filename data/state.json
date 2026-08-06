@@ -1989,6 +1989,23 @@
       "translation_provenance": "faster-whisper/small; batch=8; beam=1",
       "url": "https://etw.fm/2218"
     },
+    "sheng-dong-ji-xi::b8cd9085-c37e-4dd3-92d7-5d7be257f078": {
+      "attempts": 1,
+      "description": "<p><img alt=\"声东击西十周年\" src=\"https://media24.fireside.fm/file/fireside-uploads-2024/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/XeZahKDF.PNG\" /></p>\n\n<p>2016年10月末，「声东击西」第一期节目上线；到2026年10月末，「声东击西」将更新整整十年。在这十年中，我们采访了很多身处变化之中的人，也和大家一起经历了一个不断变化和转向的世界。</p>\n\n<p>十周年之际，我们的确想做一些特别节目，但不太想只做一次简单回顾。所以我们决定还是用「声东击西」熟悉的形式，通过访谈那些亲历结构性变化并拥有独特观察的嘉宾们，去听听过去这十年中，他们看见了什么，洞察到了什么，如何理解今天，又如何辨认出那些塑造未来的力量。</p>\n\n<p>这一系列的节目会至少有6期，含括技术，城市，制度，教育等不同领域。</p>\n\n<p>那作为「十周年」特别系列的第一期，徐涛前往硅谷，在那里采访了 AI 技术创业者贾扬清。</p>\n\n<p>过去十多年，贾扬清几乎经历了人工智能深度学习发展的每一个关键阶段：从伯克利时期参与深度学习早期探索、开发开源框架 Caffe ，到先后加入 Google Brain、 Facebook AI Infra、阿里云，再到创办 AI 公司并被英伟达收购。如今，他又开启了新的 AI 创业探索。</p>\n\n<p>这期节目，我们和贾扬清一起回望 AI 过去的关键节点：从技术突破，到产业变化，再到 AI 可能带来的未来，这是一场关于 AI 过去十年与未来十年的对话。</p>\n\n<p><strong>本期人物</strong></p>\n\n<p>贾扬清，AI 科学家、连续创业者，Intent Lab 创始人、CEO</p>\n\n<p>徐涛，声动活泼联合创始人</p>\n\n<p><strong>主要话题</strong></p>\n\n<p><strong>2005-2012 ：从“人工智能已死”到开始“百花齐放”</strong></p>\n\n<p>[05:34] “我本质有点像一个文科生”</p>\n\n<p>[08:04] 第一次听见「人工智能」时，“当时至少整个业界判定它的死亡了，大家认为人工智能是一个历史概念”</p>\n\n<p>[14:20] 一个各种各样观点在碰撞的阶段</p>\n\n<p>[17:46] 一张快递盒送来的英伟达GPU ，一个 side project，和成为 AI 基础开源工具的 Caffe 的诞生</p>\n\n<p><strong>2013-2022 从实验室到科技巨头的押注和竞赛</strong></p>\n\n<p>[26:53] Google Brain，Facebook AI Research 与 AI 竞赛的开始</p>\n\n<p>[37:56] 2016 年 AlphaGo 时刻，却离开 Google选择「乱七八糟、生机勃勃」的 Facebook</p>\n\n<p>[46:11] AI 领域还小，但为什么硅谷愿意为长期技术下注</p>\n\n<p>[50:28] 从 Facebook 到阿里，“这个技术能不能广泛铺到所有领域中”</p>\n\n<p><strong>2022-2024 AI 的再一次惊人跃迁和浪潮中的创业机会</strong></p>\n\n<p>[01:05:05] GPT时刻，AI 的再一次跃迁</p>\n\n<p>[01:12:38] 第一次创业：在 AI 淘金热中「卖铲子」</p>\n\n<p>[01:17:07] 大公司的缓慢，和创业者的洞察</p>\n\n<p>[01:25:35] Lepton AI 第二年实现盈利，很快被英伟达收购</p>\n\n<p><strong>2024- 公司、工作与人的重新定义</strong></p>\n\n<p>[01:32:37]被英伟达收购几个月后，二次创业的想法袭来</p>\n\n<p>[01:37:56] 单个 Agent 足够聪明，一群 Agent 为什么还不是团队</p>\n\n<p>[01:49:47] 当 AI 能够完成更多工作，公司需要怎样的人</p>\n\n<p>[01:55:44] 当解决问题越来越快，人类还需要创造什么</p>\n\n<p>[02:03:59] 从完成任务到获得信任，AI 进入社会还缺少什么</p>\n\n<p><strong>延伸解读</strong></p>\n\n<p>[12:44] <a href=\"https://www.howtocreateamind.com/the-book.php\" rel=\"nofollow noopener\">《How to Create a Mind: The Secret of Human Thought Revealed》</a></p>\n\n<p>[15:20] AlexNet，2012年由 Alex Krizhevsky、Ilya Sutskever 和 Geoffrey Hinton 团队提出的卷积神经网络模型，在 ImageNet 图像识别比赛中取得突破，被认为开启了深度学习革命。<a href=\"https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html\" rel=\"nofollow noopener\">ImageNet Classification with Deep Convolutional Neural Networks</a></p>\n\n<p>[17:46] Caffe，一个开源深度学习框架，帮助研究人员更快地设计、训练和验证神经网络模型。它降低了深度学习研究的门槛，也推动了早期深度学习社区的发展。</p>\n\n<p>[21:23] Google Brain，Google 于2010年代初建立的人工智能研究团队，目标是探索大规模神经网络和机器学习技术。它推动了 TensorFlow 等基础设施的发展。</p>\n\n<p>[29:16] ImageNet，由斯坦福大学李飞飞团队推动的大规模图像数据库和评测体系。2012年前后，深度学习模型在 ImageNet 上取得巨大突破，证明了“大数据 + 大计算 + 神经网络”的路线。</p>\n\n<p>[31:34] Neolab，近年来，一些新的 AI 实验室不再完全依附于大型科技公司，而是以创业公司形式进行前沿研究，例如 OpenAI、Anthropic 等。这代表 AI 基础研究组织模式的变化。</p>\n\n<p>[38:08] TensorFlow，Google 开发的机器学习框架，帮助研究人员和企业构建、训练和部署 AI 模型。它代表了 AI 从实验室走向产业基础设施的重要一步。</p>\n\n<p><a href=\"https://hai.stanford.edu/ai-index/2026-ai-index-report\" rel=\"nofollow noopener\">The 2026 AI Index Report</a></p>\n\n<p>也可以在小红书账号<a href=\"https://xhslink.com/m/2tzsKmEPAoV\" rel=\"nofollow noopener\"><strong>「徐涛-声东击西」</strong></a>看到更多相关内容和幕后</p>\n\n<p><strong>十周年特别节目</strong></p>\n\n<p>2016-2026，声东击西走过十年。</p>\n\n<p>十年，我们亲历变化，也由此洞见未来。在这个特别系列中，我们邀请身处结构性变化中的人，回望过去十年的关键转折，也一起思考未来的方向。</p>\n\n<p>本系列持续更新中：</p>\n\n<ul>\n<li><p>第一期：一个 AI 从业者的十年——专访贾扬清</p></li>\n<li><p>第二期：……</p></li>\n</ul>\n\n<p><strong>给声东击西投稿</strong></p>\n\n<p>「声东击西」一直在寻找来自不同社会和群体的真实声音。我们曾经采访过为特朗普竞选生产 MAGA 帽子的中国制造商、记录过七位在美国大选中经历起伏的华人个体，也讲述了委内瑞拉青年的故事。</p>\n\n<p>如果你也有一些特别的经历、观察或想法，不论是亲身体验的故事，还是你在某个行业、社区中的所见所闻，都欢迎你向我们投稿。</p>\n\n<p>你的声音可能出现在未来的节目当中，我们非常期待你的分享！</p>\n\n<p><a href=\"https://eg76rdcl6g.feishu.cn/share/base/form/shrcne1CGVaSeJwtBriW6yNT2dg\" rel=\"nofollow noopener\">投稿入口</a></p>\n\n<p><strong>「Knock Knock 世界」</strong></p>\n\n<p>从围棋游戏到《宝可梦》，科技公司为什么让 AI 玩游戏？<a href=\"https://sourl.co/kRDfdx\" rel=\"nofollow noopener\">https://sourl.co/kRDfdx</a></p>\n\n<p>春晚耍刀弄剑的人形机器人，真能走进我们的日常生活了吗？<a href=\"https://sourl.co/pmkCMh\" rel=\"nofollow noopener\">https://sourl.co/pmkCMh</a></p>\n\n<p>半程马拉松、运动会，为什么要办「机器人」体育比赛？ <a href=\"https://sourl.co/NzgvvA\" rel=\"nofollow noopener\">https://sourl.co/NzgvvA</a></p>\n\n<p>被全网追捧的「AI 龙虾」，到底是怎么火起来的？<a href=\"https://sourl.co/XxvuPR\" rel=\"nofollow noopener\">https://sourl.co/XxvuPR</a></p>\n\n<p>在「Knock Knock 世界」里，听到全球新鲜事，还能成为「全球观察员」，报选题、参加选题会。2026 年的节目正在持续更新，有4期免费试听，苹果播客上还可以还【按月】随时订阅节目。</p>\n\n<p><strong>加入我们</strong></p>\n\n<p>声动活泼团队目前正在招聘内容监制、商业运营经理、商业发展经理和实习生，如果你也对播客行业的内容制作和商务运营感兴趣，欢迎投递！ 详情点击招聘入口：<a href=\"https://eg76rdcl6g.feishu.cn/docx/XO6bd12aGoI4j0xmAMoc4vS7nBh\" rel=\"nofollow noopener\">加入声动活泼（在招职位速览）</a></p>\n\n<p><img alt=\"\" src=\"https://eg76rdcl6g.feishu.cn/space/api/box/stream/download/asynccode/?code=MjY3MGJkNTI5NTNiZDlmMjFlMzgxYTg4NGEwOTk0ZDFfYmR5aEx0VXRNbE1kYUFQbUNEa2hKQ3BmWVNDYTJwVGdfVG9rZW46UFJWUWIxZHpNb2hhU0Z4WmVobmNVNXh4bmNmXzE3ODYwMTQ0Nzk6MTc4NjAxODA3OV9WNA&amp;add_watermark=true&amp;scene_type=CCM\" /></p>\n\n<p><strong>幕后制作</strong></p>\n\n<p>后期：赛德</p>\n\n<p>运营：George</p>\n\n<p>设计：饭团</p>\n\n<p>实习编辑：翔宇</p>\n\n<p><strong>商务合作</strong></p>\n\n<p>声动活泼商业化小队，点击链接可直达<strong><a href=\"https://sourl.cn/QDhnEc\" rel=\"nofollow noopener\">商务会客厅</a></strong>，也可发送邮件至 <a href=\"mailto:business@shengfm.cn\" rel=\"nofollow noopener\">business@shengfm.cn</a> 联系我们。</p>\n\n<p><strong>关于声动活泼</strong></p>\n\n<p>「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。</p>\n\n<p>我们还有这些播客：<a href=\"https://etw.fm/episodes\" rel=\"nofollow noopener\">声东击西</a>、<a href=\"https://guiguzaozhidao.fireside.fm/episodes\" rel=\"nofollow noopener\">What's Next｜科技早知道</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/61315abc73105e8f15080b8a\" rel=\"nofollow noopener\">商业WHY酱</a>、<a href=\"https://therabbithole.fireside.fm\" rel=\"nofollow noopener\">跳进兔子洞</a>&amp;<a href=\"https://www.xiaoyuzhoufm.com/podcast/666c0ad1c26e396a36c6ee2a\" rel=\"nofollow noopener\">跳进兔子洞第三季</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/644b94c494d78eb3f7ae8640\" rel=\"nofollow noopener\">吃喝玩乐了不起</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/65a625966d045a7f5e0b5640\" rel=\"nofollow noopener\">不止金钱</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/5f445cdb9504bbdb77f092e9\" rel=\"nofollow noopener\">泡腾 VC</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/5e284c37418a84a0462634a4\" rel=\"nofollow noopener\">反潮流俱乐部</a></p>\n\n<p>欢迎在<a href=\"https://okjk.co/Qd43ia\" rel=\"nofollow noopener\">即刻</a>、微博等社交媒体上与我们互动，搜索<strong>声动活泼</strong>即可找到我们。</p>\n\n<p>也欢迎你写邮件和我们联系，邮箱地址是：<a href=\"mailto:ting@sheng.fm\" rel=\"nofollow noopener\">ting@sheng.fm</a></p>\n\n<p>获取更多和声动活泼有关的讯息，你也可以扫码添加声小音，在节目之外和我们保持联系！</p>\n\n<p><img alt=\"\" src=\"https://eg76rdcl6g.feishu.cn/space/api/box/stream/download/asynccode/?code=YWNmNTY3Njg1NDIzYzljMDkxZDc4YTZiMGUwYjI4MGRfQ0w3UTVBQ3cxcmJKQkhGa2R0dUxyTDVTMUowZmZjSE5fVG9rZW46UlM2UGJoMmNkb3htSEl4N1A3TGNsTFlqbkdnXzE3ODYwMTQ0Nzk6MTc4NjAxODA3OV9WNA&amp;add_watermark=true&amp;scene_type=CCM\" /></p><p>Special Guest: 贾扬清.</p>",
+      "external_id": "b8cd9085-c37e-4dd3-92d7-5d7be257f078",
+      "item_slug": "sheng-dong-ji-xi-73ce57c0b4d3",
+      "language": "zh",
+      "published_at": "2026-08-06T11:30:00+00:00",
+      "published_to_feed_at": "2026-08-06T14:55:04.861701+00:00",
+      "source_id": "sheng-dong-ji-xi",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "#399 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨十周年特别节目",
+      "title_zh": "#399 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨十周年特别节目",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
+      "url": "https://etw.fm/2219"
+    },
     "sheng-dong-ji-xi::b9958b7e-9441-428e-b37a-2503b1b0f997": {
       "attempts": 1,
       "description": "<p>当屏幕、AI 甚至算法越来越多地进入孩子们的生活，现在的「玩」和我们儿时的「玩」还是一个概念吗？</p>\n\n<p>《玩具总动员》系列从 1995 年走到今天，30 年间，它讨论过友谊、成长、告别……这一次，它把目光投向了一个非常当下的问题 —— 数字时代的童年，「玩」这件事正在发生怎样的改变，今天的我们又应该如何看待「玩」在人类成长过程中扮演的角色？</p>\n\n<p>这期节目，我们想借《玩具总动员 5》的上映来认真聊一聊：从儿童发展心理学到成年人的自我修复，从「结构化」与「非结构化」的差别到屏幕时代的注意力争夺，重新看见「玩」这件事，对我们究竟意味着什么。</p>\n\n<p><strong>本期人物</strong></p>\n\n<p>简里里，「简单心理」创始人 &amp; CEO</p>\n\n<p>丁教 Diane，声动活泼联合创始人</p>\n\n<p>徐涛，声动活泼联合创始人</p>\n\n<p><strong>主要话题</strong></p>\n\n<p>[03:40] 打游戏≠玩：「玩」的定义可能和我们想象的不太一样</p>\n\n<p>[10:08] 为什么「无聊时刻」对小孩来说是重要的</p>\n\n<p>[16:03] 什么叫非结构化的玩？它为什么是需要的？</p>\n\n<p>[32:34] 如何看待社交媒体和电子屏幕对孩子产生的影响</p>\n\n<p>[58:30] 成年人也可以通过玩耍来治愈自己</p>\n\n<p><strong>加入我们</strong></p>\n\n<p>声动活泼团队目前正在招聘内容监制、商业运营经理、商业发展经理和实习生，如果你也对播客行业的内容制作和商务运营感兴趣，欢迎投递！ 到详情点击招聘入口：[加入声动活泼（在招职位速览）](<a href=\"https://eg76rdcl6g.feishu.cn/docx/XO6bd12aGoI4j0xmAMoc4vS7nBh\" rel=\"nofollow noopener\">加入声动活泼（在招职位速览）</a>)</p>\n\n<p><img alt=\"招聘\" src=\"https://media24.fireside.fm/file/fireside-uploads-2024/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/1TCNqViU.jpg\" /></p>\n\n<p><strong>幕后制作</strong></p>\n\n<p>监制：可宣</p>\n\n<p>后期：赛德</p>\n\n<p>运营：George</p>\n\n<p>设计：饭团</p>\n\n<p><strong>商务合作</strong></p>\n\n<p>声动活泼商业化小队，点击链接可直达<strong>商务会客厅</strong>（商务会客厅链接：<a href=\"https://sourl.cn/QDhnEc\" rel=\"nofollow noopener\">https://sourl.cn/QDhnEc</a> ），也可发送邮件至 <a href=\"mailto:business@shengfm.cn\" rel=\"nofollow noopener\">business@shengfm.cn</a> 联系我们。</p>\n\n<p><strong>关于声动活泼</strong></p>\n\n<p>「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。</p>\n\n<p>我们还有这些播客：<a href=\"https://www.xiaoyuzhoufm.com/podcast/65a625966d045a7f5e0b5640\" rel=\"nofollow noopener\">不止金钱</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/666c0ad1c26e396a36c6ee2a\" rel=\"nofollow noopener\">跳进兔子洞第三季</a>、<a href=\"https://etw.fm/episodes\" rel=\"nofollow noopener\">声东击西</a>、<a href=\"https://sheng-espresso.fireside.fm\" rel=\"nofollow noopener\">声动早咖啡</a>、<a href=\"https://guiguzaozhidao.fireside.fm/episodes\" rel=\"nofollow noopener\">What's Next｜科技早知道</a>、<a href=\"https://fanchaoliuclub.fireside.fm\" rel=\"nofollow noopener\">反潮流俱乐部</a>、<a href=\"https://popvc.fireside.fm\" rel=\"nofollow noopener\">泡腾 VC</a>、<a href=\"https://msbussinesswhy.fireside.fm\" rel=\"nofollow noopener\">商业WHY酱</a></p>\n\n<p>欢迎在<a href=\"https://okjk.co/Qd43ia\" rel=\"nofollow noopener\">即刻</a>、微博等社交媒体上与我们互动，搜索 声动活泼 即可找到我们。</p>\n\n<p>也欢迎你写邮件和我们联系，邮箱地址是：<a href=\"mailto:ting@sheng.fm\" rel=\"nofollow noopener\">ting@sheng.fm</a></p>\n\n<p>获取更多和声动活泼有关的讯息，你也可以扫码添加声小音，在节目之外和我们保持联系！<br />\n<img alt=\"声东击西\" src=\"https://media24.fireside.fm/file/fireside-uploads-2024/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/wEYE7jJa.jpg\" /></p><p>Special Guests: 丁教 and 简里里.</p>",
@@ -3145,6 +3162,23 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://a16z.simplecast.com/episodes/steven-sinofsky-ai-doesnt-need-new-rules-yet-BuNOSzIn"
     },
+    "the-a16z-show::f31b896b-86e1-4295-982a-a899b2d0160d": {
+      "attempts": 1,
+      "description": "Elena Burger and Matt Bornstein are joined by Simon Mo, co-founder and CEO of Inferact, the open-source inference engine powering many of today's most advanced AI applications. Together, they explore how open-source AI evolved from a research project into critical infrastructure, why inference has become one of the most important layers of the AI stack, and what it takes to bring frontier intelligence to developers around the world.\nThe conversation covers vLLM's origins, the rise of open-weight models, why companies increasingly want control over their AI infrastructure, and how open-source inference enables the next generation of AI applications. They also discuss model licensing, the economics of open-weight AI, Kimi K3, distillation, AI infrastructure, and why Simon believes the gap between open and closed models is rapidly disappearing.",
+      "external_id": "f31b896b-86e1-4295-982a-a899b2d0160d",
+      "item_slug": "the-a16z-show-052c598e49f5",
+      "language": "en",
+      "published_at": "2026-08-06T10:00:00+00:00",
+      "published_to_feed_at": "2026-08-06T14:48:57.114923+00:00",
+      "source_id": "the-a16z-show",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "How Open-Source AI Became Critical Infrastructure",
+      "title_zh": "开源人工智能如何成为关键基础设施",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://a16z.simplecast.com/episodes/how-open-source-ai-became-critical-infrastructure-3yYJbsEz"
+    },
     "the-a16z-show::f9e79358-7a88-4c94-b097-0699d7971e72": {
       "attempts": 1,
       "description": "Applied Intuition has spent the past decade building the software that powers intelligent machines, from passenger vehicles and trucks to defense systems, mining equipment, and industrial robots.\nIn this conversation, Marc Andreessen and Erik Torenberg sit down with Applied Intuition cofounders Qasar Younis and Peter Ludwig to discuss the emergence of physical AI and the company's latest launch, Dana, a new platform designed to accelerate the development of autonomous systems.\nThey explore autonomous vehicles, robotics, world models, simulation, AI infrastructure, and the engineering challenges of deploying intelligence safely in the physical world. Along the way, they discuss self-driving cars, humanoid robots, global competition, and why lowering the barrier to building physical AI could unlock an entirely new generation of products and companies.",
@@ -3603,6 +3637,23 @@
       "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://rationalreminder.libsyn.com/the-state-of-retirement-research-419-jean-pierre-aubry"
+    },
+    "the-rational-reminder-podcast::a98dd916-722f-4375-ada5-664f288aad89": {
+      "attempts": 1,
+      "description": "<p dir=\"ltr\">Barry Ritholtz returns to the Rational Reminder podcast to discuss the biggest mistakes investors make—and why avoiding them may matter more than finding the next great investment. Drawing on decades of experience in markets, wealth management, and financial media, Barry explains why forecasting consistently fails, how investors can distinguish good advice from noise, and why humility, probabilistic thinking, and disciplined behavior are among the most valuable investing skills.</p> <p><strong> </strong></p> <p dir=\"ltr\">Throughout the conversation, Barry shares lessons from his new book, How Not to Invest, covering everything from media consumption and behavioral biases to index investing, portfolio concentration, market cycles, and choosing a financial advisor. He explains why experts are often better at providing context than making predictions, why social media amplifies poor financial advice, and how investors can build processes that help them stay disciplined through uncertainty. The discussion blends academic research, practical experience, and memorable stories into a comprehensive guide for becoming a better long-term investor.</p> <p><strong> </strong></p> <p dir=\"ltr\">Key Points From This Episode:</p> <p dir=\"ltr\">(0:04) Cameron and Ben welcome Barry Ritholtz back to the podcast and discuss his new book, How Not to Invest.</p> <p dir=\"ltr\">(4:12) Why successful billionaires often make poor economic forecasters and how the halo effect leads people to overestimate expertise.</p> <p dir=\"ltr\">(6:39) Why Wall Street professionals are generally poor at forecasting future market returns despite their domain expertise.</p> <p dir=\"ltr\">(7:42) What experts are actually good at: providing context, historical perspective, and nuanced analysis rather than predicting the future.</p> <p dir=\"ltr\">(8:47) Barry's checklist for identifying bad financial advice, including emotional appeals, false certainty, and conflicts of interest.</p> <p dir=\"ltr\">(10:35) How social media algorithms reward outrage and overconfidence instead of thoughtful investing.</p> <p dir=\"ltr\">(11:21) Why 24/7 financial news encourages unnecessary action that often hurts long-term investment returns.</p> <p dir=\"ltr\">(12:17) Why long-term investors are often better off ignoring financial news altogether.</p> <p dir=\"ltr\">(13:52) How short-form financial content on platforms like TikTok encourages misinformation and poor investing decisions.</p> <p dir=\"ltr\">(15:22) Gell-Mann Amnesia and why investors should remain skeptical even of trusted news sources.</p> <p dir=\"ltr\">(18:00) How reading books, consuming long-form content, and building a trusted information network improves decision making.</p> <p dir=\"ltr\">(20:21) Barry's definition of investing as making probabilistic decisions with imperfect information in an unknowable world.</p> <p dir=\"ltr\">(22:55) How successful investors focus on controlling savings, asset allocation, discipline, and behavior instead of unpredictable events.</p> <p dir=\"ltr\">(24:52) Why recognizing the limits of your own knowledge is one of investing's greatest advantages.</p> <p dir=\"ltr\">(26:30) How experience, losses, and continuous learning help investors become more self-aware.</p> <p dir=\"ltr\">(27:16) Three ideas that heavily influence Barry's investment philosophy: Sturgeon's Law, George Box's models, and William Goldman's \"Nobody knows anything.\"</p> <p dir=\"ltr\">(30:18) Whether artificial intelligence changes Sturgeon's Law that \"90% of everything is crap.\"</p> <p dir=\"ltr\">(31:46) Three forms of economic innumeracy that lead investors astray: denominator blindness, survivorship bias, and misunderstanding compounding.</p> <p dir=\"ltr\">(36:04) Why understanding secular bull and bear markets is useful psychologically—but not as a timing strategy.</p> <p dir=\"ltr\">(39:12) Why investors should understand market cycles without attempting to trade around them.</p> <p dir=\"ltr\">(40:44) What stock valuations can—and cannot—tell investors about future returns.</p> <p dir=\"ltr\">(42:18) How investors should respond to wars, pandemics, and other major external events.</p> <p dir=\"ltr\">(45:53) The biggest investing lessons from the COVID-19 market crash and why personal experience often differs from market performance.</p> <p dir=\"ltr\">(49:04) Why index investing remains one of the most reliable approaches to long-term wealth creation.</p> <p dir=\"ltr\">(50:44) Why every market forecast should be expressed probabilistically rather than with certainty.</p> <p dir=\"ltr\">(52:06) The lies traders tell themselves and why disciplined risk management separates successful professionals.</p> <p dir=\"ltr\">(56:11) What active investors need if they hope to consistently outperform.</p> <p dir=\"ltr\">(57:24) The biggest behavioral mistakes investors make, including lack of planning, excessive concentration, and ignoring taxes.</p> <p dir=\"ltr\">(59:43) Why concentrated stock positions become dangerous—even after creating substantial wealth.</p> <p dir=\"ltr\">(1:02:33) How sudden wealth and large financial windfalls frequently lead to costly mistakes.</p> <p dir=\"ltr\">(1:05:14) How to identify trustworthy financial advisors by evaluating their process, temperament, and communication.</p> <p dir=\"ltr\">(1:07:27) Why advisors who consistently communicate their thinking help investors avoid emotional mistakes.</p> <p dir=\"ltr\">(1:09:26) Barry's practical blueprint for becoming a better long-term investor: create a plan, invest consistently, define the purpose of money, and build around a diversified index portfolio.</p> <p dir=\"ltr\">Links From Today's Episode:<br /> <br /> Meet with PWL Capital: <a href=\"https://calendly.com/d/3vm-t2j-h3p\">https://calendly.com/d/3vm-t2j-h3p</a></p> <p dir=\"ltr\">Rational Reminder on iTunes — <a href=\"https://itunes.apple.com/ca/podcast/the-rational-reminder-podcast/id1426530582?mt=2\">https://itunes.apple.com/ca/podcast/the-rational-reminder-podcast/id1426530582</a>.<br />  Rational Reminder on Instagram — <a href=\"https://www.instagram.com/rationalreminder/\">https://www.instagram.com/rationalreminder/</a></p> <p dir=\"ltr\">Rational Reminder on YouTube — <a href=\"https://www.youtube.com/channel/UCOErWFfNOQzXsgE7f5S_ULw\">https://www.youtube.com/channel/<br /> </a> Benjamin Felix — <a href=\"https://pwlcapital.com/our-team/\">https://pwlcapital.com/our-team/</a></p> <p dir=\"ltr\">Benjamin on X — <a href=\"https://x.com/benjaminwfelix\">https://x.com/benjaminwfelix</a></p> <p dir=\"ltr\">Benjamin on LinkedIn — <a href=\"https://www.linkedin.com/in/benjaminwfelix/\">https://www.linkedin.com/in/benjaminwfelix/</a></p> <p><strong> </strong></p> <p dir=\"ltr\">Editing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com)</p> <p> </p>",
+      "external_id": "a98dd916-722f-4375-ada5-664f288aad89",
+      "item_slug": "the-rational-reminder-podcast-c72d2a1710e1",
+      "language": "en",
+      "published_at": "2026-08-06T09:30:00+00:00",
+      "published_to_feed_at": "2026-08-06T15:02:18.222892+00:00",
+      "source_id": "the-rational-reminder-podcast",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "Barry Ritholtz: \"90% of financial products are crap\" | #421",
+      "title_zh": "巴里·里索尔茨：“90%的金融产品都是垃圾” | #421",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://rationalreminder.libsyn.com/90-of-financial-products-are-crap-421-barry-ritholtz"
     },
     "the-rational-reminder-podcast::d5700968-39a5-4ca3-9ba9-198d8daedba1": {
       "attempts": 1,
@@ -4764,15 +4815,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:46:31.799500+00:00",
-      "last_modified": "Thu, 06 Aug 2026 03:44:24 GMT",
+      "last_checked_at": "2026-08-06T14:41:33.633516+00:00",
+      "last_modified": "Thu, 06 Aug 2026 14:32:49 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:44:41.566424+00:00",
+      "last_checked_at": "2026-08-06T14:39:48.451847+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -4780,28 +4831,28 @@
     "feng-tou-quan": {
       "etag": "W/\"1f09cb64f169970f81c46de3c3a9f6c9\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:43:38.868402+00:00",
+      "last_checked_at": "2026-08-06T14:38:42.101699+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:46:31.834424+00:00",
+      "last_checked_at": "2026-08-06T14:41:30.223224+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
     },
     "gao-qian-nu-hai": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:43:47.723894+00:00",
+      "last_checked_at": "2026-08-06T14:39:35.364243+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:43:43.143161+00:00",
+      "last_checked_at": "2026-08-06T14:38:53.519478+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -4809,17 +4860,17 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:47:43.735155+00:00",
+      "last_checked_at": "2026-08-06T14:42:21.388575+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
       "url": "https://rss.libsyn.com/shows/166112/destinations/1103966.xml"
     },
     "sheng-dong-ji-xi": {
-      "etag": "W/\"89170e4dafa61f6b36a184ede94037c5\"",
+      "etag": "W/\"1a731cff5c4957d1a9a2ffe9e7c07c28\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:45:31.811096+00:00",
-      "last_modified": "Thu, 16 Jul 2026 10:30:05 GMT",
+      "last_checked_at": "2026-08-06T14:41:13.582413+00:00",
+      "last_modified": "Thu, 06 Aug 2026 12:25:29 GMT",
       "title": "声东击西",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/shengdongjixi/rss"
@@ -4827,7 +4878,7 @@
     "silicon-valley-101": {
       "etag": "W/\"3508f98acfc0bb483ca5d8c70c11d880\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:44:27.792779+00:00",
+      "last_checked_at": "2026-08-06T14:40:35.375788+00:00",
       "last_modified": "Wed, 05 Aug 2026 05:09:48 GMT",
       "title": "硅谷101",
       "type": "podcast",
@@ -4836,7 +4887,7 @@
     "streamlined-solopreneur": {
       "etag": "W/\"94e1d9eea6b3141126b39cf26d29f680\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:50:04.566614+00:00",
+      "last_checked_at": "2026-08-06T14:50:15.274957+00:00",
       "last_modified": "Tue, 04 Aug 2026 06:01:59 GMT",
       "title": "Streamlined Solopreneur: Systems for Overwhelmed Coaches, Consultants, and Service Providers Who Want Their Time Back",
       "type": "podcast",
@@ -4845,41 +4896,41 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"5f41e147d994741954a190dd0d5ab48c\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:45:27.371845+00:00",
+      "last_checked_at": "2026-08-06T14:40:35.564874+00:00",
       "last_modified": "Wed, 22 Jul 2026 04:15:05 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"25de0eba260944ed1a765e1a004e31c7\"",
+      "etag": "W/\"9a042ec2243c22cb9e766e4f61f4bc94\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:47:46.786389+00:00",
-      "last_modified": "Wed, 05 Aug 2026 10:00:30 GMT",
+      "last_checked_at": "2026-08-06T14:42:06.946159+00:00",
+      "last_modified": "Thu, 06 Aug 2026 10:00:26 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:48:46.112775+00:00",
+      "last_checked_at": "2026-08-06T14:49:11.873332+00:00",
       "last_modified": "Thu, 06 Aug 2026 00:00:00 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
       "url": "https://feeds.megaphone.fm/PPLLC8974708240"
     },
     "the-rational-reminder-podcast": {
-      "etag": "W/\"5309de54ba14e45bfa2e5479d2b75502\"",
+      "etag": "W/\"3cb6af54f3f391decaa147090212971a\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:51:15.020816+00:00",
-      "last_modified": "Wed, 05 Aug 2026 22:09:52 GMT",
+      "last_checked_at": "2026-08-06T14:50:11.104869+00:00",
+      "last_modified": "Thu, 06 Aug 2026 09:38:14 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
       "url": "https://rss.libsyn.com/shows/127327/destinations/763774.xml"
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:49:09.235637+00:00",
+      "last_checked_at": "2026-08-06T14:50:10.196599+00:00",
       "last_modified": "Wed, 05 Aug 2026 17:00:03 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -4887,26 +4938,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:43:43.635017+00:00",
+      "last_checked_at": "2026-08-06T14:38:53.858453+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:45:53.655412+00:00",
+      "last_checked_at": "2026-08-06T14:40:56.464123+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T03:44:40.337893+00:00",
+      "last_checked_at": "2026-08-06T14:39:48.355883+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-08-06T04:01:26.517576+00:00",
+  "updated_at": "2026-08-06T15:02:49.441388+00:00",
   "version": 1
 }
