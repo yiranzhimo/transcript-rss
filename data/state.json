@@ -306,6 +306,23 @@
       "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
       "url": "https://www.ximalaya.com/sound/1003526715"
     },
+    "chuang-ye-nei-mu::xmly_track_1004968601": {
+      "attempts": 1,
+      "description": "<p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><span>「拿一杯咖啡」对我们来说，或许是个再自然不过的本能动作，但是对于机器人而言，再简单的</span><span>动作，背后也需要真实世界数据的反复训练与校准。</span></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><span>但问题不只在于数据规模</span><span>，</span><span>数据采集的方式</span><span>同样重要。</span><span>操控设备采集可能沦为昂贵的采集器；仿真数据依然需要经过真实世界验证；而尚未完全收敛的模型架构与硬件路线，也让数据供给频繁出现“需求要香蕉，供应给苹果”的错配。具身智能的发展，需要一套成本可控并贯穿任务定义、硬件采集、数据加工、模型评测与反馈回流的数据基础设施。</span></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><span>本期节目，我们邀请到</span><b><span>Potentia补天石科技创始人</span></b><b><span>、同时也是2022&nbsp;届Fellows</span></b><b><span>白宇利</span></b><span>，深度拆解具身智能的数据基础设施。从智驾数据闭环建设经验到具身智能，哪些经验可以迁移复用？哪些环节必须</span><span>推倒重来？面对极致的本土工程环境，创业公司如何定位自己的竞争位置？</span></p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><b>关于Granite Fellows</b></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">Fellows是面向下一代创业者的旗舰项目，聚集了多位在AI、前沿科技等创新方向探索，具备全球视野，并希望将技术转化为商业影响力的年轻人。</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">往届Fellows中，已经涌现出多位优秀创业者，包括在AI/具身智能等前沿领域取得突出进展、估值达到数十亿美元的创业团队。</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">2026Fellows项目现已启动，欢迎扫描下方二维码申请加入，与更多优秀者同行。</p><img alt=\"\" src=\"http://imagev2.xmcdn.com/storages/f4a6-audiofreehighqps/5F/FF/GAqhcW4OSjIMAAAKBgTC6UcA.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /><span><br /></span><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><span>01:37&nbsp;补齐具身智能的版图</span><span><br /></span><span>03:18&nbsp;具身智能缺的是获取数据的能力</span><span><br /></span><span>09:07&nbsp;从任务生成到真实部署，模型数据如何闭环？</span><span><br /></span><span>14:25&nbsp;数据元年背后的供需错配</span><span><br /></span><span>20:08&nbsp;仿真与真实数据不是替代关系</span><span><br /></span><span>23:</span><span>32</span><span>&nbsp;机器人需要有</span><span>&nbsp;S</span><span>caling能力的基建</span><span><br /></span><span>2</span><span>6</span><span>:</span><span>36</span><span>&nbsp;智驾经验如何迁移到具身领域？</span><span><br /></span><span>3</span><span>2</span><span>:</span><span>36</span><span>&nbsp;家庭与工厂场景的数据怎么采？</span><span><br /></span><span>39</span><span>:</span><span>24</span><span>&nbsp;团队构建：人类创造者与Agent协作</span><span><br /></span><span>4</span><span>5</span><span>:</span><span>39</span><span>&nbsp;看到前瞻信号，并将其规模化落地</span><span><br /></span><span>48:</span><span>03</span>&nbsp;<span>在</span><span>Fellows&nbsp;</span><span>收获了什么</span><span><br /></span><span>49</span><span>:</span><span>41</span><span>&nbsp;评论区抽取5名听众送出精美周边</span></p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">《创业内幕》粉丝群已经开通，在这里，你可以跟节目制作人/主持人直接沟通，也可以第一时间了解到纪源资本线下活动动态，见到纪源资本的投资人，结交其他互联网圈子里的小伙伴。&nbsp;</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">入群方式：</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">1）添加微信号“JiyuanFans”为好友，并在好友请求中标注“创业”&nbsp;</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">2）把你的全名和职称发给创业小助手；如果您想约访谈，请添加小助手微信，并附上访谈嘉宾简介，小助手将帮您对接。</p><span></span><span><br /></span><br />",
+      "external_id": "xmly_track_1004968601",
+      "item_slug": "chuang-ye-nei-mu-e7b2ac0b4771",
+      "language": "zh",
+      "published_at": "2026-08-06T22:00:00+00:00",
+      "published_to_feed_at": "2026-08-07T03:26:29.493985+00:00",
+      "source_id": "chuang-ye-nei-mu",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "S8 Vol.19 Potentia白宇利：具身智能真正稀缺的，可能并不是「数据」",
+      "title_zh": "S8 Vol.19 Potentia白宇利：具身智能真正稀缺的，可能并不是「数据」",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
+      "url": "https://www.ximalaya.com/sound/1004968601"
+    },
     "chuang-ye-nei-mu::xmly_track_970530246": {
       "attempts": 1,
       "description": "<p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">机器人写代码、唱跳、吟诗作画已不成问题，但要把一床被子叠得整整齐齐，难度依旧不低。</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">这背后的瓶颈不在算法本身，而在于环境数据的稀缺。不同于自动驾驶可以从真实路面持续获取海量数据，训练具身智能所需的空间数据长期缺位。如何构建一个既符合物理规律、又可规模化反复训练的虚拟空间，正成为决定具身智能进化速度的关键。</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">本期，我们邀请到<strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">群核科技的联合创始人兼董事长黄晓煌，</strong>带领我们提前窥见物理AI的未来形态。什么是空间智能？空间数据集是如何产生并变得可复用的？群核科技是如何从一家专注垂直领域的工具公司，演化为如今的空间智能企业？在AI爆发的背景下，一家由技术驱动的公司该如何坚守其核心竞争力，以应对时代变革的挑战？</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">01:34 从GPU云服务到空间智能的蜕变</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">05:26 什么是机器的空间智能？</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">11:33 业务转变“顺势而为”</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">15:57 仿真环境与物体识别的实现路径</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">21:19 大模型时代扭转人才画像</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">24:09 计算与训练的成本控制</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">26:14 开源数据，“机遇大于风险”</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">28:50 10年+创业路：做对了什么，又错过了什么</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">36:29 群核科技的人才招聘需求</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">37:24 评论区抽取5名听众送出精美周边</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">《创业内幕》粉丝群已经开通，在这里，你可以跟节目制作人/主持人直接沟通，也可以第一时间了解到纪源资本线下活动动态，见到纪源资本的投资人，结交其他互联网圈子里的小伙伴。&nbsp;</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">入群方式：</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">1）添加微信号“JiyuanFans”为好友，并在好友请求中标注“创业”&nbsp;</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">2）把你的全名和职称发给创业小助手；如果您想约访谈，请添加小助手微信，并附上访谈嘉宾简介，小助手将帮您对接。</p><span></span><span><br /></span><br />",
@@ -4815,15 +4832,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:41:33.633516+00:00",
-      "last_modified": "Thu, 06 Aug 2026 14:32:49 GMT",
+      "last_checked_at": "2026-08-07T03:21:39.754904+00:00",
+      "last_modified": "Fri, 07 Aug 2026 03:04:47 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:39:48.451847+00:00",
+      "last_checked_at": "2026-08-07T03:20:15.701518+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -4831,28 +4848,28 @@
     "feng-tou-quan": {
       "etag": "W/\"1f09cb64f169970f81c46de3c3a9f6c9\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:38:42.101699+00:00",
+      "last_checked_at": "2026-08-07T03:19:26.093810+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:41:30.223224+00:00",
+      "last_checked_at": "2026-08-07T03:22:32.466905+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
     },
     "gao-qian-nu-hai": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:39:35.364243+00:00",
+      "last_checked_at": "2026-08-07T03:19:23.517731+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:38:53.519478+00:00",
+      "last_checked_at": "2026-08-07T03:19:27.530668+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -4860,26 +4877,26 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:42:21.388575+00:00",
+      "last_checked_at": "2026-08-07T03:22:59.436909+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
       "url": "https://rss.libsyn.com/shows/166112/destinations/1103966.xml"
     },
     "sheng-dong-ji-xi": {
-      "etag": "W/\"1a731cff5c4957d1a9a2ffe9e7c07c28\"",
+      "etag": "W/\"ba313753112ecbb3e81d48186fdd5497\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:41:13.582413+00:00",
-      "last_modified": "Thu, 06 Aug 2026 12:25:29 GMT",
+      "last_checked_at": "2026-08-07T03:21:33.995483+00:00",
+      "last_modified": "Thu, 06 Aug 2026 16:12:51 GMT",
       "title": "声东击西",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/shengdongjixi/rss"
     },
     "silicon-valley-101": {
-      "etag": "W/\"3508f98acfc0bb483ca5d8c70c11d880\"",
+      "etag": "W/\"382aa956bc63211eb23f38cc011b8bfa\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:40:35.375788+00:00",
-      "last_modified": "Wed, 05 Aug 2026 05:09:48 GMT",
+      "last_checked_at": "2026-08-07T03:20:39.872301+00:00",
+      "last_modified": "Thu, 06 Aug 2026 22:57:48 GMT",
       "title": "硅谷101",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/sv101/rss"
@@ -4887,7 +4904,7 @@
     "streamlined-solopreneur": {
       "etag": "W/\"94e1d9eea6b3141126b39cf26d29f680\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:50:15.274957+00:00",
+      "last_checked_at": "2026-08-07T03:24:16.940187+00:00",
       "last_modified": "Tue, 04 Aug 2026 06:01:59 GMT",
       "title": "Streamlined Solopreneur: Systems for Overwhelmed Coaches, Consultants, and Service Providers Who Want Their Time Back",
       "type": "podcast",
@@ -4896,25 +4913,25 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"5f41e147d994741954a190dd0d5ab48c\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:40:35.564874+00:00",
+      "last_checked_at": "2026-08-07T03:20:50.886799+00:00",
       "last_modified": "Wed, 22 Jul 2026 04:15:05 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"9a042ec2243c22cb9e766e4f61f4bc94\"",
+      "etag": "W/\"196cb752430f0a1b222cf98d2994c8bc\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:42:06.946159+00:00",
-      "last_modified": "Thu, 06 Aug 2026 10:00:26 GMT",
+      "last_checked_at": "2026-08-07T03:22:51.686346+00:00",
+      "last_modified": "Thu, 06 Aug 2026 16:39:15 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:49:11.873332+00:00",
-      "last_modified": "Thu, 06 Aug 2026 00:00:00 GMT",
+      "last_checked_at": "2026-08-07T03:23:29.034079+00:00",
+      "last_modified": "Fri, 07 Aug 2026 01:33:35 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
       "url": "https://feeds.megaphone.fm/PPLLC8974708240"
@@ -4922,7 +4939,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"3cb6af54f3f391decaa147090212971a\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:50:11.104869+00:00",
+      "last_checked_at": "2026-08-07T03:24:27.049308+00:00",
       "last_modified": "Thu, 06 Aug 2026 09:38:14 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -4930,7 +4947,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:50:10.196599+00:00",
+      "last_checked_at": "2026-08-07T03:23:52.835207+00:00",
       "last_modified": "Wed, 05 Aug 2026 17:00:03 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -4938,26 +4955,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:38:53.858453+00:00",
+      "last_checked_at": "2026-08-07T03:19:18.628074+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:40:56.464123+00:00",
+      "last_checked_at": "2026-08-07T03:21:32.949184+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-06T14:39:48.355883+00:00",
+      "last_checked_at": "2026-08-07T03:20:23.174797+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-08-06T15:02:49.441388+00:00",
+  "updated_at": "2026-08-07T03:26:54.534792+00:00",
   "version": 1
 }
