@@ -2295,6 +2295,23 @@
       "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
       "url": "https://sv101.fireside.fm/248"
     },
+    "silicon-valley-101::9e923c4c-1c87-499b-90a4-9a21cc83e4b1": {
+      "attempts": 1,
+      "description": "<p><img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/a723-audiofreehighqps/B7/79/GAqhfD0NByqOAAHpNQRBU__s.jpg\" /></p>\n\n<p>不久前，我们聊了硅谷最火的新职位FDE（前线部署工程师）。硅谷的逻辑是，AI要进企业，就要开行业最高的薪资，派一批最聪明的人驻扎进去。但这件事在中国，还是同一个剧本吗？<br />\n我们邀请到阿里巴巴集团副总裁、瓴羊CEO朋新宇。他是阿里数据中台方法论的创立者，他的团队做这件事已经5年，比“FDE”这个词流行起来还要早。在AI浪潮到来之后，他们发布企业级Agent平台：AgentOne。<br />\n他们的做法很不“硅谷”，不接定制化的大单，不做1000人天的驻场开发。他们找的是企业里最耗人、最耗钱、最耗时的环节，把预设好的agent接入企业私有数据，去解决真实的业务难题。<br />\n举例来说：一个催发货流程，客服agent需要跑通260步流程；一个顶级人类投手，90天内调价10000次，AI要学会这10000次调价背后的决策逻辑，这背后靠的是团队配合和工程化的推进。<br />\n在朋新宇讲述中，没有全能型的个人英雄，也没有对SOTA模型的迷信。“企业算得过来账，背后用什么token，老板不会在乎”。务实，算账，打地基，这就是FDE在中国的故事。</p>\n\n<p><strong>【主播】</strong><br />\n泓君，硅谷101创始人，播客主理人<br />\n<strong>【嘉宾】</strong><br />\n朋新宇（花名小芃），阿里巴巴集团副总裁，阿里瓴羊CEO</p>\n\n<p><strong>【你将听到】</strong><br />\n01:48 硅谷的风向变了：AI战场从C端回到B端<br />\n06:33 一个“催发货”背后藏着260步流程<br />\n12:30 90天调价一万次，AI向最优秀的投手偷师<br />\n19:39 为什么顺利的部署都是“自上而下”<br />\n25:07 做标准化增长agent，跟Palantir反着走？<br />\n31:14 销售Agent实战：从最落后区域到销冠<br />\n36:06 部署周期：1/3熟悉岗位，1/3做建模，1/3调教AI<br />\n42:36 FDE团队画像：BA定方向、AI架构师选模型、业务首席当教练<br />\n47:00 Token成本，模型策略，“账算得过来”最重要<br />\n53:28 中美FDE对比：信息化地基、付费习惯、工作方向<br />\n58:03 人才观：懂AI、懂业务、懂数据</p>\n\n<p><strong>【延伸阅读】</strong><br />\n<a href=\"https://www.xiaoyuzhoufm.com/episode/6a333603351c82c12b264c56\" rel=\"nofollow noopener\">E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE</a></p>\n\n<p><strong>【硅谷101听友群】</strong><br />\n很多听友反馈没有加上我们的听友群，别急，新的入群通道已经安排上啦👏<br />\n之后我们入群二维码我们也会放在节目shownotes中，方便大家随时找到组织。<br />\n在这里，和同好一起深聊科技、商业与未来，期待你的声音，也期待更多有趣的讨论。<br />\n扫码加入，即刻相遇。<br />\n<img alt=\"\" src=\"https://picui.ogmua.cn/s1/2026/08/10/6a79d22986b8d.webp\" /></p>\n\n<p><strong>【监制】</strong><br />\n泓君<br />\n<strong>【后期】</strong><br />\nAmei<br />\n<strong>【运营】</strong><br />\n朱婕<br />\n<strong>【BGM】</strong><br />\nWhat We Discovered - Philip Ayers<br />\nSignal Containment - Out To The World</p>\n\n<p><strong>【在这里找到我们】</strong><br />\n公众号：硅谷101<br />\n收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐<br />\n其他平台：YouTube｜Bilibili 搜索「硅谷101播客」<br />\n联系我们：<a href=\"mailto:podcast@sv101.net\" rel=\"nofollow noopener\">podcast@sv101.net</a></p><p>Special Guest: 朋新宇.</p>",
+      "external_id": "9e923c4c-1c87-499b-90a4-9a21cc83e4b1",
+      "item_slug": "silicon-valley-101-016b8d129e58",
+      "language": "zh",
+      "published_at": "2026-08-11T01:45:00+00:00",
+      "published_to_feed_at": "2026-08-11T02:38:31.686879+00:00",
+      "source_id": "silicon-valley-101",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE",
+      "title_zh": "E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
+      "url": "https://sv101.fireside.fm/261"
+    },
     "silicon-valley-101::b066c769-00d2-4341-bf61-a82bca4181e4": {
       "attempts": 1,
       "description": "<p><img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/c4ce-audiofreehighqps/29/FA/GAqhI8INmcS2AAHpNQR_oxXw.jpg\" /></p>\n\n<p>人类历史上第一批和生成式AI同时长大的学生，正在踏入毕业季。<br />\n<a href=\"https://www.xiaoyuzhoufm.com/episode/677c6f32d6168725739c9dc8\" rel=\"nofollow noopener\">去年我们和大学生聊AI时</a>，讨论还集中在“要不要使用AI”、“教授怎么看”。然而仅一年后，AI真正成为了生产力工具。这届毕业生可能会发现：不管你学的是知识性课程，还是实用性技能，都难逃AI冲击，想要脱颖而出必须成为那个“更善于使用AI的人”。<br />\n当知识可以被AI调取，技能可以被工具取代，大学还能给你什么独一无二的东西？面对AI冲击，有哪些能力是不会被时代洗牌的“元能力”？<br />\n本期播客，我们邀请三位刚刚走出校园的名校毕业生——Alfred、Kolento、Jack，一起聊聊他们在教育标准化的大学里，如何用AI实现高度个性化的学习；从哪里汲取思想的养分，最看重的能力又是什么；站在毕业的关口，他们如何评估大学的价值，面对未来又做出了怎样的选择。<br />\n这也是一份送给所有大学生“自救指南”，那些AI取代不了的能力，才是教育留给我们的真正底气。</p>\n\n<p><strong>【主播】</strong><br />\n泓君，硅谷101创始人，播客主理人</p>\n\n<p><strong>【嘉宾】</strong><br />\n林桐宇 (Alfred)，清华大学法学（国际）2026届<br />\n侯泰羽 (Kolento)，纽约大学应用心理学2026届<br />\n饶杰武 (Jack)，哥伦比亚大学管理科学与工程研究生2026届，Emergences Labs 创始人兼CTO</p>\n\n<p><strong>【你将听到】</strong><br />\n<strong>Alfred</strong><br />\n03:28 刚上大学就有了ChatGPT，预感打不过开始辅修AI<br />\n09:40 AI速通法律专业课：模拟教授出题，拿下4.0满绩<br />\n12:15 大学老师对AI态度发生转变，评估体系亟待升级<br />\n13:43 大学两大价值——认识自己 + 获得技能；后者被AI侵蚀<br />\n15:49 记忆类知识会过时，批判性思维和素养课程更值得投入<br />\n20:11 清华最重要的财富：同侪的深度交流、老师的解惑</p>\n\n<p><strong>Kolento</strong><br />\n23:05 马斯克说对了，我上大学最重要的目的就是社交<br />\n26:30 学历不再是知识的证明，但仍是社会信任的重要凭证<br />\n28:35 追寻美德、向往真理，才能更好地驾驭AI技术<br />\n29:55 用AI在大学期间大量试错，而不是对中长期目标做死板的预设<br />\n32:32 AI可以做出决策（deciding），但只有人能做出选择（choosing）<br />\n36:38 “自顶向下”学习法：先见证最高水平的卓越，再提问、理解、验证</p>\n\n<p><strong>Jack</strong><br />\n39:23 99%作业由AI参与，已经想不到任何没有AI参与的作业了<br />\n43:14 翻书不会把我变成一个更好学生，只是在浪费我的时间<br />\n44:44 当大家都用AI做作业，真正PK的还是每个人的理解和判断</p>\n\n<p><strong>进化的AI工具</strong><br />\n46:19 最近常用AI工具盘点<br />\n52:05 哪些AI工具正在被抛弃？首当其冲：ChatGPT<br />\n58:12 适当关闭memory，避免模型被记忆污染形成信息茧房</p>\n\n<p><strong>元认知积累与AI上瘾</strong><br />\n01:01:00 设计师的审美，程序员对代码的感觉，仍然不可替代<br />\n01:04:10 AI比短视频更上瘾，失去AI就失去了执行力和灵感来源<br />\n01:05:51 完全抽离AI我们还能做什么？还能回到手写代码吗？<br />\n01:12:20 用AI的资深工程师反而慢了19%，初学者在AI时代可能反成优势<br />\n01:16:33 2026最迷茫就业季，这一代毕业生就业向何处去<br />\n01:19:40 硅谷高中生反驳主播：为什么要假设，我们不会离开AI了</p>\n\n<p><strong>【本期节目中提到的AI工具】</strong><br />\nVariant：输入一句话需求，几秒内生成数十套高保真网页与APP设计方案的AI设计工具。<br />\nTypeless：像真人一样自然说话，自动转化为润色后可直接发送的清晰文本的AI语音听写工具。<br />\nDify：一个开源平台，让你能通过拖拽等可视化方式，快速构建和部署基于大模型的AI应用。<br />\nRaycast：用键盘统一控制整个电脑、快速启动应用与各类服务的Mac效率中枢。<br />\nSuno：支持上传个人声音克隆，一键生成包含人声与配器的完整原创歌曲的AI音乐创作平台。<br />\nGemini Dynamic View：谷歌Gemini根据你的自然语言提示，实时生成可交互3D模型和定制UI界面的动态可视化功能。<br />\nMercury 2：基于扩散架构每秒可生成超过1000个Token，比主流模型快5到10倍的极速推理大语言模型。</p>\n\n<p><strong>【监制】</strong><br />\n泓君<br />\n<strong>【后期】</strong><br />\nAmei<br />\n<strong>【运营】</strong><br />\n朱婕<br />\n<strong>【BGM】</strong><br />\nBetween Moments - Amber Glow<br />\nCall Waiting - Future Joust<br />\nPulse Runner - Helmut Schenker<br />\nFirst Flakes - Philip Ayers</p>\n\n<p><strong>【在这里找到我们】</strong><br />\n公众号：硅谷101<br />\n收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐<br />\n其他平台：YouTube｜Bilibili 搜索「硅谷101播客」<br />\n联系我们：<a href=\"mailto:podcast@sv101.net\" rel=\"nofollow noopener\">podcast@sv101.net</a></p><p>Special Guests: Kolento, 林桐宇, and 饶杰武.</p>",
@@ -4951,15 +4968,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:50:30.188119+00:00",
-      "last_modified": "Mon, 10 Aug 2026 13:47:19 GMT",
+      "last_checked_at": "2026-08-11T02:33:13.573682+00:00",
+      "last_modified": "Tue, 11 Aug 2026 02:18:44 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:49:40.196533+00:00",
+      "last_checked_at": "2026-08-11T02:32:02.046474+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -4967,28 +4984,28 @@
     "feng-tou-quan": {
       "etag": "W/\"b5f502227a2664d2e5995b8dbd6eb4cd\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:48:46.395545+00:00",
+      "last_checked_at": "2026-08-11T02:31:17.030690+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:51:11.704617+00:00",
+      "last_checked_at": "2026-08-11T02:33:40.019525+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
     },
     "gao-qian-nu-hai": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:48:44.263383+00:00",
+      "last_checked_at": "2026-08-11T02:31:07.118487+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:48:41.381958+00:00",
+      "last_checked_at": "2026-08-11T02:31:04.155546+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -4996,7 +5013,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:51:40.050904+00:00",
+      "last_checked_at": "2026-08-11T02:34:12.519798+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -5005,17 +5022,17 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"ba313753112ecbb3e81d48186fdd5497\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:50:31.111212+00:00",
+      "last_checked_at": "2026-08-11T02:32:52.114401+00:00",
       "last_modified": "Thu, 06 Aug 2026 16:12:51 GMT",
       "title": "声东击西",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/shengdongjixi/rss"
     },
     "silicon-valley-101": {
-      "etag": "W/\"5fc1b7ab1bc68e5c9b00305df445e7b4\"",
+      "etag": "W/\"3593024a17752605dc9a0ebaedb6b4fe\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:49:31.982597+00:00",
-      "last_modified": "Mon, 10 Aug 2026 13:48:01 GMT",
+      "last_checked_at": "2026-08-11T02:31:56.152416+00:00",
+      "last_modified": "Tue, 11 Aug 2026 02:00:05 GMT",
       "title": "硅谷101",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/sv101/rss"
@@ -5023,7 +5040,7 @@
     "streamlined-solopreneur": {
       "etag": "W/\"565c871a69e4a87c8110474a6b25dfad\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:52:56.334645+00:00",
+      "last_checked_at": "2026-08-11T02:35:18.926912+00:00",
       "last_modified": "Fri, 07 Aug 2026 13:29:16 GMT",
       "title": "Streamlined Solopreneur: Systems for Overwhelmed Coaches, Consultants, and Service Providers Who Want Their Time Back",
       "type": "podcast",
@@ -5032,24 +5049,24 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"ead70e8b5874948193a717492d56fc56\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:50:00.937463+00:00",
+      "last_checked_at": "2026-08-11T02:32:25.026203+00:00",
       "last_modified": "Fri, 07 Aug 2026 06:41:47 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"634cf236980f84c38dcc18bcb7542dfd\"",
+      "etag": "W/\"1be72db1578a50931db7177412a05e3c\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:52:07.000282+00:00",
-      "last_modified": "Mon, 10 Aug 2026 10:00:29 GMT",
+      "last_checked_at": "2026-08-11T02:33:39.257642+00:00",
+      "last_modified": "Mon, 10 Aug 2026 15:57:13 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:51:53.500991+00:00",
+      "last_checked_at": "2026-08-11T02:34:42.512842+00:00",
       "last_modified": "Sun, 09 Aug 2026 00:00:00 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
@@ -5058,7 +5075,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"3cb6af54f3f391decaa147090212971a\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:52:44.225259+00:00",
+      "last_checked_at": "2026-08-11T02:35:35.434283+00:00",
       "last_modified": "Thu, 06 Aug 2026 09:38:14 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -5066,7 +5083,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:52:06.539669+00:00",
+      "last_checked_at": "2026-08-11T02:34:48.985450+00:00",
       "last_modified": "Wed, 05 Aug 2026 17:00:03 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -5074,26 +5091,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:49:11.693176+00:00",
+      "last_checked_at": "2026-08-11T02:31:16.894036+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:50:33.095012+00:00",
+      "last_checked_at": "2026-08-11T02:32:54.491560+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-10T13:49:30.759264+00:00",
+      "last_checked_at": "2026-08-11T02:31:55.801902+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-08-10T13:57:14.362013+00:00",
+  "updated_at": "2026-08-11T02:39:02.035319+00:00",
   "version": 1
 }
