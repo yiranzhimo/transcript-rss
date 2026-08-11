@@ -2618,6 +2618,23 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from publisher transcript",
       "url": "https://share.transistor.fm/s/e9ab1366"
     },
+    "streamlined-solopreneur::c59a2eef-aa87-4ea2-b3e3-be0677773f39": {
+      "attempts": 1,
+      "description": "<p>I was talking to an acquaintance recently who told me how he has AI agents write his articles for him. He sends a voice note of an idea, and every morning it picks the ideas, writes the drafts, sends them to him, he requests edits, and then it writes and publishes them. So I asked him: at what point do you feel uncomfortable putting your name on this? And he couldn't even see the issue.</p><p>He just thought AI was some amazing magic bullet that produced articles for him.</p><p>That's what I want to talk about this week — the lie that AI is a magic shortcut, that if you're not using it you're going to fall behind. And sure, AI can write stuff. So can my five-year-old. That doesn't mean it's going to be good.</p><p>Here's the truth: if you stop doing the craft, you will no longer be good at the craft. Let’s make sure that doesn’t happen.</p><p><br />Want some actually good ways to use AI? Grab the free Solopreneur Systems Starter Kit — the 4 systems every solopreneur needs, plus the exact tools, automations, and AI prompts to set them up: <a href=\"https://streamlined.fm/kit\">https://streamlined.fm/kit</a></p><p><br /></p><p><b>Links</b></p><ul><li><a href=\"https://streamlinedsolopreneur.com/ai-brain-rot/\">3 Signs You Have AI Brain Rot</a></li></ul>\n<br /><p>————<br />Streamlined Solopreneur helps overwhelmed coaches, consultants, and service providers build systems so their business doesn't depend on them. </p><p>Each week, Joe Casabona shares one practical idea — a system, tool, or strategy, with AI doing the tasks, not the thinking — to help you beat overwhelm, get your time back, and run your business without sacrificing the rest of your life, or your health.</p><p><br />Looking for a place to start? Download the Solopreneur Systems Starter Kit: the 4 systems every solopreneur should have, the simplest way to set them up, plus the exact tools, automations, and AI prompts you need. No guessing. Get it free at <a href=\"https://streamlined.fm/kit\">https://streamlined.fm/kit</a>.</p><p><br />Connect with Joe on LinkedIn: <a href=\"https://www.linkedin.com/in/jcasabona/\">https://www.linkedin.com/in/jcasabona/</a></p>",
+      "external_id": "c59a2eef-aa87-4ea2-b3e3-be0677773f39",
+      "item_slug": "streamlined-solopreneur-a2479e041aa3",
+      "language": "en",
+      "published_at": "2026-08-11T06:00:00+00:00",
+      "published_to_feed_at": "2026-08-11T13:51:41.022136+00:00",
+      "source_id": "streamlined-solopreneur",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "The Lie That AI Is a Magic Shortcut",
+      "title_zh": "AI是魔法捷径的谎言",
+      "transcript_provenance": "publisher transcript",
+      "translation_provenance": "translation/openai/gpt-4o-mini from publisher transcript",
+      "url": "https://streamlined.fm/544"
+    },
     "streamlined-solopreneur::cd5344fb-3a12-48b9-be9c-3e9b50e48e8c": {
       "attempts": 1,
       "description": "<p>This week I talk about rediscovering the humble yellow legal pad after years (and hundreds of dollars) sunk into fancy notebooks and fountain pens. Then a piece by Kashmir Hill about discovering an AI-generated biography of herself for sale on Amazon that she never authorized or was contacted about, and a recommendation for the summer drinks series on Cocktails with Suderman.</p><p>Plus this week's Automation of the Week: using Claude's Canva connector inside my Friday Wrap-Up skill to auto-generate the dated episode artwork while the video renders.</p><p><strong>Links:</strong></p><ul><li><a href=\"https://amzn.to/4pF6Tr9\">Ampad Gold Fiber Legal Pads</a></li><li><a href=\"https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html\">I Got Slopped</a> (The New York Times)</li><li><a href=\"https://cocktailswithsuderman.substack.com/p/want-to-feel-rich-drink-a-pineapple\">Want to Feel Rich? Drink a Pineapple Cocktail</a> (Cocktails with Suderman)</li><li>Leave feedback at <a href=\"https://streamlinedfeedback.com\">https://streamlinedfeedback.com</a></li></ul><p>If you enjoyed this, consider joining my newsletter at <a href=\"https://streamlined.fm/wrap\">https://streamlined.fm/wrap</a>. You'll get an additional Automation of the Week, as well as regular emails on how to approach building systems that help you take time off, worry-free.</p><p><br /><a href=\"https://share.transistor.fm/s/53bc530c/transcript\" title=\"View the episode transcript\">View the episode transcript</a><br />\n<br /></p><ul><li>(00:00) - On My Mind: The Simplicity of Yellow Legal Pads\n</li>\n<li>(03:36) - Recommended Reading: AI and the Illusion of Shortcuts\n</li>\n<li>(06:55) - Something Fun: Crafting a Pineapple Cocktail\n</li>\n<li>(08:27) - Automation of the Week: Generating Episode Artwork</li>\n</ul><p></p><p>————<br />Streamlined Solopreneur helps overwhelmed coaches, consultants, and service providers build systems so their business doesn't depend on them. </p><p>Each week, Joe Casabona shares one practical idea — a system, tool, or strategy, with AI doing the tasks, not the thinking — to help you beat overwhelm, get your time back, and run your business without sacrificing the rest of your life, or your health.</p><p><br />Looking for a place to start? Download the Solopreneur Systems Starter Kit: the 4 systems every solopreneur should have, the simplest way to set them up, plus the exact tools, automations, and AI prompts you need. No guessing. Get it free at <a href=\"https://streamlined.fm/kit\">https://streamlined.fm/kit</a>.</p><p><br />Connect with Joe on LinkedIn: <a href=\"https://www.linkedin.com/in/jcasabona/\">https://www.linkedin.com/in/jcasabona/</a></p><br />",
@@ -3229,6 +3246,23 @@
       "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://a16z.simplecast.com/episodes/marc-andreessen-and-chris-dixon-whats-at-stake-in-crypto-regulation-2sleSszn"
+    },
+    "the-a16z-show::c74cda10-c994-45e0-9b42-3498fec93bc3": {
+      "attempts": 1,
+      "description": "a16z's Joel De La Garza is joined by Emilio Escobar, Chief Information Security Officer at Datadog, to discuss what it takes to secure a company where nearly every employee is using AI and more than 4,000 engineers are working with coding agents. Rather than trying to block new tools, Emilio explains why Datadog chose to embrace AI early and build the security infrastructure needed to use it safely.\nThey unpack how AI changes traditional assumptions around data permissions, credentials, developer access, and software supply chains. Emilio shares how Datadog uses role-based MCP servers and ephemeral credentials, as well as an AI \"judge\" built by his security team to evaluate the intent behind code and agent skills before they enter the environment.\nThey also discuss why security teams can't afford to wait for commercial solutions to every new AI threat, how the relationship between developers and security teams needs to change, and why Emilio is less concerned about an AI \"escaping\" than he is about the sheer volume of vulnerabilities AI could uncover.",
+      "external_id": "c74cda10-c994-45e0-9b42-3498fec93bc3",
+      "item_slug": "the-a16z-show-eaf65c4db914",
+      "language": "en",
+      "published_at": "2026-08-11T10:00:00+00:00",
+      "published_to_feed_at": "2026-08-11T13:53:25.825328+00:00",
+      "source_id": "the-a16z-show",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "The CISO Playbook for AI Agents | Datadog",
+      "title_zh": "CISO人工智能代理手册 | Datadog",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://a16z.simplecast.com/episodes/the-ciso-playbook-for-ai-agents-datadog-rhAxFNQK"
     },
     "the-a16z-show::df73b893-d213-4168-a6fb-8c845e831df9": {
       "attempts": 1,
@@ -4968,15 +5002,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:33:13.573682+00:00",
-      "last_modified": "Tue, 11 Aug 2026 02:18:44 GMT",
+      "last_checked_at": "2026-08-11T13:49:09.877002+00:00",
+      "last_modified": "Tue, 11 Aug 2026 13:30:02 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:32:02.046474+00:00",
+      "last_checked_at": "2026-08-11T13:47:51.277919+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -4984,28 +5018,28 @@
     "feng-tou-quan": {
       "etag": "W/\"b5f502227a2664d2e5995b8dbd6eb4cd\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:31:17.030690+00:00",
+      "last_checked_at": "2026-08-11T13:46:39.485689+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:33:40.019525+00:00",
+      "last_checked_at": "2026-08-11T13:49:15.799590+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
     },
     "gao-qian-nu-hai": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:31:07.118487+00:00",
+      "last_checked_at": "2026-08-11T13:46:54.539553+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:31:04.155546+00:00",
+      "last_checked_at": "2026-08-11T13:46:59.354542+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -5013,7 +5047,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:34:12.519798+00:00",
+      "last_checked_at": "2026-08-11T13:50:02.015982+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -5022,7 +5056,7 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"ba313753112ecbb3e81d48186fdd5497\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:32:52.114401+00:00",
+      "last_checked_at": "2026-08-11T13:48:52.598731+00:00",
       "last_modified": "Thu, 06 Aug 2026 16:12:51 GMT",
       "title": "声东击西",
       "type": "podcast",
@@ -5031,42 +5065,42 @@
     "silicon-valley-101": {
       "etag": "W/\"3593024a17752605dc9a0ebaedb6b4fe\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:31:56.152416+00:00",
+      "last_checked_at": "2026-08-11T13:48:15.408543+00:00",
       "last_modified": "Tue, 11 Aug 2026 02:00:05 GMT",
       "title": "硅谷101",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/sv101/rss"
     },
     "streamlined-solopreneur": {
-      "etag": "W/\"565c871a69e4a87c8110474a6b25dfad\"",
+      "etag": "W/\"d6f7e57bd4934748f99bed57b1943aa7\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:35:18.926912+00:00",
-      "last_modified": "Fri, 07 Aug 2026 13:29:16 GMT",
+      "last_checked_at": "2026-08-11T13:50:59.375811+00:00",
+      "last_modified": "Tue, 11 Aug 2026 06:01:55 GMT",
       "title": "Streamlined Solopreneur: Systems for Overwhelmed Coaches, Consultants, and Service Providers Who Want Their Time Back",
       "type": "podcast",
       "url": "https://feeds.transistor.fm/streamlined"
     },
     "sui-ji-bo-dong": {
-      "etag": "W/\"ead70e8b5874948193a717492d56fc56\"",
+      "etag": "W/\"70e9662cc1484dd9b47f2b0caf380218\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:32:25.026203+00:00",
-      "last_modified": "Fri, 07 Aug 2026 06:41:47 GMT",
+      "last_checked_at": "2026-08-11T13:48:01.032346+00:00",
+      "last_modified": "Tue, 11 Aug 2026 12:14:33 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"1be72db1578a50931db7177412a05e3c\"",
+      "etag": "W/\"b4f1a0ee3d483e00eb918c76fe616a74\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:33:39.257642+00:00",
-      "last_modified": "Mon, 10 Aug 2026 15:57:13 GMT",
+      "last_checked_at": "2026-08-11T13:49:53.585346+00:00",
+      "last_modified": "Tue, 11 Aug 2026 10:00:26 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:34:42.512842+00:00",
+      "last_checked_at": "2026-08-11T13:50:10.773119+00:00",
       "last_modified": "Sun, 09 Aug 2026 00:00:00 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
@@ -5075,7 +5109,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"3cb6af54f3f391decaa147090212971a\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:35:35.434283+00:00",
+      "last_checked_at": "2026-08-11T13:51:12.087041+00:00",
       "last_modified": "Thu, 06 Aug 2026 09:38:14 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -5083,7 +5117,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:34:48.985450+00:00",
+      "last_checked_at": "2026-08-11T13:50:26.540600+00:00",
       "last_modified": "Wed, 05 Aug 2026 17:00:03 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -5091,26 +5125,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:31:16.894036+00:00",
+      "last_checked_at": "2026-08-11T13:47:03.292595+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:32:54.491560+00:00",
+      "last_checked_at": "2026-08-11T13:48:53.842108+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-11T02:31:55.801902+00:00",
+      "last_checked_at": "2026-08-11T13:48:00.831909+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-08-11T02:39:02.035319+00:00",
+  "updated_at": "2026-08-11T13:53:58.868683+00:00",
   "version": 1
 }
