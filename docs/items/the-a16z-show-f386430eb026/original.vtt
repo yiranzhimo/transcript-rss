@@ -1,0 +1,449 @@
+WEBVTT
+
+1
+00:00:00.110 --> 00:00:23.660
+There's a moment right now to go sell big software again. We're now looking at a different way of doing business entirely. What are the Lighthouse and Land Grab Sales playbook? Here's the framework for evaluating which playbook should you be following. There's this very obvious one, go after the very obvious companies here in San Francisco that probably have some sort of proof or social value associated with them, or like go out and sell in Ohio.
+
+2
+00:00:23.660 --> 00:00:39.840
+five people who needed your solution. If you think about sort of the enterprise networking world in 2009, people thought we were crazy. Like we had no chance of getting into the largest corporations in the world, the Lighthouse, because Cisco and HP had them all tied up. But what we could do is we could say, listen.
+
+3
+00:00:39.840 --> 00:01:07.820
+We can configure, we can deploy faster, we're simpler to use, and that was very much a land grab strategy. Too few people are willing to pick up the phone and willing to get on the plane and willing to get in front of those customers right now because they feel like it sounds way more sexy to sell the JP Morgan Chase than the Schmeshmesh Morgan Chase. I think the biggest mistake that I see the founders make at an early stage, honestly, is just... Today, Elena Berger sits down with A16Z's Joe Schmidt and Andy McCall.
+
+4
+00:01:07.820 --> 00:01:37.740
+to unpack two competing go-to-market strategies. Lighthouse versus LandGrab. Do you win a handful of high-profile customers and use their credibility to unlock a market? Or do you find customers with existing budgets, prove the math, and capture as much of the market as quickly as possible? Drawing on today's AI companies and lessons from building the sales organizations at Samsara and Maraki, they break down how to know which game you're playing, when to switch strategies, and why sometimes the best sales advice
+
+5
+00:01:37.740 --> 00:02:02.450
+is simply to stop strategizing and start selling. You can read Joe's article in the show notes. Welcome back to the A16Z podcast. Today, we're getting into the single most expensive question an AI founder makes, how you sell. Joe Schmidt just wrote a piece called Lighthouse or Landgrab, which gets into the two dominant playbooks he's observed among enterprise AI startups.
+
+6
+00:02:02.450 --> 00:02:29.230
+Joe, tell us about the piece in your own words. What are the lighthouse and land grab sales playbook? Yeah. And this piece actually all stemmed back from an observation that I had actually driving up the 101 freeway. Maybe this is three, four, five months ago. I can't remember. And you just realized that you have the same kind of two competing companies, like one's on one side of the freeway and the other's on the other side of the freeway. And there's something the exact same piece of software. And for some reason, they all have decided that the only relevant companies
+
+7
+00:02:29.230 --> 00:02:59.010
+for this piece of software are in San Francisco and driving on the one on one freeway. And then this has gotten even more ridiculous. It's obviously every bus has been wrapped and every it's like planes are flying up above and they're now towing startups. And so I think it's all very clever, but it's all targeting the same kind of sales motion. The reality is you don't always have to do that. You don't always have to sell those same companies in San Francisco. And so what I wanted to try to do is tell founders like, Hey, here's the framework for evaluating which playbook should you be following? There's this very obvious one, which is like go after the very obvious companies.
+
+8
+00:02:59.010 --> 00:03:17.860
+here in San Francisco, in New York City, in a major metro that probably have some sort of proof or social value associated with them. Or go out and sell in Ohio, go out and sell in Chicago, go out and sell in St. Louis, find people who need your solution. And so that was the whole point of the piece is you don't always have to go sell these notable logos and we'll see how that plays out.
+
+9
+00:03:17.860 --> 00:03:38.880
+That's why. And just to get a little bit deeper, like, when does it make sense for a founder to, you know, go and buy a giant billboard that you see when you're driving from SFO into the city? When does it make sense for you to kind of do a more targeted sales activity or motion elsewhere? Yeah, I think the way that we tried to
+
+10
+00:03:38.880 --> 00:04:05.260
+make this make sense, of course, we did very consulting style with a two by two matrix. I did never work at a consulting firm, but I'll do my best. And so we really were thinking about, okay, what are the axes that we should be kind of mapping opportunities against? And so we decided upon the Y axis is really what we called the buyer's exposure. And it's intentionally called exposure because there's the exposure of making a mistake with the solution that you buy. There's also the exposure of the solution inside of your company. Does this product that I'm selling to my customer end up?
+
+11
+00:04:05.260 --> 00:04:18.160
+Is it shown to their end customers, right? Which is actually an important distinction and really just kind of the overall risk associated with buying this piece of software. So that was like kind of the y-axis and it goes from high to low and then the x-axis is whether or not
+
+12
+00:04:18.160 --> 00:04:47.440
+proof travels in any given market. And so if you think about the top right would be proof travels in this market and it's high buyer exposure and high buyer risk and the bottom left and that's a lighthouse market, right? This to be clear. And the bottom left would be low, low, low proof traveling, but also low buyer exposure. And that would be a land grab market. And so I think those are actually quite different. And if you think about the standard markets that fit into the lighthouse model, it's regulated industries. Oftentimes there's a more constricted number of
+
+13
+00:04:47.440 --> 00:05:11.310
+logos. If you're wrong in the industry, like if the buyer buys the wrong piece of software and it ends up doing the wrong thing, it can lead to very bad things happening for your firm, including potentially getting in trouble with the regulator, even going and doing something illegal. That's very bad, of course. And then on the flip side, when you're looking at the moral land grab market, there's an established budget. People have been very used to and accustomed to paying for a type of service. And you can kind of come in there and show like,
+
+14
+00:05:11.310 --> 00:05:40.590
+the and buyer the math of hey my solution is better than whatever solution you're using today whether that's a software driven solution or human driven solution. So the kind of distinction that we drew was between like proof on the top right of the quadrant and math on the bottom left of the quadrant and that's how we kind of thought about the framework. Yeah and Andy we'll get into your background in a little bit but I think first maybe it's good to kind of categorize some of these modern day AI startups within these two frameworks and I know you both work with
+
+15
+00:05:40.590 --> 00:06:09.810
+with a lot of these companies. So, Joe, I'm not sure if you wanna call out specific examples or Andy, if you wanna call out specific examples and really just kind of like talk through the sales strategies that you're seeing. Yeah, I mean, well, you're like the land grab mastermind. So maybe you wanna talk about some of the stuff that you've seen. Yeah, well, I think you framed it up really well in your article, but I think that concept of like the lighthouse being more in industries that require regulation, a lot of social proof and so forth. And those tend to be companies that are going after like
+
+16
+00:06:09.810 --> 00:06:31.680
+category creation, right? It doesn't exist today, so therefore you got to go out and you got to kind of prove yourself with the big names. And obviously we have a bunch of portfolio companies out there. There's a bunch of companies that you mentioned a couple in your article that are doing that. And then on the other side of the sort of land grab, less social proof, but those tend to be especially in the AI world today. Those are companies that are maybe replacing or improving workflows that already exist.
+
+17
+00:06:31.680 --> 00:06:49.760
+And there's existing budget and again, we have a whole bunch of portfolio companies. You named a couple in the article, they're doing that today. They're inserting themselves in saying, hey, we built a better way to go after this through AI. And I think those are the great companies going after the lion grabs strategy. Yeah. And it's interesting. I mean, for those that aren't familiar with Andy's background, he's built some of the.
+
+18
+00:06:49.760 --> 00:07:18.580
+best sales organizations that I've ever heard of at Samsara and Maraki. And I've always found like these stories like really fascinating illuminating like the Samsara, you know, story around kind of the ELD mandate is the way I understand it kind of basically forcing the category to happen everywhere all at one point. And it's just who can go out there and do it fastest. Maybe just if you could for the audience's edification share a little bit about what that like big why now moment was. Because we're kind of having one right now. Yeah. And how you guys just kind of went and captured it. Yeah.
+
+19
+00:07:18.580 --> 00:07:39.630
+Yeah, I think if you're in the industry for long enough and I've got the gray hair to prove that I have been blonde, you blonde blonde blonde. Yeah, bordering on gray. You tend to see these big transitions and I'm old enough to have seen the internet come about and certainly mobile and cloud and obviously now AI and each of those causes this transition and it causes new ways to think about you go to market.
+
+20
+00:07:39.630 --> 00:08:00.910
+not wholesale changes, but always tools to help improve upon them. And I think the other thing I would say, I can't name too many companies that have become hugely successful without some element of timing and luck, right? And so you talk about Sam Sara and the company was founded back in 2015, I joined in 2017. And the idea back then was at the very beginning it was like...
+
+21
+00:08:00.910 --> 00:08:10.590
+Internet connected sensors like all the value chains are going to become censored up. How do we get sensors out there and just this data, give it back to business owners in digestible and usable ways?
+
+22
+00:08:10.590 --> 00:08:38.370
+And one of the first products that started gaming traction were these telematics units. And taking a step back, if you think about the world of transportation, long haul trucking, right? Prior to like 2016, they had these manual log books. If you were driving a truck and you stopped to take a break, you would write down in your log book, I had just drove for four hours, now I'm taking a 20 minute break. And then you drove for two more hours and you stopped for lunch. And if you got pulled over by Highway Patrol, they would ask to see your log book and they
+
+23
+00:08:38.370 --> 00:09:07.940
+audit and make sure you weren't driving too long. It was a safety regulation. And in the US, around about 2016, they implemented this ELD mandate, right? And said for electronic logging devices. And the idea there was, hey, we can use technology to actually track when the vehicle's moving and when it isn't and are they taking enough breaks and so forth, right? Take the human and data element out of it, the human element rather. And so over a two year period, that was basically implemented between 2016 and 2019 with various phases of sort of compliance.
+
+24
+00:09:07.940 --> 00:09:35.470
+But what it did is it provided this huge tailwind for anybody making these electronic logging devices. And we just happened to be one of the newer companies doing it. And there were some very, very established players, right? AT&T had a solution, Verizon had a solution. There were a number of companies that were in sort of the hundreds of millions, half a billion in revenue already doing this. And Rising Tide Floats all boats, it helped everybody. But if you were a new entrant into the market like we were at Sanzara, it really helped because
+
+25
+00:09:35.470 --> 00:10:01.550
+basically the entire industry all of a sudden had to find budget to go out and buy these things. And a certain percentage of them clearly would say, hey, let's check out what's new out there. Are there any new entrants into the field? And so it really helped kind of give us a boost. How did you navigate like the social proof side of that? Because I think the casual observer might think about that and say, okay, wow, this is regulated. We can't screw this up. So you probably have to go win. I don't know what the largest.
+
+26
+00:10:01.550 --> 00:10:25.410
+Long Hall Trap Dean Company as I'm trying to think of the ones I see on the freeway. But in any event, you probably have to go win that one. But it doesn't sound like that's what you did from what I understand. That's not what you had to do. So how do you navigate that social proof element? Yeah. Well, I think, you know, I would, and maybe I'm doing a little bit of disservice to the amount of strategy that went into this, but there wasn't a lot of strategy that went into like, do we chase lighthouse accounts or do we go after a land grab? Who's willing to pay us?
+
+27
+00:10:25.410 --> 00:10:49.340
+We kind of listen to our customers, right? And it doesn't take too many cold calls into the largest trucking and transportation firms when you're a 18 month old company that they've never heard of to hear, we're not buying you, click to figure out, hey, who can we sell to? And in 2017, 2018, we had minimal features. We were just looking for do we have
+
+28
+00:10:49.340 --> 00:11:05.760
+something that somebody wants to buy. And so for us at that point in time, the mid-market was the place to go. For a couple reasons. Number one, it didn't require as much social proof, right? It was more about, hey, are you satisfying my need for telematics? Do you fit the requirement?
+
+29
+00:11:05.760 --> 00:11:31.730
+And then the other reason was we could get really fast feedback product, right? Because the sales cycles were short. We could get it implemented quickly. They would deploy quickly, right? The bigger the account, the longer these deployments, the longer the feedback loops. And so it really helped us with the sort of product innovation side as well, just to get as many deals out there, get as many wins as we could. Yeah. And I think this is actually really important though, like as like, early stage founders evaluate this moment in time like,
+
+30
+00:11:31.730 --> 00:11:55.230
+We don't exactly have the mandate from the US government saying you have to adopt AI, but CEOs everywhere are saying you do have to adopt AI company. There are AI boards at every enterprise right now saying, here's what we need to buy and we need to do it by X period of time. And that surely will go away, but there is this moment of crazy kinetic energy inside of big companies.
+
+31
+00:11:55.230 --> 00:12:13.470
+What Andy just said is actually a good bill order of whether or not you're in a land grab versus a lighthouse market. Are people willing to actually buy from you? It's part of the land grab. You know, Matthew is like, are they willing to get on the phone with you? Are they willing to buy your product? Are you going through POCs and are you figuring out like how to get someone to use it?
+
+32
+00:12:13.470 --> 00:12:41.810
+And so if you can't get that done, then it's all about going and doing very deep forward deployed lighthouse arrangements and figuring out how to then get to your next customers. But I just think too few people are willing to pick up the phone and willing to get on the plane and willing to get in front of those customers right now because they feel like, oh, this is like this new category moment. I have to go to JP Morgan Chase to sell my deal. Yeah. And you said a really good thing there.
+
+33
+00:12:41.810 --> 00:13:07.630
+Do they have existing budget? Do they have, is it a replacement product? If it is, then you're probably gonna lean more towards the land grab. If this is a brand new product, and there's so many of those today, right? We talk to founders every day, companies are being born with brand new products and they're going after brand new markets. If you have to do a lot of education to your market, if they don't have existing budget, if you're gonna have to take them through this educational journey before they can go out and justify the purchase internally,
+
+34
+00:13:07.630 --> 00:13:36.420
+that's probably more of a lighthouse strategy. You're taking them on this educational journey and it's a lot more missionary work than it is, hey, take that money you're spending with vendor A and move it over to us. So maybe it's worth getting specific about some of these companies. I know in the piece you talk about Hebbia and Harvey as classic lighthouse examples and then Stutt and Deck of Gaunt as land grabs. So maybe do you guys want to talk about some of those playbooks that you've seen or maybe like give other examples? Sure.
+
+35
+00:13:36.420 --> 00:13:56.420
+Sure, I mean, I can go and jump in. So for example, I highlight Stute in the article as like the the prototypical example of a land grab company that we're seeing in this new age. And so, Stute, this amazing business founded by two incredible entrepreneurs, Tark and Ben. And what they are going after is the accounts receivable market.
+
+36
+00:13:56.420 --> 00:14:13.500
+And for listeners who maybe have never thought about like AR accounts receivable, basically, you know, this is when someone owes you money, you know, in an enterprise context and you have to go collect the money from them. This is not glamorous. But however, there has been, you know, a mechanism to do this historically, right? There are collections teams and there's
+
+37
+00:14:13.500 --> 00:14:27.120
+big pieces of software like, you know, I won't say their names because compliance will probably bleep them out anyway. So there are big companies that do lots of error that sell on this market, but it's been very manual, right? These human teams have to interact with this piece of software and they have to go out there and get to sell.
+
+38
+00:14:27.120 --> 00:14:55.170
+or they have to go collect. And so what Stude said was, hey, AI is actually quite good at basically having conversations with people. It's very good at looking at information internally and basically doing this process end to end. And so we could reimagine this historic way of doing collections and instead of having humans do it, we can have humans plus AI do this and do it even more effectively. And what they then saw that open up was like the rest of order to cash and basically entire accounts receivable suite. And so what they...
+
+39
+00:14:55.170 --> 00:15:16.620
+basically went out and showed all of the early stage buyers was in doing this, we have the math to prove it. We will be more effective than your current solution and your current human teams at collecting. And this will do XYZ for improving working capital by a tremendous amount. It'll save you money. It'll actually make you more money. So they were able to go out to the mid-market and just basically show the math and be like, would you like to...
+
+40
+00:15:16.620 --> 00:15:27.180
+you know, have this solution yes or no. So that's a really good example of a land grab market. And those entrepreneurs are just like unbelievable sellers. They hit the pavement better than anyone.
+
+41
+00:15:27.180 --> 00:15:51.180
+just as good as anyone, as anyone I've ever seen and they're doing a great job. Another example on the lighthouse side would be, we harvied in our article and they just did a fantastic job of winning the right law firms for this very new, very theoretically high-risk initiative where you're augmenting your human workforce with AI capabilities and really automating what,
+
+42
+00:15:51.180 --> 00:16:20.740
+junior lawyers would be doing on a day-to-day basis. And so when they won the first few critical lighthouse accounts inside of their market, that proof traveled big time. And then the buyers that had this tremendous amount of exposure realized, hey, it's actually safe for me to buy this solution. So those are the two kind of counter, or two examples in this market. I don't know if there's anything you'd highlight from other companies you're working with or things you've seen. Yeah, I mean, those are two great examples.
+
+43
+00:16:20.740 --> 00:16:35.900
+I'm doing a decent amount of work with a company we're investing in called Pylon. They're basically the AI native customer support and they're a great example of land grab. They're doing a fantastic job right now just going out and saying, hey, we've got a better way of doing this.
+
+44
+00:16:35.900 --> 00:17:03.420
+And they have, they've been climbing up the ACV ladder, but they started at pretty modest ACVs and had been working their way up just by going out and replacing. And they have a fantastic go-to-market team that's just out executing. This ACV question is actually kind of an interesting one. And I'd be curious how you thought about it at Maraki or Samsara. There's so much demand out there and there's so many different ways of kind of building your go-to-market engine. Like how much did you actually even think about?
+
+45
+00:17:03.420 --> 00:17:26.960
+what you were landing at with these, like, you know, it maybe go back to when you're at like, I don't know, 10 or 50 of ARR at one of these businesses. Were you optimizing for that? Or was it just like, let's basically figure out how to get enough reps in and... Yeah, it's a good question. Now, the answer is you think about it a lot and then you try and not think about it at all. And what I mean by that is you want to make sure that the ACV that you're going after, it has to...
+
+46
+00:17:26.960 --> 00:17:56.240
+it has to top the hurdle, right? In other words, you look at your unit economics and is it healthy or not? You don't wanna be taking deals that are negative to your unit economics. But if it passes the threshold, then the answer is you don't think about it, you just go. You get as many of those as you can. So if you can build a go-to-market engine just theoretically that could live off of 15k ACV deals, fantastic. Like don't take 8k ACV deals, but go get as many 15k ACV deals as you can. And you wanna just build a repeatable engine and poor fuel.
+
+47
+00:17:56.240 --> 00:18:23.730
+and the firing is as many as you can. And then what happens over time is you start inching up, right? Bigger and bigger companies like what you're doing, and you start stacking up the wins and going up a CV ladder. And can I, one follow up on that, because this is interesting. I'm so much enjoying getting you talking about this stuff, but like, Maraki you guys had, and maybe tell the audience what Maraki does, but basically access points for internet connectivity. And you guys had this really clever program where you would kind of give a...
+
+48
+00:18:23.730 --> 00:18:34.580
+an axis point away, free is the way I understood it almost. And then of course, you do that, that impacts gross margin, but also you then have a hardware element as a part of your gross margin calculus.
+
+49
+00:18:34.580 --> 00:19:04.180
+We don't have as many companies out there that are doing, you know, maybe AI applications with a hardware element, but there is an inference element which impacts gross margins. And so I don't know, how did you think about like these kind of trade-offs in the early days of Meraki? And of course you had the same thing at Centaur with hardware too. Yeah, so just for the audience's application, so Meraki was basically a cloud networking company at this point, 20 years ago. Still part of Cisco. Still is a very healthy business within Cisco. It was acquired by Cisco back in 2012. But the companies
+
+50
+00:19:04.180 --> 00:19:17.710
+It was actually founded back in 2006. The co-founders were working on a research project as PhD students in MIT and started the business. And what's interesting about that, the research project was called RoofNet. The technology they built was...
+
+51
+00:19:17.710 --> 00:19:41.980
+basically large scale like mesh Wi-Fi and they'd install it on the roofs and like Cambridge and the idea was you could you know outfit these municipalities and you know parks and you know public areas with Wi-Fi. It was fantastic technology within the first couple years they figured out it wasn't a great business model there wasn't a lot of revenue in municipal Wi-Fi and so they made this pivot into enterprise. And the reason I say that is
+
+52
+00:19:41.980 --> 00:20:00.740
+you know, if you think about sort of the enterprise networking world in, you know, 2009, 2010, like people thought we were crazy. Like, why would you be trying to build an enterprise networking company in 2009? Don't you know that market was won 10 years ago by Cisco and HP. But the reality was, and again, back to sort of the timing.
+
+53
+00:20:00.740 --> 00:20:29.150
+that was right when cloud was coming about. And the big innovation around Meraki was the product and engineering folks fantastic team there figured out how to configure and manage this networking equipment through the cloud, which sounds like, yeah, total of course. Back then it was a little bit innovative. Anyway, our problem and that was very much a land grab strategy, right? We had no chance of getting into the largest corporations in the world, the lighthouse, because Cisco and HP had them all tied up.
+
+54
+00:20:29.150 --> 00:20:58.770
+But what we could do is we could say, listen, we can configure, we can deploy faster, we're simpler to use. Well, who cares about that? The mid-market, right? Well, they don't have substantial IT teams that have been trained in command-line code and this kind of stuff. And so, you know, our kind of firm belief at that point in time was, well, what's the best way to get them to understand that our networking equipment is simpler to use than their Cisco that they're about to buy? And the answer is get them to try it.
+
+55
+00:20:58.770 --> 00:21:27.490
+And so what we do is we'd run these webinars and we'd say, hey, you attend the webinar, we'll send you a free access point. You plug it in, try it out. And the idea was if they try it, the light bulb goes off and I say, wow, this is just so much easier than what I'm using. Why don't I use that? And it was very, very successful for a long period of time. And even as the company matured, we were very, very liberal in our trial and eval because you just fundamentally want customers to experience the technology.
+
+56
+00:21:27.490 --> 00:21:52.690
+and realize that it's better than the alternative. And do you think like there's an element of, people can kind of learn from that right now. It's hard though because there is an aspect of configurability with a lot of the new AI stuff, right? Like if you just give somebody this like, you know, Ferrari, they might not know exactly how to even turn it on. And so I don't know how you even think about like the delivery mechanism for some of these like...
+
+57
+00:21:52.690 --> 00:22:13.060
+trial periods, POCs with some of the companies you're working with right now. Yeah, I think it's become more challenging in the world of AI because, number one, things are moving so fast, like things are changing daily. And if you think about a proof of concept or a trial, the whole idea, if you're on the sales side is, I want the customer to experience this, I want to prove that it works for them.
+
+58
+00:22:13.060 --> 00:22:38.160
+But I want to do it in a period of time. It doesn't go on forever. And so what you have to stay away from, and I think one of the real dangers today is these things turn into like science projects. I'm going to employ this, well, can it do this? Can it do this? Can you show me this? Can you show me this? And of course, things are advancing every day. So the answer is probably yes, I could. But then you run the risk of these trials and proof of concepts going on forever. And so it just takes a lot of discipline, I think, in today's day and age.
+
+59
+00:22:38.160 --> 00:23:05.660
+to really box that in and say, listen, here's what our solution does. And we're gonna define it this way and we're both gonna agree that if it has done this after 45 days, it's success and you're gonna move forward with the gorgeous. And so there is a lot of that today. And did you, well, I guess would you recommend having like kind of auto converts on these as much as you can? Or yeah, like I don't know, like other like kind of learnings and lessons from this type of like 30, 45 day.
+
+60
+00:23:05.660 --> 00:23:28.100
+And then you can talk about like the right amount of time that you're giving people with a product. I think the timing depends a little bit on the complexity of your product, right? If it's going to take two weeks to set up, then you can't make it a two-week trial type thing. But I think the two biggest things are make sure you have an end date, right? It's a 30-day trial. It's 45-day trial. It's a 60-day trial period, end of story. And then the second one is you have to define the success criteria up front.
+
+61
+00:23:28.100 --> 00:23:56.690
+here is what we are proving that we can do for you. And in some of these companies, you can't do a proof of concept because maybe it is regulatory, maybe there's too much risk in there and they're not gonna let you do it. But where you can, I think you wanna make sure you have both an end date and you have the success criteria clearly defined. Yeah, I think this is so tricky right now where somebody, you have to basically define the scope that you're going after and the success criteria, but.
+
+62
+00:23:56.690 --> 00:24:06.690
+Oftentimes if you're like automating something that has never been automated before there's like significant amount of configuration and that like costs money Yeah, and then your product could could work
+
+63
+00:24:06.690 --> 00:24:30.420
+but it might be deployed improperly and and and or the results take longer than 30 or 45 days. Yeah. And so how do you actually kind of there's like a there's like a difference of, hey, the product is working and you just and we basically need to work with the customer then optimize whatever they're doing with the product. Yeah. Right. Like imagine you're I mean, I always go back to sales because it's easy to think about sales, but like imagine you're a sales tool like the product needs to work.
+
+64
+00:24:30.420 --> 00:25:00.020
+and then you need to use it and target the right customers for whatever you're selling. And they're kind of like two different parts of the equation. And so if all of a sudden you're taking risk on for whether or not your product works and whether or not it's being used correctly, very tricky. And so I think this is actually a really important topic for founders and for early stage revenue leaders today to figure out how you're educating your customer on like, here is the thing we are signing up for. We are not signing up for, maybe you are, maybe you aren't, but whether or not your employees are using our tool the right way.
+
+65
+00:25:00.020 --> 00:25:30.720
+Who have you seen that does the best of evangelizing and kind of like taking people through the onboarding process? You know, I think, who would I put in that bucket? I mean, I think like Decagon has done an amazing job at this. Like I think they go in, they basically evangelize that they're doing customer support better than anyone else. And then they're very good about saying here are the benchmarks that we are signing up to hit and then they hit them, you know, in their time period, right? And so I think this is
+
+66
+00:25:30.720 --> 00:25:51.280
+I think some people might trivialize this. It's very hard to do customer support effectively. This is a high-risk, exposed market where you don't want to screw this up. And so I think they've done a really good job of evangelizing. I think the guys at Stute, back to the example I just talked about. And then another example would be, excuse me.
+
+67
+00:25:51.280 --> 00:26:21.010
+a company that I'm on the board of called Further AI and they sell into the insurance space and they're kind of, they're basically evangelizing the idea of bringing AI to insurance. People haven't been using AI insurance like this is not generally a first adopter of technology, but a lot of their customers are some of the biggest insurance companies in the world. And it's because they're very comfortable with like, okay, here's like an AI solution that's built in a secure governance first form and fashion.
+
+68
+00:26:21.010 --> 00:26:50.640
+And then they work with forward-employed teams, you know, their customers to get up and running. So those are a couple examples. I don't know if you have any. And that's that, that last one's a good example of like a lighthouse strategy, right? Very much. They've gone after the bigger insurance companies and then you get that social proof and, you know, on down the long tail of insurance. And I think like sometimes people think that you have to be from a given market to do a lighthouse strategy. And maybe there's someone sitting at home and they're like, oh, like if only like I worked at this company, I could go do this. And it's like, no, the reality is like,
+
+69
+00:26:50.640 --> 00:27:10.910
+go build a relationship, you know, I see you laughing because I know you're like, go build a relationship with your customer, go find someone and show them like, here's, you know, I have an earned secret. This earned secret is that AI can help your business or technology can help your business in this way. And, you know, work with us on that front. I'll also say that, you know, every small company wants to become a big company. I don't know too many.
+
+70
+00:27:10.910 --> 00:27:32.380
+very large successful companies that at some point in time haven't deployed both strategy. You might start off with land grab, but then you mature and you have a lighthouse strategy or you start a lighthouse and then you get big enough that you can go broad into land grab. So I think for founders, when I get this question early on, do what makes the most sense for your business right now? What does that mean?
+
+71
+00:27:32.380 --> 00:27:54.880
+Go out and talk to customers and find out where the earliest and easiest sales are and pursue that strategy. It doesn't mean you're completely, you know, punting on the other one. It just means come back to it. And in both of the last companies that I work for, both Maraki and Samsara, we started with LandGrab. But as soon as we matured and started getting up an enterprise, then what do you do? Well, you verticalize and all of a sudden like, great.
+
+72
+00:27:54.880 --> 00:28:23.500
+who are the top five transportation companies? Who are the top five warehousing companies? Who are the top five public sector? And then you wanna go take those down. And so you can morph into a land grab strategy. You just wanna do what's most efficient and most effective for the stage of the company you're at. Can you talk a little bit about one of those key markets that you unlocked with, you went from land grab early to lighthouse in a given market. How did you set up that team? Or was it just...
+
+73
+00:28:23.500 --> 00:28:43.820
+you were the founders that was going into this new market and then like, you know, maybe a little bit about some of those deals that you closed. I'm just curious how this played out with the sequencing. Well, I think, you know, it both, Maraki and Sam Sara, you know, the sort of earliest example of lighthouse was when we verticalized.
+
+74
+00:28:43.820 --> 00:29:07.540
+And in both those instances, it was basically into public sector. And Maraki was going after school districts. Oh, interesting. Because that was sort of low hanging fruit. And if anybody ever sold to school districts, like they all talk to each other, they all know each other. You want to find the biggest school districts in each state. And if you can take that down, every school district underneath them says, oh, what did that one buy? Great. All of a sudden, the social proof is there. Now, why?
+
+75
+00:29:07.540 --> 00:29:36.400
+why use a lighthouse strategy in say school districts or in same-starred case when we went into public sector when you start selling to cities and counties and states? Why shift? Because the sales motion is fundamentally different, right? The sales cycles are different. The way you sell, the decision makers are different. The way they procure is different. And so asking the same sales team to shift from selling to a mid-market customer, an enterprise customer over to selling to a city or a county or a school district,
+
+76
+00:29:36.400 --> 00:29:58.190
+it's just different. And so, that's a point where you might want to shift and say, okay, great, once we're verticalized, we want to shift to a lighthouse strategy. What would you say the differences are between great sellers in lighthouse models versus great sellers in land grab models? Are there any differences? Like from what you saw, maybe when you're opening new markets, is there a profile? Yeah.
+
+77
+00:29:58.190 --> 00:30:24.020
+that was most effective. It's always difficult to generalize. I think, you know, in a true lighthouse strategy and when I envision lighthouse, it's like, hey, we're going to go after whatever the financial sector, you know, here are the top 15 accounts in France and you know, here are their logos, like how many can we get into this quarter, next quarter, next quarter, right? Like that's a lighthouse strategy. You know, generally you want more seasoned, you know, enterprise sellers that, you know,
+
+78
+00:30:24.020 --> 00:30:53.260
+know how to work within those accounts. They understand the sales cycles. They understand the sort of procurement cycles. In more of a land grab strategy where you're just saying, hey, we have the best technology, we're replacing this workflow, we're replacing this product. You just want very aggressive, like hire for attitude and aptitude. You can go earlier in career, you just want those people to get out there and hit as many of those customers as you can because at that point it's like,
+
+79
+00:30:53.260 --> 00:31:10.780
+you're hitting a big market and you just want to stack wins as fast as you can. Yeah, and my unsolicited advice to any early in career seller or potential seller right now is there's never been a better time to work at some of these companies in our portfolio. That's absolutely true. It's a super fun time to be in the market. Yeah.
+
+80
+00:31:10.780 --> 00:31:40.140
+I wanted to ask about maybe a third kind of selling or product diffusion that we haven't talked about, which is the developer kind of bottoms up, more grassroots adoption. And is that something that you guys are seeing? Is the idea of the seller sort of becoming, I wouldn't say obsolete, but for a particular kind of product, just less relevant now, like a developer saying,
+
+81
+00:31:40.140 --> 00:32:04.620
+to their CTO or their CIO or whoever, like, hey, this is great. Like, let's just get this. And like, there's less of a sales motion needed. You know, I guess definitely not. Like, there's a bunch of PLG that's still happening today. I think people are buying things in a prosumer fashion all the time. And I think that there's new buyer behaviors being kind of discovered. And of course, like, we were big investors and curser.
+
+82
+00:32:04.620 --> 00:32:23.600
+Everyone saw that played out and there's a bunch of other examples of this. However, like if I take a giant step back and talk about where we are in this like current cycle, like I wrote this long piece called Trading Margin for Mote about a year, year and a half ago or whatever it was, talking about like the cycle. And if you think about like why, you know, basically the last.
+
+83
+00:32:23.600 --> 00:32:45.200
+12 years before 2024, 10 or 15 years before 2024, you saw so much PLG is just kind of where we were in like the software, you know, innovation cycle, you know, and a lot of the big cloud platform businesses, if you think about like CRM, HR, ITSM, security, like a lot of those big platform businesses were founded in the, you know, call it 2000 to 2000 and
+
+84
+00:32:45.200 --> 00:33:14.560
+eight 2010 period. And those businesses went out and solved like the big platform opportunities. And so then the only way to really break in at the enterprise, right? And we're talking more about like enterprise, enterprise sales or mid-market enterprise sales was to build like some sort of wedge product, wedge in with this product and say, hey, I'm going to solve this part of your, of your, you know, suite for you and then try to expand over time. And so this like land and expand model became super, you know, obviously super in vogue, but it was really based on where we were in this like adoption cycle. And
+
+85
+00:33:14.560 --> 00:33:37.740
+There were other people of course that said, hey, I want to go build a new CRM. I want to go build a new HRIS. I want to go build a new ITSM. But like the reality was going from on-prem to cloud was a big enough shift for people to switch to something new. But going from cloud to cloud for CRM, I don't care if the button is green or blue. I don't care if there's one little feature difference. I'm not going to switch.
+
+86
+00:33:37.740 --> 00:34:02.700
+You compare that cycle where we were looking at everything for the last 15 years, which was all PLG and all the time. This is incredible to where we are now. There's this crazy kinetic energy inside of companies where they're saying, hey, it could be even something as fundamental as CRM. It could be as fundamental as HR, ITSM. We're now looking at a different way of doing business entirely. This is not a skeuomorphic one-to-one replacement, green to blue. We're now thinking about like
+
+87
+00:34:02.700 --> 00:34:30.500
+Humans are going to be doing something completely different, way more high value. We're going to doing way less of the same kind of mundane work. And instead, agents are going to be doing that. And so that's, I think, the opportunity right now. And it's why, instead of talking about, like, of course, we're going to talk about PLG and all these other sales models, there's a moment right now to go sell big software again, and to go sell platforms. And it's because of this moment. And so I think people need to be studying kind of
+
+88
+00:34:30.500 --> 00:34:58.290
+the 15 years ago models of how people build this and the ecosystems around it to go and have success. I think that's right. I will say I think the consistent trend as long as I've been doing this is that every year and with every technology transition, buyers become more and more educated. So the buyer today just fundamentally has a better idea of what they want than they did five years ago, 10 years ago, 15 years ago. And so that does lend itself more towards if you can
+
+89
+00:34:58.290 --> 00:35:24.220
+hit that buyer when they're in their decision mode, you're gonna have a better chance. It doesn't have to necessarily be PLG, but it can be more self-serve. It can be, it should be an easier sell than 10, 15, 20 years ago where you had to take them on this entire education journey. Why you need this, how it works, here's how you're gonna write. They're just so much more educated now on what they want to buy that your job is just convincing that your company is the right solution for that. Amen. Yeah.
+
+90
+00:35:24.220 --> 00:35:53.650
+I guess the lighthouse kind of like definition just gets pushed at our outwards. You kind of like, yeah, just have to keep on conquering new territory. I'm curious, I assume a company just can't stay a lighthouse forever and you even alluded to this, Andy. Like what is kind of the average amount of time that a company kind of can just, you know, chew off those bigger logos and then, you know, like what is that transition?
+
+91
+00:35:53.650 --> 00:36:18.930
+in moment like I guess. Yeah. I mean, theoretically, you could, right? If you were a company that was dedicated or committed to a multi-product strategy, you could just keep coming out with new products and you can keep going after more verticals, right? Yeah. You could theoretically do that. And I think there's probably some example we could come up with if companies have did that. But yeah, in general, if you start with a lighthouse strategy, you've built the social proof, you've gotten these big names,
+
+92
+00:36:18.930 --> 00:36:43.540
+then what you want to do is you want to run the category underneath it. If I've got in the top five financial companies in the world, I want to run down the list after that. And so that fundamentally becomes a little bit different of a sales motion. You're spending less time with the huge organization, the big logo selling and you're spending more time, less time in the social proof and more time on, hey.
+
+93
+00:36:43.540 --> 00:36:58.140
+Here's a reference if you need it, otherwise this is why my products best buy it. Yeah, and I mean I think and to Tandy's point there are certain companies I think that actually do just stay light-out the entire time and like that would be like I try to think of like the best example might be like applied intuition in our portfolio like there's there is a very
+
+94
+00:36:58.140 --> 00:37:21.300
+set number of people who are buying that kind of autonomous software and a certain number of car manufacturers and so on and so forth in the world. Not to say that that's the only people that get sold to, but like of course these are the trade markets. And so you then have to treat every one of these with immense care because they are huge ACP opportunities. And they've obviously, I think they're arguably the best in the world at doing that.
+
+95
+00:37:21.300 --> 00:37:47.410
+Yeah, that's a good example of that. Why would a founder misjudge what game they're playing? Or how have you seen founders misjudge whether they're doing Lighthouse or Landgrave? It sounds way more sexy to sell the JP Morgan Chase than to Shmish Mish Morfinn. I think the biggest mistake that I see founders make at an early stage honestly is just spending too much time.
+
+96
+00:37:47.410 --> 00:38:12.210
+trying to figure it out. It's like too much time on the strategy. The strategy is important, but you should spend like 1% of your time on the strategy, pick it, and then spend 99% of your time trying to execute. So rather than sit back and say, well, should we do Lighthouse or should we land grab? Get out, talk to your customers, figure out which ones are willing to buy your product, the features and the services that it delivers today, and then
+
+97
+00:38:12.210 --> 00:38:40.400
+chase that path, right? There's no bonus points for hard earned revenue. You don't get extra multipliers on your revenue if you get the big logo or something. Like go after the customers you can, and then constantly be improving your product and then you can always reassess your strategy. After the first year, if you get all your revenue milestones, you can look at it and say, well, could we be more effective doing this? Maybe. Just don't spend too much time in analysis paralysis mode. Yeah, totally agree with that. I totally agree with that.
+
+98
+00:38:40.400 --> 00:39:05.520
+Joe, Joe you had some fun questions for Andy. I had some lighting round questions. Lighting round, okay. I'll see what other ones I can come up on the top of my head. The first one is maybe like your favorite place, you ever, weirdest place you ever closed a deal? Yeah, I mean we've had some customers that have taken us to some funny places, right? I mean I've closed deals on fishing trips, I've closed deals.
+
+99
+00:39:05.520 --> 00:39:34.830
+out at shooting ranges, I've closed deals at ball parks. So, I think those are all kind of unique, like any water that wasn't a meeting room. Yeah. Air Pirate Chilies? Probably. Probably over a couple billion dollars. Certainly at Sam's Hour we're selling logistics and transportation companies, a lot of truck yards and that kind of stuff, sanitation sites. There's some creating. When you're doing land grab motions, I think this is like the permeating theme.
+
+100
+00:39:34.830 --> 00:39:58.820
+just be willing to go and sell wherever. Maybe, Andy, if you could go back and tell yourself one thing when you're building out these teams or early in your career, what would you tell yourself? Early in my career. Well, I mean, this is the advice I give a lot of early in career folks. And it was a mistake I made early on. The only thing you should really be focused on when you're starting your sales career is find the best company you can.
+
+101
+00:39:58.820 --> 00:40:09.520
+possibly find a work for. I made this mistake early in my career. I was chasing, you know, where can I make the most commission? Where can I make the most money? What's the hottest technology? Where can I go get the biggest title?
+
+102
+00:40:09.520 --> 00:40:36.850
+At the end of the day, none of that matters. What you want to find is you want to find the great company that's going to grow. And if you do that, then it's like a career elevator, right? Like you will grow with the company. Yeah, totally agree. But you can't let your ego get in the way and I want a director title or this big of a base salary or I think I can get this much of a commission rate. Just go find the best company you can work for. Yeah, totally agree. What's one role you think companies should hire for it earlier than they normally do in the sales work?
+
+103
+00:40:37.010 --> 00:40:41.500
+I mean, it really depends on the company and how you're specifically like.
+
+104
+00:40:41.500 --> 00:41:11.170
+how comfortable the founders are. Like if you're a founder that's very comfortable with sales and you can wait longer to hire a sales leader and that kind of stuff. So it's a little bit of a generalized question, but I would say sales operations is probably one that I see companies waiting a little too long on. And I am not a proponent. I don't think you need to stand up a gigantic revenue operations organization. It can be literally like one person, but you need somebody that every day is thinking through territory alignment, name lists, doing,
+
+105
+00:41:11.170 --> 00:41:41.170
+commission skirmishes, setting a sales constitution, like all that kind of stuff becomes really, really, really important because when you get into like, you know, scale mode, you want all that stuff like largely figured out. You don't want, they become speed bumps otherwise. So you want somebody thinking about that. And it's generally not gonna be your sales leader. Cause they're thinking about how do I hire the next person? How do I bring the next deal on? So I'd say, yeah, maybe sales operation, sale, revenue operations. Yeah. Maybe, you know, one sentence or two sentences on, you know, how you think about
+
+106
+00:41:41.170 --> 00:42:09.250
+what percentage of sales teams that the early stage companies you're at should be hitting quota. And like kind of like sales comp thinking. 100%. 100%. 100%. What I think there's, you have some interesting comments on like basically, you know, trying to keep them low, get everyone kind of rabid and. Well, I mean, listen, I think in the early days, like sales teams run off of momentum, right? You want to hire winners and give them a chance to win. So yes, you want to, you know, be able to bring people in, you want to set reasonable goals.
+
+107
+00:42:09.250 --> 00:42:26.560
+It's gotta be profitable for the company. You know, economics have to work. Like you can't, you know, you can't change the math. But at the end of the day, like if you're an early stage company and you've got a great product, you want to hire the best possible sales talent to get that product solution out to market. And the way you do that, the way you attract those people is...
+
+108
+00:42:26.560 --> 00:42:45.760
+give them a chance to hit quota. Totally. So yeah, I think some of these companies today where 40, 50% of the team's hitting quota, I think they're probably doing themselves a disservice. Either their quotas are too high or they're hiring profiles off. But yeah, I think especially in the early stages when cost of sales isn't as important.
+
+109
+00:42:45.760 --> 00:43:00.980
+public company and you've gone out and you've conquered your market, nobody looks back and says, gosh, six years ago, your cost of sales was really terrible. Nobody cares about that. What they care about is, did you get on a path where you could be successful?
+
+110
+00:43:00.980 --> 00:43:30.290
+Well, I think something that's cool about this conversation is just how timeless a lot of the wisdom is. It just seems like these frameworks and ways of thinking about the industry are pretty consistent just throughout the different software cycles and eras that we've seen. So anyway, Joe, Andy, thank you so much for joining us. This was great and excited to have you guys back on. Yeah. Yeah. God, the goat. Thanks for having us.
+
+111
+00:43:30.290 --> 00:44:02.800
+Thanks, Andy. Thanks, Anna. Thanks, Fantastic.
+
+112
+00:44:02.800 --> 00:44:26.030
+should not be taken as legal business, tax, or investment advice, or be used to evaluate any investment or security and is not directed at any investors or potential investors in any A16Z fund. Please note that A16Z and its affiliates may also maintain investments in the companies discussed in this podcast. For more details, including a link to our investments, please see a16z.com forward slash disclosures.
