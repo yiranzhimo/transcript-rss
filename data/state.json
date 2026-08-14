@@ -3451,6 +3451,23 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://a16z.simplecast.com/episodes/how-open-source-ai-became-critical-infrastructure-3yYJbsEz"
     },
+    "the-a16z-show::f3e84891-157e-4d47-a921-bd6727f27c34": {
+      "attempts": 1,
+      "description": "Ben Horowitz, Travis Kalanick, and Erik Torenberg take the stage at Atoms' launch event for a candid fireside conversation about entrepreneurship, company building, and why Kalanick believes the next industrial revolution will be powered by AI.\nThey revisit pivotal moments from Uber's history, including the decision not to acquire Lyft, lessons from scaling one of the world's fastest-growing companies, and how Kalanick has evolved as a founder. The conversation also explores Atoms' vision for industrial AI, why software is moving into the physical world, what it takes to build enduring company cultures, and why Kalanick believes the biggest opportunities of the next decade lie in transforming industries like food production, mining, and manufacturing.",
+      "external_id": "f3e84891-157e-4d47-a921-bd6727f27c34",
+      "item_slug": "the-a16z-show-6055fa6be196",
+      "language": "en",
+      "published_at": "2026-08-14T10:00:00+00:00",
+      "published_to_feed_at": "2026-08-14T13:55:46.554923+00:00",
+      "source_id": "the-a16z-show",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "Ben Horowitz and Travis Kalanick on Building Again",
+      "title_zh": "本·霍洛维茨和特拉维斯·卡兰尼克谈重建",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://a16z.simplecast.com/episodes/ben-horowitz-and-travis-kalanick-on-building-again-o4RgblCd"
+    },
     "the-a16z-show::f9e79358-7a88-4c94-b097-0699d7971e72": {
       "attempts": 1,
       "description": "Applied Intuition has spent the past decade building the software that powers intelligent machines, from passenger vehicles and trucks to defense systems, mining equipment, and industrial robots.\nIn this conversation, Marc Andreessen and Erik Torenberg sit down with Applied Intuition cofounders Qasar Younis and Peter Ludwig to discuss the emergence of physical AI and the company's latest launch, Dana, a new platform designed to accelerate the development of autonomous systems.\nThey explore autonomous vehicles, robotics, world models, simulation, AI infrastructure, and the engineering challenges of deploying intelligence safely in the physical world. Along the way, they discuss self-driving cars, humanoid robots, global competition, and why lowering the barrier to building physical AI could unlock an entirely new generation of products and companies.",
@@ -5184,20 +5201,37 @@
       "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
       "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
       "url": "https://www.xiaoyuzhoufm.com/episode/6a75724dc4079d62c57eb972?utm_source=rss"
+    },
+    "zhi-xing-xiao-jiu-guan::6a7e91ff36641f136d8807ab": {
+      "attempts": 1,
+      "description": "<img src=\"https://image.xyzcdn.net/FijIPGUiW7QI6_9eHNBwFr3SoeIa.jpg\" /><p><strong>💕 谈钱的背后，是两个人如何理解「我们」。</strong></p><p>欢迎来到知行小酒馆，这是一档由 <a href=\"https://youzhiyouxing.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">有知有行</a> 出品的播客节目。我们关注投资，更关注怎样更好地生活，我是雨白。</p><p>再过几天就到七夕节了，这一期小酒馆故事会，我们想挑战一个可能有些艰难的话题：<strong>亲密关系和金钱。</strong></p><p>2026 年的我们似乎可以在网上查到一切攻略，如何坐飞机、每个景点的最佳机位，甚至世界各个角落的 Wi-Fi 密码。<strong>可是似乎没有一份攻略告诉我们，该怎样和自己的另一半谈钱。</strong></p><p>很多亲密关系的开始，可能只是对彼此有一些好感，想多见见面，聊聊天。在这个阶段，我们其实很难把握「谈钱」的进度。</p><p><strong>有没有人能告诉我们，要熟悉到什么地步，才可以不尴尬地交流彼此的消费习惯？要过多久，可以公开彼此的收入和存款？又在什么时候，可以平心静气地讨论结婚后谁来管钱，孩子的开支该怎么办？</strong>这些事情好像都没有标准答案。</p><p>于是小酒馆发起了这次征集，邀请听友们来分享自己在亲密关系里的谈钱时刻。这期节目，我们邀请到了其中六位听友。</p><p>有人在孩子出生以后，第一次开始认真为小朋友的未来做财务规划；有人正在准备结婚，却因为一辆车，发现两个人对于安全感有很不一样的想象；有人在一段刚刚开始的恋爱里，被一条只有「268」三个数字的微信弄得很困惑； 有人谈了十年恋爱，直到领证前，才知道伴侣曾经创业亏损了两百万元；也有人从恋爱时接近 AA，一路磨合到结婚以后，靠实力赢得了小家庭的财政大权。 最后，我们还有一份特殊的投稿，是和一对夫妻分别进行了对话，同一段婚姻、同一段因为育儿开支引发的争吵，在 TA 们各自的记忆里，是不太一样的版本。</p><p>这期节目可能无法为你直接提供一些谈钱方法论，但能尝试着把钱背后的担心和期待坦诚说出，或许本身就是一个很重要的开始。</p><h2>🔗 官方地址</h2><p><a href=\"https://youzhiyouxing.cn/n/materials/2244\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">如果你所使用的客户端显示不全，请点此访问有知有行的官网查看全文</a></p><h2>🪡 时间轴</h2><p><strong>🟤 01 岛主</strong></p><p><a class=\"timestamp\">08:01</a> 为了女儿认真盘家底才发现，我们的存款竟然这么少？</p><p><a class=\"timestamp\">18:11</a> 一碗两人用零花凑出的螺蛳粉🍜：<strong>比存钱更幸福的，是我们正在为同一个未来一起努力</strong></p><p><strong>🟤 02 小九</strong></p><p><a class=\"timestamp\">34:08</a> 我和男友之间的消费观差别，不仅仅是换车的那三万块</p><p><a class=\"timestamp\">44:07</a>「手里有三个月生活费就可以休息？我会感觉自己下一秒就要流落街头了」</p><p><a class=\"timestamp\">51:12</a> 我想，在谈钱这件事上，我们可以给彼此更多一点时间</p><p><strong>🟤 03 张张</strong></p><p><a class=\"timestamp\">57:20</a> 第一次去迪士尼约会时，微信消息里突然蹦出三个数字：268</p><p><a class=\"timestamp\">01:13:22</a> <strong>谈钱这件事，难的不只有钱怎么花，还有我们该怎么谈</strong></p><p><strong>🟤 04 草莓</strong></p><p><a class=\"timestamp\">01:27:12</a> 约定领证那天老公突然告诉我，自己创业亏损了 200 万</p><p><a class=\"timestamp\">01:40:18</a> 让我选择「赌一把」的，是十年恋爱间点滴细节攒下的信任（但绝不构成任何投资建议🙅♀️</p><blockquote><p><em>风险提示 👉 如果遇到伴侣存在债务问题，无论已婚还是未婚，请一定一定咨询律师</em></p></blockquote><p><strong>🟤 05 港港</strong></p><p><a class=\"timestamp\">01:49:23</a> 都说谈钱伤感情，但我觉得：把钱谈明白，才更不容易伤感情</p><p><a class=\"timestamp\">02:00:25</a> <strong>磨合金钱观的这些年，也让我们慢慢更加了解彼此</strong></p><p><strong>🟤 06 Laura</strong></p><p><a class=\"timestamp\">02:18:52</a> 育儿的拉扯不止金钱，还有两个家庭间难以算清的付出</p><p><a class=\"timestamp\">02:30:46</a> 我们花了很多钱减轻养育痛苦，但也有永远无法用钱抚平的，比如生育损伤</p><p><a class=\"timestamp\">02:47:01</a><strong>「婚姻，就是一个在碎片里找糖吃的过程」</strong></p><p><strong>🟤 End</strong></p><p><a class=\"timestamp\">02:50:41</a> <strong>藏在金钱背后的，是一段关系里的信任、看见，和把彼此放进同一个「我们」</strong></p><h2>🔍 猜你想看</h2><p><a class=\"timestamp\">07:47</a>《麦琪的礼物》：美国作家欧·亨利的极短篇小说代表作之一，讲述了一对贫穷夫妻各自卖掉最珍贵的东西，为对方买了其实已经用不上的礼物。</p><p><a class=\"timestamp\">02:13:55</a> 爱情三角理论：由美国心理学家罗伯特·史坦伯格（Robert Jeffrey Sternberg）提出，认为爱的三个重要组成部分为亲密元素、激情元素和义务元素。</p><p><a class=\"timestamp\">02:33:17</a>「青椒」：大学青年教师的别称，主要指 35 岁以下、中初级职称的高校初入职教师群体，普遍面临工资收入、职称评定等多重压力。</p><p><strong>🎧 往期节目</strong></p><p><a href=\"https://www.xiaoyuzhoufm.com/episode/6a59d6f4a3fec224d59f07fe\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">E243 对话杨雨坤：大脑会记得，我们是怎样长大的</a></p><p><a href=\"https://www.xiaoyuzhoufm.com/podcast-topic/68c8c979658523c9e8049ef5\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">小酒馆故事会🍻｜系列专题</a></p><h2>🌐 知行小酒馆公告牌</h2><p><strong>✨ 有知有行 App 3.0 版本上线啦</strong></p><p>过去几年，不少同路人都在问我们：什么时候可以不用跳转，直接在有知有行买入长稳海？现在终于可以告诉大家，<strong>从这一版本起，「长钱账户」「稳钱账户」「海外长钱」都已经支持在有知有行 App 里直接买入。</strong></p><p>6 年前，有知有行 App 刚刚上线，更多是用内容陪大家一起学习投资、理解市场，小酒馆也是在那时起步。后来，我们陆续在 App 里补上了家庭资产记账、养老金计算器等规划工具。我们希望投资不只是一个收益率数字，而是能和每个人的真实生活连接起来。</p><p>再后来，有知有行 2.0 版本上线了基金交易，到这一次的 3.0 版本，我们终于又往前再走了一步。谢谢你陪我们走到这里，有知有行还在继续成长，也希望可以继续陪伴你通过安心投资，一步步接近更好的生活。</p><blockquote><p>长钱账户、稳钱账户和海外长钱的销售、投顾服务，分别由海南有知有行基金销售有限公司和嘉实财富提供。产品的过往业绩不预示其未来表现，为其他投资者创造的收益也不构成业绩表现的保证。请在全面了解产品的风险收益特征后独立作出投资决策。</p></blockquote><img src=\"https://image.xyzcdn.net/FjkPEsamj3dEI6owRy7KgQNVsu1r.png\" /><p><strong>🍻 我们是谁？</strong>「知行小酒馆」是&nbsp;<a href=\"https://youzhiyouxing.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">有知有行</a>&nbsp;出品的一档分享投资与生活的播客节目，每周五晚八点更新。我们关注投资理财，更关注怎样更好地生活。在我们看来，投资成功，是我们变成一个更好的人之后，自然的结果。</p><p><a href=\"https://youzhiyouxing.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">有知有行</a>&nbsp;成立于 2020 年，目前在陪伴投资者用正确的方式学习投资，下场实操。凭借在投资领域的良好口碑，有知有行在初创阶段已与一大批忠实用户同行。未来我们希望成为一家财富管理公司，不仅帮助投资者学习投资，也能让大家在有知有行安心交易，踏实赚钱。<a href=\"https://youzhiyouxing.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">欢迎在「有知有行」社区 和我们互动交流</a>。</p><h2>🎺 创作团队</h2><p><strong>主持&nbsp;</strong>雨白｜<strong>嘉宾&nbsp;</strong>岛主 小九 张张 草莓 港港 Laura｜<strong>制作&nbsp;</strong>周一 星星｜<strong>后期</strong>&nbsp;甜食｜<strong>单集封面&nbsp;&nbsp;</strong>港港供图</p><p></p><p><strong>免责声明</strong></p><p>本播客所述投资相关内容皆以交流分享为目的，仅供参考，不构成任何市场预测、判断，或投资、咨询建议。市场有风险，投资需谨慎。主持人及嘉宾对投资相关内容的准确性、可靠性、时效性及完整性不作任何明示或暗示的保证，并提醒您对相关内容请结合自身情况进行独立评估，依据或使用相关内容所造成的后果由您独自承担。</p><p>感谢您对本播客原创内容的青睐。如转载或引用本播客所述内容，请注明出处。转载前请与有知有行联系并取得同意。</p>",
+      "external_id": "6a7e91ff36641f136d8807ab",
+      "item_slug": "zhi-xing-xiao-jiu-guan-c8ab4185ad4b",
+      "language": "zh",
+      "published_at": "2026-08-14T12:00:00+00:00",
+      "published_to_feed_at": "2026-08-14T14:06:07.403569+00:00",
+      "source_id": "zhi-xing-xiao-jiu-guan",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "E247 和爱的人谈钱，但不只是钱｜小酒馆故事会七夕特辑 💝",
+      "title_zh": "E247 和爱的人谈钱，但不只是钱｜小酒馆故事会七夕特辑 💝",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a7e91ff36641f136d8807ab?utm_source=rss"
     }
   },
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:52:16.834947+00:00",
-      "last_modified": "Fri, 14 Aug 2026 02:44:29 GMT",
+      "last_checked_at": "2026-08-14T13:51:05.945310+00:00",
+      "last_modified": "Fri, 14 Aug 2026 13:32:20 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:50:52.455468+00:00",
+      "last_checked_at": "2026-08-14T13:48:45.422936+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -5205,28 +5239,28 @@
     "feng-tou-quan": {
       "etag": "W/\"b5f502227a2664d2e5995b8dbd6eb4cd\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:50:00.810374+00:00",
+      "last_checked_at": "2026-08-14T13:47:24.956221+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:52:49.651432+00:00",
+      "last_checked_at": "2026-08-14T13:50:51.269307+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
     },
     "gao-qian-nu-hai": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:49:45.552524+00:00",
+      "last_checked_at": "2026-08-14T13:47:55.072586+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:50:17.631422+00:00",
+      "last_checked_at": "2026-08-14T13:47:44.554841+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -5234,7 +5268,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:53:17.043283+00:00",
+      "last_checked_at": "2026-08-14T13:52:07.362567+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -5243,7 +5277,7 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"041bcea0676f8c67dd328ce7418f7c48\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:51:46.490822+00:00",
+      "last_checked_at": "2026-08-14T13:49:54.202118+00:00",
       "last_modified": "Thu, 13 Aug 2026 08:41:13 GMT",
       "title": "声东击西",
       "type": "podcast",
@@ -5252,7 +5286,7 @@
     "silicon-valley-101": {
       "etag": "W/\"3593024a17752605dc9a0ebaedb6b4fe\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:50:31.895097+00:00",
+      "last_checked_at": "2026-08-14T13:48:55.738381+00:00",
       "last_modified": "Tue, 11 Aug 2026 02:00:05 GMT",
       "title": "硅谷101",
       "type": "podcast",
@@ -5261,7 +5295,7 @@
     "streamlined-solopreneur": {
       "etag": "W/\"d6f7e57bd4934748f99bed57b1943aa7\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:54:32.078571+00:00",
+      "last_checked_at": "2026-08-14T13:53:14.672123+00:00",
       "last_modified": "Tue, 11 Aug 2026 06:01:55 GMT",
       "title": "Streamlined Solopreneur: Systems for Overwhelmed Coaches, Consultants, and Service Providers Who Want Their Time Back",
       "type": "podcast",
@@ -5270,25 +5304,25 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"e50cf8b42528a0bb1d869e5aa3578674\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:51:06.550996+00:00",
+      "last_checked_at": "2026-08-14T13:49:43.396035+00:00",
       "last_modified": "Wed, 12 Aug 2026 04:15:04 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"81233896073d65bbb597d60752bfa180\"",
+      "etag": "W/\"d279e88b1b662b2cf175f0e358282a84\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:52:35.948613+00:00",
-      "last_modified": "Thu, 13 Aug 2026 10:00:27 GMT",
+      "last_checked_at": "2026-08-14T13:51:05.712042+00:00",
+      "last_modified": "Fri, 14 Aug 2026 10:00:31 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:53:38.250116+00:00",
-      "last_modified": "Thu, 13 Aug 2026 00:00:00 GMT",
+      "last_checked_at": "2026-08-14T13:52:08.857854+00:00",
+      "last_modified": "Fri, 14 Aug 2026 04:28:35 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
       "url": "https://feeds.megaphone.fm/PPLLC8974708240"
@@ -5296,7 +5330,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"a672160025e62b752db763f151f2574c\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:54:42.909998+00:00",
+      "last_checked_at": "2026-08-14T13:54:08.240466+00:00",
       "last_modified": "Thu, 13 Aug 2026 09:38:37 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -5304,7 +5338,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:53:57.397645+00:00",
+      "last_checked_at": "2026-08-14T13:53:25.607959+00:00",
       "last_modified": "Wed, 12 Aug 2026 10:00:01 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -5312,26 +5346,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:50:00.091805+00:00",
+      "last_checked_at": "2026-08-14T13:47:44.243894+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:51:40.132360+00:00",
+      "last_checked_at": "2026-08-14T13:49:33.470370+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-14T02:50:52.915585+00:00",
+      "last_checked_at": "2026-08-14T13:48:36.619030+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-08-14T02:56:31.976995+00:00",
+  "updated_at": "2026-08-14T14:06:40.971486+00:00",
   "version": 1
 }
