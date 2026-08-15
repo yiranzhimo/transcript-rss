@@ -171,3 +171,12 @@ sources:
     enabled: true
     max_items_per_run: 1
     scan_limit: 15
+
+  - id: "the-psychology-of-money-with-morgan-housel"
+    type: "podcast"
+    url: "https://anchor.fm/s/104219ecc/podcast/rss"
+    title: "The Psychology of Money with Morgan Housel"
+    language: "en"
+    enabled: true
+    max_items_per_run: 1
+    scan_limit: 15
