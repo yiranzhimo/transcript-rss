@@ -3859,6 +3859,23 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://podcasters.spotify.com/pod/show/morgan-housel/episodes/A-Tale-as-Old-As-time-Getting-Rich-vs--Staying-Rich-e3n36mb"
     },
+    "the-psychology-of-money-with-morgan-housel::8108176b-d89d-44e8-b8e3-ba3d33b11b17": {
+      "attempts": 1,
+      "description": "<p>Plus, how to deal with minimalism, and what happens when everyone makes good financial decisions. </p><p><br /></p><p>Read the article I mention, Grip Strength, by Jeremy Giffon <a href=\"https://x.com/jeremygiffon/article/2079280687346295184\" rel=\"noopener noreferer\" target=\"_blank\">here</a>. </p>",
+      "external_id": "8108176b-d89d-44e8-b8e3-ba3d33b11b17",
+      "item_slug": "the-psychology-of-money-with-morgan-housel-abec77fcb603",
+      "language": "en",
+      "published_at": "2026-07-24T01:17:30+00:00",
+      "published_to_feed_at": "2026-08-17T02:05:28.459068+00:00",
+      "source_id": "the-psychology-of-money-with-morgan-housel",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "\"Some of The Unhappiest People In The World\"",
+      "title_zh": "\"世界上最不快乐的人之一\"",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://podcasters.spotify.com/pod/show/morgan-housel/episodes/Some-of-The-Unhappiest-People-In-The-World-e3mfk3r"
+    },
     "the-psychology-of-money-with-morgan-housel::e36be35f-e97f-4bed-9a22-0f946776fc8d": {
       "attempts": 1,
       "description": "<p>Plus, the inability to spend when you've already saved enough, and the value of scarcity.</p>",
@@ -5325,15 +5342,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:06:31.285201+00:00",
-      "last_modified": "Sun, 16 Aug 2026 12:51:01 GMT",
+      "last_checked_at": "2026-08-17T01:59:58.904405+00:00",
+      "last_modified": "Mon, 17 Aug 2026 01:42:33 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:05:34.972991+00:00",
+      "last_checked_at": "2026-08-17T01:59:04.621455+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -5341,28 +5358,28 @@
     "feng-tou-quan": {
       "etag": "W/\"b5f502227a2664d2e5995b8dbd6eb4cd\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:04:14.503848+00:00",
+      "last_checked_at": "2026-08-17T01:57:56.394980+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:07:02.111875+00:00",
+      "last_checked_at": "2026-08-17T02:00:42.679939+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
     },
     "gao-qian-nu-hai": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:04:25.905363+00:00",
+      "last_checked_at": "2026-08-17T01:58:03.241510+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:04:38.606332+00:00",
+      "last_checked_at": "2026-08-17T01:57:46.066411+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -5370,7 +5387,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:07:39.188863+00:00",
+      "last_checked_at": "2026-08-17T02:01:14.590996+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -5379,7 +5396,7 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"041bcea0676f8c67dd328ce7418f7c48\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:06:32.929440+00:00",
+      "last_checked_at": "2026-08-17T01:59:44.238424+00:00",
       "last_modified": "Thu, 13 Aug 2026 08:41:13 GMT",
       "title": "声东击西",
       "type": "podcast",
@@ -5388,7 +5405,7 @@
     "silicon-valley-101": {
       "etag": "W/\"67d2c115722eab16431be89f0e5df311\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:05:13.630229+00:00",
+      "last_checked_at": "2026-08-17T01:58:50.964763+00:00",
       "last_modified": "Fri, 14 Aug 2026 23:59:17 GMT",
       "title": "硅谷101",
       "type": "podcast",
@@ -5397,7 +5414,7 @@
     "streamlined-solopreneur": {
       "etag": "W/\"1f8d20072315fcc93dc1ff9fec0c7a50\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:08:11.662944+00:00",
+      "last_checked_at": "2026-08-17T02:01:54.532093+00:00",
       "last_modified": "Fri, 14 Aug 2026 14:04:06 GMT",
       "title": "Streamlined Solopreneur: Systems for Overwhelmed Coaches, Consultants, and Service Providers Who Want Their Time Back",
       "type": "podcast",
@@ -5406,7 +5423,7 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"e50cf8b42528a0bb1d869e5aa3578674\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:05:54.239921+00:00",
+      "last_checked_at": "2026-08-17T01:59:34.758351+00:00",
       "last_modified": "Wed, 12 Aug 2026 04:15:04 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
@@ -5415,7 +5432,7 @@
     "the-a16z-show": {
       "etag": "W/\"d279e88b1b662b2cf175f0e358282a84\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:07:07.719613+00:00",
+      "last_checked_at": "2026-08-17T02:00:53.709530+00:00",
       "last_modified": "Fri, 14 Aug 2026 10:00:31 GMT",
       "title": "The a16z Show",
       "type": "podcast",
@@ -5423,16 +5440,16 @@
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:07:27.045446+00:00",
+      "last_checked_at": "2026-08-17T02:00:58.757875+00:00",
       "last_modified": "Sun, 16 Aug 2026 00:00:00 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
       "url": "https://feeds.megaphone.fm/PPLLC8974708240"
     },
     "the-psychology-of-money-with-morgan-housel": {
-      "etag": "W/\"27756-YNVNqCEB8G7HbenlR8Q0/vyXBf0\"",
+      "etag": "W/\"27756-or1piGuVaQHO5WyDCJWMZ/SKwPg\"",
       "force_refresh": true,
-      "last_checked_at": "2026-08-16T13:08:30.972862+00:00",
+      "last_checked_at": "2026-08-17T02:02:18.403446+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
@@ -5440,7 +5457,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"a672160025e62b752db763f151f2574c\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:08:14.004359+00:00",
+      "last_checked_at": "2026-08-17T02:02:06.002289+00:00",
       "last_modified": "Thu, 13 Aug 2026 09:38:37 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -5448,7 +5465,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:08:16.900140+00:00",
+      "last_checked_at": "2026-08-17T02:01:37.667670+00:00",
       "last_modified": "Wed, 12 Aug 2026 10:00:01 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -5456,26 +5473,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:03:58.035955+00:00",
+      "last_checked_at": "2026-08-17T01:58:16.806896+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:06:13.803231+00:00",
+      "last_checked_at": "2026-08-17T02:00:02.041381+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-16T13:05:09.613649+00:00",
+      "last_checked_at": "2026-08-17T01:58:41.493350+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-08-16T13:12:04.386148+00:00",
+  "updated_at": "2026-08-17T02:06:00.716989+00:00",
   "version": 1
 }
