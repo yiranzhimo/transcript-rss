@@ -3179,6 +3179,23 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://a16z.simplecast.com/episodes/ai-for-americas-small-businesses-lassie-bwImYMRh"
     },
+    "the-a16z-show::05dbb55e-33ef-4251-883f-74cd5ec26640": {
+      "attempts": 1,
+      "description": "a16z General Partner David George is joined by Grant LaFontaine, co-founder of Whatnot, to unpack how a marketplace that started with collectibles evolved into one of the world's leading live shopping platforms.\nGrant traces the company's origins from selling Pokémon cards online as a kid to discovering live commerce by watching Whatnot's earliest customers hack together sales on social media. They discuss why Whatnot thinks less like a traditional e-commerce marketplace and more like a digital shopping mall, where discovery, entertainment, community, and commerce all happen at once. Today, users spend roughly 95 minutes a day on the platform, and most aren't even buying something on a given day.\nThey also explore how Whatnot is enabling small businesses to reach global audiences, expanding from collectibles into categories like fashion, food, and golf, and using AI to make sellers more efficient without replacing the human connection at the center of the experience.",
+      "external_id": "05dbb55e-33ef-4251-883f-74cd5ec26640",
+      "item_slug": "the-a16z-show-3d26efef4691",
+      "language": "en",
+      "published_at": "2026-08-19T10:00:00+00:00",
+      "published_to_feed_at": "2026-08-19T13:22:35.564790+00:00",
+      "source_id": "the-a16z-show",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "How Whatnot Built a Global Marketplace",
+      "title_zh": "Whatnot如何建立全球市场",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://a16z.simplecast.com/episodes/how-whatnot-built-a-global-marketplace-DoonwHjN"
+    },
     "the-a16z-show::1b160ab3-bc10-4d48-8ed2-73cc5c52d964": {
       "attempts": 1,
       "description": "Elena Burger is joined by a16z's Andy McCall and Joe Schmidt to break down two very different ways AI startups can go to market: the lighthouse and the landgrab. Should founders win a handful of marquee customers whose credibility unlocks an entire industry, or move quickly across a broad market where the ROI already speaks for itself?\nDrawing on Joe's Lighthouse or Landgrab framework and Andy's experience building sales organizations at Samsara and Meraki, they explore how founders can determine which strategy fits their market, when social proof matters more than math, and why the current rush to adopt AI has created a rare window for startups to sell big software again.\nThey also get tactical on POCs, pricing and ACV, hiring early sales teams, moving from mid-market to enterprise, and why founders shouldn't spend too much time perfecting their GTM strategy before talking to customers. As Andy puts it: spend 1% of your time on strategy and 99% executing.",
@@ -3943,6 +3960,23 @@
       "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://podcasters.spotify.com/pod/show/morgan-housel/episodes/Some-of-The-Unhappiest-People-In-The-World-e3mfk3r"
+    },
+    "the-psychology-of-money-with-morgan-housel::d7f3c8d8-1238-44a0-b23e-7980f6beb218": {
+      "attempts": 1,
+      "description": "<p>Plus, comparing the cost of things you love. </p>",
+      "external_id": "d7f3c8d8-1238-44a0-b23e-7980f6beb218",
+      "item_slug": "the-psychology-of-money-with-morgan-housel-3922238579c9",
+      "language": "en",
+      "published_at": "2026-06-19T05:56:33+00:00",
+      "published_to_feed_at": "2026-08-19T13:26:04.184825+00:00",
+      "source_id": "the-psychology-of-money-with-morgan-housel",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "Natural Maniacs, An Overvalued Market, and Recovering From Years of Bad Financial Habits",
+      "title_zh": "自然疯子、被高估的市场与从多年不良财务习惯中恢复",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://podcasters.spotify.com/pod/show/morgan-housel/episodes/Natural-Maniacs--An-Overvalued-Market--and-Recovering-From-Years-of-Bad-Financial-Habits-e3l0b7j"
     },
     "the-psychology-of-money-with-morgan-housel::d925be61-d705-48fd-b435-50205eecb482": {
       "attempts": 1,
@@ -5478,15 +5512,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-19T02:11:36.013415+00:00",
-      "last_modified": "Wed, 19 Aug 2026 01:58:41 GMT",
+      "last_checked_at": "2026-08-19T13:16:36.265169+00:00",
+      "last_modified": "Wed, 19 Aug 2026 13:04:01 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-19T01:58:58.718108+00:00",
+      "last_checked_at": "2026-08-19T13:14:41.065702+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -5494,28 +5528,28 @@
     "feng-tou-quan": {
       "etag": "W/\"50614ef8465881b76c07b421d4a04bae\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-19T01:57:58.354970+00:00",
+      "last_checked_at": "2026-08-19T15:07:17.808350+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-19T02:06:43.974808+00:00",
+      "last_checked_at": "2026-08-19T13:17:07.067411+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
     },
     "gao-qian-nu-hai": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-19T01:55:42.012223+00:00",
+      "last_checked_at": "2026-08-19T13:13:24.634652+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-19T01:55:38.960844+00:00",
+      "last_checked_at": "2026-08-19T13:13:19.382784+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -5523,7 +5557,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-19T02:10:19.061711+00:00",
+      "last_checked_at": "2026-08-19T13:17:29.704844+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -5532,17 +5566,17 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"041bcea0676f8c67dd328ce7418f7c48\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-19T02:01:11.109763+00:00",
+      "last_checked_at": "2026-08-19T13:16:26.848913+00:00",
       "last_modified": "Thu, 13 Aug 2026 08:41:13 GMT",
       "title": "声东击西",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/shengdongjixi/rss"
     },
     "silicon-valley-101": {
-      "etag": "W/\"67d2c115722eab16431be89f0e5df311\"",
+      "etag": "W/\"28b2bca0d7b7ff05a559a4b073cbb8a3\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-19T02:14:23.794091+00:00",
-      "last_modified": "Fri, 14 Aug 2026 23:59:17 GMT",
+      "last_checked_at": "2026-08-19T13:16:01.748491+00:00",
+      "last_modified": "Wed, 19 Aug 2026 12:29:46 GMT",
       "title": "硅谷101",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/sv101/rss"
@@ -5550,7 +5584,7 @@
     "streamlined-solopreneur": {
       "etag": "W/\"0a30b235ee15ca3856756389aa3df78b\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T13:19:03.437349+00:00",
+      "last_checked_at": "2026-08-19T13:19:41.950795+00:00",
       "last_modified": "Tue, 18 Aug 2026 06:01:47 GMT",
       "title": "Streamlined Solopreneur: Helping Overwhelmed Solo Business Owners Get Their Time Back",
       "type": "podcast",
@@ -5559,25 +5593,25 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"e50cf8b42528a0bb1d869e5aa3578674\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-19T02:05:54.846728+00:00",
+      "last_checked_at": "2026-08-19T13:15:32.136883+00:00",
       "last_modified": "Wed, 12 Aug 2026 04:15:04 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"0c13b8db59c3baf5c51bfc89328baff7\"",
+      "etag": "W/\"d66054c4582f18f9c8338be853151209\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-19T02:08:10.581773+00:00",
-      "last_modified": "Tue, 18 Aug 2026 10:00:26 GMT",
+      "last_checked_at": "2026-08-19T13:17:29.258994+00:00",
+      "last_modified": "Wed, 19 Aug 2026 10:00:32 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-19T02:09:26.059517+00:00",
-      "last_modified": "Sun, 16 Aug 2026 00:00:00 GMT",
+      "last_checked_at": "2026-08-19T13:17:58.704323+00:00",
+      "last_modified": "Wed, 19 Aug 2026 10:04:37 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
       "url": "https://feeds.megaphone.fm/PPLLC8974708240"
@@ -5585,7 +5619,7 @@
     "the-psychology-of-money-with-morgan-housel": {
       "etag": "W/\"27756-n4GMfReA6zFZxyxCn4mvZdn4irs\"",
       "force_refresh": true,
-      "last_checked_at": "2026-08-19T02:22:22.914290+00:00",
+      "last_checked_at": "2026-08-19T13:21:30.600417+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
@@ -5593,7 +5627,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"f687e39def495d13b9a68aa7d934e77b\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-19T02:17:43.116749+00:00",
+      "last_checked_at": "2026-08-19T13:20:37.829548+00:00",
       "last_modified": "Mon, 17 Aug 2026 22:42:42 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -5601,7 +5635,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-19T02:20:24.093786+00:00",
+      "last_checked_at": "2026-08-19T13:23:47.801861+00:00",
       "last_modified": "Wed, 12 Aug 2026 10:00:01 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -5609,26 +5643,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-19T01:57:20.177828+00:00",
+      "last_checked_at": "2026-08-19T13:13:36.476144+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-19T02:07:49.961845+00:00",
+      "last_checked_at": "2026-08-19T13:15:43.242783+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-19T01:56:46.976768+00:00",
+      "last_checked_at": "2026-08-19T13:14:39.633581+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-08-19T05:11:00.818325+00:00",
+  "updated_at": "2026-08-19T15:07:46.231433+00:00",
   "version": 1
 }
