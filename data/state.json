@@ -3978,6 +3978,23 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://podcasters.spotify.com/pod/show/morgan-housel/episodes/Why-Im-an-Optimist--And-Growing-Apart-Financially-e3lt2jh"
     },
+    "the-psychology-of-money-with-morgan-housel::dbd1fd05-44be-4092-a94c-c36d96c9d146": {
+      "attempts": 1,
+      "description": "<p>Plus, thoughts on earning passive wealth.</p>",
+      "external_id": "dbd1fd05-44be-4092-a94c-c36d96c9d146",
+      "item_slug": "the-psychology-of-money-with-morgan-housel-18b3c8b65d31",
+      "language": "en",
+      "published_at": "2026-06-26T19:00:12+00:00",
+      "published_to_feed_at": "2026-08-19T02:27:16.008576+00:00",
+      "source_id": "the-psychology-of-money-with-morgan-housel",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "The History of Uncertainty, The Magic of The Long Term, And Overstating New Technology",
+      "title_zh": "不确定性的历史、长期的魔力与夸大新技术",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://podcasters.spotify.com/pod/show/morgan-housel/episodes/The-History-of-Uncertainty--The-Magic-of-The-Long-Term--And-Overstating-New-Technology-e3laq23"
+    },
     "the-psychology-of-money-with-morgan-housel::e196599c-08a3-4507-952f-6ef97d3ab3cf": {
       "attempts": 1,
       "description": "<p>Plus, a new name for this podcast: The Psychology of Money. </p>",
@@ -5461,15 +5478,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T13:14:47.708195+00:00",
-      "last_modified": "Tue, 18 Aug 2026 13:06:53 GMT",
+      "last_checked_at": "2026-08-19T02:11:36.013415+00:00",
+      "last_modified": "Wed, 19 Aug 2026 01:58:41 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T13:13:08.031273+00:00",
+      "last_checked_at": "2026-08-19T01:58:58.718108+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -5477,28 +5494,28 @@
     "feng-tou-quan": {
       "etag": "W/\"50614ef8465881b76c07b421d4a04bae\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T13:12:00.136605+00:00",
+      "last_checked_at": "2026-08-19T01:57:58.354970+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T13:15:04.000073+00:00",
+      "last_checked_at": "2026-08-19T02:06:43.974808+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
     },
     "gao-qian-nu-hai": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T13:12:09.296031+00:00",
+      "last_checked_at": "2026-08-19T01:55:42.012223+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T13:12:56.549828+00:00",
+      "last_checked_at": "2026-08-19T01:55:38.960844+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -5506,7 +5523,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T13:15:55.568462+00:00",
+      "last_checked_at": "2026-08-19T02:10:19.061711+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -5515,7 +5532,7 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"041bcea0676f8c67dd328ce7418f7c48\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T13:14:11.223952+00:00",
+      "last_checked_at": "2026-08-19T02:01:11.109763+00:00",
       "last_modified": "Thu, 13 Aug 2026 08:41:13 GMT",
       "title": "声东击西",
       "type": "podcast",
@@ -5524,7 +5541,7 @@
     "silicon-valley-101": {
       "etag": "W/\"67d2c115722eab16431be89f0e5df311\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T14:00:29.518519+00:00",
+      "last_checked_at": "2026-08-19T02:14:23.794091+00:00",
       "last_modified": "Fri, 14 Aug 2026 23:59:17 GMT",
       "title": "硅谷101",
       "type": "podcast",
@@ -5542,7 +5559,7 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"e50cf8b42528a0bb1d869e5aa3578674\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T13:13:55.947219+00:00",
+      "last_checked_at": "2026-08-19T02:05:54.846728+00:00",
       "last_modified": "Wed, 12 Aug 2026 04:15:04 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
@@ -5551,7 +5568,7 @@
     "the-a16z-show": {
       "etag": "W/\"0c13b8db59c3baf5c51bfc89328baff7\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T13:15:06.316099+00:00",
+      "last_checked_at": "2026-08-19T02:08:10.581773+00:00",
       "last_modified": "Tue, 18 Aug 2026 10:00:26 GMT",
       "title": "The a16z Show",
       "type": "podcast",
@@ -5559,16 +5576,16 @@
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T13:18:06.101703+00:00",
+      "last_checked_at": "2026-08-19T02:09:26.059517+00:00",
       "last_modified": "Sun, 16 Aug 2026 00:00:00 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
       "url": "https://feeds.megaphone.fm/PPLLC8974708240"
     },
     "the-psychology-of-money-with-morgan-housel": {
-      "etag": "W/\"27756-or1piGuVaQHO5WyDCJWMZ/SKwPg\"",
+      "etag": "W/\"27756-n4GMfReA6zFZxyxCn4mvZdn4irs\"",
       "force_refresh": true,
-      "last_checked_at": "2026-08-18T13:19:45.560791+00:00",
+      "last_checked_at": "2026-08-19T02:22:22.914290+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
@@ -5576,7 +5593,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"f687e39def495d13b9a68aa7d934e77b\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T13:19:07.314938+00:00",
+      "last_checked_at": "2026-08-19T02:17:43.116749+00:00",
       "last_modified": "Mon, 17 Aug 2026 22:42:42 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -5584,7 +5601,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T13:18:17.973840+00:00",
+      "last_checked_at": "2026-08-19T02:20:24.093786+00:00",
       "last_modified": "Wed, 12 Aug 2026 10:00:01 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -5592,26 +5609,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T13:12:12.171388+00:00",
+      "last_checked_at": "2026-08-19T01:57:20.177828+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T13:13:53.654711+00:00",
+      "last_checked_at": "2026-08-19T02:07:49.961845+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-18T13:13:02.688663+00:00",
+      "last_checked_at": "2026-08-19T01:56:46.976768+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-08-18T14:00:58.034172+00:00",
+  "updated_at": "2026-08-19T05:11:00.818325+00:00",
   "version": 1
 }
