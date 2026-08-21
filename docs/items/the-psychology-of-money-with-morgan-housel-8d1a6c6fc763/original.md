@@ -1,0 +1,5 @@
+**[00:00:00]** Hey friends, Morgan Housel here with some news for you today. This isn't much of an episode, but I just wanted to let you know of something, which is that I'm going to be relaunching this podcast in a sense. I might even change the name, although you don't need to resubscribe to anything. It's going to be on the same feed, but part of the new format, which are going to be longer episodes in a different format, part of that is going to be answering some of your questions. And so my ask for you today is if you have a question.
+
+**[00:00:29]** about money, about investing, about the economy, about really anything that is going on that you might be interested in me taking a crack at on a future episode, send those questions to pod at longtermwords.com. That's pod at longtermwords.com. I can't guarantee you that I'll get to every question, but I'm gonna do my best and have this as a new feature of the podcast going forward.
+
+**[00:00:59]** Send those questions in and keep a lookout for the new podcast format in the next week or two. And I hope to see you there.
