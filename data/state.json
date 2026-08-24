@@ -3519,6 +3519,23 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://a16z.simplecast.com/episodes/the-reality-of-ai-powered-cyberattacks-truffle-security-socket-vbyiWFXA"
     },
+    "the-a16z-show::9214c273-93fb-476f-bb4a-1306e7fa4fe1": {
+      "attempts": 1,
+      "description": "Daisy Wolf and Eva Steinman are joined by Engy Ziedan, co-founder and Chief Scientific Officer of Protege, to discuss why medical AI has a measurement problem, and why scoring well on a benchmark doesn't necessarily mean a model is ready for the hospital.\nEngy explains why healthcare AI needs independent evaluations that go beyond static exams and measure how models actually perform in real-world clinical workflows. They explore the risks of subtle bias and misalignment, why the same model can rank differently depending on how it's prompted or tested, and what happens as AI becomes more personalized and changes faster than traditional healthcare quality systems can keep up.\nThe conversation also gets into Protege's role as an independent evaluator, how contaminated training data can undermine benchmarks, and why the future of medical AI may require continuous monitoring rather than occasional testing.",
+      "external_id": "9214c273-93fb-476f-bb4a-1306e7fa4fe1",
+      "item_slug": "the-a16z-show-3638757e5db1",
+      "language": "en",
+      "published_at": "2026-08-24T10:00:00+00:00",
+      "published_to_feed_at": "2026-08-24T13:24:52.727415+00:00",
+      "source_id": "the-a16z-show",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "Why Medical AI Needs a Referee | Protege's Engy Ziedan",
+      "title_zh": "医疗AI为何需要裁判 | Protege的Engy Ziedan",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://a16z.simplecast.com/episodes/why-medical-ai-needs-a-referee-proteges-engy-ziedan-K_iA_k2D"
+    },
     "the-a16z-show::9635840c-a1ca-4251-b090-a854c6a64f7b": {
       "attempts": 1,
       "description": "Sriram Krishnan joins Theo Jaffee and Sofia Puccini just after concluding his tenure as Senior White House Policy Advisor on AI to discuss one of the biggest weeks yet for open-source AI. They unpack the rapid release of models including Kimi K3 and Qwen, why open models are putting pressure on frontier labs, and what it means for pricing, competition, and the future of AI infrastructure.\nThey also discuss AI policy, distillation, cybersecurity, the role of open-weight models, whether the U.S. should respond to China's growing AI capabilities, and how governments and frontier labs should navigate the next phase of AI development.",
@@ -5886,44 +5903,44 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:02:28.578816+00:00",
-      "last_modified": "Mon, 24 Aug 2026 01:58:30 GMT",
+      "last_checked_at": "2026-08-24T13:19:01.239336+00:00",
+      "last_modified": "Mon, 24 Aug 2026 13:06:05 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:01:22.513260+00:00",
+      "last_checked_at": "2026-08-24T13:18:01.039081+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
     },
     "feng-tou-quan": {
-      "etag": "W/\"4cc3be65792d99b15fd9ebaf643b1dff\"",
+      "etag": "W/\"f7cd272e52b486218671534318454659\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:00:19.402697+00:00",
+      "last_checked_at": "2026-08-24T13:17:01.605616+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:02:44.502195+00:00",
+      "last_checked_at": "2026-08-24T13:18:53.736423+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
     },
     "gao-qian-nu-hai": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:00:22.454765+00:00",
+      "last_checked_at": "2026-08-24T13:16:58.095830+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:00:18.309218+00:00",
+      "last_checked_at": "2026-08-24T13:17:02.338455+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -5931,7 +5948,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:03:04.508837+00:00",
+      "last_checked_at": "2026-08-24T13:20:24.670037+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -5940,7 +5957,7 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"57f2dbeae7d2cfff402f67fb03df4f03\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:02:17.099536+00:00",
+      "last_checked_at": "2026-08-24T13:18:51.529630+00:00",
       "last_modified": "Thu, 20 Aug 2026 12:05:07 GMT",
       "title": "声东击西",
       "type": "podcast",
@@ -5949,17 +5966,17 @@
     "silicon-valley-101": {
       "etag": "W/\"550dcd3d662f486409fc4877877bdfa3\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:01:18.209949+00:00",
+      "last_checked_at": "2026-08-24T13:17:56.330167+00:00",
       "last_modified": "Thu, 20 Aug 2026 00:15:05 GMT",
       "title": "硅谷101",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/sv101/rss"
     },
     "streamlined-solopreneur": {
-      "etag": "W/\"94a4813cef618bdc75f6294a11b5bec7\"",
+      "etag": "W/\"a76f83ce14693cfffb6eab9d4d767793\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:03:57.283791+00:00",
-      "last_modified": "Fri, 21 Aug 2026 14:39:18 GMT",
+      "last_checked_at": "2026-08-24T13:20:59.574559+00:00",
+      "last_modified": "Mon, 24 Aug 2026 10:42:28 GMT",
       "title": "Streamlined Solopreneur: Helping Overwhelmed Solo Business Owners Get Their Time Back",
       "type": "podcast",
       "url": "https://feeds.transistor.fm/streamlined"
@@ -5967,25 +5984,25 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"e50cf8b42528a0bb1d869e5aa3578674\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:01:33.062957+00:00",
+      "last_checked_at": "2026-08-24T13:17:58.957358+00:00",
       "last_modified": "Wed, 12 Aug 2026 04:15:04 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"b09004d551380943d06417a63ca752b6\"",
+      "etag": "W/\"b64942f855cecc17f09d6b395f418018\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:03:07.534699+00:00",
-      "last_modified": "Sat, 22 Aug 2026 10:00:26 GMT",
+      "last_checked_at": "2026-08-24T13:19:47.782529+00:00",
+      "last_modified": "Mon, 24 Aug 2026 10:00:27 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:03:28.766651+00:00",
-      "last_modified": "Sun, 23 Aug 2026 00:00:00 GMT",
+      "last_checked_at": "2026-08-24T13:19:53.496009+00:00",
+      "last_modified": "Mon, 24 Aug 2026 10:22:45 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
       "url": "https://feeds.megaphone.fm/PPLLC8974708240"
@@ -5993,7 +6010,7 @@
     "the-psychology-of-money-with-morgan-housel": {
       "etag": "W/\"27e73-nOmEPjbfAYqN2A0CPDEnwBfH7lI\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:04:30.967858+00:00",
+      "last_checked_at": "2026-08-24T13:21:19.021193+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
@@ -6001,7 +6018,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"2067e85818a43c5fe5dc68d075125ad5\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:03:58.823007+00:00",
+      "last_checked_at": "2026-08-24T13:21:00.062123+00:00",
       "last_modified": "Thu, 20 Aug 2026 09:34:34 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -6009,7 +6026,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:03:43.688452+00:00",
+      "last_checked_at": "2026-08-24T13:20:03.381836+00:00",
       "last_modified": "Wed, 19 Aug 2026 20:30:01 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -6017,26 +6034,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:00:14.496709+00:00",
+      "last_checked_at": "2026-08-24T13:17:01.067101+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:02:13.238118+00:00",
+      "last_checked_at": "2026-08-24T13:18:56.048799+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-24T02:01:06.722918+00:00",
+      "last_checked_at": "2026-08-24T13:17:55.428487+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-08-24T02:04:52.768318+00:00",
+  "updated_at": "2026-08-24T13:25:18.411545+00:00",
   "version": 1
 }

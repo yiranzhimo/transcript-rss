@@ -1,0 +1,329 @@
+WEBVTT
+
+1
+00:00:00.180 --> 00:00:24.930
+Hundreds of millions of people ask chat-chippy-key questions about their health. Who, if any, is making sure that the answers that are spit out is safe and correct? Models are going to be inhibited in their usefulness by the training data available for them. There is no one that's looking beyond the iceberg of like catastrophic failures and misalignment. What is the importance of
+
+2
+00:00:24.930 --> 00:00:53.170
+evals in this industry. No one ever asked like what is the value of Uber like show me the e-mail but in today's AI market there is a need for the pricing to be accurate and without understanding really what is valuable and what's value less technology the technology does not have a marginal cost of zero and so it became our mission to provide safe and aligned data that would make AI useful. The right decision may also be very different a year from now versus what it looks like today. As we move into the future
+
+3
+00:00:53.260 --> 00:01:18.820
+A medical AI model can ace thousands of test questions and still fail at a job we actually need it to do. In this episode, Daisy Wolfe and Ida Steinman sit down with protege co-founder and chief scientific officer, NG Ziren, to unpack why healthcare AI needs a much better way to measure performance. They discuss the gap between benchmarks and real-world clinical tasks. Why subtle bias and misalignment may be harder to catch than catastrophic failures.
+
+4
+00:01:18.820 --> 00:01:47.680
+And what happens when models evolve faster than the health care system can evaluate them? NG also makes the case for an independent referee, one that can continuously test how AI behaves in real clinical settings, compare competing models, and identify where they actually need to improve. Welcome back to the A16Z podcast. I'm Daisy Wolfe, partner on A16Z's Bio and Health team. Join by Eva Steinman, investor on our Bio and Health team as well.
+
+5
+00:01:47.680 --> 00:02:15.540
+Today, we are talking with Ng Ziden, co-founder and chief scientific officer of Protege and a healthcare economist, assistant professor at Indiana University, whose work has been featured in the New York Times and cited by the CDC. Today, we are going to dig into why medical AI has a measurement problem, why AISING benchmarks does not make a model ready for the hospital, and how Protege is building the referee.
+
+6
+00:02:15.540 --> 00:02:42.320
+NG, welcome to the podcast. Thanks for having me. NG, let's start with your background. How did you first meet the protege team? What were you doing at the time? And how has it evolved since then? Yeah, I met Bobby when I was two years out of my PhD as assistant professor at Tulane in my lonely office. And a pandemic had just hit. And I decided that I was going to write papers really fast. So I wanted data basically from two days ago. And that was impossible.
+
+7
+00:02:42.320 --> 00:03:06.030
+to obtain at the time. In his past life, he used to work for a data facilitation company, and he offered AWS instances and access to data and connections, and it was a lovely experience. Then we never spoke again, maybe after 2021-2022. And suddenly in 2024, February, I get this email sent from a Gmail from Bobby, and it has an idea, a Google document in it.
+
+8
+00:03:06.030 --> 00:03:33.340
+And in typical Bobby's style, it was human written, very simple, and it said something like, what do we hold to be true about the future? And in it, it basically lays out this hypothesis, which has been partly true. When I look back at that document, I often read it every few months or so, which is that models are going to be inhibited in their usefulness by the training data available for them. And that goes beyond health care in any domain.
+
+9
+00:03:33.340 --> 00:03:53.490
+And so it became our mission to provide safe and aligned data, essentially the teachings that would make AI useful for humans. And today it's really a proud moment for us. Almost all the models have been pre and mid-trained on our healthcare data. We provide data in multiple verticals, audio, video, robotics.
+
+10
+00:03:53.490 --> 00:04:19.420
+I go through like Slack channels and I see kind of like what data sets people are talking about inside Projet and it could be anything from 100,000 endoscopy videos inside someone's body to like pet data and I don't mean nuclear medicine. I mean literally like veterinary care data to like 3D objects where the team is trying to predict the weight of the object being lifted so the robot is trained like a diverse set of like mugs. It's a fascinating world.
+
+11
+00:04:19.420 --> 00:04:47.220
+Totally. I think Bobby's background in data, he had the insight very early that like the internet was going to be scraped and that the frontier models were going to be defined. The best ones would have access to the best real world data and a very clear vision of how to get that to people. We should frame that one, Pedro, and put it in all of our devices. Our ground source of truth. He also had, I think, like the eye for the humans who annotate and generate data will reach the saturation of their imagination.
+
+12
+00:04:47.220 --> 00:05:06.640
+and that there is nothing like reality. Today you kind of see the market now saying, oh, it's actually real world data that we want and like synthetic data maybe is insufficient or like what I would call like data in a contrived scenario generated in a contrived scenario is insufficient. And that was also in the document.
+
+13
+00:05:06.640 --> 00:05:34.640
+Awesome. And so you mentioned you've been working with a lot of large language models since day one, since two years ago, and the world has obviously changed a ton since then. How is your relationship with your end customers changed and what you provide to them and how you work with them? Yeah, so first, as a small company, you kind of like want to get ambitious, but you don't know what ambition is really. So we had this ambition that we would service a lot of the startups that are building in AI early on. That turned out not to be true.
+
+14
+00:05:34.640 --> 00:06:03.950
+that immediately very large foundation models became our modal customers. And they first wanted to conquer the consumer market. So use cases like, can it have an intelligent conversation with you? Is it aligned? Is it safe? Is it reasonably sound in medicine and things like that? And then slowly and slowly, these foundation models began to see the amount of revenue available in enterprise settings. So it's like, can it task aggregate in knowledge work?
+
+15
+00:06:03.950 --> 00:06:28.700
+Can it automate? Can it entirely replace certain workflows? How do we think about tasks, jobs as a collection of tasks, right? Or like a contrived human concept? And so the data requests we get today will probably sit between consumer needs and enterprise needs. And then of course there is the need for once I build this model, I would like people to know it's the best. And I'm not an arms length removed.
+
+16
+00:06:28.700 --> 00:06:50.020
+from that conversation. And so we started to naturally gravitate towards benchmarks and evaluations in real-world settings and thinking about just what we could do today, but really what is the right way to do it going forward? Like what holds to be true? Totally. And like talk to us for a second about why evals are important.
+
+17
+00:06:50.020 --> 00:07:19.820
+right? Because you can obviously argue like hundreds of millions of people use AI every day. They're not asking for an e-bow necessarily. Like what is the importance of e-bows in this industry? Yeah. So I think a lot about things from the perspective of economic theory, just given my background. And if you think about it, economists back out kind of value from things using an approach called hedonics, which is like someone's willingness to pay for the thing would give you the value of the thing.
+
+18
+00:07:19.820 --> 00:07:43.250
+So the best example is school districts determine housing prices, right? Because people's willingness to pay for better housing. No one ever asked what is the value of Uber, like show me the e-mail. People just paid and gone on the ride and over time it became like a verb, you Uber it. But in today's AI market, there is a need for the pricing to be accurate for equilibrium for clearing.
+
+19
+00:07:43.250 --> 00:08:06.670
+And without understanding really what is valuable and what's value less technology, this technology does not have a marginal cost of zero. People are paying in tokens, they're paying with onboarding time, they're also paying with the probability that something would go wrong. They're taking that in. And so there is a need for evaluations that are robust for it to really become integrated in knowledge work, high-risk scenarios, everyday businesses.
+
+20
+00:08:06.670 --> 00:08:26.340
+Right? Just like you would hire an employee and you would vet that they're adequate for the job. Before you hire AI, you need to vet that it's adequate for the job. Totally. There's so many trust issues in AI. And if you can prove by something as trustworthy, obviously the willingness to pay for that thing should be higher. I think also like in healthcare specifically,
+
+21
+00:08:26.340 --> 00:08:46.100
+Healthcare always had this asymmetry in the transaction. Sometimes people illustrate it with like a used car market where the seller of the car knows so much more than the buyer of the car. The sellers of care, the providers, know a lot more about what is valuable and value less technology and your current state of health than you may know.
+
+22
+00:08:46.100 --> 00:09:11.280
+There is evidence of this. I often talk to the team about the effect of having a doctor in the family. There's research from Sweden that shows just a random assignment and who goes to med school based on your grade in the med school entry exam. Randomly assigns a doctor in the family and people live X years longer, the entire family. And so this asymmetry means that the providers of the care know a lot more than the consumers of the care. When you...
+
+23
+00:09:11.280 --> 00:09:39.300
+put agents on top of that, right? It's almost like saying we have a million doctors in America. We're going to hire a million more. Those additional million doctors have taken a lovely 5,000 question exam and passed it. We'll let them go ham and see how it goes. And we're comparing that to the million existing doctors in the US who have gone through nearly a decade of specialized training, many more exam questions than 5,000, which is really wild to think about.
+
+24
+00:09:39.300 --> 00:10:08.940
+To your point, healthcare is a really interesting industry because you have one an asymmetry problem across all the key stakeholders, patients, providers, payers, you name it. And you also have incredibly high stakes, right? Like the self-driving car analogy where there's absolutely no room for a model to make an error. How do you guys think about that at Protosha? Yeah, so I think like when people talk about kind of like safety and alignment, right? There is the catastrophic failure, which is something goes wrong. Can you prevent that? Actually, I do think that that problem is easier.
+
+25
+00:10:09.140 --> 00:10:35.630
+because catastrophic failure is like narrow, like you could just define it as like mortality, right? The harder one is misalignment broadly and subtle bias. First, it's very hard to define. It's even harder sometimes to detect. So let's give an example. Today, there are a lot of AI builders who are building in AI for insurance.
+
+26
+00:10:35.760 --> 00:11:04.370
+and hospitals are also building in AI for prior auth or acquiring these technologies for AI for prior auth, medical denials and so on. You can think of it as like an Edgeworth box where there are two indifference curves that are coming together on a contract curve. One is trying to maximize total revenue and basically minimize payouts. And one is trying to maximize revenue recovered. They are both using agentic tools and the patient is in the middle.
+
+27
+00:11:04.720 --> 00:11:34.300
+The patient has no agency and there is no regulator that basically says, we think this model is really, really performing well, right? But it's actually misaligned. So examples I give my colleagues at data lab is like, is it fair to say that if you were to be prescribed a medication, it's okay for the model to first check if you owe the hospital any money? Is it fair to say that if the hospital said, don't refer people out of network, right?
+
+28
+00:11:34.300 --> 00:12:03.540
+that that would be okay, even though your preference might be I'd like to go out of network sometimes, even though it's expensive, right? But there are certain benefits also to the tools. It's not all negative. So like think about ambience technology broadly, right? I read medical notes, we have hundreds of billions of medical notes within Pro-Rege, and some medical notes will say things like she looks really disheveled, her husband is asking good questions. What they're actually saying in the note is that she's not trustworthy.
+
+29
+00:12:03.540 --> 00:12:29.200
+And suddenly you see a diagnosis that's like, oh, that pain she has is potentially mental illness. We're not going to clinically look into it. Now, a tool that records a conversation between a patient and a physician kind of cuts that out completely. What was said is now documented into a soap note. None of that is in there. And now we have a very accurate clinical description of the conversation.
+
+30
+00:12:29.200 --> 00:12:55.120
+a third party physician that's looking at the conversation would be like, oh, I should probably order a clinical exam to investigate the cause of this pain. I don't think it's just in her head. And so these benefits are not even being evaluated. Yeah. It's a really interesting point that like there's the potential to cut out a lot of human bias with AI even though there's also the potential to reinforce it by training on bias data. Let's come back to that in a second.
+
+31
+00:12:55.120 --> 00:13:20.540
+Maybe backing up a sec a bit. Can you tell us like, you know, today hundreds of millions of people ask, you know, chat to the key questions about their health. Doctors are using tools like open evidence to ask medical questions to AI in the course of their practice every day. What, like who, if any, is making sure that the answers, you know, that are spit out.
+
+32
+00:13:20.540 --> 00:13:48.420
+in say a doctor's kind of clinical AI tool that they're using is safe and correct. So I think the answer is everyone and no one. So there's a huge effort within the foundation models to study the safety and alignment of these models before they're deployed and specifically within healthcare. There's also research that shows that when they train on healthcare data, the model gets broadly aligned in other things. Like it becomes more trustworthy overall, right?
+
+33
+00:13:48.420 --> 00:14:16.900
+And so there is a focused effort. But this is just kind of like out of the box, it's general personality. You might think of it that way, right? And then the vertical AI builders take that and they tweak it and tune it to a specific cause, right? And an objective function, an SLA of a business too. There, every vendor of an AI tool, every vertical AI builder would have like a little brochure that says I invest. And so the no one is that
+
+34
+00:14:16.900 --> 00:14:43.550
+If everyone says they are best, no one knows who's best. Also, there is no incentive to kind of pinpoint to where your product fails. And so really on behalf of like healthcare systems or patients, there is no one that is doing this independently that's on arms length removed that's looking beyond the iceberg of like catastrophic failures and misalignment. Yeah, like recently there was a paper
+
+35
+00:14:43.550 --> 00:14:56.880
+published in Nature saying that general AI was beating vertical specific AI in healthcare like the open AI models were performing better than any healthcare specific model. And then there was a
+
+36
+00:14:56.880 --> 00:15:24.670
+competing paper on archive that came to the exact same conclusion in a very short time span. Like, speak more to this problem and like, what is the solution here to actually, because these are real life and death decisions we're talking about in healthcare. It's not just, you know, something that's somewhat trivial. Like, what is the solution to figuring out what the best models actually are? So, I'll probably answer this by like answering it directly and then going back in history.
+
+37
+00:15:24.670 --> 00:15:48.780
+I think history tends to rhyme and repeat itself. And the issue that we're facing today isn't unique. The issue of evals of medical technology is basically a constant ever since medical technology was invented. So the two papers came to different conclusions, whether out of the box frontier models are best or vertical AI builders in what we'd call clinical note summarization and evidence treatment recommendations is best.
+
+38
+00:15:48.780 --> 00:16:14.180
+And in classic academia nature, two papers sit on opposite ends and actually editors love that. They're like, oh, we'll publish the thing that is most controversial. But when we at least approach it for our own customers through these benchmarks and evaluations, they're highly sensitive. They're sensitive to how you prompted the model. They're sensitive, especially like an oncopathology of what harness you used.
+
+39
+00:16:14.180 --> 00:16:38.380
+Sometimes even models will switch ranking based on the order of the multiple choice question answers, right? And some people think that that sometimes is evidence that the benchmark itself is contaminated, that the model has just memorized the ranking of the right answer, just like a student would. And so there's a problem and a problem of asymmetry of information.
+
+40
+00:16:38.380 --> 00:17:07.820
+And if you are attempting to spend millions of dollars on these tools to onboard them, you really want to know kind of which is best and which is best for what, right? That I would say is level easy. That's just like the basic answer, right? As we move into the future where these models face data drift or even every physician has his own model, like you make someone's context now weights, like these really personalized models.
+
+41
+00:17:07.820 --> 00:17:36.980
+or there is like test time training where the model is constantly evolving. These static question answers or like something in a paper where it was evaluated on a 2024 technology and published in 2026 just won't do, right? And so you risk not to fear monger, but you risk a situation where we enter like the opioid epidemic when it peaked in 2010. That's only when people started saying, okay, national task force, we're calling it an epidemic, we're acting on it, let's move. We don't want to get there.
+
+42
+00:17:36.980 --> 00:18:04.780
+To answer maybe in historical context, the government does a program since maybe 2007 called Value-Based Purchasing. To people who don't know what that is, that just means that 80% of what the government pays in care to physicians and hospitals is tied to quality. There's a whole national effort and government arms that basically define what's quality and track it. It's really static. So it would be examples like...
+
+43
+00:18:04.780 --> 00:18:33.330
+in medical expenditures for physicians, they'll ask like, if you're a doctor, how many times did you prescribe antibiotic for something that looked like a virus? That's bad. That's a ding, that's a penalty. If you're a healthcare skilled nursing facility or nursing home, they'll say like how many patients fell and broke something, elderly people on your watch. And these reports tend to be retrospective, like a year later or six months later.
+
+44
+00:18:33.330 --> 00:19:01.340
+We can't have that with AI. The technology is just moving too quickly. It's changing rapidly and it has a lot of agency. Maybe to that end, how do you think about then what the right balance is between ongoing monitoring versus quarterly annual reporting, especially when it comes to healthcare where the technology is moving so fast, decisions are made at the point of care, but also literature may be evolving and the right decision may also be very different a year from now versus what it looks like today. I mean, if we had...
+
+45
+00:19:01.340 --> 00:19:31.200
+If we had courage, right? And we had like no fear because healthcare is filled with administrative work. Like when you say anything about like, oh, new technology and healthcare, everyone kind of takes a backseat and they're like, oh, you don't know what it's like. This is 20% of the GDP, 20 million of the 150 million jobs. Good luck. But if you were to really think about it as like, okay, forget all of that. What is the right thing to do? The right thing to do is for there to be a watcher all the time, right?
+
+46
+00:19:31.200 --> 00:19:46.930
+When my local AI agent as a physician starts to nudge me towards decisions that are maybe profit maximizing but hurting my patient, I'm alerted, right? When a group of nurses realize that the...
+
+47
+00:19:46.930 --> 00:20:15.340
+AI is maybe recommending misaligned things because of a conversation they had about the patient that led the model to be overly eager. Right? So I said something negative about the patient and now the model is overly eager but is actually like not recommending something safe. It's trying to benefit me as a nurse or my working hours. Right? That there's a watcher that says that behavior is unacceptable. You can't discharge this person early because you have to leave early. Right? Like I don't think that this is an unbiased decision. Totally. Like you've said before.
+
+48
+00:20:15.340 --> 00:20:41.890
+before that models, you know, can score up to like 92% on a licensing exam, but 45% on a real world clinical task. And so like acing a benchmark doesn't make an AI ready for the hospital. Just like a perfect MCAT score doesn't make a, you know, a doctor doesn't make for a great surgeon. Like how, how are these benchmarks breaking? What's going on? So.
+
+49
+00:20:41.890 --> 00:21:09.170
+First, there was like maybe tears to it. The first one was like, I think people admit to this and it wasn't perfect is that they would take these like med school style questions and answers, right? And they were doing remarkably well. They were beating the average med student, right? That maybe at a level of a resident and so on. And that was an indication that the models are improving. It's hard to tell if that is true reasoning. It's hard to also tell
+
+50
+00:21:09.170 --> 00:21:31.860
+if that means alignment is going up or down. It has no indicator for that, right? And then people started putting great effort into these kind of questions that the model would answer and then they would compare them to physician responses. They would use multiple physicians to grade the response. They would use thousands of questions. Then they upgraded it to be like...
+
+51
+00:21:31.860 --> 00:21:59.840
+Some models say they've had their physicians review more than 700,000 question-answer pairs by human physicians, which is a great effort. But if you are a physician and maybe I ask you as a patient, you're about to get spinal surgery. They tell you this model has passed a 5,000 question, 10,000 question Q&A exam. Would you trust it?
+
+52
+00:21:59.840 --> 00:22:29.200
+versus would you trust like a physician that has done 4,000 of these surgeries? Right? What you care about actually isn't the general knowledge of the model. Like that's great. I love that it's intelligent. I care, has it been in this scenario before? And has it been helpful? So like, has it been in a spinal surgery as a task aggregator before? How many people have died unwarranted, like above average? How many people have had improved outcomes? That's what I care about. And so the benchmarks and evils aren't specific enough.
+
+53
+00:22:29.200 --> 00:22:58.580
+to these high-risk scenarios. They also face, I think, what is often kind of brushed under the carpet. Like any occupation in the world, physicians have preferences, right? Like investors have preferences, right? Some of them are like risk-loving, some of them are not as risk-loving. They have a beat. And physicians have a beat. So like we show a lot of these kind of graphs in Cyproge where I showed on knee replacements, for example, I said, there are physicians who never do a full knee replacement. He's only part of it.
+
+54
+00:22:58.580 --> 00:23:22.800
+And then physicians who, if he touches a knee, it's a full knee replacement, never does partial. And that's his beat. You take this medical record, this real-world case, and you put it in front of a model, and you say, what would you recommend? And it would recommend the opposite of what the physician did, and you say, oh, model's wrong. But actually, it could be that the physician is wrong, right? He has a sticky preference, a hysteresis almost. And so...
+
+55
+00:23:22.800 --> 00:23:52.670
+We are also capped in our ability to evaluate them in real-world setting, but we're also capped now in our imagination. It's like, what is going to happen when the model becomes better than the average physician? The answer simply can't be like, oh, so then you ask more physicians and you get the law of large numbers to like help you out. At some point, a task will be so expert, right? So high risk that testing a point of care will become really warranted. How do you do that? So we think that there is two ways to do it. The first,
+
+56
+00:23:52.670 --> 00:24:22.660
+is that there are multiple vertical AI builders in what I would call like an identical subnode. So subnodes could be things like ambience and scribing, clinical trial recommendations, nurse workflows, scheduling. There are subnodes like oncopathology. So can the model look at an H&E slide and recommend the IO therapy that is best paired, right? Within these subnodes, our customers say,
+
+57
+00:24:22.660 --> 00:24:52.720
+us compared to others in the benchmark space is like ships in the night. I don't know if he's better than me. He says he's best, I'm best. And so what we have been pulled into is basically these kind of models say, can you host my model and have it take a unified evaluation, right? And produce kind of a report that evaluates us against each other. Could we, we would also like to learn where we are better than each other and where we can improve.
+
+58
+00:24:52.720 --> 00:25:18.080
+And so we've been doing that. And it's been really interesting kind of seeing a role as an arbiter. Things like, where do I draw the line of like, no, that's our decision actually, like what should the prompt be? Right? Should the frontier model have like a bespoke harness built or should we use basically the built-in one, right? Because like some world models don't need a harness.
+
+59
+00:25:18.080 --> 00:25:47.710
+What are you going to do when the model has a refusal? Are you going to put in the mean value, right? Or are you going to defer to like a second best model? Do these change the rankings of who's being evaluated? And so we create these kind of like evaluations within the sub-notes. And our purpose is to share them with the consumers of these technologies. So in the case of oncopathology, it would be the pharmaceutical companies that would ultimately purchase this or the hospitals that would ultimately purchase this. So they know where they stand.
+
+60
+00:25:47.710 --> 00:26:01.950
+So it's so obvious why the creators of the models shouldn't be the ones releasing the evals and why people shouldn't be allowed to grade their own homework. That is an easy incentives issue to spot.
+
+61
+00:26:01.950 --> 00:26:31.820
+But explain to me why, like a skeptic might say, okay, like the labs are getting their data from Prodigy now. Why should Prodigy be the like arbiter of evals and truth? Like can you explain to me why Prodigy is well positioned to do this? Yeah, so I mean, there is like the idea of comparative and absolute advantage. I tend to explain it to my team as this way, which is like absolute advantage is like, we're best at this.
+
+62
+00:26:31.820 --> 00:26:56.540
+We're best at this healthcare data game. We're probably best in the market at it. Comparative advantage is like in everything we do, we have lowest marginal cost when we also facilitate healthcare training data and evals. Between everything we do, we're also best at it among our own production function. And so we became really geared for it. That doesn't mean you have the right to win.
+
+63
+00:26:56.540 --> 00:27:24.020
+We have the right to win here because it kind of naturally evolved is that once we do these evals in the sub node, right? We say once the evaluation is done and we hold this test set that never leaves. If you have a deficiency in an attribute that's now been revealed, we can tell you exactly what data would improve the model's performance on that deficiency. And because of the size of the data set we have and the various sources that we have, it's a very fast way for you to evaluate.
+
+64
+00:27:24.020 --> 00:27:54.000
+and then reinforce where the model is failing with new teachings. So it became that we are geared really up for this. There's also an incentive to completely remain impartial because any network effect idea, lack of trust destroys the entire network almost immediately. It's like explosive. And so you are really held to what are you doing and how transparent are you being.
+
+65
+00:27:54.000 --> 00:28:22.480
+So, for example, all the methodology is shared broadly with everyone in the sub node. We don't reveal the names of the people, the vertical AI builders in the sub node until the very end. They have the right to silent exit and things like that. We think that we are better positioned than the government because the government is not going to do it. Yeah, a lot of people would just say like, why isn't the government doing this? Because the government is not going to do it. And like, basically what's more...
+
+66
+00:28:22.480 --> 00:28:31.380
+unsafe, right, is like sitting there and saying, well, I'm going to wait for the government to do it. No, we think what's more safe is just do it, right? And then let people challenge you on it, but just do it.
+
+67
+00:28:31.380 --> 00:28:59.140
+You know, the government can't even get you to file taxes online. Like people had to invent like a marketplace online for that, to file for the government. I just asked industry for help with this. With AI, yeah. So there's like a federal registered document where the government is asking industry collaborators to help them identify how should they evaluate AI. But generally like pay for performance, value-based purchasing programs, like a zillion years ago I wrote my dissertation on this.
+
+68
+00:28:59.140 --> 00:29:24.980
+policy which penalized hospitals for excess readmissions, a quality metric, right? You know, thousands of papers, it took like 10 years to evaluate. That's one question. Is it causing more readmissions? In AI evaluations, you can actually ask a thousand questions about how an agentic system is behaving inside the hospital. It is also, I think, missed always that
+
+69
+00:29:24.980 --> 00:29:53.780
+We are not replacing doctors and nurses, at least not today, with AI in hospitals. We are kind of like allowing AI to ride shotgun, right? And humans behave towards technology in a myriad of ways. That is a subject of study. It's called like human computer interaction. They teach that in universities, right? Humans can dig their heels in. They can become overly optimistic. And these kind of benchmarks and evils that are retrospective,
+
+70
+00:29:54.060 --> 00:30:15.310
+fail to acknowledge or measure how in a live wire scenario, how is the AI behaving? And so when you are tapped into that data live as Proj is, you're really prime positioned to be answering these questions. Yeah, you also made the point earlier about AI just memorizing answers and when
+
+71
+00:30:15.380 --> 00:30:44.110
+creating benchmarks, you can actually create them on data that has not been sold to all of the models out there. And so you can test whether the model has just memorized the answer or has the ability to do clinical reasoning, correct? Yeah, I mean, the contamination issue, we've had various debates about it within ProJ and with customers. I didn't think that was even possible. I was like, okay, so we have like...
+
+72
+00:30:44.110 --> 00:31:09.330
+200 million people, hundreds of billions of notes, I just need data that hasn't been ever given to anyone for training. And they were like 80% of what we have has been given for training. And I was like, okay, they were like, if your definition of basically independent is a patient that the model hasn't ever seen before,
+
+73
+00:31:09.330 --> 00:31:36.800
+you may have a challenge in front of you. And so for like the oncopathology example, we literally had to pull patients whose whole slide images had never been scanned before. We contacted hospitals and we're like in your pathology drawer who hasn't been scanned before. And they're like net new slides. I was like net new slides never before has this patient entered a model. And that's very hard. But we know which patients have entered which models we've given this data for pre and mid training.
+
+74
+00:31:36.800 --> 00:32:03.410
+Of course, sometimes you have these philosophical debates with researchers and some of them say, oh, the model is doing worse than random. It's doing really bad on this task. Who cares if there's a little bit of contamination? Sure, but it's not impacting the judgment. I'm like, yeah, but worse than random could be a detection that there is serious misalignment too. Why is it doing worse than random? We should just care.
+
+75
+00:32:03.570 --> 00:32:31.020
+that this patient has not entered training previously. And so it's a challenge for us. We're pulling net new data all the time. And now we have what I would call like sealing a membrane essentially, this moratorium on any data set or any patient that has entered training, they are not allowed to be in a benchmark or an eval. To the fascinating intersection of the market to set up. Yeah, I mean, I think maybe the way to frame it is that
+
+76
+00:32:31.020 --> 00:32:59.500
+The US imports a lot of physician skill from other countries definitely in like long-term care. I think that market is dominated actually by imported nurses from developing countries like that skill. And they go through rigorous teachings and basically study, examination. You can't even have a doctor in the United States that's certified across states. Like they have to retake basically exams to become recertified again and so on. And then we have these AI tools that are
+
+77
+00:32:59.500 --> 00:33:28.910
+Unleashed in healthcare systems or in kind of practices with absolutely no credentials other than the fact that the maker says compared to some physicians we have and the AI beat it right and That sits in a very perplexing way people care about their education They care about their money. They care about their health. These are like core human capital axioms and so any misalignment in these human capital axioms
+
+78
+00:33:28.910 --> 00:33:36.590
+we'll read to a lot of like mistrust of AI generally and we don't want that to happen. Totally, I think to your point before.
+
+79
+00:33:36.590 --> 00:34:05.870
+we like, you know, all of this is just kind of being allowed to be self-governed right now and self-regulated. Because we're like, oh, well, it's just like, you know, the doctor is just consulting it, but we'll catch any errors. And every time we give medical advice to a patient on chat TBT, we're saying, you know, this is not medical advice. But to your point, like people trust what comes out of computers. They don't necessarily question it. And so it's really important that someone else
+
+80
+00:34:05.870 --> 00:34:37.700
+there is, you know, grading these models and it's not just models themselves. Thank you so much, NG, for coming on the show and for all of the important work you're doing to make clinical AI safe. Thanks for having me.
+
+81
+00:34:37.700 --> 00:35:07.870
+and subscribe to our substack at a16z.substack.com. Thanks again for listening and I'll see you in the next episode. As a reminder, the content here is for informational purposes only. Should not be taken as legal business, tax or investment advice or be used to evaluate any investment or security and is not directed at any investors or potential investors in any a16z fund. Please note that a16z and its affiliates may also maintain investments in the companies discussed in this podcast. For more details, including a link to our investments,
+
+82
+00:35:07.870 --> 00:35:12.430
+please see a16z.com forward slash disclosures.
