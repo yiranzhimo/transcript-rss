@@ -1,5 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>Streamlined Solopreneur: Helping Overwhelmed Solo Business Owners Get Their Time Back 中文文字稿</title><link>https://yiranzhimo.github.io/transcript-rss</link><description>Streamlined Solopreneur: Helping Overwhelmed Solo Business Owners Get Their Time Back 的自动生成中文文字稿</description><language>zh-CN</language><atom:link href="https://yiranzhimo.github.io/transcript-rss/feeds/streamlined-solopreneur.xml" rel="self" type="application/rss+xml" /><item><title>你在实践负责任的人工智能使用吗？[周五总结]</title><link>https://yiranzhimo.github.io/transcript-rss/items/streamlined-solopreneur-1eca6f08f2c6/</link><guid isPermaLink="false">streamlined-solopreneur:f4562497-0a53-4267-9792-35ac3a50e780</guid><pubDate>Fri, 21 Aug 2026 14:36:37 +0000</pubDate><description>本期节目我将讨论四件事，这周我在想什么？推荐阅读
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>Streamlined Solopreneur: Helping Overwhelmed Solo Business Owners Get Their Time Back 中文文字稿</title><link>https://yiranzhimo.github.io/transcript-rss</link><description>Streamlined Solopreneur: Helping Overwhelmed Solo Business Owners Get Their Time Back 的自动生成中文文字稿</description><language>zh-CN</language><atom:link href="https://yiranzhimo.github.io/transcript-rss/feeds/streamlined-solopreneur.xml" rel="self" type="application/rss+xml" /><item><title>何时使用自动化与何时使用人工智能</title><link>https://yiranzhimo.github.io/transcript-rss/items/streamlined-solopreneur-31e6f2f60517/</link><guid isPermaLink="false">streamlined-solopreneur:0ad4f9d8-6c2f-47b4-b88c-1f61b67a2a5c</guid><pubDate>Tue, 25 Aug 2026 06:00:00 +0000</pubDate><description>在我有孩子之前，我最喜欢做的事情之一就是去音乐会，我会为了去音乐会而旅行。有一次我在纽约州北部，正在看我最喜欢的乐队之一，我们决定在演出前先吃点东西。
+我们没有去吃晚餐或点外卖。不，我买了一盒Pop-Tarts，我决定想吃一个热的Pop-Tart。由于我们房间里没有烤面包机，我决定用微波炉加热那个Pop-Tart。说明书上说要把Pop-Tart放进微波炉加热三秒钟。我决定加热两分钟。你可以想象，房间里充满了烟雾，烟雾报警器响了，我看起来像个傻瓜。关键是我使用了一个技术上可以完成工作的工具，但它的威力太大，因此并不是适合这个工作的工具。这就是我今天想谈论的内容。当我们考虑像Zapier和Make这样的自动化工具与像Claude、n8n或ChatGPT这样的AI技能时。
+大家好，欢迎来到Streamlined Solopreneur，我帮助感到不堪重负的教练、顾问和服务提供者建立系统，以便他们的业务不依赖于他们自己。每周我分享一个实用的想法，帮助你克服不堪重负，找回时间，并在不牺牲生活或健康的情况下经营你的业务。
+好的，今天我想谈谈AI和自动化。人们开始将这些术语交替使用，当你提到自动化时，他们立刻将AI与这些东西联系在一起。它们根本不是同一回事，对吧？
+自动化，我将其称为确定性自动化。这是我在LinkedIn上看到的一个术语，来自一位在Zapier工作的女性，名叫Emily Mabie。拼写是M-A-B-I-E，我希望我说得对。但我非常喜欢这种对Zapier和Make等工具的框架，因为它非常合理。你基本上是在编写一个非常简单的确定性程序。我有这个事情发生，基于一小组标准，我希望这个是结果。因此，确定性自动化正是如此。你知道输入，你知道输出，并且它将是非常一致的。
+当我们看AI工具、大型语言模型，或者人们称之为AI代理的东西（我不太喜欢使用这个术语，但这是我们正在使用的术语），我会习惯它，就像我习惯了“网络研讨会”这个词。那些要广泛得多。它们使用更深层次的算法，我不会说它们会思考或做自己的事情；不过它们更具自主性。
+它们的底层编程使得它不像Zapier那样确定性。你可以多次运行相同的事情，并根据大型语言模型底层的解释算法获得不同的输出。
+因此，这两者都可以做类似的事情。我确实有一些使用Claude中的计划技能进行自动化的事情，但我不会将这些事情视为相同，因为一个是确定性的，我总是知道当这个自动化运行时会发生什么，我知道是什么使这个自动化运行。
+还有一个是我们称之为AI的解释算法。我不喜欢在这里使用“解释”这个术语，因为解释暗示某种思考，但它是一个在后台运行多次的算法，以获取它认为是你想要的结果。因此，再次强调，这对于每次运行可能看起来不同。所以让我们深入探讨这两者，然后我会给你一个非常清晰的例子，说明它们为什么不同，以及你如何确定在什么任务中使用什么。
+确定性自…</description><content:encoded>&lt;p&gt;在我有孩子之前，我最喜欢做的事情之一就是去音乐会，我会为了去音乐会而旅行。有一次我在纽约州北部，正在看我最喜欢的乐队之一，我们决定在演出前先吃点东西。&lt;/p&gt;
+&lt;p&gt;我们没有去吃晚餐或点外卖。不，我买了一盒Pop-Tarts，我决定想吃一个热的Pop-Tart。由于我们房间里没有烤面包机，我决定用微波炉加热那个Pop-Tart。说明书上说要把Pop-Tart放进微波炉加热三秒钟。我决定加热两分钟。你可以想象，房间里充满了烟雾，烟雾报警器响了，我看起来像个傻瓜。关键是我使用了一个技术上可以完成工作的工具，但它的威力太大，因此并不是适合这个工作的工具。这就是我今天想谈论的内容。当我们考虑像Zapier和Make这样的自动化工具与像Claude、n8n或ChatGPT这样的AI技能时。&lt;/p&gt;
+&lt;p&gt;大家好，欢迎来到Streamlined Solopreneur，我帮助感到不堪重负的教练、顾问和服务提供者建立系统，以便他们的业务不依赖于他们自己。每周我分享一个实用的想法，帮助你克服不堪重负，找回时间，并在不牺牲生活或健康的情况下经营你的业务。&lt;/p&gt;
+&lt;p&gt;好的，今天我想谈谈AI和自动化。人们开始将这些术语交替使用，当你提到自动化时，他们立刻将AI与这些东西联系在一起。它们根本不是同一回事，对吧？&lt;/p&gt;
+&lt;p&gt;自动化，我将其称为确定性自动化。这是我在LinkedIn上看到的一个术语，来自一位在Zapier工作的女性，名叫Emily Mabie。拼写是M-A-B-I-E，我希望我说得对。但我非常喜欢这种对Zapier和Make等工具的框架，因为它非常合理。你基本上是在编写一个非常简单的确定性程序。我有这个事情发生，基于一小组标准，我希望这个是结果。因此，确定性自动化正是如此。你知道输入，你知道输出，并且它将是非常一致的。&lt;/p&gt;
+&lt;p&gt;当我们看AI工具、大型语言模型，或者人们称之为AI代理的东西（我不太喜欢使用这个术语，但这是我们正在使用的术语），我会习惯它，就像我习惯了“网络研讨会”这个词。那些要广泛得多。它们使用更深层次的算法，我不会说它们会思考或做自己的事情；不过它们更具自主性。&lt;/p&gt;
+&lt;p&gt;它们的底层编程使得它不像Zapier那样确定性。你可以多次运行相同的事情，并根据大型语言模型底层的解释算法获得不同的输出。&lt;/p&gt;
+&lt;p&gt;因此，这两者都可以做类似的事情。我确实有一些使用Claude中的计划技能进行自动化的事情，但我不会将这些事情视为相同，因为一个是确定性的，我总是知道当这个自动化运行时会发生什么，我知道是什么使这个自动化运行。&lt;/p&gt;
+&lt;p&gt;还有一个是我们称之为AI的解释算法。我不喜欢在这里使用“解释”这个术语，因为解释暗示某种思考，但它是一个在后台运行多次的算法，以获取它认为是你想要的结果。因此，再次强调，这对于每次运行可能看起来不同。所以让我们深入探讨这两者，然后我会给你一个非常清晰的例子，说明它们为什么不同，以及你如何确定在什么任务中使用什么。&lt;/p&gt;
+&lt;p&gt;确定性自动化更可预测，我认为它应该在大多数情况下使用。当你创建这些自动化时，你希望你的业务是可预测的。因此，当你设置自动化以便在X发生时，我希望Y发生时，你可以信任确定性自动化。只要自动化在运行，你就会得到预期的结果。&lt;/p&gt;
+&lt;p&gt;另一方面，确定性自动化的错误更明显，对吧？所以如果一个自动化没有开启，那么这个自动化就不会运行。如果自动化的预期结果没有发生，Zapier会给你发邮件，告诉你出现了某种问题。&lt;/p&gt;
+&lt;p&gt;这在AI中并不总是如此，对吧？它会对你希望它执行的任务进行自己的解释。你知道，因为它们是谄媚的，对吧？因为它们想取悦你。如果你反驳，它会说，你说得对。而在Zapier中，它会说，你让我做这个，这发生了或没有发生。因此这是一个错误，对吧？这就是确定性自动化。&lt;/p&gt;
+&lt;p&gt;AI适合更具解释性的自动化任务，对吧？所以有一些事情，比如我的收件箱清理，它会查看我的电子邮件并确定我的任务，或者我的通话总结技能，它也会做同样的事情。它们在解释任务或添加到摘要时有更多的自由度，但因此，结果的可预测性较低，更容易变化。&lt;/p&gt;
+&lt;p&gt;所以有一段时间，我的收件箱清理运行得非常顺利，我预期会添加的内容都被添加了，但最近它运行时，我觉得缺少了一些东西。因此我不得不进去调整技能。那么，这是否是你想要在所有任务中一直做的事情呢？而且，这里有一个更清晰的例子。&lt;/p&gt;
+&lt;p&gt;我的编辑技能在 Claude Opus 五发布后发生了巨大的变化。我让它校对我的工作，然后让我检查结构问题，对吧？我不是在说，告诉我这是否错误，或者你觉得怎么样，我是在问我一开始设定的内容最终是否得到了回报？我表达的方式是否是人类能够理解的？&lt;/p&gt;
+&lt;p&gt;它在这些结构性注释上变得非常有主见，对吧？它提到我提到的 AI 在发泄情绪，我想，这不是你的工作，对吧？它说，你说得对。所以我不得不调整这个技能。我从来没有像这样调整过 Zap，实际上，当 Notion 改变了它与 Zapier 的连接方式时，我没有立即进行更新，但旧的方式工作了一段时间。因此，即使在更改后，我的 Zap 仍然按预期工作，对吧？而对于大型语言模型，当模型改变时，你的技能、你的自动化、你的解释性自动化可能会发生剧烈变化。&lt;/p&gt;
+&lt;p&gt;所以我不得不花几个小时来仔细检查这些事情。几个，而不是连续的，而是在几天内，仔细检查这些事情，确保我得到的结果仍然是我所期望的。&lt;/p&gt;
+&lt;p&gt;此外，当 Notion 确实改变了它与 Zapier 的连接方式时，这一变化在 Zapier 和 Notion 的两边都有很好的文档记录，并且在 Zapier 和 Notion 的两边都进行了很好的沟通，而对于大型语言模型，我所称的解释性自动化，它可能甚至不会认为它出错了，或者它可能根本不知道它出错了，直到你指出来，然后它默认同意你。别误会，它在很多事情上都很出色，解释性自动化，但当你的业务依赖于某些东西时，在我看来，我非常强烈地认为应该使用确定性 AI。&lt;/p&gt;
+&lt;p&gt;那么，如何判断何时使用确定性自动化与解释性自动化呢？好吧，我之前谈过确定性自动化，对吧？确定性自动化有四个组成部分。你有触发器；那是引发事件。你有一个或多个动作，对吧？所以当触发器发生时，我希望这些事情发生。你有时间安排，这就是自动化应该运行的频率，还有条件，这可能会稍微改变确定性自动化：如果是十二月的日落，就打开圣诞灯。但如果是夏天的日落，我不想打开我的圣诞灯，对吧？这就是一个非常简单的确定性自动化。有一个触发器日落；有一个条件，是不是十二月？&lt;/p&gt;
+&lt;p&gt;然后就是打开灯的动作。所以这是确定性的。如果你想要一致性，并且这是一个将定期运行的例行程序。如果没有任务或动作需要留给解释，你应该使用确定性自动化。这对于你业务中的大多数自动化都是正确的。&lt;/p&gt;
+&lt;p&gt;何时应该使用 AI 或我所称的解释性自动化？&lt;/p&gt;
+&lt;p&gt;好吧，当有事情留给解释，或者没有可以轻松或一致运行的确定性自动化时。这里有几个例子，对吧？&lt;/p&gt;
+&lt;p&gt;我的每日电话总结将在晚上六点运行。它将查看我在 Gemini 和 Fathom 中的所有电话，总结它们，并将任务添加到 Todoist。这是解释性的，因为它正在处理这些电话的文本并弄清楚我需要做什么，然后将它们添加到 Todoist。它将过度索引，这是我的偏好。&lt;/p&gt;
+&lt;p&gt;另一个是 Kit 新闻通讯评分，对吧？这将在每周三晚上九点半运行。它将查看我发送的最后几封新闻通讯，然后根据我制定的评分标准给出一个分数。这是确定性自动化能做到的事情吗？是的，有点。不过，我得在 Zapier 中写很多代码才能做到这一点。&lt;/p&gt;
+&lt;p&gt;我每周的 Streamlined 播客发布者也是如此，对吧？它的工作是查看 Notion 中标记为准备发布的任何剧集，抓取转录，创建节目说明，将所有内容推送到 rss.com，然后安排在预定的日期发布。然后我在第二天检查所有内容，因为它在周三运行；我在周四检查，而新剧集在周五发布。因此，我至少有一天的缓冲时间来检查这些剧集。&lt;/p&gt;
+&lt;p&gt;这是你可以用 Zapier 做的事情吗？从技术上讲是的，对吧？Zapier 有 webhooks，你可以用它连接到 rss.com API。但有了 Claude，我基本上能够将其指向文档，然后它写了一个在我电脑上运行的小应用程序。所以这在技术上可以是确定性的，对吧？当我将一集标记为准备发布时，推送到 rss.com。&lt;/p&gt;
+&lt;p&gt;但在我看来，它在我电脑上每周三作为一个小应用程序运行得更可靠。我认为这就是另一面，对吧？很多事情并没有留给 Claude 的解释。&lt;/p&gt;
+&lt;p&gt;Claude 正在抓取所有部分，然后运行这段理论上没有改变的代码。当模型改变时，这不会改变。这真的是你在这里应该考虑的主要问题：当 AI 模型改变时，这是否会对我正在做的事情产生潜在的毁灭性影响？&lt;/p&gt;
+&lt;p&gt;这在编辑技能上并不成立，对吧？它改变了也没关系，我只是说，好的，只检查语法；我会检查其他所有内容。或者我会请一个真正的人来检查其他所有内容，这本来就是我应该做的。&lt;/p&gt;
+&lt;p&gt;所以你看，人工智能和自动化之间的区别，或者我所称的解释性自动化与确定性自动化，以及如何判断你应该使用哪一种。我会经常谈论这个话题。我的朋友把这称为对人工智能的负责任使用，我非常喜欢。所以如果你想听到我更多的想法，你应该去 streamlined.fm/join 加入我的通讯。你将是第一个获得我关于负责任使用人工智能的想法的人。再次强调，网址是 streamlined.fm/join。&lt;/p&gt;
+&lt;p&gt;这就是本期《Streamlined Solopreneur》的内容。我很想听听你的想法，可以去 streamlinedfeedback.com 留言。&lt;/p&gt;
+&lt;p&gt;非常感谢你的收听，直到下次。我希望你能在这一周找到一些空闲时间。&lt;/p&gt;</content:encoded><podcast:transcript url="https://yiranzhimo.github.io/transcript-rss/items/streamlined-solopreneur-31e6f2f60517/zh.vtt" type="text/vtt" language="zh-CN" rel="captions" /><source url="https://streamlined.fm/548">streamlined-solopreneur</source></item><item><title>你在实践负责任的人工智能使用吗？[周五总结]</title><link>https://yiranzhimo.github.io/transcript-rss/items/streamlined-solopreneur-1eca6f08f2c6/</link><guid isPermaLink="false">streamlined-solopreneur:f4562497-0a53-4267-9792-35ac3a50e780</guid><pubDate>Fri, 21 Aug 2026 14:36:37 +0000</pubDate><description>本期节目我将讨论四件事，这周我在想什么？推荐阅读
 一些有趣的内容和一些帮助你系统的东西。这是一个帮助感到不堪重负的
 教练、顾问和服务提供者建立系统的节目，以便他们的业务不再
 依赖于他们自己。希望本周的策划能让你思考自己的系统

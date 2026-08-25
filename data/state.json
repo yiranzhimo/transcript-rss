@@ -2635,6 +2635,23 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from publisher transcript",
       "url": "https://share.transistor.fm/s/26368a35"
     },
+    "streamlined-solopreneur::0ad4f9d8-6c2f-47b4-b88c-1f61b67a2a5c": {
+      "attempts": 1,
+      "description": "<p>AI and Automation are not the same thing. But people seem to use the terms interchangeably. Tools like Zapier and Make are deterministic automation — you know the input, you know the output, and it's incredibly consistent. Large language models are what I'm calling interpretive automation. Run the same thing multiple times and you can get different outputs.</p><p>Both can do similar things. I don't treat them the same. And in this episode I’ll tell you the differences, and how to figure out when to use each one.</p><p>Want more on using AI conscientiously? Join my mailing list at <a href=\"https://streamlined.fm/join\">https://streamlined.fm/join</a></p><p><br /><strong>Show Notes</strong></p><ul><li><a href=\"https://zapier.com/\">Zapier</a></li><li><a href=\"https://claude.ai/\">Claude</a></li><li><a href=\"https://joec.pro/rss\">RSS.com</a></li><li><a href=\"https://joec.pro/kit\">Kit</a></li><li><a href=\"https://streamlinedfeedback.com/\">Leave feedback</a></li></ul>\n<br /><p>————<br />Streamlined Solopreneur helps overwhelmed solo business owners go from overwhelmed to having their time back.</p><p>Each week, Joe Casabona shares one practical idea — a system, tool, or strategy to help you get your time back without selling your soul to AI...and run your business without sacrificing the rest of your life, or your health.</p><p><br />Looking for a place to start? Take the Solo Systems Starter Quiz. 60 seconds, 8 questions, and I will tell you what system you should build first, and exactly how to build it. <a href=\"https://streamlined.fm/quiz%20\">https://streamlined.fm/quiz </a></p><p><br />Connect with Joe on LinkedIn: <a href=\"https://www.linkedin.com/in/jcasabona/\">https://www.linkedin.com/in/jcasabona/</a></p>",
+      "external_id": "0ad4f9d8-6c2f-47b4-b88c-1f61b67a2a5c",
+      "item_slug": "streamlined-solopreneur-31e6f2f60517",
+      "language": "en",
+      "published_at": "2026-08-25T06:00:00+00:00",
+      "published_to_feed_at": "2026-08-25T13:24:12.475047+00:00",
+      "source_id": "streamlined-solopreneur",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "When to Use Automation vs. When to Use AI",
+      "title_zh": "何时使用自动化与何时使用人工智能",
+      "transcript_provenance": "publisher transcript",
+      "translation_provenance": "translation/openai/gpt-4o-mini from publisher transcript",
+      "url": "https://streamlined.fm/548"
+    },
     "streamlined-solopreneur::143792dd-c4c3-47ef-8e37-60e9b5d046a3": {
       "attempts": 1,
       "description": "<p>Back in 2016, I ran…well, *completed…*a Disney half marathon. And the thing about Disney is they make it impossible not to find the starting line. Buses from the resort, signs, gates, pre-race emails. Everything points you to where to start.</p><p>And if I didn’t know any of that, I wouldn’t just start running. I would start simple…like asking a cast member when the race is, and go from there.</p><p><br />But for some reason, when it comes to our business, a lot of us tell ourselves: I have to fix everything right now, immediately. But you can’t when you don’t know the first step.</p><p>In this episode, I’m going to tell you how to take the first step.</p><p>And if you are still looking for a place to start? Grab the free Solopreneur Systems Starter Kit — the 4 systems every solopreneur needs, plus the exact tools, automations, and AI prompts to set them up: <a href=\"https://streamlined.fm/kit\">https://streamlined.fm/kit</a></p>\n<ul><li>(00:00) - My Half Marathon\n</li>\n<li>(01:27) - The Problem: Trying to Fix Everything\n</li>\n<li>(03:44) - The Solution: Start with One Thing\n</li>\n<li>(06:55) - Wrapping Up</li>\n</ul>\n<br /><p>————<br />Streamlined Solopreneur helps overwhelmed coaches, consultants, and service providers build systems so their business doesn't depend on them. </p><p>Each week, Joe Casabona shares one practical idea — a system, tool, or strategy, with AI doing the tasks, not the thinking — to help you beat overwhelm, get your time back, and run your business without sacrificing the rest of your life, or your health.</p><p><br />Looking for a place to start? Download the Solopreneur Systems Starter Kit: the 4 systems every solopreneur should have, the simplest way to set them up, plus the exact tools, automations, and AI prompts you need. No guessing. Get it free at <a href=\"https://streamlined.fm/kit\">https://streamlined.fm/kit</a>.</p><p><br />Connect with Joe on LinkedIn: <a href=\"https://www.linkedin.com/in/jcasabona/\">https://www.linkedin.com/in/jcasabona/</a></p>",
@@ -3603,6 +3620,23 @@
       "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://a16z.simplecast.com/episodes/replay-2025-david-sacks-on-ai-crypto-and-americas-technology-future-g9dog_eR"
+    },
+    "the-a16z-show::ad8ee5b3-6b8e-4582-8524-9cb6c6e97a82": {
+      "attempts": 1,
+      "description": "a16z General Partners Martin Casado and Erik Torenberg are joined by Board Partner Steven Sinofsky to explore what recent breakthroughs in AI and mathematics tell us about where the technology is headed, and whether some of the basic assumptions that have governed computing for decades are starting to break.\nMartin and Steven debate whether AI's progress in mathematics represents a genuine leap in reasoning or simply a new tool for solving problems at a higher level of abstraction. From the four-color theorem and early computers to graphing calculators and today's models, they trace how new technologies have repeatedly changed which problems humans need to solve themselves, and ask what makes this moment different.\nThe conversation then turns to one of the biggest shifts in AI: problems that were once constrained by engineering talent can increasingly be attacked with capital and compute. They discuss what that means for startups versus incumbents, venture capital, the coming wave of AI applications, and why pouring billions into increasingly capable models may force us to rethink what these systems can ultimately accomplish.",
+      "external_id": "ad8ee5b3-6b8e-4582-8524-9cb6c6e97a82",
+      "item_slug": "the-a16z-show-47bb2ad76349",
+      "language": "en",
+      "published_at": "2026-08-25T10:00:00+00:00",
+      "published_to_feed_at": "2026-08-25T13:29:21.489202+00:00",
+      "source_id": "the-a16z-show",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "The New Economics of AI | Martin Casado & Steven Sinofsky",
+      "title_zh": "人工智能的新经济学 | 马丁·卡萨多 & 史蒂文·西诺夫斯基",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://a16z.simplecast.com/episodes/the-new-economics-of-ai-martin-casado-steven-sinofsky-6Xew5iHr"
     },
     "the-a16z-show::b1fbfe40-271e-4c8c-be03-2070d007b5f8": {
       "attempts": 1,
@@ -4623,6 +4657,23 @@
       "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://rationalreminder.libsyn.com/the-biggest-myths-in-personal-finance"
+    },
+    "the-rational-reminder-podcast::d23aafb7-9941-44fe-a348-8bae65f32213": {
+      "attempts": 1,
+      "description": "<p dir=\"ltr\">In this special episode, we are joined by Mike Sullivan, Co-Founder and Chief Growth Officer at OneDigital, and Vinay Gidwaney, OneDigital's Chief Product Officer, to discuss their new book, Workforce Intelligence: The People-First Playbook for Leading Your Company Through AI Transformation. Together, they offer a practical, pro-human framework for navigating a future where artificial intelligence becomes deeply embedded in how organizations operate.</p> <p><strong> </strong></p> <p dir=\"ltr\">We explore why leaders should focus on tasks rather than headcount, how AI can amplify uniquely human capabilities, and why companies may need to rethink how they manage their workforce. Mike and Vinay explain their concepts of reducible and irreducible skills, AI coworkers, workforce intelligence, collaborative AI use, and the importance of building an organizational intelligence layer. They also share practical lessons from OneDigital's own AI transformation—including why leadership activation, trust, reskilling, and a partnership between technical and non-technical leaders are essential.</p> <p><strong> </strong></p> <p dir=\"ltr\">This conversation offers an alternative to the prevailing narrative of AI-driven job elimination. Instead, it asks a bigger question: if AI can take on more of the work we currently do, what might humans become capable of doing next?</p> <p><strong> </strong></p> <p dir=\"ltr\"><strong>Key Points From This Episode:</strong></p> <p dir=\"ltr\">(0:00:00) Highlights.</p> <p dir=\"ltr\">(0:00:25) Introduction.</p> <p dir=\"ltr\">(0:01:23) Why AI adoption affects employers, employees, and financial markets—and why the conversation is relevant far beyond technology.</p> <p dir=\"ltr\">(0:02:27) Two possible paths for companies: replacing people with AI or using AI to amplify human capabilities.</p> <p dir=\"ltr\">(0:03:53) How PWL is already using AI to help financial planners and portfolio managers work more strategically and serve clients better.</p> <p dir=\"ltr\">(0:06:22) Mike and Vinay's five-year partnership around deploying AI inside OneDigital.</p> <p dir=\"ltr\">(0:09:07) The \"radiating red dot\": Why Mike's analysis suggested that up to 25% of OneDigital's workforce could be disrupted by AI.</p> <p dir=\"ltr\">(0:11:09) \"See faces, not headcount\": The decision to pursue transformation by amplifying people rather than simply reducing jobs.</p> <p dir=\"ltr\">(0:12:19) Why Mike and Vinay felt a responsibility to offer a more practical, human-first narrative about AI and work.</p> <p dir=\"ltr\">(0:13:40) Vinay's realization that widespread access to AI makes human differentiation even more important.</p> <p dir=\"ltr\">(0:17:22) Mike's first experience with an AI coworker—and the endless possibilities it unlocked for curiosity and exploration.</p> <p dir=\"ltr\">(0:18:22) Human intelligence versus artificial intelligence: Why AI's greatest value may be its ability to help people think differently.</p> <p dir=\"ltr\">(0:22:19) Why the future of work should be analyzed at the task level rather than through predictions about jobs disappearing.</p> <p dir=\"ltr\">(0:23:58) The coming reskilling challenge—and why the allocation of work between AI and humans needs to be more deliberate.</p> <p dir=\"ltr\">(0:25:12) Why Vinay believes companies that discard their human talent could lose their most important competitive differentiation.</p> <p dir=\"ltr\">(0:26:30) Why AI transformation should be viewed as a \"movie, not a snapshot,\" with work continually being reshaped.</p> <p dir=\"ltr\">(0:28:10) What \"workforce intelligence\" means: Managing the combined intelligence of human talent and AI talent.</p> <p dir=\"ltr\">(0:30:07) Why Mike and Vinay believe HR—not just IT—must play a central role in leading the transition to a blended workforce.</p> <p dir=\"ltr\">(0:31:54) Reducible versus irreducible skills: Letting AI handle work that can be broken into processes while humans spend more time on judgment, experience, and other \"squishy\" capabilities.</p> <p dir=\"ltr\">(0:34:10) Applying the framework to financial planning: AI for modeling and information processing, humans for judgment, relationships, and helping clients navigate life decisions.</p> <p dir=\"ltr\">(0:37:00) How AI can reduce meeting preparation from hours to minutes while generating insights that would otherwise be missed.</p> <p dir=\"ltr\">(0:37:48) The importance of trust and communication as employees try to understand what AI means for their future.</p> <p dir=\"ltr\">(0:39:53) The Workforce Intelligence score: Treating AI as talent and measuring the evolving mix of human and AI work.</p> <p dir=\"ltr\">(0:42:09) Transactional versus collaborative AI use—and why collaboration can be more amplifying for both people and organizations.</p> <p dir=\"ltr\">(0:45:40) Why companies need agency over their AI systems and should think carefully about intelligence lock-in.</p> <p dir=\"ltr\">(0:48:47) Codifying organizational intelligence: Building systems where human expertise improves AI, which in turn helps humans become more capable.</p> <p dir=\"ltr\">(0:50:24) What it means to become \"activated\" by AI—and how using AI as a coach and teacher can expand human potential.</p> <p dir=\"ltr\">(0:52:44) Ambient AI: Systems that continuously observe information and surface patterns when human judgment is needed.</p> <p dir=\"ltr\">(0:54:11) The Charlotte-Denver redundancy and the challenge of making the best organizational intelligence available to everyone.</p> <p dir=\"ltr\">(0:57:26) OneDigital's five-tier fluency model for developing AI capabilities across employees, advanced users, managers, and builders.</p> <p dir=\"ltr\">(1:00:13) Why democratized software development creates a new governance challenge—and how AI may help manage it.</p> <p dir=\"ltr\">(1:00:54) Why OneDigital gives AI coworkers names, faces, profiles, skill sets, and human managers.</p> <p dir=\"ltr\">(1:04:01) Mike's belief in the dignity of work—and why employers need to approach the AI transition with humanity and care.</p> <p dir=\"ltr\">(1:06:53) Vinay's belief in human potential and why the goal should be to expand what people are capable of doing.</p> <p dir=\"ltr\">(1:08:56) Why organizations should avoid measuring AI success solely through cost cutting and instead consider human amplification.</p> <p dir=\"ltr\">(1:12:41) The four questions for Monday morning: Turning big ideas about AI transformation into practical actions leaders can take immediately.</p> <p dir=\"ltr\">(1:13:55) Why AI transformation needs leadership from the top and a partnership between someone who understands technology and someone who deeply understands the business.</p> <p dir=\"ltr\">(1:15:40) Leadership activation: Why organizations are unlikely to change until their leaders personally experience how AI can transform their own work.</p> <p dir=\"ltr\">(1:17:44) What we still don't know about AI—and why the guests believe we are still in the very early innings of this transformation.</p> <p dir=\"ltr\">(1:18:55) The three-minute-mile analogy: AI may optimize human minds in ways we cannot yet imagine.</p> <p dir=\"ltr\">(1:20:00) A final call for a pro-humanity, blended workforce—and the need to move faster in adapting to what AI makes possible.</p> <p><strong> </strong></p> <p dir=\"ltr\"><strong>Links From Today's Episode:</strong><br /> <br /> Meet with PWL Capital: <a href=\"https://calendly.com/d/3vm-t2j-h3p\">https://calendly.com/d/3vm-t2j-h3p</a></p> <p dir=\"ltr\">Rational Reminder on iTunes — <a href=\"https://itunes.apple.com/ca/podcast/the-rational-reminder-podcast/id1426530582?mt=2\">https://itunes.apple.com/ca/podcast/the-rational-reminder-podcast/id1426530582</a>.<br />  Rational Reminder on Instagram — <a href=\"https://www.instagram.com/rationalreminder/\">https://www.instagram.com/rationalreminder/</a></p> <p dir=\"ltr\">Rational Reminder on YouTube — <a href=\"https://www.youtube.com/channel/UCOErWFfNOQzXsgE7f5S_ULw\">https://www.youtube.com/channel/<br /> </a>Benjamin Felix — <a href=\"https://pwlcapital.com/our-team/\">https://pwlcapital.com/our-team/</a></p> <p dir=\"ltr\">Benjamin on X — <a href=\"https://x.com/benjaminwfelix\">https://x.com/benjaminwfelix</a></p> <p dir=\"ltr\">Benjamin on LinkedIn — <a href=\"https://www.linkedin.com/in/benjaminwfelix/\">https://www.linkedin.com/in/benjaminwfelix/</a></p> <p><strong> </strong></p> <p dir=\"ltr\"><em>Editing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com)</em></p>",
+      "external_id": "d23aafb7-9941-44fe-a348-8bae65f32213",
+      "item_slug": "the-rational-reminder-podcast-564f0bc273f7",
+      "language": "en",
+      "published_at": "2026-08-25T09:30:00+00:00",
+      "published_to_feed_at": "2026-08-25T13:35:49.805181+00:00",
+      "source_id": "the-rational-reminder-podcast",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "The Future of AI in the Workplace | Special Episode (Mike Sullivan and Vinay Gidwaney)",
+      "title_zh": "职场中的人工智能未来 | 特别节目（迈克·沙利文和维奈·吉德瓦尼）",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://rationalreminder.libsyn.com/the-future-of-ai-in-the-workplace-special-episode-mike-sullivan-and-vinay-gidwaney"
     },
     "the-rational-reminder-podcast::d5700968-39a5-4ca3-9ba9-198d8daedba1": {
       "attempts": 1,
@@ -5903,15 +5954,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:57:55.564419+00:00",
-      "last_modified": "Tue, 25 Aug 2026 01:55:26 GMT",
+      "last_checked_at": "2026-08-25T13:18:47.347230+00:00",
+      "last_modified": "Tue, 25 Aug 2026 13:04:53 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:56:55.308332+00:00",
+      "last_checked_at": "2026-08-25T13:17:40.813402+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -5919,28 +5970,28 @@
     "feng-tou-quan": {
       "etag": "W/\"f7cd272e52b486218671534318454659\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:55:44.405536+00:00",
+      "last_checked_at": "2026-08-25T13:14:48.790740+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:58:51.599219+00:00",
+      "last_checked_at": "2026-08-25T13:20:09.991881+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
     },
     "gao-qian-nu-hai": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:55:38.297231+00:00",
+      "last_checked_at": "2026-08-25T13:19:29.785273+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:55:38.515580+00:00",
+      "last_checked_at": "2026-08-25T13:14:59.249452+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -5948,7 +5999,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:58:27.053342+00:00",
+      "last_checked_at": "2026-08-25T13:21:13.085041+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -5957,7 +6008,7 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"57f2dbeae7d2cfff402f67fb03df4f03\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:57:23.214726+00:00",
+      "last_checked_at": "2026-08-25T13:18:00.509803+00:00",
       "last_modified": "Thu, 20 Aug 2026 12:05:07 GMT",
       "title": "声东击西",
       "type": "podcast",
@@ -5966,17 +6017,17 @@
     "silicon-valley-101": {
       "etag": "W/\"550dcd3d662f486409fc4877877bdfa3\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:56:20.816024+00:00",
+      "last_checked_at": "2026-08-25T13:17:07.155820+00:00",
       "last_modified": "Thu, 20 Aug 2026 00:15:05 GMT",
       "title": "硅谷101",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/sv101/rss"
     },
     "streamlined-solopreneur": {
-      "etag": "W/\"f8f526dc251b9b79872bfd0c985d5c86\"",
+      "etag": "W/\"bba87347b2b4fd68014e1710affd4650\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:59:51.255088+00:00",
-      "last_modified": "Mon, 24 Aug 2026 14:37:20 GMT",
+      "last_checked_at": "2026-08-25T13:23:28.870252+00:00",
+      "last_modified": "Tue, 25 Aug 2026 06:02:24 GMT",
       "title": "Streamlined Solopreneur: Helping Overwhelmed Solo Business Owners Get Their Time Back",
       "type": "podcast",
       "url": "https://feeds.transistor.fm/streamlined"
@@ -5984,49 +6035,49 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"e50cf8b42528a0bb1d869e5aa3578674\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:56:27.894833+00:00",
+      "last_checked_at": "2026-08-25T13:17:09.899218+00:00",
       "last_modified": "Wed, 12 Aug 2026 04:15:04 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"b64942f855cecc17f09d6b395f418018\"",
+      "etag": "W/\"35fcd2b486abb0bde188bb0a2cb848b5\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:59:10.361816+00:00",
-      "last_modified": "Mon, 24 Aug 2026 10:00:27 GMT",
+      "last_checked_at": "2026-08-25T13:19:37.021452+00:00",
+      "last_modified": "Tue, 25 Aug 2026 10:00:31 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:58:53.833591+00:00",
-      "last_modified": "Mon, 24 Aug 2026 10:22:45 GMT",
+      "last_checked_at": "2026-08-25T13:21:39.801279+00:00",
+      "last_modified": "Tue, 25 Aug 2026 04:19:50 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
       "url": "https://feeds.megaphone.fm/PPLLC8974708240"
     },
     "the-psychology-of-money-with-morgan-housel": {
-      "etag": "W/\"27e73-nOmEPjbfAYqN2A0CPDEnwBfH7lI\"",
+      "etag": "W/\"27e73-w+iGX9wgtYot6b4oOdH5gH7N7pc\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T02:00:26.408692+00:00",
+      "last_checked_at": "2026-08-25T13:24:53.361571+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
     },
     "the-rational-reminder-podcast": {
-      "etag": "W/\"2067e85818a43c5fe5dc68d075125ad5\"",
+      "etag": "W/\"ed40e77ef5cc2f012aac252770956b6b\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:59:57.867341+00:00",
-      "last_modified": "Thu, 20 Aug 2026 09:34:34 GMT",
+      "last_checked_at": "2026-08-25T13:24:12.573392+00:00",
+      "last_modified": "Tue, 25 Aug 2026 09:39:30 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
       "url": "https://rss.libsyn.com/shows/127327/destinations/763774.xml"
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:59:15.762303+00:00",
+      "last_checked_at": "2026-08-25T13:22:30.908738+00:00",
       "last_modified": "Wed, 19 Aug 2026 20:30:01 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -6034,26 +6085,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:55:36.381387+00:00",
+      "last_checked_at": "2026-08-25T13:16:10.468435+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:57:36.529700+00:00",
+      "last_checked_at": "2026-08-25T13:19:21.550597+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-25T01:56:37.255036+00:00",
+      "last_checked_at": "2026-08-25T13:15:48.578269+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-08-25T02:00:53.917461+00:00",
+  "updated_at": "2026-08-25T13:36:13.150157+00:00",
   "version": 1
 }
