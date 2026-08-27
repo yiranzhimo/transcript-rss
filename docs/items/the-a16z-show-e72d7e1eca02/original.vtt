@@ -1,0 +1,365 @@
+WEBVTT
+
+1
+00:00:00.180 --> 00:00:29.780
+We don't need to compete with anthropic and open AI on models right now. The interface between the human and the model is the key thing. If you look to the competitive landscape, it was almost silly. I asked Michael, I was like, what do you think about Claude Coe? And he said something to the extent, look, we are going after the biggest market in the world. We're always going to have the verbal competitors. That does not scare us. As founders, we all want to be ambitious and we want to push to the maximum point of Pareto frontier. But you have to know what the curve is. For us, the decision to invest in a curve strategy was actually pretty obvious.
+
+2
+00:00:29.780 --> 00:00:59.090
+I remember Andre Karpathi was using it. It was clearly a phenomenon. It was clearly like a known brand. They went and got all the users in record time. Now they have the asset, the data, the know-how to build their own models. You really couldn't do the flip of that unless you started as a frontier lab. They were definitely a couple of old moments, like remember when? Two years ago, betting on an independent AI coding company looked almost irrational. Microsoft owed GitHub VS Code.
+
+3
+00:00:59.090 --> 00:01:24.940
+co-pilot, and had access to some of the world's best AI models. And yet, cursor broke through. In this episode, Martin Casado, Sarah Wang, and Matt Bornstein look back at the decisions that shaped cursor from its earliest days, building a standalone product instead of a plugin, resisting the push into enterprise sales too early, and staying relentlessly focused even as the competitive landscape changed around them.
+
+4
+00:01:24.940 --> 00:01:56.720
+They also unpack how the company repeatedly reinvented itself as AI advanced, built a culture around speed and taste, and eventually applied the same intensity it brought to product to hiring, sales, and M&A. It's a conversation about cursor, but also a broader look at what it takes to build a defining company in a market where the technology, competition, and conventional wisdom change almost overnight. So to kick off, I actually wanted to take us back to
+
+5
+00:01:56.720 --> 00:02:26.080
+early 2024. And obviously you guys led the deal in, I think it was May of 2024 that year, but can you walk us through what was going on in the Q1, Q2 of that year and maybe how you guys started working with cursor well before we ever partnered officially with them? So you have to sort of transport yourself back to late 2023, early 2024. I went back and looked it up to leading models at the time where GPT-40, Claude III,
+
+6
+00:02:26.080 --> 00:02:54.400
+and Llama 3. That feels like forever ago. Llama 3? That was actually pretty good. That was great. Yeah, it was a great model. Change in strategy, obviously. Now, the leading coding harness was co-pilot by like a mile, right? This was like the consensus thing. Microsoft was doing their Microsoft thing, right? They had co-pilot, they had Office, they had VS Code, all of these things combined, they were going to somehow win AI. And so it was clear that AI coding was sort of working, but it was a different universe compared to today, right? Like you had this sort of early...
+
+7
+00:02:54.400 --> 00:03:22.480
+Signs that you could do meaningful work with AI, but agents didn't really exist loops didn't really exist reasoning didn't really exist at the time so it's sort of a crazy time though. That's it. There was a continuum of like Companies going after coding right so on one hand you had those are like the only way to win coding is to build a base model and it has to be a coding specific one and on the other hand you had very Presently by the way companies just focus on agents
+
+8
+00:03:22.480 --> 00:03:51.230
+Right, and like cursor was somewhere in between. And not only models, there were a million companies doing plugins too. And both of these were very reasonable things to do done by very smart people. Right, like that's what's so interesting about these new spaces. It's like smart entrepreneurs show up and do really interesting things. And in this case, model training was very, a very reasonable thing to do because the models weren't that good at coding yet. And there was sort of a theory that if we focus on this and do a coding specific model, it'll, that's the breakthrough.
+
+9
+00:03:51.230 --> 00:04:17.820
+People doing plugins on the other side were sort of saying, hey, let's not toss out the whole IDE. That would be a crazy thing to do. But like the interface between human and model is really important. So, so plugin is a great place to go. You know, it just kind of turned out that the thing that cursor was doing was the right thing to do, right? Like us, there are very bitter lesson pills. But the time they would have said, oh, there's no need for us to go train our own model. Of course, that changed later for different reasons, if we're going to get into later in this podcast. But.
+
+10
+00:04:17.820 --> 00:04:44.380
+It's like we don't need to compete with Anthropic and OpenAI on models right now. The interface between the human and the model is the key thing. And this is something that I remember Michael and Amon saying a lot and saying just saying very clearly from the earliest days of cursor saying code in the future will look like pseudocode. I remember Michael making this point a lot. Like when you look at old like computer science papers, there's a section. Here's the algorithm not in code but in like pseudocode, which I'm sure many people are used to.
+
+11
+00:04:44.380 --> 00:05:12.110
+We don't exactly write in pseudo code now, but probably you could. Probably you could just take a pseudo code block from an old paper and like the models now would implement that. This is like really what the cursor got to stop from the very beginning. And they've proven to be exactly right about this, right? It's like this sort of natural language-ish specification like pairing the programmers intent down to the minimum possible spec. That's what really sort of matters now. So anyway, we were in this world as Martin said, we were talking to a ton of very smart.
+
+12
+00:05:12.110 --> 00:05:39.650
+very interesting people working on coding in various ways. The cursor team kind of stood out because not only did they sort of align with the things that we thought about the world, more importantly, smarter people than us and engineers working. At the time, the leading AI companies like OpenAI, Mid Journey, Replicate, a bunch of others all kind of use this and subscribe to this model. And the team frankly just seemed kind of special, right? They had an unusual degree of focus. I remember we got Michael to come pitch our GP group.
+
+13
+00:05:39.650 --> 00:06:08.180
+And 90% of the meeting was him saying no to things. Which is just like, for founders out there working on products that you love, like, VCs will always ask you kind of dumb questions about other things you might do or things you're related to or whatever. And Michael literally just sat there and like, very politely listened to all the questions and said, interesting, no. Wait, wait, actually on that point, can I ask you guys a question? Because I remember that meeting so vividly when you brought Michael in for the A and one of the things that he said no to
+
+14
+00:06:08.180 --> 00:06:35.100
+was actually, and to your point on, there were a lot of plugins, right? And so there was this maybe more consensus thought that a VS Code fork versus the plugin into VS Code would, one would be better for Enterprise and it wasn't the former, it would be the latter. And I recall, I think it was you, Martina, or maybe it was both of you, asking him, well, are you gonna get Enterprise customers with this medium, right? And he looked at...
+
+15
+00:06:35.100 --> 00:06:57.220
+all of us in the eye with high conviction and well I'm gonna turn it back to you and what did you think of his answer and what gave you guys the conviction to take a pretty contrarian bet at the time? They actually had a very reason articulation for why, where they were in the design spade, makes the most sense. So for example, why wouldn't you build a coding specific foundation model? So what they said at the time was
+
+16
+00:06:57.220 --> 00:07:26.700
+It turns out that you don't speak to these models in code. You speak to these as humans in natural languages. Therefore, the model has to understand the breadth of human experience in language, right? And so that means in order to build the coding model, you're actually building a frontier language model. And that's just a very hard thing to do. And then of course, there are other companies doing it, and there are much more focused problems like Tampa completes to do. So I think every one of their decisions was very reasoned in our opinion. They were also very product focused.
+
+17
+00:07:26.700 --> 00:07:50.450
+But you actually don't see a lot of AI. So they really believe that you can build a product, a product. If it's really good, it'll be adopted. By the way, it's very similar to how Elon thinks. And that dictated a lot of their decisions. If you really believe in the product, you would never do a plug-in because then you're part of somebody else's product. If you really believe in the product, you wouldn't do enterprise early, you do it later because the product itself is to kind of go to market motion. And so there was a, I would say, and Matt, let me know if you would agree.
+
+18
+00:07:50.450 --> 00:08:15.280
+tremendous clarity on exactly what type of company they were and the decisions that they said all fell from that consistently. All right, where many of the companies we saw were kind of these pastiches of, we'll try all of these different things. We're not quite sure what's going to work. So there's plugins and their services and their whatever, whatever, whatever. This was a product company going after it, but they considered it to be a product problem. Yeah. And I think that's exactly right. And I think they had the ambition
+
+19
+00:08:15.280 --> 00:08:40.140
+and the courage to kind of do the maximal form of what the product would look like. I think, you know, as founders, we all want to be ambitious, right? And we want to push to the maximum point, the Pareto frontier, but like you have to kind of know what the curve is. And they just kind of knew what the curve was, right? And then get distracted by the sort of non-product things. I remember when we were trying to convince the cursor team to let us invest in their company, I asked Michael once what he did for fun outside of work.
+
+20
+00:08:40.140 --> 00:08:58.400
+And it's almost like you didn't understand the question. He's like, what do you mean? I'm like, when you're not in the office. He's like, what do you mean? I also remember, by the way, when we had the lunch after we did the investment. And I was talking about something about internet days that were similar. And he was like, I was five.
+
+21
+00:08:58.400 --> 00:09:26.300
+But I mean, what's amazing about it, not just Michael, but all the founders is even though they were pretty young when a lot of these things happened, they actually were kind of students of all this history, which is a trait that we see. I'll try and tell talks about this a lot. We see this across all of our top founders that they're like able to study and really learn from what's kind of happened before. I'm going to turn the question back on you. I think Matt would agree. For us, the decision to invest in Keras Rathae was actually pretty obvious. The team was phenomenal. It was incredibly focused. All of us were users.
+
+22
+00:09:26.300 --> 00:09:55.600
+half the team actually used cursor. Remember Andre Carpathi was using it. It was clearly a phenomenon. It was clearly the unknown brand. The growth was asymptotic. So from an early stage, investors are pretty straightforward decision. It was a much less obvious decision for a growth investor. And so like, I think probably what you heard in that first meeting maybe was a little bit dissonant with how you'd both invest, but then you very, very quickly led the next round. So maybe talk through how you kind of got past the typical growth evaluation and got conviction.
+
+23
+00:09:55.630 --> 00:10:24.610
+Yeah, I mean I think the timelines are so compressed here It's crazy to think back on because I remember you guys led the a in May June right early summer and By October we had done we did the B and so it was clearly just vertical lift-off and there were a couple of things that summer right you guys talked about Andre Karpathy tweeting about them, but they went on Lex incredibly thoughtful Discussion of how they thought about their vision for like
+
+24
+00:10:24.610 --> 00:10:53.760
+coding going forward. And so I think it comes back to Marchine, something you said, which is they were just reimagining everything, right? And you just talked about this as well, Matt. But you can't write growth memos that way. Never mind you. So you got the bug, you know, if you were calling us and we were so tense. How did you convince David George? Yeah, you know, it's so funny because I think
+
+25
+00:10:53.760 --> 00:11:12.320
+You had to think out of the box for this one. I mean, of course the momentum was vertical, but there were so many things that they defied conventional thinking where I remember I the first time, you know, Martin, you introduced me to Michael. We got a coffee that day, you know, as Michael, you know, they moved quickly. So I pulled some stuff together for them, right? Because we're
+
+26
+00:11:12.320 --> 00:11:39.260
+you know, we're trying to show them, hey, this is the next stage of what growth looks like. And there's so many pieces of conventional wisdom that they just completely broke. Like we would say, hey, we'll help you find a sales leader. Because, you know, previously it made sense to start layering a sales leader at 25 to 50 million of ARR when self-serve starts to peter out. Michael looks me dead in the eye and is like, self-serve is not petering out.
+
+27
+00:11:39.260 --> 00:12:07.120
+Right? And so then you start to pull these drivers that you're like, oh, these assumptions that would go into any growth model historically, you can't have that asymptoting at 25% growth in five years. Right? And so I think a lot of the growth investment decision at the time was throwing out some of the assumptions that we would typically make on how a company would eventually start to slow growth. I'm very glad that we did that. And then the second piece is
+
+28
+00:12:07.120 --> 00:12:34.190
+We should talk about the competitive landscape, right? Because you mentioned co-pilot. I was actually going to say, and actually I think Matt deserves a ton of credit here, which is what we talk about now in retrospect. I was a pretty easy decision on the series A, but you know, Matt led the early deal, and he saw something a lot of people didn't, which was this, which is if you look to the competitive landscape, it was almost silly, which is you had a large incumbent, which is Microsoft, that had a company at scale that had the OpenAI weights.
+
+29
+00:12:34.190 --> 00:13:01.490
+And they own VS code. So everything, you know, everything would say that there's just no way that you could survive relative to this one single competitor. We'll talk about the other ones later. And I think that also was the thing you said about Michael was what I witnessed. It'd be great to hear Matt, which I even remember when Matt said this early on, he was like, you know, they have a good answer for everything. Which when you have founders that are students,
+
+30
+00:13:01.490 --> 00:13:24.430
+of what they do. They're very consistent in their answers. And this is not... Listen, I think when we did the deal it was pretty obvious, but it wasn't so obvious six months before. And Matt and the team had that deep conviction way back then. And I think for every one of these races, there are mirrors of that. Anyways, is this guy... Yeah, no, totally.
+
+31
+00:13:24.430 --> 00:13:52.210
+People think venture capital is like an individual sport, like it's not at all. I mean, our whole team was working on this at the time. I think it was over a year. We literally had a cursor team on our team. Art Obama was great, man. Yeah, yeah, yeah. You led the team. I mean, it was great. But yeah, no, you're exactly right. I mean, these guys are crazy smart, right? They're like off the charts, sort of just raw intelligence.
+
+32
+00:13:52.210 --> 00:14:17.920
+they're able to do this thing we talk about all like context switch between tech and markets really, really seamlessly. And they like ingest data, right? Whether it's historical data or like things happening in the market and act very, very quickly, which you said before. So, I agree with that, but specifically, it was just kind of crazy to think you're going to fork something from Microsoft who owns the thing and then
+
+33
+00:14:17.920 --> 00:14:45.120
+you're going to compete with them with smaller models, even they own the opening eye weights and they have enterprise sales force and they have... The greatest enterprise distribution. Yeah, ever. You know, it's so interesting, right? It's like... They have... They have... They have... They literally own every piece of that. You know, it's so interesting, right? Because like that's definitely the conventional wisdom and like it's usually correct, the conventional wisdom in many of these cases.
+
+34
+00:14:45.120 --> 00:15:14.780
+You know, one of the data points at the time was, it was actually Marco and our team set up a dinner where Amon sat right next to John Shulman. And they talked like a lot about cursor. And I think John's thing was like, oh yeah, I tried cursor, but like our code base, I think he was at Anthropic at the time, like our like mono repo just like immediately killed it, right? It's like, I couldn't even load the code base. And like, I think like the next day Amon came back, he's like, oh, we made some changes. Like here you can look, and not only is like speed of iteration, but like,
+
+35
+00:15:14.780 --> 00:15:39.090
+We just look for these little data points where it's like actually doing a plug-in or just like riding on top of the code is clearly not going to work because the smartest people in the world have tried it and it doesn't work. So these guys are sort of listening to it. And historically we as a team have always bet on the independent in a large market. If there's a leading independent, we'll always bet even if the incumbent seems very scary.
+
+36
+00:15:39.090 --> 00:16:00.480
+I think it's worth talking about competition because my experience with all of our experience with cursor is that there was always like a looming existential threat and we always forget about it but like you know of course co-pilot was the big one and then remember the whole windsurf thing so like windsurf actually did this very smart thing when they went to YC and there was a lot of YC users using it so you kind of had this kind of
+
+37
+00:16:00.480 --> 00:16:29.390
+whole movement on Windsurf, and you know, Cognition was a phenomenal company, actually was making real waves with agents, and they did a great job with that. And then you had the first version of Cloud Code that came out, and like that was kind of like, you know, a competitive thing. And so like you kind of go through like there was always some competition. And one thing I would say, and I would love again to actually hear your perspective on is like, it is such a pleasure to work with founders that are entirely unfazed.
+
+38
+00:16:29.390 --> 00:16:59.380
+You know like normally like you know founders of this things have our calling and they're kind of freaking out and whatever They were 100% unfazed by the competition. Yeah paranoid, but unfazed. I'll never forget You know and we've been lucky to do I think all of all of their rounds starting from the a But the one that was invested every cursor. We did yeah with increasing amounts of dollars, but Sara Wow, let the be in the sea. That's a real conviction. That's amazing That was a harder conversation to convince
+
+39
+00:16:59.380 --> 00:17:27.460
+I was gonna say the C. The team for the C. You know, at the B, you could argue, God, just bet on vertical momentum. That was actually the C. Who grows from four to 50 in like four months or whatever. But the, or actually, no, it was the D. So the Claude Code, not to take us on a time travel trip again, but Claude Code came out May 2025 with a splash. You know, it wasn't, the pickup wasn't right away, but obviously formidable. And I remember,
+
+40
+00:17:27.460 --> 00:17:54.880
+There was around, I think, a couple months after, three months after that. And I asked Michael, I was like, what do you think about Claude Codde? And he said something to the extent, actually, exactly what you're saying here, which is, look, we are going after the biggest market in the world. There's going to be competitors. In fact, there's been a rotating cast of characters from the very beginning. Microsoft Co-Pilot was the first one. Claude Codde is...
+
+41
+00:17:54.880 --> 00:18:18.450
+one of a rotating set of characters and you know, we think in big markets, you're always going to have formidable competitors that does not scare us. And you know, I just remember being somewhat blown away by the clarity of that comment, the lack of fear, right? There's humility as well. Like it's humility mixed with bravado. And I just think that is kind of the winning.
+
+42
+00:18:18.450 --> 00:18:43.540
+Combo when you're going after these juggernauts like that and I know it sounds vague But like things like this it just it's it's almost a bezosish thing what's like if you're smart and right Like it actually like gives you I think the confidence in the focus to like have that kind of attitude when you when you have this like mega competitors sort of coming after you Yeah, that I'll say I will say they were definitely a couple of oh fuck moments But they were always around models like remember when opus 4 5 came out
+
+43
+00:18:43.540 --> 00:19:12.500
+like we're all on vacation and I think everybody in the world class, we were like, oh fuck. You know, these things are moving much, much faster than any of us thought. And then I think the same thing when the pre-release of Mythos came out and people had access to it. These models are getting so good so fast. And I think another thing that the cursor team probably doesn't get, you know, the level of credit for is...
+
+44
+00:19:12.620 --> 00:19:41.660
+To the extent they cannibalized themselves so dramatically in like a Reed Hastings type way in a matter of two years, right? So they were first in IEEE and then they moved to an agent platform then they moved to a model platform and it's very very tough for you know founding teams to actually have to discipline. Yeah, Tab was the big thing when we you know, Carpathi had that famous post. I guess he has a lot of famous posts where he's like, tab, tab, tab, tab. Yeah, exactly. Like that kind of doesn't matter that much anymore. Yeah.
+
+45
+00:19:41.660 --> 00:20:08.290
+I actually think that's a good segue to maybe some of the other strategic decisions they made along the way around business model. And to your point on Oh Fuck Moments, I don't know if they would consider this that because I don't think the vagaries of Twitter impact them as much. As the investors. Yeah, the rest of us just like scrolling all day.
+
+46
+00:20:08.290 --> 00:20:34.260
+It was probably summer of 25, where there was a lot of shit written about their gross margins, etc. And then of course, post the Opus 4-5, maybe the January period. I mean, we should all talk about that, because those are both different, but interesting times. Yeah, I mean, what the other thing is, I just feel like X is driven by, like, tail-chasing adrenaline sinking and shot and fright. And...
+
+47
+00:20:34.450 --> 00:20:52.990
+There tends to be a massive disconnect by what people say on X and like how the business is actually doing. And so even though there was a lot of this, the business tended to do very well. And it's so interesting is so much of this often comes from investors, especially things talking about like business quality.
+
+48
+00:20:52.990 --> 00:21:20.350
+But text transformations always proceed figuring out the business. Like you guys remember the internet? Like we even figure out how to monetize it. For a long time. Forget margins. Making any money at all. Right? And here you've got unlimited demand, unlimited girls and margins. So I think this tends to be, A, access its own kind of echo chamber, as people say. But also, B, every single wave you have investors trying to say something that sounds smart, which is like picking apart.
+
+49
+00:21:20.350 --> 00:21:45.810
+you know, the business model of a nascent tech transformation. And I just think historically they've always been proven wrong. Yeah. Yeah, for sure. I mean, you know, I think I'm going to borrow this quote from something you said, Martine, but, you know, first comes the technical transformation, then comes the business model. And in this case, like, I think the strategy where they went and got all the users in record time, now they have the assets.
+
+50
+00:21:45.810 --> 00:22:07.660
+the data, the know-how, etc, to build their own models, right? You really couldn't do the flip of that unless you started as a frontier lab. And it, you know, it's clearly paying off in this combo that we'll talk about later. But I think seeing that kind of backdoor strategy was really inspiring and they took a lot of heat for it.
+
+51
+00:22:07.660 --> 00:22:33.460
+So, Martin, how do you think cursor really became a sales driven company or a company that's good at sales? Because, you know, early on, I think I told Michael a few times too, it's like, oh, you better invest in sales. He's like, nope, not gonna do that. They literally set up enterprise at cursor.com. It's like, if you're an enterprise, send your inquiries to this. But like, but obviously now they're very good at sales, right? And, and, and go to market and generally like how do you think they made that jump? It's a great question. So here'd be my best guess.
+
+52
+00:22:33.460 --> 00:22:54.130
+which is they are very much a student of what they do, they're very thoughtful, every raise, every product decision. And I think as they learn more about the market, they realize that the margins were in the enterprise. So very classically, if you view your competitive set, say the large labs, the large labs will basically subsidize or give away the single-serve tier.
+
+53
+00:22:54.130 --> 00:23:17.220
+But then they actually have, they command great margins in third party and they command great margins in the enterprise. And of course it was really a scale. And as the company has always gone, they decided okay, like so for future viability, we need to go into the enterprise. That's where A, the bulk of the spend is, but also a lot of the margin, the margin tends to be the value here. We've created a great, you know, top of funnel engine and so.
+
+54
+00:23:17.220 --> 00:23:47.140
+You know, this is existential and this important and then when they decided to do it they really went in and that's the fact that may be the fastest grunder of the sales team in the history of the planet, right? I mean, I mean, you know, you were you were very involved there for example on recruiting Maybe talk about that actual expansion because it was yeah, I mean, it's It's so neat to see you know that expression how you do anything is how you do everything you really see it so much of what you guys are talking about and
+
+55
+00:23:47.140 --> 00:24:15.730
+how they thought about product, et cetera, was reflected in how they did hiring and go to market hiring in particular. And we got a shout out, Jordan and Roman and their team there who in the early days built that engine from scratch. They're just the most incredible, you know, some of the most incredible people I've ever worked with, but we've all ever worked with. And- Well, they also spend 40% of the time recruiting. Yeah, exactly. This is amazing.
+
+56
+00:24:15.730 --> 00:24:32.130
+for technical product founders to spend 40% of the time regret. I've never actually seen it before. And it is so effective. And like a company really is the team that you build and they took this to heart. Like everybody talks about it. Everybody talks about like doing A-Class founders, whatever, but it's entirely different. It's like how often was Oscar?
+
+57
+00:24:32.130 --> 00:24:59.940
+you know, hey, I'm on a red-eye to Europe to close. I'm like literally like icing a sneer. Every week. Totally. And you know, there was that great piece that Brie wrote about their hiring practices that everyone should read. A lot of that focuses on their end-chiring, like the work study, all this stuff, right? But even on the go-to-market hiring, when the thought that they would put into hiring a single AE, right? And of course, like this is nothing new, but just the...
+
+58
+00:24:59.940 --> 00:25:19.090
+back channel, back channel, back channel ethos, they had that to a tee. They knew exactly what they were looking for in founding AEs. I remember we would go there and sit in their office for eight hours helping them source stuff like that. And they weren't like, oh, we want to do it the old way. We're like, that's not good. We're building a company in a new way.
+
+59
+00:25:19.090 --> 00:25:47.870
+So we want very specific AEs that fit this profile. We're gonna go get them. We're not just gonna wait for people to walk in the door. All of those things that have been written a bit on the end side, they did that on the go to market side and clearly to phenomenal results. I mean, they got to over 50% of the Fortune 500 and I think faster than anyone we've ever seen. Can you talk about specifically how they applied the lessons in end-chiring to like AE hiring? Because this is something I think our founders deal with a lot.
+
+60
+00:25:47.870 --> 00:26:15.500
+I've dealt with this a lot personally. How do you actually make that jump and what lessons really do you carry over? Or that you observed in person. Yeah, and hopefully, I think this has been written about, so hopefully it's not sharing alpha, but the way that they think about sort of epochs of a person's career or of a company and who was the key dial in making that happen, I love this intense research period that goes on where it's like, hey,
+
+61
+00:26:15.500 --> 00:26:40.750
+These are the top 10 companies who have seen great in this type of selling. And then let's go a level deeper. Here are the top 10 teams in those companies. And then here are the number one and number two single AEs who drove that change and accounted, you know, again, back channel, back channel, back channel, right? Like, who their boss, their boss's boss and their boss's boss's boss would say, this is a superstar AE. And of course, in the early days, it was like,
+
+62
+00:26:40.750 --> 00:27:06.930
+can they deal with some uncertainty? Because you don't want someone who could just run a playbook. At this point, maybe they can get those people. But in the early days, the founding AE set was super strong. And I think figuring out what does the best look like at what period of time and then which individuals drove that. That's so applicable for engineering, obviously, product building, but on the go-to-market side as well. And I think that nailing the right
+
+63
+00:27:06.930 --> 00:27:34.620
+star who did it the right time is really hard. I mean, it narrows the base that you could hire from completely. But because, you know, I think Jordan Roman and the early team got that right, they just were able to scale it quickly without losing the cursor culture. Which, you know, a lot's been written about the cursor culture. I'm curious, you know, maybe you guys can share your own impression of it. You know, I mentioned earlier that like, you know, kind of
+
+64
+00:27:34.620 --> 00:28:00.720
+coding was all that they did. My impression at the time, and like we, you know, the founders could correct us on this, like my impression at the time is they weren't doing that because they were obsessed with work. And I think they're still not doing it because they're obsessed with work. They literally just like love writing code and love systems. And like, I think the three of us sort of, you know, can feel that way at times too, right? Like that's like a very, very understandable thing. And that seems to be the driving cultural.
+
+65
+00:28:00.720 --> 00:28:29.360
+you know, kind of impetus at the time is a very small team. Everybody had that attitude and like we're orienting towards a future of like what is this actually going to be? And that kind of like, you know, from an end standpoint or product standpoint, like very narrowly focused on what they were trying to accomplish and like how to run the team. But there's this huge paradox because I totally agree. I 100% agree. However, if you actually detailed their actions later on, that's not the conclusion you'd get to. Like what did they spend their time on? It was like recruiting.
+
+66
+00:28:29.360 --> 00:28:55.580
+go to market, understanding business models, biz dev. And so in a way, again, I just totally agree. And again, on one hand, you have a very product-focused team that comes from the tech that literally wanted to build products that they wanted to use. So listen, I think that high-powered founding teams work on exactly what is needed by the business, and I think they did a very good job. And I think it allowed them to navigate the most competitive
+
+67
+00:28:55.580 --> 00:29:12.750
+Market we probably ever see has there been a more competitive market than coding then I mean it's just so many companies database wars Yeah, I mean you have very intense competition in like relatively narrow markets. I mean databases are huge but compared to coding I actually think it's much smaller right like
+
+68
+00:29:12.750 --> 00:29:35.010
+Yeah, I think for like, I mean, coding is kind of the meta category, right? Like, it's like all expression of like human thought in like economic form is kind of like coding. I mean, I actually like starting competing with Microsoft ending up competing with say, Anthropic, you know, both of these kind of, you know, mega companies with tremendous amount of capital and power and distribution. In the meantime, you evolve like.
+
+69
+00:29:35.010 --> 00:29:56.020
+Like fundamentally your product approach and you change your go-to-market and then you engage in the most complicated M&M of all time and all in a matter of two years. There's definitely something to what you're saying right like in the beginning
+
+70
+00:29:56.020 --> 00:30:22.740
+these guys were incredibly focused on the product and literally enriching their own lives. Like literally they would be coding for fun. Like when I finally got them to admit they did something for fun it was like oh that's also coding. Which by the way is the only fun left to any of us. By the way, you know now that the models have like you know brought the postcare city future to us it's like coding is like you know the last fashion. You know and but like
+
+71
+00:30:22.740 --> 00:30:49.650
+there was always awareness or at least I always thought talking to Michael, he was always aware of the game, if that makes sense. Like he truly was and they were all truly in love with coding and creating great products. But like the kind of new, the building and enduring company or great company isn't just about product obsession. I just kind of sense he always kind of understood that and like was thinking a couple of steps. Yeah, I realized if your goal is to use software, that's a critical, it's critical to get the bits that's right. Yeah. Yeah.
+
+72
+00:30:49.650 --> 00:31:12.220
+I was going to add an anecdote that's not related to them coding. But the other thing that we've seen across a number of founders, but Michael and Swallet and Amon, they embodied this. Again, how you do anything is how you do everything. Of course, this detailed attention to the product.
+
+73
+00:31:12.220 --> 00:31:39.660
+very artisan, there's craftsmanship, right? Overused taste, they have taste in spades. But it extended to how not only they did hiring on the edge, go to market side, but even the space they created, the events they throw. Like I remember walking into their office and thinking, wow, in my early 20s, I would not have paid attention to putting, I don't know, twinkle lights here. They famously, no shoes, right? But you'd go in, you'd put on your slippers and it would feel
+
+74
+00:31:39.660 --> 00:32:05.600
+You feel at home like hence why everyone was there working all the time because you're like this feels great like home and they you know, they it was very hege the Scandinavian style and I remember going to their second office when they finally expanded and complimenting them on a couch or something because I think I was redoing my own house at the time and they're like, oh, yeah, we got that from a secondhand like very hege furniture dealer
+
+75
+00:32:05.600 --> 00:32:25.900
+And so they were going after a specific look and feel. And I just was struck by that because I was like, wow, that is not how I remember guys in their early 20s, like thinking about the space that you create or in, how that leads to the product and, you know, mind space you're in. Yeah, there's actually a nice adjacency here to a lot of the decisions they made.
+
+76
+00:32:25.900 --> 00:32:55.860
+So marketing is a very obvious one. They're very, very particularly. We use X, that's not our voice, we're not spammy. We made so many suggestions that remember we're like, oh, let's do this event. Now that's not our style. So they're very good at saying no for stuff. I will say that they were also very good about this when it came to personnel. Like if there wasn't a fit, they make the hard decision pretty quickly. You very, very rarely see this with other founding teams. And they were very consistent about that. And so I would say it's almost this kind of un-talked about
+
+77
+00:32:56.020 --> 00:33:23.860
+probably greatest strength of the company is that once they made a decision, it doesn't matter how hard that was, whether it's deciding not to enter a market, deciding to be very limited in what they're doing, they kind of follow through or who would stay in the company, who wouldn't stay in the company. So kudos to them for actually having the courage and the tenacity for these tough decisions. Which is sort of an Elon-ish trait too. It's also very Elon-ish, isn't it? I actually think that these...
+
+78
+00:33:23.860 --> 00:33:51.330
+two combat, I mean we just like, you know, talk about the M&A a little bit, are very good fits. They're very good fits on, like a technical level, right? Like Elon has a compute, they have the distribution and the data on a vision level. They both think that, you know, code is the path to changing all of compute and maybe all of humanity, but also on the culture level, right? They're very product engineering focused, very, very, very, very product engineering heavy, very fast iterating.
+
+79
+00:33:51.330 --> 00:34:13.920
+you know, they make hard decisions very quickly. And so, I mean, I've been involved in a lot of M&A. And I would say this is probably the best fit I've ever seen as far as just the full package. Yeah, you couldn't agree more. I mean, there's a funny analogy with our experience on the SpaceX side. I remember we met them in 2019. Back then it was fully a launch business, but the SpaceX team was like...
+
+80
+00:34:13.920 --> 00:34:30.800
+No, we're going to launch global communications. We're going to power the internet for everyone in the world. They had nothing at the time, no Starlink satellites in the sky. And of course, they did it. And if you think about the cursor team telling us, and they actually beat every forecast they ever gave us.
+
+81
+00:34:30.800 --> 00:34:58.830
+Oh, by a lot. There's just so many Elon-ish characteristics of moving fast, going after large markets, winning them in the feet of impossible competitors, you know, Comcast, right in the Starling case, that there's so many parallels, totally different venues, obviously, but fascinating to see that. There's another thing I would say also, which I think between kind of Elon and cursor, like SpaceX and cursors, like in both cases,
+
+82
+00:34:58.830 --> 00:35:28.080
+the consensus was decrying the death of both companies so many times. There's also like this kind of like, you know, cultural perseverance to the naysayers, which I actually really respect on both sides. Actually, I do have one other real question I wanted to ask you guys. Cursor is also really good at doing M&A, like doing small talk. Yeah, I would love to know a little bit more like from your perspectives, like why they were and what the philosophy was and all that.
+
+83
+00:35:28.080 --> 00:35:50.430
+So I will say, listen, so there is such a war for talent right now that the companies that have figured out how to do talent via acquisition can really get ahead. I mean, there's just a lot of advantage there. And so the early motions
+
+84
+00:35:50.430 --> 00:36:19.170
+that they did were of that nature, which is like really good team. You know, they'll just go ahead and do the acquisition. And it was really nice about cursor. They were just never worried about like operational complexity. They just like, it doesn't matter how messy it is, we'll go ahead and do it. They also didn't really worry too much about their ability to set culture because they were just so good at it. Like again, like that was just part of it. It wasn't until later, like the graphite acquisition where they started thinking about acquisitions in terms of strategic direction.
+
+85
+00:36:19.170 --> 00:36:48.080
+And of course, that was a much larger acquisition. And you know, listen, I think the company was so fast, like who knows to the extent that they would have figured out how to integrate all of these things and execute on them in the limit. Just because like, you know, like now they're part of a very large acquisition, but I will say that they approached these in the same way that they approached everything, which is incredibly thoughtful. They had a plan, they executed quite well. And so,
+
+86
+00:36:48.080 --> 00:37:10.300
+This may be the most concentrated company in the history of companies having done M&A, you know, and everything else. Yeah, I was gonna say, I feel like there's this badge of honor now when a CEO of a company says, I have ex-founders in my company. And I think it should be a badge of honor, right? I don't know what that stat is for cursor. Do you guys know?
+
+87
+00:37:10.300 --> 00:37:34.820
+I remember, and they have so many great founders there, but I remember when they brought Antito from Koala and then Adam Ward on the talent side, actually, and just seeing firsthand the leverage that they got from bringing in someone who was a founder, CEO effectively, but slotted really well into the cursor culture and just take that to great heights and add to the acceleration. Like I think that laybook, you know, I don't know.
+
+88
+00:37:34.820 --> 00:37:54.560
+I'm sure they're not the ones who started it per se in this new gen AI era, but they certainly are I think one of the best examples of how to integrate founders really, really well into your company. It's funny, right? Because Anthropid kind of gets that tag a lot. Now it's like, oh, like, exec at company A just went to take an IC role at Anthropi, but like, Kerser kind of did this.
+
+89
+00:37:54.560 --> 00:38:24.380
+First, and they weren't just like slotting people into IC roles. Like they're actually building the company this way. Which I thought it's very unconventional but like really. It's actually operation incredibly complex. Yeah. That's a conventional list. Yeah, yeah. I think it's actually true. I mean I think it's not that they, you know, did something that people think is hard but it's actually easy. I think it's actually hard and they just managed to pull it off. Thanks for listening to this episode of the A6TZ podcast.
+
+90
+00:38:24.380 --> 00:38:55.360
+If you like this episode, be sure to like, comment, subscribe, leave us a rating or review, and share it with your friends and family. For more episodes, go to YouTube, Apple Podcast, and Spotify. Follow us on X at A16Z and subscribe to our sub-stack at a16z.substack.com. Thanks again for listening, and I'll see you in the next episode. As a reminder, the content here is for informational purposes only. It should not be taken as legal business, tax, or investment advice, or be used to evaluate any investment or security,
+
+91
+00:38:55.360 --> 00:39:12.590
+and is not directed at any investors or potential investors in any A16Z fund. Please note that A16Z and its affiliates may also maintain investments in the companies discussed in this podcast. For more details, including a link to our investments, please see a16z.com forward slash disclosures.
