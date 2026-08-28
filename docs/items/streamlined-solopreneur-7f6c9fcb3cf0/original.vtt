@@ -1,0 +1,757 @@
+WEBVTT
+
+1
+00:00:03.900 --> 00:00:08.130
+episode where I cover four things, what's on my mind this week? Recommended reading
+
+2
+00:00:18.310 --> 00:00:21.910
+without over-reliance on AI or hiring a team.
+
+3
+00:00:26.760 --> 00:00:28.890
+close the laptop for the weekend,
+
+4
+00:00:28.990 --> 00:00:35.480
+I'm your host, Joe Casabona, and here's what's on my mind for August 28th, 2026.
+
+5
+00:00:44.120 --> 00:00:50.820
+financier. Stanley Druckenmiller is in hot water this week for using AI to write
+
+6
+00:00:50.820 --> 00:00:53.220
+his criticism of Scott Bessant
+
+7
+00:00:53.320 --> 00:00:58.910
+and he said when facing this criticism that he's not embarrassed because using AI
+
+8
+00:00:58.910 --> 00:01:03.140
+to write is akin to using a calculator. When I do math problems,
+
+9
+00:01:03.240 --> 00:01:09.280
+I've seen this more than once over the past couple of weeks and I've even referred
+
+10
+00:01:09.280 --> 00:01:14.620
+to large language models as word calculators. But maybe I should stop because when
+
+11
+00:01:14.620 --> 00:01:21.100
+you say writing with AI is like using a calculator for math shows a deep misunderstanding
+
+12
+00:01:21.100 --> 00:01:24.280
+of math calculators and words,
+
+13
+00:01:24.380 --> 00:01:28.140
+there are stark differences. For example,
+
+14
+00:01:28.240 --> 00:01:34.580
+you still need to know the calculation you are trying to solve.
+
+15
+00:01:41.180 --> 00:01:46.640
+And maybe you're thinking, okay, well I know I want to criticize Scott Scent. Maybe
+
+16
+00:01:46.640 --> 00:01:51.410
+I even know I want to criticize him for inflation or tariffs or whatever, right?
+
+17
+00:01:51.510 --> 00:01:53.290
+Write me an article that does that.
+
+18
+00:01:53.390 --> 00:01:56.220
+But here's the other side of that argument.
+
+19
+00:01:56.320 --> 00:01:58.130
+Each math problem
+
+20
+00:02:03.110 --> 00:02:08.640
+As my computer science teacher back in college, Dr. McCloskey often said The beauty
+
+21
+00:02:08.940 --> 00:02:12.400
+of math is that it is not ambiguous.
+
+22
+00:02:12.500 --> 00:02:19.800
+You have a math problem, an equation, and it will yield one answer and the same answer
+
+23
+00:02:20.100 --> 00:02:21.690
+over and over again.
+
+24
+00:02:21.790 --> 00:02:26.480
+If you ask a large language model to criticize Scott Besson,
+
+25
+00:02:33.830 --> 00:02:38.790
+Claude will not output the same article twice.
+
+26
+00:02:38.890 --> 00:02:44.650
+If you give it a prompt of, I need an article that criticizes Scott Bessant on inflation,
+
+27
+00:02:44.750 --> 00:02:46.950
+you will get different articles every time
+
+28
+00:02:52.730 --> 00:02:55.130
+say to solve five times five,
+
+29
+00:02:55.230 --> 00:03:01.390
+you will get 25 every single time. If you're using a more advanced a scientific calculator
+
+30
+00:03:01.490 --> 00:03:04.110
+and you say, solve for 10
+
+31
+00:03:04.210 --> 00:03:10.280
+equals X over two, you'll get 20 every single time.
+
+32
+00:03:10.380 --> 00:03:12.370
+But that's not even
+
+33
+00:03:12.370 --> 00:03:15.730
+my biggest gripe with this analogy.
+
+34
+00:03:15.830 --> 00:03:18.800
+my biggest gripe with this analogy
+
+35
+00:03:18.900 --> 00:03:22.360
+is that it is extremely troubling
+
+36
+00:03:22.460 --> 00:03:27.450
+when people use calculators for basic math.
+
+37
+00:03:27.550 --> 00:03:31.550
+I recently paid for takeout with cash at a restaurant.
+
+38
+00:03:31.650 --> 00:03:39.220
+The total was $47 and 46 cents, and I handed the cashier $48.
+
+39
+00:03:39.320 --> 00:03:43.770
+She had no intention of giving me my change. And I looked at her
+
+40
+00:03:43.870 --> 00:03:47.660
+And she said, do you want the change? It's just a few cents.
+
+41
+00:03:47.760 --> 00:03:50.200
+I said, it's like 50 cents.
+
+42
+00:03:50.300 --> 00:03:52.610
+And she brought me two quarters
+
+43
+00:03:52.610 --> 00:03:56.760
+and I'm confident that she brought me two quarters because she didn't actually know
+
+44
+00:03:56.860 --> 00:04:00.980
+that the true change was 54 cents. And I just said like
+
+45
+00:04:02.150 --> 00:04:05.280
+She did not know the amount of change I was supposed to get.
+
+46
+00:04:05.380 --> 00:04:10.820
+This is something I see constantly. I was at an airport one time and
+
+47
+00:04:10.920 --> 00:04:13.540
+the guy who was ordering in front of me,
+
+48
+00:04:13.640 --> 00:04:20.410
+his total came to $10 and 19 cents. He hands the cashier a 20 and then says, oh,
+
+49
+00:04:22.100 --> 00:04:28.200
+So the cashier says, how much change are you supposed to get back? And the patron
+
+50
+00:04:28.320 --> 00:04:29.700
+said, I don't know.
+
+51
+00:04:29.800 --> 00:04:34.390
+I was like, guys, it's 6 cents. 6 cents, 25 minus 19. It
+
+52
+00:04:34.490 --> 00:04:38.400
+is extremely troubling. That's bad.
+
+53
+00:04:38.500 --> 00:04:41.690
+Everybody should be able to do basic math
+
+54
+00:04:41.790 --> 00:04:42.820
+in their head,
+
+55
+00:04:42.920 --> 00:04:43.620
+but
+
+56
+00:04:43.720 --> 00:04:46.700
+not being able to articulate
+
+57
+00:04:46.800 --> 00:04:48.370
+your own thoughts
+
+58
+00:04:48.470 --> 00:04:49.440
+without
+
+59
+00:04:49.540 --> 00:04:51.950
+assistance from ai,
+
+60
+00:04:52.790 --> 00:04:54.750
+is so
+
+61
+00:04:54.850 --> 00:04:55.730
+much
+
+62
+00:04:55.830 --> 00:04:56.620
+worse,
+
+63
+00:04:56.720 --> 00:04:57.930
+especially
+
+64
+00:04:59.100 --> 00:05:00.970
+Stanley Druckenmiller,
+
+65
+00:05:03.940 --> 00:05:06.410
+but you don't need to be a billionaire
+
+66
+00:05:06.410 --> 00:05:07.770
+to be able to state
+
+67
+00:05:07.870 --> 00:05:08.930
+your thoughts.
+
+68
+00:05:17.510 --> 00:05:20.340
+Do you have something on your mind? Let me know.
+
+69
+00:05:20.440 --> 00:05:23.300
+What do you think about my screed? Just now?
+
+70
+00:05:23.400 --> 00:05:27.760
+You can head over to streamlined feedback.com, write in or leave a voice note.
+
+71
+00:05:27.860 --> 00:05:30.120
+If you leave a voice note, I might even play it on the show.
+
+72
+00:05:30.220 --> 00:05:34.880
+Alright, let's get to recommended reading this week. The recommended reading is the
+
+73
+00:05:34.880 --> 00:05:42.620
+Unraveling of Podcaster Ashley Flowers True Crime Empire. This is from journalist
+
+74
+00:05:43.100 --> 00:05:44.930
+Ashley Carmen for Bloomberg.
+
+75
+00:05:50.660 --> 00:05:53.520
+I enjoyed the first couple of seasons of Serial.
+
+76
+00:05:53.620 --> 00:05:56.360
+I used to listen to Criminal by Phoebe Judge
+
+77
+00:05:56.460 --> 00:06:01.930
+and Dr. Death plus some limited run shows. Those were interesting to me, but
+
+78
+00:06:05.940 --> 00:06:07.620
+like an adverse effect on the way
+
+79
+00:06:07.720 --> 00:06:09.710
+I was thinking about stuff.
+
+80
+00:06:09.810 --> 00:06:13.570
+And to my knowledge, I haven't listened to any of
+
+81
+00:06:13.670 --> 00:06:17.430
+audio Chuck's shows Audio. Chuck is the company that Ashley Flowers
+
+82
+00:06:17.530 --> 00:06:18.200
+owns
+
+83
+00:06:18.300 --> 00:06:23.240
+The most interesting bit of this story for me is not necessarily
+
+84
+00:06:23.240 --> 00:06:27.600
+about Crime junkies or audio Chuck. It actually came towards the beginning of the
+
+85
+00:06:27.600 --> 00:06:31.320
+story for me and I'm gonna read this verbatim from the article.
+
+86
+00:06:31.420 --> 00:06:36.350
+A growing number of top performers from Call her Daddy's Alex Cooper to Jimmy Donaldson,
+
+87
+00:06:36.350 --> 00:06:43.140
+AKA Mr. Beast are attempting to parlay their internet clout into broader, more diversified
+
+88
+00:06:43.140 --> 00:06:43.740
+companies.
+
+89
+00:06:43.840 --> 00:06:45.920
+But such transitions can be difficult
+
+90
+00:06:51.610 --> 00:06:57.820
+leadership duties while continuing to star on podcasts or YouTube channels with intensely
+
+91
+00:06:57.820 --> 00:07:02.920
+demanding schedules. Often it amounts to a frantic juggling act for even the most
+
+92
+00:07:02.920 --> 00:07:04.540
+industrious hustlers
+
+93
+00:07:04.640 --> 00:07:05.490
+end quote.
+
+94
+00:07:05.590 --> 00:07:09.740
+I see a lot of parallels between the personalities described here and solopreneurs.
+
+95
+00:07:21.230 --> 00:07:23.430
+The resources that you have at your disposal
+
+96
+00:07:23.530 --> 00:07:24.350
+appeal,
+
+97
+00:07:24.450 --> 00:07:28.720
+something like that. You try to grow beyond yourself. You cannot do it by yourself.
+
+98
+00:07:28.820 --> 00:07:33.270
+I knew when I made the decision to stay a company of one
+
+99
+00:07:33.370 --> 00:07:39.830
+that I wasn't going to build an empire or generate massive generational wealth.
+
+100
+00:07:39.930 --> 00:07:44.440
+But I did know that I could make more than enough money to support my family
+
+101
+00:07:44.540 --> 00:07:46.290
+and spend time with my kids.
+
+102
+00:07:46.390 --> 00:07:51.170
+I think the framing of this story is also interesting to me as a dad who has made
+
+103
+00:07:51.500 --> 00:07:54.800
+very different decisions from a lot of business owners.
+
+104
+00:07:54.900 --> 00:08:00.970
+Ashley Flowers admitted that she killed a popular show to spend more time with her
+
+105
+00:08:00.970 --> 00:08:05.800
+young daughter, but later in the article it quotes her as saying this
+
+106
+00:08:05.900 --> 00:08:06.510
+quote,
+
+107
+00:08:06.610 --> 00:08:11.780
+No one at this company works more hours than I do. Yes, I am the founder, but that
+
+108
+00:08:11.780 --> 00:08:12.770
+is not why.
+
+109
+00:08:12.870 --> 00:08:16.360
+It's because I care so much about this company and the work we do.
+
+110
+00:08:16.460 --> 00:08:22.410
+I regularly set my alarm at two or 3:00 AM and work over the weekend holidays and
+
+111
+00:08:22.410 --> 00:08:23.520
+when I'm sick,
+
+112
+00:08:23.620 --> 00:08:25.220
+that statement
+
+113
+00:08:25.320 --> 00:08:27.880
+feels diametrically opposed
+
+114
+00:08:33.130 --> 00:08:37.160
+Unless you're saying, I set my alarm at two or 3:00 AM so I can work from three to
+
+115
+00:08:37.160 --> 00:08:40.490
+seven before she wakes up. But I don't think that's the implication here.
+
+116
+00:08:40.590 --> 00:08:43.900
+'cause she's also saying she works weekends, holidays
+
+117
+00:08:45.160 --> 00:08:46.910
+I think two things can be true.
+
+118
+00:08:52.760 --> 00:08:59.520
+The story routinely states how things that she tried delegating out, she took back
+
+119
+00:08:59.520 --> 00:08:59.970
+over
+
+120
+00:09:01.110 --> 00:09:06.290
+And this is a parable for us as solo operators as well.
+
+121
+00:09:06.390 --> 00:09:11.200
+How many times have you said No one can do what I can do?
+
+122
+00:09:11.300 --> 00:09:15.150
+Increasingly automated systems can take a lot off of our plate.
+
+123
+00:09:15.250 --> 00:09:17.990
+And if our goal really is time freedom,
+
+124
+00:09:21.230 --> 00:09:24.870
+well, we should let those automated systems take things off of our plate.
+
+125
+00:09:24.970 --> 00:09:26.480
+I'm not saying you need to hire,
+
+126
+00:09:26.580 --> 00:09:30.100
+I don't want to hire any full-time employees. I have a VA
+
+127
+00:09:30.200 --> 00:09:33.960
+and a couple of other contractors to do things that I literally don't know, like
+
+128
+00:09:33.960 --> 00:09:35.220
+can't do. Well I
+
+129
+00:09:35.320 --> 00:09:38.360
+don't have any employees and I never intend on having employees,
+
+130
+00:09:38.460 --> 00:09:40.780
+but that doesn't mean you can't take things off of your plate.
+
+131
+00:09:40.880 --> 00:09:42.390
+You can and you should.
+
+132
+00:09:42.490 --> 00:09:44.180
+So I think that article's really interesting.
+
+133
+00:09:44.280 --> 00:09:46.750
+Alright, let's move over to something fun.
+
+134
+00:09:46.850 --> 00:09:48.840
+The something fun this week is
+
+135
+00:09:48.940 --> 00:09:52.340
+one of my favorite YouTube channels, epic Rap Battles of history
+
+136
+00:09:52.440 --> 00:09:53.260
+or ERB
+
+137
+00:09:53.360 --> 00:09:57.180
+has a new video out Tom Cruise versus Evil Knievel.
+
+138
+00:09:57.280 --> 00:10:03.350
+I love epic rap battles of history. I think they are clever, well researched and
+
+139
+00:10:03.350 --> 00:10:09.530
+catchy. My wife, when she was pregnant with our oldest, was worried that our daughter
+
+140
+00:10:09.530 --> 00:10:14.630
+would be born knowing some of these epic rap battles of history because I listened
+
+141
+00:10:14.730 --> 00:10:16.300
+to them so much.
+
+142
+00:10:16.400 --> 00:10:20.580
+But I also appreciate that the guys took a step back from doing videos every two
+
+143
+00:10:20.580 --> 00:10:24.780
+weeks to prevent burnout from them and their team. It's kind of like the opposite
+
+144
+00:10:24.780 --> 00:10:25.560
+of what you see
+
+145
+00:10:25.660 --> 00:10:27.200
+in the Crime Junkie story.
+
+146
+00:10:27.300 --> 00:10:29.710
+They were doing too much
+
+147
+00:10:29.810 --> 00:10:35.520
+in too little of amount of time and they took a step back. And even though they went
+
+148
+00:10:35.520 --> 00:10:37.200
+from publishing fortnightly
+
+149
+00:10:42.150 --> 00:10:47.650
+This one, Tom Cruise versus Evil Knievel is just as funny as and and Clever as their
+
+150
+00:10:49.100 --> 00:10:52.500
+Plus the guy they hired to play Tom Cruise is, is
+
+151
+00:10:52.600 --> 00:10:56.510
+incredible. At first I thought it was one of the guys. Nice Peter. Then I realized
+
+152
+00:10:56.510 --> 00:10:57.110
+it wasn't. Then I
+
+153
+00:10:57.150 --> 00:10:57.590
+thought, is that,
+
+154
+00:11:01.140 --> 00:11:04.810
+Uh, so the guy that they hired to play Tom Cruise is incredible. I think he's, I
+
+155
+00:11:04.810 --> 00:11:09.190
+think his handle on Instagram is at not Tom Cruise. So
+
+156
+00:11:09.290 --> 00:11:13.410
+check him out. Really good love, love their body of work.
+
+157
+00:11:13.510 --> 00:11:15.230
+this is a really good one
+
+158
+00:11:15.330 --> 00:11:15.880
+and uh,
+
+159
+00:11:15.830 --> 00:11:18.110
+I strongly recommend the channel in general.
+
+160
+00:11:18.210 --> 00:11:21.100
+Okay, moving on to something to help your systems.
+
+161
+00:11:21.200 --> 00:11:24.720
+I wanna talk about the stream deck today. And yes, I mean I talk about,
+
+162
+00:11:24.820 --> 00:11:26.150
+the stream deck a lot.
+
+163
+00:11:26.250 --> 00:11:27.430
+usually when I'm
+
+164
+00:11:27.530 --> 00:11:32.160
+talking about my systems, right? But over the past few weeks I showed off my mad
+
+165
+00:11:32.160 --> 00:11:33.270
+stream deck skills.
+
+166
+00:11:33.370 --> 00:11:34.760
+Sorry, I'm not 20 anymore,
+
+167
+00:11:34.860 --> 00:11:38.960
+on calls and recordings and folks were really impressed by it. The ability for me
+
+168
+00:11:42.180 --> 00:11:43.540
+between cameras.
+
+169
+00:11:43.640 --> 00:11:47.130
+And while I've written about my stream decks several times,
+
+170
+00:11:47.230 --> 00:11:52.220
+it's always worth resurfacing. So in, in the description, in the show notes for this,
+
+171
+00:11:52.320 --> 00:11:54.880
+uh, you'll find a link to how I've configured my stream deck.
+
+172
+00:11:54.980 --> 00:11:58.950
+But if you're looking for a place to start, I'll put this video in the cards on YouTube.
+
+173
+00:12:05.310 --> 00:12:07.600
+And I think that that is a
+
+174
+00:12:13.150 --> 00:12:19.370
+keyboard shortcuts are great, but having a button with a label or a an icon is much,
+
+175
+00:12:19.370 --> 00:12:21.290
+much easier in my opinion. And
+
+176
+00:12:21.390 --> 00:12:23.110
+it's how I run this whole show. So
+
+177
+00:12:23.210 --> 00:12:25.170
+if you're looking for a great piece of hardware,
+
+178
+00:12:25.270 --> 00:12:27.320
+maybe there's gonna be a Labor Day sale.
+
+179
+00:12:27.420 --> 00:12:29.440
+Uh, as this episode comes out,
+
+180
+00:12:29.540 --> 00:12:32.220
+it is a week from Labor Day here in the United States.
+
+181
+00:12:32.320 --> 00:12:35.420
+Uh, the stream deck is, is a great purchase in my opinion.
+
+182
+00:12:41.380 --> 00:12:47.680
+These episodes are about taking more time off, especially on the weekends. And the
+
+183
+00:12:47.680 --> 00:12:54.310
+best way to do that is by having good systems in place, good solo ops.
+
+184
+00:12:54.410 --> 00:12:59.760
+If you join my newsletter, you will get weekly emails on top of these emails that
+
+185
+00:12:59.760 --> 00:13:04.410
+go out for the Friday wrap up. You'll get weekly emails on how to build systems that
+
+186
+00:13:04.410 --> 00:13:10.380
+will save you 25 hours per month without over-reliance on AI
+
+187
+00:13:10.480 --> 00:13:12.110
+or hiring a team.
+
+188
+00:13:12.210 --> 00:13:16.630
+You'll go from doing everything yourself to doing your most important work.
+
+189
+00:13:16.730 --> 00:13:21.930
+So you can sign up over at streamlined fm slash join.
