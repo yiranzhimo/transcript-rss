@@ -2550,6 +2550,23 @@
       "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
       "url": "https://sv101.fireside.fm/260"
     },
+    "silicon-valley-101::73a69583-98ee-43d6-a892-3e7c93012dd9": {
+      "attempts": 1,
+      "description": "<p><img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/a723-audiofreehighqps/B7/79/GAqhfD0NByqOAAHpNQRBU__s.jpg\" /></p>\n\n<p>2026年8月，Moderna与默沙东联合开发的个体化mRNA肿瘤疫苗公布三期临床积极结果，Moderna股价一度暴涨177%。这不是一款预防癌症的疫苗，而是一种为患者量身定制的治疗性疫苗。“一人一药”，似乎正在离现实越来越近。<br />\n这期视频，我们邀请到艾博生物创始人、CEO英博博士，他曾在Moderna从事mRNA相关的核心研发。我们从这次三期临床结果出发，拆解个体化肿瘤疫苗究竟如何工作、为什么要与PD-1联合使用，以及它真正证明了什么、还有哪些问题没有被证明。我们也会聊到Moderna、BioNTech以及中国公司正在探索的不同技术路线，以及“一人一药”背后真正困难的制造、自动化、成本与监管问题。<br />\n肿瘤疫苗为什么研究了二三十年，直到今天才跨过这道关键门槛？AI究竟能在新抗原预测和疫苗设计中解决多少问题，它真的能让肿瘤疫苗变成一个“软件问题”吗？如果每位患者都需要一支不同的药，这套系统又如何服务成千上万甚至更多患者？我们距离“为每一个癌症患者定制一支疫苗”，究竟还有多远？</p>\n\n<p><strong>【主播】</strong><br />\nYushan，硅谷101特约研究员<br />\n<strong>【嘉宾】</strong><br />\n英博博士，艾博生物创始人、董事长兼CEO</p>\n\n<p><img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/e1c1-audiofreehighqps/C4/B1/GKwRIDoOZqT7AAWKZQTN8jUR.jpg\" /></p>\n\n<p><strong>【你将听到】</strong><br />\n02:41 从Moderna到创业，英博博士与mRNA<br />\n08:57 Moderna三期，到底突破了什么<br />\n14:09 “一人一药”如何让免疫系统治疗癌症<br />\n18:14 制药“噩梦”：4-6周造出一支专属疫苗<br />\n24:42 未来肿瘤治疗：手术刀＋疫苗＋PD-1<br />\n27:57 34个新抗原“撒网”与肿瘤“逃逸”<br />\n31:39 黑色素瘤之后，下一个是谁？<br />\n38:12 技术路线：中国肿瘤疫苗走到了哪一步？<br />\n45:04 肿瘤疫苗会比CAR-T更安全吗？<br />\n50:14 成本：“做大容易，做小难”<br />\n54:01 “AI离开自动化，就是空谈”<br />\n59:19 AI如何应用于肿瘤疫苗的研发与制造？<br />\n01:01:26 LNP：AI还算不动的“难题”<br />\n01:06:04 “一人一药”怎么监管？<br />\n01:09:24 为什么肿瘤疫苗等了几十年</p>\n\n<p><strong>【2026 外滩大会】</strong><br />\n2026 Inclusion·外滩大会将于2026年9月9日-12日在上海黄浦世博园区举行。外滩大会是全球高级别前沿科技与金融科技盛会，本届大会还设置了超现实AI音乐会、科技展、创投meetup等趣味环节，活动免费，名额有限，先到先得。</p>\n\n<ul>\n<li>外滩Token效率论坛<a href=\"https://www.inclusionconf.com/invitelogin?inviteCode=Z1YruNrT&amp;channelType=forum_invited_major\" rel=\"nofollow noopener\">注册报名</a></li>\n<li>更多论坛信息即将公布，请关注<a href=\"https://www.inclusionconf.com/jianjieForumDetail2026?uuid=F_jeYv48Du\" rel=\"nofollow noopener\">外滩官网</a></li>\n</ul>\n\n<p><strong>【延伸阅读与相关术语】</strong><br />\n<strong>核酸药物</strong> 以DNA、RNA或其类似物为核心的一类药物，通过补充、调控或沉默遗传信息来治疗疾病。mRNA、小核酸等都属于核酸药物。<br />\n<strong>小核酸</strong> 通常指较短的寡核苷酸药物，多通过与目标RNA配对，调控或抑制特定基因的表达。mRNA通常不归入“小核酸”范畴。<br />\n<strong>mRNA（信使核糖核酸）</strong> 可以理解为细胞里的临时“蛋白质生产指令”，把遗传信息交给细胞的蛋白质合成系统，指导制造特定蛋白。<br />\n<strong>个性化肿瘤疫苗</strong> 根据每位患者自身的肿瘤突变“量身定制”疫苗，训练免疫系统识别并攻击其肿瘤。它属于治疗性疫苗，不是给健康人预防癌症的疫苗。<br />\n<strong>CMC</strong> Chemistry, Manufacturing and Controls，药物的工艺开发、生产与质量控制体系，决定一种药能否稳定、合规地从实验室走向临床和商业化。<br />\n<strong>核酸递送</strong> 把核酸药物安全、稳定地送进目标细胞，并在正确位置释放。由于RNA本身容易降解、也很难直接进入细胞，递送是核酸药物的核心技术之一。<br />\n<strong>LNP（脂质纳米颗粒）</strong> 由多种脂质自组装形成的纳米级载体，可以理解为mRNA的“运输胶囊”：包裹并保护mRNA，帮助它进入细胞。<br />\n<strong>GalNAc</strong> N-乙酰半乳糖胺，一种能“精准找到”肝细胞的糖分子，常与小核酸连接，用于实现肝脏靶向递送。<br />\n<strong>三期临床试验</strong> 药物上市前最关键的大规模验证阶段之一，通常用于进一步确认疗效和安全性，并与现有治疗或对照方案进行比较。<br />\n<strong>PD-1（程序性死亡受体 1）</strong> 位于 T 细胞表面，可以理解为免疫系统的“刹车”。很多肿瘤细胞会在表面表达 PD-L1，与 T 细胞上的 PD-1 结合后，传递抑制信号，从而降低它的活性，借此逃避免疫系统的追杀。抗 PD-1 药物通过阻断这条通路，让免疫系统重新攻击肿瘤。<br />\n<strong>RFS</strong>（Recurrence free survival）无复发生存期，通常指治疗或手术后，到肿瘤复发或死亡的时间。<br />\n<strong>免疫原性</strong> 一种物质激发人体免疫反应的能力。疫苗通常希望产生足够强的免疫原性。<br />\n<strong>免疫耐受</strong> 免疫系统对某种抗原“不攻击”或反应较弱的状态。肿瘤可以利用这种机制逃避免疫系统的清除。<br />\n<strong>Neoantigen</strong> 新抗原，肿瘤细胞发生基因突变后，会制造出一些正常细胞里没有的蛋白质。免疫系统有机会把这些“从没见过的蛋白质”识别为异常，并攻击产生它们的肿瘤细胞。<br />\n<strong>In Vitro Transcription</strong>（IVT） 体外转录，以DNA为模板，在无细胞体系中合成mRNA，是目前mRNA药物生产中的核心步骤。<br />\n<strong>SOC</strong>（Standard of Care） 标准治疗，即当前临床上普遍认可、常规采用的治疗方案，也是新疗法常用的比较基线。<br />\n<strong>DC疗法</strong> 又称树突状细胞疗法，通常把患者自身的树突状细胞取出，在体外加载肿瘤抗原后再回输，用它们“教会”T细胞识别并攻击肿瘤。<br />\n<strong>Off-the-shelf</strong> 现货型疗法，固定配方、可以提前批量生产，并用于多个符合条件的患者；相对的是“一人一药”的个性化治疗。<br />\n<strong>Driver Mutation</strong> 驱动突变，能够直接推动肿瘤发生、生长的关键基因突变。并不是所有肿瘤突变都是驱动突变。 这里后面提到的 EGFR、KRAS，都是常见的肿瘤驱动基因。<br />\n<strong>CAR-T</strong> 把患者的T细胞取出，在体外进行基因改造，让它们拥有识别特定肿瘤抗原的“雷达”，再回输患者体内杀伤肿瘤。<br />\n<strong>CRS</strong> 细胞因子释放综合征，免疫细胞短时间内被大量激活并释放细胞因子，引发发热、低血压等全身炎症反应，是CAR-T等免疫疗法的重要副作用之一。<br />\n<strong>可电离阳离子脂质</strong> LNP最关键的成分之一。在生理环境下大多接近中性，进入细胞内的酸性环境后会带正电，从而帮助mRNA释放到细胞质，同时降低毒性。<br />\n<strong>pre-F</strong> 融合前F蛋白，RSV的F蛋白在病毒与细胞融合之前的结构状态，是RSV疫苗非常重要的抗原靶点；针对pre-F可以诱导较强的中和抗体反应。</p>\n\n<p><strong>【硅谷101听友群】</strong><br />\n在这里，和同好一起深聊科技、商业与未来，期待你的声音，也期待更多有趣的讨论。<br />\n扫码加入，即刻相遇！<br />\n<img alt=\"\" src=\"https://picui.ogmua.cn/s1/2026/08/27/6a9000b56ebc1.webp\" /></p>\n\n<p><strong>【监制】</strong><br />\n泓君<br />\n<strong>【后期】</strong><br />\nAmei<br />\n<strong>【运营】</strong><br />\n朱婕<br />\n<strong>【BGM】</strong><br />\nSpring Dance - Forever Sunset<br />\nMindscape - Lennon Hutton<br />\nHigh 118 - Wendel Scherer<br />\nRadar Focus - Blue Saga<br />\nUnfinished Stories - Lennon Hutton</p>\n\n<p><strong>【在这里找到我们】</strong><br />\n公众号：硅谷101<br />\n收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐<br />\n其他平台：YouTube｜Bilibili 搜索「硅谷101播客」<br />\n联系我们：<a href=\"mailto:podcast@sv101.net\" rel=\"nofollow noopener\">podcast@sv101.net</a></p><p>Special Guest: 英博.</p>",
+      "external_id": "73a69583-98ee-43d6-a892-3e7c93012dd9",
+      "item_slug": "silicon-valley-101-6a80d733c3e5",
+      "language": "zh",
+      "published_at": "2026-08-28T00:45:00+00:00",
+      "published_to_feed_at": "2026-08-28T11:38:53.422423+00:00",
+      "source_id": "silicon-valley-101",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破",
+      "title_zh": "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
+      "url": "https://sv101.fireside.fm/263"
+    },
     "silicon-valley-101::90f96f60-25be-45ac-b832-56776a23d534": {
       "attempts": 1,
       "description": "<p><img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/c4ce-audiofreehighqps/29/FA/GAqhI8INmcS2AAHpNQR_oxXw.jpg\" /></p>\n\n<p>近年来，癌症治疗正迎来多个技术平台并行演进、加速迭代的新阶段：从ADC、双特异性抗体、放射性配体疗法，到细胞治疗，整个行业都在经历一轮底层技术工具的升级。其中，CAR-T是最具范式转换意义的一类疗法——它首次在部分血液肿瘤中，把“利用工程化改造的免疫细胞精准清除癌细胞”带入了临床现实。更值得关注的是，2025年以来，跨国药企的押注明显转向体内CAR-T：阿斯利康、艾伯维、百时美施贵宝和礼来等公司，先后收购了仍处于临床前或早期临床阶段的相关企业；其中金额最大的一笔，是礼来于2026年4月20日宣布收购Kelonia，交易总额最高达70亿美元。<br />\n为什么大药企会在这个时点密集下注？CAR-T到底是一种什么样的治疗方式？它会成为改写癌症治疗格局的关键武器吗？本期节目，我们有幸邀请到深耕CAR-T与细胞治疗领域二十多年、也是体外CAR-T领域专利布局最丰富的亚裔科学家之一的刘诚博士，和我们一起回顾CAR-T与癌症治疗的发展脉络，拆解这项技术的突破、局限与未来。节目最后，刘诚博士还从更大的视角谈到了癌症本身以及癌症治疗的底层逻辑，或许也会帮助我们重新理解这种疾病。</p>\n\n<p><strong>【主播】</strong><br />\nYushan，硅谷101特约研究员，生物医药行业从业者<br />\n泓君，硅谷101创始人，播客主理人</p>\n\n<p><strong>【嘉宾】</strong><br />\n刘诚，美国Eureka Therapeutics创始人兼CEO，Estrella Immunopharma（Nasdaq上市公司）创始人兼CEO，JW Therapeutics（药明巨诺，香港上市公司）董事会主席</p>\n\n<p><strong>【你将听到】</strong><br />\n02:48 CAR-T（嵌合抗原受体T细胞疗法）：用患者自己的免疫细胞治疗自身癌症，这个观念本身就是一场革命<br />\n05:56 CAR-T像一艘军舰：嵌合抗原受体像导航系统，用来寻找癌细胞表面的靶点蛋白（抗原）<br />\n06:45 体外CAR-T的制作过程高度个性化，因此治疗成本很高<br />\n10:38 CAR-T的疗效相比传统癌症疗法强在哪里<br />\n13:33 体外自体CAR-T的常规制备接近一个月，快速制备技术FasTCAR可将时间加快一周左右<br />\n14:30 异体CAR-T：利用供体免疫细胞缩短治疗时间，但过去几年整体疗效表现有限<br />\n17:19 体内CAR-T：仍然利用自体免疫细胞治病，但细胞改造过程在患者体内完成<br />\n18:19 体内CAR-T在概念上很理想，但技术实现非常复杂<br />\n21:35 CAR-T的现实挑战：目前仍主要对于血液肿瘤有效<br />\n22:55 体外CAR-T制备成本约15万美元；体内CAR-T有望将成本降低约10倍；中国制造成本大约是美国的40%<br />\n25:48 为什么CAR-T治疗实体瘤更难<br />\n30:17 肿瘤微环境和免疫抑制的存在，进一步限制了免疫细胞治疗实体瘤<br />\n32:01 诺奖得主Jennifer Doudna参与创立的Azalea：希望通过CRISPR技术提升体内CAR-T的一致性与可靠性<br />\n34:07 人体免疫系统为什么会有免疫抑制功能<br />\n38:42 CAR-T诞生之初主要用于末线肿瘤；随着疗效逐步验证，开始进入更前线、惠及更多患者<br />\n41:26 CAR-T的关键价值在于一部分患者能够获得长期缓解；如何解决其余复发患者的问题，是当前研究重点<br />\n43:04 脱靶效应和髓外肿瘤，被认为是CAR-T治疗后复发的可能根源<br />\n44:07 细胞因子风暴等不良反应，限制了CAR-T的应用和推广<br />\n48:12 为什么中国在CAR-T领域走在全球前列：研发基础、监管环境、患者资源与医疗体系效率<br />\n53:29 体内CAR-T更偏工程应用范畴；在这类技术的追赶和产业化上，中国具备明显优势<br />\n54:58 CAR-T在国内存在两条监管路径：药品审批和医疗技术管理并存<br />\n58:36 如何理解人体细胞之间的分工与协作<br />\n59:26 如何理解癌细胞在人体内是一种怎样的存在<br />\n1:02:03 癌症治疗的基本思路，是尽可能有效地区分并杀死癌细胞<br />\n1:02:24 如何理解癌症的不同疗法与治疗思路<br />\n1:04:39 为什么CAR-T可能是治疗癌症最强的武器之一<br />\n1:06:07 CAR-T的未来发展方向：从血液瘤扩展到实体瘤<br />\n1:06:32 体外CAR-T的优势是可控性和质量；体内CAR-T试图解决的是成本和商业化问题，未来更可能是并存而不是替代<br />\n1:07:47 癌症可以被治愈吗？刘诚博士的判断：“最多20年”<br />\n1:08:39 如何定义“治愈”：不要死于癌症</p>\n\n<p><strong>【相关名词解释】</strong><br />\nT细胞：免疫系统中负责识别并清除异常细胞的一类白细胞<br />\nCAR-T：把T细胞工程化改造后，用来更精准识别和杀伤癌细胞的细胞疗法<br />\n体外CAR-T：把患者的T细胞取出，在体外完成改造后再回输体内<br />\n免疫原性：一种物质引发人体免疫反应的能力<br />\n基因编辑：对细胞DNA进行定点修改的技术<br />\n抗体：能特异性识别某个目标分子的免疫蛋白<br />\n抗原：能被免疫系统识别的分子标记<br />\n靶点：药物或免疫细胞作用的具体分子目标<br />\n嵌合受体：人工设计的受体，把不同功能模块拼接在一起，用来让细胞识别特定目标<br />\nLeukapheresis：通过机器从血液中分离并采集白细胞的过程<br />\nCD19：B细胞表面常见的一种蛋白，也是多种CAR-T疗法的重要靶点<br />\nALL：急性淋巴细胞白血病，一类进展较快的血液系统恶性肿瘤<br />\nQA/QC：质量保证与质量控制，用来确保产品生产过程和最终质量符合标准<br />\nFasTCAR：一种加快CAR-T制备流程的技术平台，目标是缩短生产时间<br />\n异体CAR-T（allogeneic CAR-T）：使用供体而非患者本人来源的T细胞制备的CAR-T<br />\n自体CAR-T（autologous CAR-T）：使用患者本人T细胞制备的CAR-T<br />\nGVHD：移植物抗宿主病，指移植来的免疫细胞反过来攻击患者自身组织<br />\n慢病毒：一类常用于基因递送的病毒载体，可把目的基因导入细胞<br />\n载体：把基因编辑工具或治疗性基因送入细胞的递送工具<br />\nComplete response：完全缓解，指经过治疗后已检测不到明确的肿瘤证据<br />\n血液瘤/实体瘤：血液瘤发生在血液、骨髓或淋巴系统；实体瘤是在器官或组织中形成肿块的肿瘤<br />\n浸润：肿瘤细胞或免疫细胞进入并扩散到周围组织的过程<br />\n肿瘤微环境：肿瘤周围由免疫细胞、血管、基质和信号分子共同构成的局部生态系统<br />\n免疫抑制：免疫系统的攻击能力被压低，导致其更难清除癌细胞或病原体<br />\nCRISPR：一种可对DNA进行定点剪切和修改的基因编辑工具<br />\n去分化：细胞失去原有成熟特征，变得更像早期或更原始状态的过程<br />\nTreg：调节性T细胞，主要作用是抑制过强的免疫反应、维持免疫平衡<br />\n一线/末线治疗：一线是首选初始治疗；末线是前面多种方案失败后使用的后续治疗<br />\nPFS / EFS：PFS是无进展生存期，指疾病未恶化的时间；EFS是无事件生存期，除进展外还会把复发、治疗失败或死亡等算作事件<br />\n髓外肿瘤：发生在骨髓外部组织或器官的血液系统肿瘤病灶<br />\nCRS：细胞因子释放综合征，是免疫治疗后因炎症因子大量释放引起的全身炎症反应<br />\nICANS：免疫效应细胞相关神经毒性综合征，是CAR-T等治疗后出现的神经系统不良反应<br />\nCDE：国家药品监督管理局药品审评中心，负责药品注册申请的技术审评<br />\nIIT：研究者发起的临床试验，由医院或研究者主导开展<br />\n818号令：中国国务院发布的《生物医学新技术临床研究和临床转化应用管理条例》，自2026年5月1日起施行，是针对细胞治疗、基因编辑等前沿生物医学技术的重要监管规则<br />\nCarl June：美国宾夕法尼亚大学的肿瘤学家和科学家，被广泛视为CAR-T疗法的先驱人物之一<br />\n小分子：一类分子量较小、通常可进入细胞内部发挥作用的药物<br />\nADC：抗体偶联药物，用抗体把细胞毒药物更精准地送到肿瘤细胞<br />\nToxin：毒素，在ADC等药物中通常指用于杀伤细胞的细胞毒载荷<br />\n伽马刀：利用高剂量聚焦射线精准破坏病灶的放射治疗设备，并不是真正的“刀”</p>\n\n<p><strong>【监制】</strong><br />\n泓君<br />\n<strong>【后期】</strong><br />\nAmei<br />\n<strong>【运营】</strong><br />\n朱婕<br />\n<strong>【BGM】</strong><br />\nThe Vindicator Waltz - FormantX<br />\nPulse Runner - Helmut Schenker<br />\nMy Moon and Your Sun - Hampus Naeselius</p>\n\n<p><strong>【在这里找到我们】</strong><br />\n公众号：硅谷101<br />\n收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐<br />\n其他平台：YouTube｜Bilibili 搜索「硅谷101播客」<br />\n联系我们：<a href=\"mailto:podcast@sv101.net\" rel=\"nofollow noopener\">podcast@sv101.net</a></p><p>Special Guest: 刘诚.</p>",
@@ -3722,6 +3739,23 @@
       "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://a16z.simplecast.com/episodes/stripes-ai-strategy-build-more-not-less-0w7FfhZZ"
+    },
+    "the-a16z-show::a3717c93-a145-4f25-9fe6-6b47cd11b9d1": {
+      "attempts": 1,
+      "description": "Ben Horowitz, Martin Casado, Raghu Raghuram, and Erik Torenberg discuss the launch of a16z's new Machine Age Fund and the infrastructure buildout behind AI, from chips, memory, and networking to power, cooling, and data centers.\n\nWhy a dedicated fund now? The group argues that the bottleneck in AI is increasingly shifting from the models themselves to everything beneath them. Hyperscaler CapEx is surging, critical components are booked years in advance, and each new generation of reasoning and agents requires dramatically more compute. They unpack why this cycle looks different from previous infrastructure booms and how AI is turning problems once constrained by engineering into problems that can increasingly be attacked with capital and compute.\n\nThey also explore where the next generation of infrastructure companies could emerge, why founders are returning to hard technical problems across hardware and systems, and what it will take to rebuild the computing stack for the Machine Age.",
+      "external_id": "a3717c93-a145-4f25-9fe6-6b47cd11b9d1",
+      "item_slug": "the-a16z-show-64e9842c7526",
+      "language": "en",
+      "published_at": "2026-08-28T10:00:00+00:00",
+      "published_to_feed_at": "2026-08-28T11:39:14.392102+00:00",
+      "source_id": "the-a16z-show",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "The Infrastructure Behind the Machine Age",
+      "title_zh": "机器时代背后的基础设施",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://a16z.simplecast.com/episodes/the-infrastructure-behind-the-machine-age-M3g5NamY"
     },
     "the-a16z-show::a78dd082-711f-4b91-9bd2-cadaf858b07c": {
       "attempts": 1,
@@ -6107,15 +6141,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:22:07.328404+00:00",
-      "last_modified": "Thu, 27 Aug 2026 22:10:16 GMT",
+      "last_checked_at": "2026-08-28T11:32:11.052963+00:00",
+      "last_modified": "Fri, 28 Aug 2026 11:20:09 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:21:09.979095+00:00",
+      "last_checked_at": "2026-08-28T11:30:58.749666+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -6123,14 +6157,14 @@
     "feng-tou-quan": {
       "etag": "W/\"f7cd272e52b486218671534318454659\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:20:07.298483+00:00",
+      "last_checked_at": "2026-08-28T11:29:54.043071+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:23:40.294808+00:00",
+      "last_checked_at": "2026-08-28T11:32:34.041341+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
@@ -6138,14 +6172,14 @@
     "gao-qian-nu-hai": {
       "force_refresh": false,
       "last_attempt_at": "2026-08-26T13:21:20.005733+00:00",
-      "last_checked_at": "2026-08-27T22:20:03.778549+00:00",
+      "last_checked_at": "2026-08-28T11:29:49.120867+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:19:26.679776+00:00",
+      "last_checked_at": "2026-08-28T11:30:01.156370+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -6153,7 +6187,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:24:41.737826+00:00",
+      "last_checked_at": "2026-08-28T11:33:40.464954+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -6162,26 +6196,26 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"3a4020ffe2a0b168b27ffcc34bd62a8c\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:21:41.785917+00:00",
+      "last_checked_at": "2026-08-28T11:32:01.826712+00:00",
       "last_modified": "Thu, 27 Aug 2026 12:41:27 GMT",
       "title": "声东击西",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/shengdongjixi/rss"
     },
     "silicon-valley-101": {
-      "etag": "W/\"8039fc7261f3d7c160aa90ebfd3444ef\"",
+      "etag": "W/\"cbfad4777ad4e9fd115eff10ebf09a5f\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:20:25.326796+00:00",
-      "last_modified": "Thu, 27 Aug 2026 15:15:00 GMT",
+      "last_checked_at": "2026-08-28T11:30:46.876024+00:00",
+      "last_modified": "Fri, 28 Aug 2026 01:20:08 GMT",
       "title": "硅谷101",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/sv101/rss"
     },
     "streamlined-solopreneur": {
-      "etag": "W/\"99e96f59211c5478a0370537efd867c1\"",
+      "etag": "W/\"683f58051cb68b9b6680b075ae369c90\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:26:51.278343+00:00",
-      "last_modified": "Thu, 27 Aug 2026 12:19:12 GMT",
+      "last_checked_at": "2026-08-28T11:34:28.676457+00:00",
+      "last_modified": "Fri, 28 Aug 2026 11:24:11 GMT",
       "title": "Streamlined Solopreneur: Save 25 Hours Per Month Without Relying on AI",
       "type": "podcast",
       "url": "https://feeds.transistor.fm/streamlined"
@@ -6189,33 +6223,33 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"b5a0f4707c8ded6de1989d713c313681\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:21:34.508881+00:00",
+      "last_checked_at": "2026-08-28T11:30:53.047329+00:00",
       "last_modified": "Wed, 26 Aug 2026 04:32:11 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"cdb54925a95f6314f22ff081583beddf\"",
+      "etag": "W/\"9110673da46c9461b606e2e986ab0b38\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:23:13.030036+00:00",
-      "last_modified": "Thu, 27 Aug 2026 10:00:27 GMT",
+      "last_checked_at": "2026-08-28T11:33:33.899629+00:00",
+      "last_modified": "Fri, 28 Aug 2026 10:00:29 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:25:44.391081+00:00",
+      "last_checked_at": "2026-08-28T11:33:32.808000+00:00",
       "last_modified": "Thu, 27 Aug 2026 18:32:36 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
       "url": "https://feeds.megaphone.fm/PPLLC8974708240"
     },
     "the-psychology-of-money-with-morgan-housel": {
-      "etag": "W/\"27e73-w+iGX9wgtYot6b4oOdH5gH7N7pc\"",
+      "etag": "W/\"27e73-9urwksBKR7R6sBn7Nj6IUOfS1+8\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:27:45.715172+00:00",
+      "last_checked_at": "2026-08-28T11:35:37.026358+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
@@ -6223,7 +6257,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"9365d5b07d75656ffaa7d9da23cdc885\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:27:18.531908+00:00",
+      "last_checked_at": "2026-08-28T11:35:32.773594+00:00",
       "last_modified": "Thu, 27 Aug 2026 09:36:48 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -6231,7 +6265,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:26:28.032366+00:00",
+      "last_checked_at": "2026-08-28T11:34:36.685826+00:00",
       "last_modified": "Wed, 19 Aug 2026 20:30:01 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -6239,26 +6273,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:19:40.745641+00:00",
+      "last_checked_at": "2026-08-28T11:29:51.042722+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:21:17.907854+00:00",
+      "last_checked_at": "2026-08-28T11:31:45.107087+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-27T22:20:43.125976+00:00",
+      "last_checked_at": "2026-08-28T11:31:05.503624+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-08-27T22:29:29.604715+00:00",
+  "updated_at": "2026-08-28T11:39:45.083311+00:00",
   "version": 1
 }
