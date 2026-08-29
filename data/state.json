@@ -3587,6 +3587,23 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://a16z.simplecast.com/episodes/the-state-of-ai-macro-apps-and-consumer-0SpxP4t2"
     },
+    "the-a16z-show::59027622-5673-45c8-a068-0fe18b34022c": {
+      "attempts": 1,
+      "description": "Ryan Greenblatt, Chief Scientist at Redwood Research, joins MTS host Theo Jaffee to unpack a new independent investigation into the OpenAI Hugging Face hacking incident and what it reveals about how large groups of AI agents behave when they're allowed to coordinate.\nRyan and his collaborators found agents spontaneously organizing through message boards, sharing information, assigning tasks, forming teams, and even sacrificing their own chances of success to help other agents. Rather than simply trying to steal answers, hundreds of agents were working together on elaborate strategies to manipulate how their performance would be scored.\nTheo and Ryan discuss why this level of coordination was surprising, how reward hacking may emerge during training, and the risk that attempts to eliminate bad behavior could simply make it harder to detect. They also explore what the incident means for AI monitoring and alignment, and why independent risk assessment may become increasingly important as agents grow more capable.",
+      "external_id": "59027622-5673-45c8-a068-0fe18b34022c",
+      "item_slug": "the-a16z-show-7c438712f198",
+      "language": "en",
+      "published_at": "2026-08-29T10:00:00+00:00",
+      "published_to_feed_at": "2026-08-29T16:53:38.210735+00:00",
+      "source_id": "the-a16z-show",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "Why 1,200 AI Agents Started Working Together | Ryan Greenblatt",
+      "title_zh": "为什么1,200个AI代理开始合作 | Ryan Greenblatt",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://a16z.simplecast.com/episodes/why-1-200-ai-agents-started-working-together-ryan-greenblatt-i7A557W2"
+    },
     "the-a16z-show::6ca3b211-07cb-478b-8ae6-95e3c06d26ef": {
       "attempts": 1,
       "description": "This week, a16z American Dynamism Films premiered three short documentaries highlighting companies tackling some of America's biggest industrial challenges: Ulysses, Mariana Materials, and Radiant. Before watching those films, we're revisiting conversations with the founders behind each company.\nYou'll hear Will O'Brien explain why autonomous underwater robots could unlock a new era of ocean exploration and security, Turner Caldwell discuss rebuilding America's critical minerals supply chain and modernizing mining, and Doug Bernauer share why portable nuclear microreactors could transform how we generate power. Together, these conversations offer a look at the technologies—and the founders—working to rebuild the industrial foundations of the United States.",
@@ -6192,15 +6209,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:11:38.569917+00:00",
-      "last_modified": "Sat, 29 Aug 2026 06:55:14 GMT",
+      "last_checked_at": "2026-08-29T16:48:36.069927+00:00",
+      "last_modified": "Sat, 29 Aug 2026 16:44:07 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:10:45.135315+00:00",
+      "last_checked_at": "2026-08-29T16:47:33.400379+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -6208,14 +6225,14 @@
     "feng-tou-quan": {
       "etag": "W/\"f7cd272e52b486218671534318454659\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:09:26.142202+00:00",
+      "last_checked_at": "2026-08-29T16:46:36.360305+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:11:48.490334+00:00",
+      "last_checked_at": "2026-08-29T16:48:44.316163+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
@@ -6223,14 +6240,14 @@
     "gao-qian-nu-hai": {
       "force_refresh": false,
       "last_attempt_at": "2026-08-26T13:21:20.005733+00:00",
-      "last_checked_at": "2026-08-29T07:09:41.019270+00:00",
+      "last_checked_at": "2026-08-29T16:46:43.291194+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:09:36.735923+00:00",
+      "last_checked_at": "2026-08-29T16:47:01.286619+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -6238,7 +6255,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:12:14.610239+00:00",
+      "last_checked_at": "2026-08-29T16:49:22.334848+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -6247,7 +6264,7 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"3a4020ffe2a0b168b27ffcc34bd62a8c\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:11:11.162811+00:00",
+      "last_checked_at": "2026-08-29T16:48:33.626934+00:00",
       "last_modified": "Thu, 27 Aug 2026 12:41:27 GMT",
       "title": "声东击西",
       "type": "podcast",
@@ -6256,7 +6273,7 @@
     "silicon-valley-101": {
       "etag": "W/\"96f44609f72d187ff9eec872f29a5019\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:10:23.082935+00:00",
+      "last_checked_at": "2026-08-29T16:47:31.130262+00:00",
       "last_modified": "Sat, 29 Aug 2026 03:55:40 GMT",
       "title": "硅谷101",
       "type": "podcast",
@@ -6265,7 +6282,7 @@
     "streamlined-solopreneur": {
       "etag": "W/\"ea214eeb4358b807fdb4cc02ff56b1de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:12:52.302463+00:00",
+      "last_checked_at": "2026-08-29T16:50:10.101875+00:00",
       "last_modified": "Fri, 28 Aug 2026 13:49:31 GMT",
       "title": "Streamlined Solopreneur: Save 25 Hours Per Month Without Relying on AI",
       "type": "podcast",
@@ -6274,24 +6291,24 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"b5a0f4707c8ded6de1989d713c313681\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:10:44.454449+00:00",
+      "last_checked_at": "2026-08-29T16:47:50.788271+00:00",
       "last_modified": "Wed, 26 Aug 2026 04:32:11 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"9110673da46c9461b606e2e986ab0b38\"",
+      "etag": "W/\"7a50eeaca79a595ca707bc447ad98b65\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:12:05.331090+00:00",
-      "last_modified": "Fri, 28 Aug 2026 10:00:29 GMT",
+      "last_checked_at": "2026-08-29T16:49:14.179750+00:00",
+      "last_modified": "Sat, 29 Aug 2026 10:00:27 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:12:47.600542+00:00",
+      "last_checked_at": "2026-08-29T16:49:42.751076+00:00",
       "last_modified": "Fri, 28 Aug 2026 19:13:30 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
@@ -6300,7 +6317,7 @@
     "the-psychology-of-money-with-morgan-housel": {
       "etag": "W/\"2831d-c3+pZFSdcav+rajpUvFVcJByPbY\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:13:40.678117+00:00",
+      "last_checked_at": "2026-08-29T16:51:17.416445+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
@@ -6308,7 +6325,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"9365d5b07d75656ffaa7d9da23cdc885\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:13:22.492601+00:00",
+      "last_checked_at": "2026-08-29T16:50:41.617457+00:00",
       "last_modified": "Thu, 27 Aug 2026 09:36:48 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -6316,7 +6333,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:12:49.601983+00:00",
+      "last_checked_at": "2026-08-29T16:50:22.277076+00:00",
       "last_modified": "Wed, 19 Aug 2026 20:30:01 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -6324,26 +6341,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:09:26.204557+00:00",
+      "last_checked_at": "2026-08-29T16:46:39.122321+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:11:17.294730+00:00",
+      "last_checked_at": "2026-08-29T16:48:27.749699+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-29T07:10:21.633560+00:00",
+      "last_checked_at": "2026-08-29T16:47:33.793591+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-08-29T07:14:04.760297+00:00",
+  "updated_at": "2026-08-29T16:54:00.106763+00:00",
   "version": 1
 }
