@@ -3689,6 +3689,23 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://a16z.simplecast.com/episodes/inside-cursor-the-anatomy-of-a-generational-startup-eVZ_egyp"
     },
+    "the-a16z-show::8fe5cec4-1819-471b-b826-50cc7292e4f5": {
+      "attempts": 1,
+      "description": "a16z Managing Partner and Head of Global Partnerships Jen Kha joins MTS hosts Theo Jaffee and Sophia Dew to discuss a16z's Machine Age Fund and the investment thesis behind rebuilding the physical infrastructure that powers AI.\nJen explains why chips, networking, memory, cooling, data centers, and other parts of the physical computing stack are becoming investable again after decades in which software captured much of the industry's attention. As AI demand pushes existing infrastructure to its limits, she explains why a16z created a dedicated fund and why hardware founders are increasingly rethinking the stack from first principles.\nThey also discuss the global race to adopt AI, what hardware startups need beyond capital, the backlash against data centers in the U.S., and why experienced systems builders are returning to entrepreneurship as a new generation of infrastructure gets built.",
+      "external_id": "8fe5cec4-1819-471b-b826-50cc7292e4f5",
+      "item_slug": "the-a16z-show-8588a0cc833c",
+      "language": "en",
+      "published_at": "2026-08-30T10:00:00+00:00",
+      "published_to_feed_at": "2026-08-30T16:51:44.220965+00:00",
+      "source_id": "the-a16z-show",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "Why a16z Launched the Machine Age Fund | Jen Kha",
+      "title_zh": "为什么a16z推出机器时代基金 | Jen Kha",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://a16z.simplecast.com/episodes/why-a16z-launched-the-machine-age-fund-jen-kha-MopZc0wl"
+    },
     "the-a16z-show::90707990-5bff-46f5-a7eb-bf041ec1b5f3": {
       "attempts": 1,
       "description": "Joel De La Garza is joined by Dylan Ayrey, co-founder and CEO of Truffle Security, and Feross Aboukhadijeh, founder and CEO of Socket, to discuss one of the biggest shifts happening in cybersecurity: AI models are no longer just finding vulnerabilities—they're exploiting them. As frontier models become increasingly capable of hacking, software security, supply chain attacks, and cyber defense are entering a fundamentally new era.\nThe conversation explores AI-powered hacking, software supply chain attacks, leaked credentials, zero-day vulnerabilities, package manager security, and why the path of least resistance for increasingly autonomous AI systems may also be the most dangerous. They also discuss what enterprises, developers, and the open-source ecosystem need to do to adapt as the gap between vulnerability discovery and exploitation continues to shrink.",
@@ -6226,15 +6243,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:32:03.663149+00:00",
-      "last_modified": "Sun, 30 Aug 2026 05:13:55 GMT",
+      "last_checked_at": "2026-08-30T16:47:39.218424+00:00",
+      "last_modified": "Sun, 30 Aug 2026 16:44:24 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:31:11.634786+00:00",
+      "last_checked_at": "2026-08-30T16:46:36.756987+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -6242,14 +6259,14 @@
     "feng-tou-quan": {
       "etag": "W/\"f7cd272e52b486218671534318454659\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:30:21.900965+00:00",
+      "last_checked_at": "2026-08-30T16:45:28.068291+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:32:03.001528+00:00",
+      "last_checked_at": "2026-08-30T16:47:50.142207+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
@@ -6257,14 +6274,14 @@
     "gao-qian-nu-hai": {
       "force_refresh": false,
       "last_attempt_at": "2026-08-26T13:21:20.005733+00:00",
-      "last_checked_at": "2026-08-30T05:30:20.352947+00:00",
+      "last_checked_at": "2026-08-30T16:45:27.128409+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:30:15.654076+00:00",
+      "last_checked_at": "2026-08-30T16:45:38.520596+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -6272,7 +6289,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:32:52.140637+00:00",
+      "last_checked_at": "2026-08-30T16:48:01.150749+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -6281,51 +6298,51 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"3a4020ffe2a0b168b27ffcc34bd62a8c\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:32:05.668567+00:00",
+      "last_checked_at": "2026-08-30T16:47:06.053811+00:00",
       "last_modified": "Thu, 27 Aug 2026 12:41:27 GMT",
       "title": "声东击西",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/shengdongjixi/rss"
     },
     "silicon-valley-101": {
-      "etag": "W/\"96f44609f72d187ff9eec872f29a5019\"",
+      "etag": "W/\"7cabe375ff28bb26afff07d798023f59\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:31:07.659533+00:00",
-      "last_modified": "Sat, 29 Aug 2026 03:55:40 GMT",
+      "last_checked_at": "2026-08-30T16:46:00.605255+00:00",
+      "last_modified": "Sun, 30 Aug 2026 05:34:44 GMT",
       "title": "硅谷101",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/sv101/rss"
     },
     "streamlined-solopreneur": {
-      "etag": "W/\"8a0abbe763f0bf0c2192cf9d8f0f4b22\"",
+      "etag": "W/\"945bfb885c764dbd80c384f21bed7071\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:33:42.433005+00:00",
-      "last_modified": "Sun, 30 Aug 2026 05:03:00 GMT",
-      "title": "Streamlined Solopreneur: Save 25 Hours Per Month Without Relying on AI",
+      "last_checked_at": "2026-08-30T16:48:45.598359+00:00",
+      "last_modified": "Sun, 30 Aug 2026 16:33:16 GMT",
+      "title": "Streamlined Solopreneur: Solo Ops to Stop Doing Everything Yourself",
       "type": "podcast",
       "url": "https://feeds.transistor.fm/streamlined"
     },
     "sui-ji-bo-dong": {
       "etag": "W/\"b5a0f4707c8ded6de1989d713c313681\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:31:14.950791+00:00",
+      "last_checked_at": "2026-08-30T16:46:46.283206+00:00",
       "last_modified": "Wed, 26 Aug 2026 04:32:11 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"7a50eeaca79a595ca707bc447ad98b65\"",
+      "etag": "W/\"b18cc19a6787187bbaee8d542a209bfe\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:32:47.100744+00:00",
-      "last_modified": "Sat, 29 Aug 2026 10:00:27 GMT",
+      "last_checked_at": "2026-08-30T16:48:06.894088+00:00",
+      "last_modified": "Sun, 30 Aug 2026 10:00:26 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:32:55.890628+00:00",
+      "last_checked_at": "2026-08-30T16:48:33.297566+00:00",
       "last_modified": "Sun, 30 Aug 2026 00:00:00 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
@@ -6334,7 +6351,7 @@
     "the-psychology-of-money-with-morgan-housel": {
       "etag": "W/\"2831d-c3+pZFSdcav+rajpUvFVcJByPbY\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:33:55.730237+00:00",
+      "last_checked_at": "2026-08-30T16:49:56.772485+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
@@ -6342,7 +6359,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"9365d5b07d75656ffaa7d9da23cdc885\"",
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:33:33.210005+00:00",
+      "last_checked_at": "2026-08-30T16:50:02.162975+00:00",
       "last_modified": "Thu, 27 Aug 2026 09:36:48 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -6350,7 +6367,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:33:06.533043+00:00",
+      "last_checked_at": "2026-08-30T16:48:41.418512+00:00",
       "last_modified": "Wed, 19 Aug 2026 20:30:01 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -6358,26 +6375,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:30:18.864554+00:00",
+      "last_checked_at": "2026-08-30T16:45:17.624872+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:31:49.118506+00:00",
+      "last_checked_at": "2026-08-30T16:46:54.545819+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-08-30T05:31:01.818804+00:00",
+      "last_checked_at": "2026-08-30T16:46:19.223241+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-08-30T05:44:03.828263+00:00",
+  "updated_at": "2026-08-30T16:52:14.642654+00:00",
   "version": 1
 }

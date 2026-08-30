@@ -1,0 +1,233 @@
+WEBVTT
+
+1
+00:00:00.020 --> 00:00:21.310
+South Korea, by the way, just announced that they're giving premium AI to every citizen as sort of a public utility thing. So very, very, very topical. But by the way, it's not just them. It's El Salvador. They implemented GROC in their schools, for example, for free, and they're utilizing AI doctors, for example. And you see these different examples around the world where...
+
+2
+00:00:21.310 --> 00:00:50.380
+They're accelerating their AI development and adoption way faster than in the US. We might also see the influx of a lot of this data center supply chain build up happen overseas because of the sentiment in the US as well. For decades, venture capital moved further and further away from hardware. AI is pulling it back. GenCOP, managing partner and head of global partnerships at E16Z, joins Theo Jaffe and Sophia Dew on NTS,
+
+3
+00:00:50.380 --> 00:01:19.540
+to discuss A16Z's machine age fund and why the physical infrastructure underneath AI is suddenly one of the most active areas for founders. They get into why the existing stack wasn't designed for today's AI workloads, what meets to change across chips, networking, memory, cooling, and data centers, and why hardware has gone from a tiny fraction of the pitch's A16ZCs to more than 20%. Jen also explains why this infrastructure race is increasingly global.
+
+4
+00:01:19.540 --> 00:01:36.480
+how governments and institutional investors are thinking about AI as a national priority, and why, as she puts it, what's old is new again. Hello everyone and welcome back to MTS. Andresen Horowitz just launched a new 1.1
+
+5
+00:01:36.480 --> 00:01:56.350
+billion dollar machine age fund, focused on the physical structure underneath AI. From chips and networking to data centers, robotics and energy. And joining us today is Jen Kaugh, who's a managing partner and head of global partnerships at A16Z to talk about the machine age fund and the investment thesis behind it. Jen, welcome to MTS.
+
+6
+00:01:56.350 --> 00:02:24.320
+Hello. Hello. It's good to be here. Great to have you here. I know Theo just said a big woo, but it's pretty exciting and we wanted to talk about why this machine age fund, why now? For sure. By the way, the classic adage is sell in May and go away. This has been the most prolific summer and all the fact that we're announcing a fund on August 28th when typically, you know, Wall Street is dead is like a classic sign of where we are in the cycle and the time, which is just, there's so much going on.
+
+7
+00:02:24.320 --> 00:02:51.220
+But we announced this $1.1 billion machine age fund to invest into all of the physical constructs of the world that is now so bottlenecked, given all of the demands in AI. Think about it as everything below the software stack. We've got our Infra fund, which invests into products for developers. We've got our apps fund, which sells into business to business and business to consumer. This is below all that. All the physical parts of enabling.
+
+8
+00:02:51.220 --> 00:03:10.850
+AI from data centers to chips to custom silicon networking, Raxxix, all the stuff in the physical world that was honestly largely an uninvestable category for the most part for the last 30 years because we kind of built that infrastructure out for the last era of the internet. And then of course, of SaaS, that's all now getting rebuilt.
+
+9
+00:03:10.850 --> 00:03:35.500
+because AI is way more mathematically intensive and compute intensive and all that infrastructure, sort of the poor man's version that we're limping along with today needs to be repurposed for the AI age going forward. So why a separate vehicle rather than doing this investment through like the main like growth and for and other funds? Yeah, so so our view is
+
+10
+00:03:35.500 --> 00:04:03.900
+You know, our job is to follow the entrepreneurs, right? My partner Chris Stixson calls it following the nerd energy. Like what is the nerd doing on nights and weekends is probably what us normies will be doing in the future. And oftentimes entrepreneurs are that early signal into that. And so the reason why we decided to establish a separate fund is one, there's just a groundswell of opportunity. So we went from, you know, Mark had famously said software is in the world. Turns out AI has solved software, right? Any software of need.
+
+11
+00:04:03.900 --> 00:04:33.680
+you have today, AI can actually do it. But we have to solve for all the physical constraints in order for AI to actually solve for software. And so by creating a separate fund, we're putting out the back signal to the world to watch from those who are building to spend time with us first and foremost. Second of all, just from an organizational perspective, it's very helpful to have a dedicated pool vehicle for these type of investments. Because if you think about when these companies typically raise capital, they will raise
+
+12
+00:04:33.680 --> 00:04:51.100
+quite a bit of capital to kind of get off the ground. And typically what happens is if you put a like for like against another, let's just say, infradial or App Steel, for example, there's so much in the way of investment you have to do ahead of time that if you do the like for like, you're almost always going to bias towards that.
+
+13
+00:04:51.100 --> 00:05:19.790
+short thing with infra, what it's doing, you know, a billion, two billion in revenue, like off the bat and off the cuff. And so by separating it into a fund, we're kind of staking in the ground, A, our commitment to the space and then more importantly, B, from an organizational portfolio construction perspective, that the intention of this is to capture those winners at the earliest stages, maximize ownership. And then when you have that, you know, $75 million check that you're going live for like, you have that dedicated pool of capital to really pursue after that category.
+
+14
+00:05:19.790 --> 00:05:49.330
+Yeah, Jen, one thing I'm curious about is your specific role because I know you lead the partner relationships and you're in charge of almost the entire capital raising strategy. Have conversations with institutional investors changed? What are the conversations like? What makes them want exposure to the AI hardware now? Yeah, it's a great question. So first of all, we raised, I think the numbers close to over 23% of all venture capital this year. Wow. We've been on it. It's amazing. But as a part of that,
+
+15
+00:05:49.330 --> 00:06:05.970
+You know, I think this is representative of few things. One, if you look at most of the value accrual in AI, that's largely been on the private side, not the public side. And so people are just starting for private capital in general, because that's where all the growth is. Two,
+
+16
+00:06:05.970 --> 00:06:31.680
+If you think about most of the data center supply stack on the public side, those stocks have been ripping it. We were joking around internally on our all hands, Sanjay, the CEO has become the Taylor Swift of the industry, right? He's made much credit to him. He's been grinding the grind for a very long time. But companies also like SK Hynix, like Samsung, these are all companies along the data center supply chain that have
+
+17
+00:06:31.680 --> 00:06:54.510
+gotten so much interest because we're so constrained on the supply side. And you know, entrepreneurs are looking at and saying, gosh, I know those are inefficient ways to build for the future with AI because it's not, again, configured appropriately to it. And if you were to rebuild from a blank sheet of paper, it would look very much differently than kind of shoehorning the current infrastructure today. And so...
+
+18
+00:06:54.510 --> 00:07:17.170
+We kind of follow the entrepreneurs as I was alluding to earlier as a part of that, and all of that is at the earliest stages. And then the last point I would say is, we've seen in the last couple of months, so obviously with SpaceX going public, Anthropic coming shortly, open AI just on the tails, I think people are now seeing this shift from what has
+
+19
+00:07:17.170 --> 00:07:43.920
+historically been private staying longer and longer, no liquidity coming out. And now you're going to see multiple trillion dollar businesses go public. And so people will have access to that, but there's a whole swath of companies on the private side that are not yet public. And so people want exposure to that, and they don't want to quite frankly continue to invest into other asset classes like private equity, et cetera, that are built off the prior technology cycle.
+
+20
+00:07:43.920 --> 00:08:09.550
+And so this momentum shift again, it would have been when I started my career off, it would have been impossible to close a fund effectively in two months over the summer, right? People are off on vacation, et cetera. Like the fact that this happened so quickly was a reflection of the fact that there's so much demand for this from the private pool capital site in from LPs who recognize where the puck is going. Yeah, absolutely. One thing I'm curious about is, you know, $1.1 billion is a lot of money.
+
+21
+00:08:09.550 --> 00:08:29.460
+But on the scale of like the global hyperscaler build out, I think like American companies are going to be spending something like a trillion dollars this year, a thousand times as much. What is the specific niche of what the machine age fund is going to be doing at this scale? Yeah, so it is a...
+
+22
+00:08:29.460 --> 00:08:58.540
+This is the subject of a lot of debates, you know, when we were chatting internally about how we should size the fund, right? There's a partner who I will name unnamed who's said, gosh, we're going to deploy this fund in like six weeks. Like, what are we even talking about here, right? So here's where I would reconcile on the portfolio construction side. So what we want to invest in, so we're early stage investors. So we want to come in at the seed, you know, series A and then kind of invest up in flexion point. And oftentimes, you know, what
+
+23
+00:08:58.540 --> 00:09:28.030
+we are trying to endeavor to do is maximize ownership at the very early stages where we can put 25, 30, $35 million and have a very substantive ownership. That's very different than if you're a late-stage investor or a public market investor that has to come in at these later inflection points to get any ownership and also ownership that's substantive enough to drive fund returns. I think that we're just looking categorically to different things. I'll give you an example. We invested in a company called Next Hop.
+
+24
+00:09:28.030 --> 00:09:49.840
+which is building kind of AI first high performance networking. And this was a company that was at the Series B inflection point, but we put in 65 million at the growth stage. That's a great opportunity for our growth fund to be coming in at that inflection point where they're taking off. Ideally though, what we're doing is actually investing into companies like unconventional instead.
+
+25
+00:09:49.840 --> 00:10:19.250
+So this is the Naveen Rao company who was formerly with Databricks that we've known for a very long time. And this is a company that's actually rebuilding the chip from the design perspective of if you were to design a chip for AI. And so what they're trying to do is target much simpler structure to enhance performance in the chips themselves. And they're kind of going off in the cave and they're going to go and do this endeavor on project. But we invested at the seed and subsequently
+
+26
+00:10:19.250 --> 00:10:45.680
+they raised a huge up right after that. And so it's really important to come in at the early stage before these things start to inflect and then to be able to maximize ownership and therefore put capital work at maybe smaller amounts that we would otherwise not be able to just waiting. Yeah, Jen, one of the things that you explicitly wrote about as well is you are looking for partners that can provide more than just capital. So this includes market access or things like geopolitical relationships. What are the specific
+
+27
+00:10:45.680 --> 00:11:15.840
+Needs that you're seeing hardware companies need that may be prior companies you guys would work with before it didn't Yeah, this is a great question because this is this is now coming to the point where it's at a national level in yeah, so a month ago the president of Korea came to the came to the US and Their first and only stop in the US was in Silicon Valley Which is really interesting right if you think about the context of the fact that companies now in video, you know at 5.5 trillion is is the same size as
+
+28
+00:11:15.840 --> 00:11:44.160
+countries in terms of their GDP. So Nvidia is larger than all of the G7 countries except the US. And so that scale is just totally different in terms of our partner Mark Andreessen calls it, you know, technology is the dog that caught the bus. And as a byproduct of that, you know, we are now a bigger and bigger technology is a bigger and bigger part of the economy. And as such, countries are viewing this as a national priority and interest to get
+
+29
+00:11:44.160 --> 00:12:13.660
+their citizens to get their government onboarded into the AI age. And particularly if you look at countries of the last 100 years that were the most militarily, culturally, economically successful, they were the ones that industrialized first. We think countries of the future are going to be the ones that adopt AI first across fence, across public safety, across healthcare, and that infiltrates all throughout the government and then also comes bottom up from their citizens utilizing it as well.
+
+30
+00:12:13.660 --> 00:12:42.020
+in that vein to answer your question, Sophia, how we think about our relationship with our LPs who are oftentimes global in nature, thinking about these national priorities is to say, how can we help them utilize the latest and greatest technologies, which are oftentimes US-based technologies? How can we help American, her allies, accelerate into the future by not only investing in our funds, but potentially utilizing these technologies by adopting these technologies and then also oftentimes coming alongside of us?
+
+31
+00:12:42.020 --> 00:13:06.800
+in investing directly in some of these companies as well. And then by doing so, you could actually accelerate the adoption process locally in way more ways than the distribution of prior technologies and prior technology cycles as well. And so to your earlier question around what the intention of global partnership means is, we want to be partners not just in the capital contract, but also in how a
+
+32
+00:13:06.800 --> 00:13:35.040
+country and government is thinking about technology if we can help them accelerate that adoption and then also quite frankly benefit from the economic development of it as well. South Korea by the way just announced that they're giving like premium AI to like every citizen is sort of a public utility thing so very very topical. South Korea is like the most extreme form of democracy by the way it impacts both ways because you know.
+
+33
+00:13:35.040 --> 00:14:04.340
+I don't know if you saw this, the POI that you saw this out, like a third of South Koreans got margin called earlier this summer with the situation. So they take democracy in extreme forms and also they are, we oftentimes joke and turn like Korea is like the country of the future, right? Like they've got the number one, you know, boy band in the world with BTS. They have the number one girl band with black, funny bands like squid games. They had, you know, gosh,
+
+34
+00:14:04.340 --> 00:14:29.780
+um, uh, kpop demon hunters, right? And so like they're like the new Hollywood of the future from a content perspective, but they're also full board into AI. So it doesn't surprise me that they're rolling this out. But by the way, it's not just them. It's El Salvador who, you know, President Bukele has been super aggressive around utilizing AI. They implemented grok in their schools, for example, for free. Um, and they're utilizing AI doctors, for example. And there's a lot of countries.
+
+35
+00:14:29.780 --> 00:14:55.810
+that you want to expect. And sometimes there are city-state countries like Singapore or UAE, for example, where it's easier just given the population to adopt technologies and then also make it subsidized or free, for example, in some of these instances. But you see these different examples around the world where they're accelerating their AI development and adoption way faster than in the US. And unfortunately,
+
+36
+00:14:55.810 --> 00:15:23.860
+In the US, we've been seeing a lot of political tail headwinds with obviously data centers and in some instances around surveillance, et cetera, that are just falsehoods. But we potentially view that as an opportunity as well, where Elon's building data centers in space, we might also see the influx of a lot of this data center supply chain bill that happened overseas because of the sentiment in the US as well.
+
+37
+00:15:23.860 --> 00:15:52.880
+I'm interested in that aspect of it. Like how does public backlash against data centers like affect this fund at all? Like is it, I can imagine going either way where like maybe it becomes much harder to build data centers and that's bad, but also like I can imagine us being in a regime where like if anywhere in the US allows data centers then the data centers will just get built there and then things will be basically fine. Or is it something more in between? So for the fund itself I
+
+38
+00:15:54.100 --> 00:16:22.300
+Obviously, it would be a much easier process if everyone was on the camp of being positive on data centers. It's just not the reality of where the world is today. But unfortunately, the narrative has gotten in the way of reality, which is if you look at most data centers, and particularly the modern ones. So I'm talking about AWS, Metas data centers, Switch data center, which is one of our portfolio companies, for example. They are actually...
+
+39
+00:16:22.300 --> 00:16:52.080
+modern versions of the data center that are built by tech people not real estate people and they're they're actually building for all the nuances of The sensitivities people have around data center. So in the case of switch for example, they actually contribute power back to the grid They don't take away And they they've built their infrastructure to enable that they use very little water and then particularly, you know, they're one of the very few data centers that are actually capable of being able to
+
+40
+00:16:52.080 --> 00:17:21.890
+to manage around fluidics in the future for chips. And so there's increasingly, you know, everyone paints data centers with a broad brush stroke, but there's a very small percentage of bad actors with data centers. Vast majority have actually configured for the new form factor. And where we are investing is the next generation of those data centers like a switch that have optimized for the future on not only some of the politically more sensitive things, but even things like, for example, the next set of chips are going to be DC powered versus AC powered.
+
+41
+00:17:21.890 --> 00:17:44.610
+And most data centers aren't actually built for that infrastructure. And by the way, there's less than 2% of electricians in the US that are actually trained on DC power, because it's very dangerous and like you could potentially kill yourself and it's very volatile to work with. And so you're just seeing all these bottlenecks in the infrastructure that need to get fixed in order for AI to
+
+42
+00:17:44.610 --> 00:18:11.780
+And this is where the vast majority of the focus of the fund is is Orietta Row. But even expanding beyond just data centers, you know, you guys have a mandate specifically. It includes robotics, home AI hardware. You guys have a broader thesis. Can you share more about what your broader thesis is? Yeah, for sure. So it's it's everything think of again below the software stack, but you could almost even analogize it to anything in the data center we are focused on. So.
+
+43
+00:18:11.780 --> 00:18:37.840
+accelerator, CPUs, custom silicon memory, storage, again, all things that were forgotten language, if you will, from an investment category perspective the last several decades, liquid cooling, all of that physical stuff that needs to get built out and then related to that robotics within the data center, for example, system software, et cetera. And so the thesis around it is,
+
+44
+00:18:37.840 --> 00:19:02.140
+You know kind of at a very top level we all know the demand for AI you know agents are using five times the amount of tokens as humans are and we just crossed over to agents before On the the volume of agents are now more on the internet than humans are and so that's just going to continue to go parabolic especially as consumers start to have personal use cases like for example with Brock bot or in state or others
+
+45
+00:19:02.140 --> 00:19:27.870
+And there's less than still 5% of AI usage today. And so that's the kind of demand side. The supply side is the thesis of this fund where we want to invest into everything that is guided by computer science on the infrastructure side. So we don't want to invest into regulated industries like power, for example. That's more of our American Dynamism team. But everything on the computer science guided side inside the data center is the focus of the fund.
+
+46
+00:19:27.870 --> 00:19:49.660
+So, relatedly, I'm also curious about, like you said earlier, like people are saying you might deploy the entire fund in six weeks. I'm not sure, like, how joking that was, but like, how long does it actually take? My healthy is less than anything, that is joking. There's just so much opportunity, right? In ways of which, you know, we have, again, seen this groundswell of entrepreneurs.
+
+47
+00:19:49.660 --> 00:20:19.580
+coming out the woodwork and saying like, I know that this process is incredibly inefficient for what I see in terms of demand. Like I want to build a company after this. And so, you know, I think Martina was quoted saying, you know, we went from seeing basically nothing in terms of hardware pitches to over now 20% of our pitches are hardware kind of physical world related side. And so that's really the impetus also behind some of the scrubs, well, of entrepreneurial enthusiasm as well. So how long does it take to like identify and diligence these things, especially deals of the scale?
+
+48
+00:20:19.580 --> 00:20:29.700
+Is it like different from more traditional like software VC deals? Yeah, so it's interesting that the founders in this category are
+
+49
+00:20:29.700 --> 00:20:59.410
+sort of like a throwback in some respects. Like, you're unlikely, although I'm sure there's some entrepreneurizing, you know, young individual coming out of university who are wanting to go after these categories. But because it requires so much in the way of relationships with the hyperscalers, with customers, really understanding the physical dynamics of how to get something like this off the ground, you are seeing a generation of talent that are from a prior error, sometimes spinning out.
+
+50
+00:20:59.410 --> 00:21:27.710
+from somebody incumbents to start companies. As related to that, the company that I was referring to earlier, Nexthop, were former folks from Arista, for example, that had recognized this problem and decided to start a company to go actually after the new version and form of this. And so what you're seeing is a new generation of oftentimes people who have the benefit of experience and prior errors of the build-out that
+
+51
+00:21:27.710 --> 00:21:51.020
+had been effectively incubating for the last 30 plus years, 20, 30 plus years and now saying, I'm going to go build the company around this. So it looks very different than in the past. And the diligence standpoint, the diligence cycles on these, our team is maybe just suspended a second in here. So Martin Casato, formerly CEO and founder of a company called NYSERA, which sold into VMware.
+
+52
+00:21:51.020 --> 00:22:18.940
+Raghu Raghuram who was a former CEO of VMware who actually acquired Nacera and then was Martins boss while at VMware. Both of them come from a very deep kind of selling into the data center background. And then Guido Appenizer who is actually the former CTO of Intel is also someone who is very, very technical, sold into and ran kind of the data center business for Intel as well. And so you're seeing folks who, you know,
+
+53
+00:22:18.940 --> 00:22:31.380
+for maybe the last 10, 15 years became more pulled into software, come back into the hardware side of the world and leveraging that experience as a part of it. And so from a diligence perspective, it's obviously, you know, very
+
+54
+00:22:31.380 --> 00:22:54.400
+almost finite world of the folks who could actually go after this massive problem and also build the customer base and sell into and actually build companies of the scale and size. So from a diligence perspective, it's oftentimes people we know and have gotten very close to over the years and then also know all the customers, i.e. either our portfolio companies or the hyperscalers and can actually do the diligence around it to really assess to whether something can get off the ground.
+
+55
+00:22:54.400 --> 00:23:15.410
+Definitely Jen really wanted to thank you for coming and joining us today on MTS to share more about the machine age fun. Congratulations to all of you on watching this. This is so exciting and yeah, it's going to be really fascinating to see how venture capital and a 16z how you guys change the game. So looking forward to it.
+
+56
+00:23:15.660 --> 00:23:46.830
+What's old is new again? Yes, this is a we're almost thrown back to where venture capital actually started and why Silicon Valley is actually called Silicon Valley Thanks for having me on talk to you both soon. Absolutely talk soon Thanks for listening to this episode of the a 16z podcast If you like this episode be sure to like comment subscribe leave us a rating or review and share it with your friends and family For more episodes go to YouTube Apple podcast and Spotify
+
+57
+00:23:46.830 --> 00:24:11.410
+Follow us on X and A16Z and subscribe to our substack at a16z.substack.com. Thanks again for listening and I'll see you in the next episode. This information is for educational purposes only and is not a recommendation to buy, hold, or sell any investment or financial product. This podcast has been produced by a third party and may include pay promotional advertisements, other company references and individuals unaffiliated with A16Z.
+
+58
+00:24:11.410 --> 00:24:25.260
+Such advertisements, companies, and individuals are not endorsed by AH Capital Management LLC, A16Z, or any of its affiliates. Information is from sources deemed reliable on the data publication, but A16Z does not guarantee its accuracy.
