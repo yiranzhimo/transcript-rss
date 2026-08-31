@@ -1,0 +1,645 @@
+WEBVTT
+
+1
+00:00:00.270 --> 00:00:28.500
+When the history of the 21st century is written, you know, there's like the Victorian age, I think this will be like the age of non-agency because they're fundamentally altering the fabric of human society and civilization. What happens if there's like a massive supply shortage? Every time you've had a real profound new technology, you get a bubble because the markets get really excited and they get ahead of themselves, things get overvalued, that overvaluation leads to an overbuild. One of the things that I think has been
+
+2
+00:00:28.500 --> 00:00:55.120
+Correct, but ineffective is this idea that we need to stay ahead of China. You're opposed to data centers. Well, you know what? It's probably the best thing that has ever happened to working-class Americans. We are reindustrializing America, and it's awesome. Assuming that you're right, there's not a physics reason why this can't work. An increasing fraction of the world's compute is going to be in orbit. This sounds crazy, but asteroid mining is going to be a very real thing.
+
+3
+00:00:55.120 --> 00:01:22.990
+It has more gold, silver, platinum, average precious metal in it than exists in the Earth's crust. Every LP conversation that we have starts with like, how's this all going to go wrong? Gavin Baker has spent the summer asking AI leaders one question. Can you give me a single quantitative data point in your business that's getting worse? So far, the answer has been no. In this episode, 816z General Partner David George sits down with Gavin to take a fresh look at the economics of the AI boom.
+
+4
+00:01:22.990 --> 00:01:52.740
+They discuss why AI may be a positive sum market where from tier labs, open source, applications, clouds, and chip companies can all win, and what today's compute economics tell us about the sustainability of the build-out. They also tackle the bubble question head-on. Every major technology shift has produced over-investment at some point, but with compute already constrained and AI usage still concentrated among a relatively small number of people, what happens when that demand spreads across the broader economy?
+
+5
+00:01:52.740 --> 00:02:23.550
+From data centers and reindustrialization to orbital compute, open source and NVIDIA, this is a wide-ranging look at what happens if AI demand keeps outrunning supply. Gavin, you've been out here hanging out on the West Coast over the summer and you've been talking about the fact that you're like trying to find someone to give you a bearish case to make your sentiment more negative. Have you found anybody? No, and I ask everyone. My standard question is can you tell me
+
+6
+00:02:23.550 --> 00:02:52.240
+one quantitative data point in your business that's getting worse. Just one. That's my standard question. And it's at least in July and August. I haven't been able to find a single person. Now, if we're being honest, you know, anthropic is, you know, in a quiet period. So maybe they've slowed down a little bit, but I do think the rest of the world has accelerated, open AI has clearly accelerated, open source I think has accelerated more.
+
+7
+00:02:52.240 --> 00:03:21.420
+And then I do think Grock, particularly after Grock bought, has had a pretty dramatic acceleration. And so AI overall, it accelerated in July, it accelerated in August, and it can't keep accelerating forever. But it's just kind of wild that public stocks have kind of fallen out of bed over the last two months. And I mean, you know, you can drown crossing a river that's on average two feet deep. And so there's not a lot of action at the index level.
+
+8
+00:03:21.420 --> 00:03:51.120
+But some of these AI names are in pretty significant drawdowns and they bounced a little bit in August but still pretty big drawdowns and things are broadly accelerating. Yeah. Our friend Eric Fishery did a podcast with Patrick O'Shaughnessy and he said, maybe everyone wins. Yeah. Anthropic wins, open AI wins, SpaceX wins, Beto wins, Google wins by selling a lot of GPUs, open source wins, Neoclouds win, the inference clouds win on top of the Neoclouds. Applications win. Yeah.
+
+9
+00:03:51.120 --> 00:04:17.600
+maybe not all applications, applications that I think execute well and navigate this. But that feels like a very possible scenario to me. And there's so much zero sum thinking in the world. And by the way, unanthropic, what is my hypothesis would be if you're anthropic, one, I think they probably trued up and cleaned up some accounting. Yes, definitely.
+
+10
+00:04:17.600 --> 00:04:46.370
+You'd rather do that. Yes. So you rebased and now you're comparable to open AI. Yeah. In terms of revenue added, in terms of the definition and now I think kind of revenue added. Exactly. So you kind of rebased and then they did their testing the waters. And then I would hypothesize because they've executed well. Probably the next disclosure is a reacceleration. And then there's always this kind of funny game between the frontier model companies.
+
+11
+00:04:46.370 --> 00:05:15.280
+They always have more advanced checkpoints. Anthropic is clearly waiting for OpenAI to release Astra. Yes. And then it's like the next day, here's fable 5.1. Yes, exactly. Magically, it just happened to be available several hours after Astra. Yeah. So I think they're being thoughtful in heading into this IPO and everyone is shooting at them. Yes. Everybody's shooting at them and they're in a quiet period, so they can't really shoot back. So there's a lot of gamesmanship, but I do think
+
+12
+00:05:15.950 --> 00:05:44.930
+having open AI and Anthropik be public companies is going to be helpful for the market just because it's, you know, it's such a powerful force and a lot of public investors, you hear, oh, Sarah Fryer said this at an all hands meeting and it's on the cover of Wall Street Journal. Okay. We're going to put that into our model. And it's just, I think it'll be better for them to be public. I am a little, you know, Anthropik is now in their culture interviews saying, how would you feel if the equity went to zero?
+
+13
+00:05:44.930 --> 00:06:13.710
+Yeah, because we're looking for people who are mission aligned. Yeah, mission, not mercenary. Yeah. And that's great. We want missionaries, but we also want people to make money. And at the end of the day, you can't afford the compute you want for your mission if you go with the equity goes to zero. Yeah, like I'm no expert, but I'm pretty sure on that. And then I do think they are they're like the accidental enterprise company. Oh, for sure. Oh, yeah. They're kind of like the accidental everything. Enterprise is just a byproduct of the mission, the objective. Yeah. Yeah.
+
+14
+00:06:13.710 --> 00:06:32.380
+Whereas I think opening eyes a little more commercial and obviously SpaceX a little more commercial but but all of these companies let's just say they have 10 gigs of power and They're allocating 8 to inference and let's just say they're monetizing that inference at whatever 60 billion a year so 480 billion dollars a year and
+
+15
+00:06:32.380 --> 00:07:01.660
+Revenue which is like a on a revenue payback basis would be like a one-year payback on a revenue basis not a gross profit Yeah on a revenue basis. Yeah, and I'm trying to use conservative numbers people seem to think it's graphic and opening our both monetizing at $100 billion a gig a watt. Yeah, yeah Let's say they have a big research breakthrough and they decide wow it is to our long-term advantage to go from eight gigs allocated to inference two gigs allocated to training to
+
+16
+00:07:01.660 --> 00:07:29.500
+8 gigs on training and then your revenue just went from 480 to 120 and I think your annualized revenue and I actually think they would do that. Yeah, and This is just something that public markets are gonna really have to get used to yeah as you say opening I may be a different animal and I do think the realities you know everybody has these ideals about how they're gonna manage your business and they go public
+
+17
+00:07:29.500 --> 00:07:58.500
+and the stock is volatile and it really impacts employee morale, recruiting, retention. So I'd be surprised if they did such a dramatic cut, but a lot of the revenue is kind of under their control based on what checkpoint they release, where they price along this kind of Pareto curve, and then how much they allocate between training and inference. So it's gonna be Meta and Google and these kind of internet companies. It was just, it was
+
+18
+00:07:58.500 --> 00:08:23.010
+pretty smooth fundamentally even if the stocks were volatile. Well, there was no massive trade-off they had to make in terms of the cost or infrastructure to serve revenue side. Yeah. They were totally separate. 100%. Yeah. Yeah. It's fascinating. So if you go back to Eric's point of it's all going to work, like I actually think that's a great point. Like I describe it differently. I've had this conversation with LPs a lot because every LP conversation that we have, it's probably the same for you, starts with how is this all going to go wrong?
+
+19
+00:08:23.010 --> 00:08:48.830
+Yeah, it's like, what's going to crash? And I'm like, oh, are the large models screwed or the lab screwed because of open source? And I'm like, this is all wrong. This is not an or thing. It's an and thing, right? This is an and thing. Frontier is going to work really well. N minus one models are going to work really well. Open source is going to work really well. There's going to be a bunch of application companies that work really well. The clouds are probably going to be fine. They're probably going to work really well. The five lab companies are probably going to do really well.
+
+20
+00:08:48.830 --> 00:09:18.340
+Yeah, and Nvidia is the center of all of it. Yes, yes. They're probably going to do pretty well. Yeah, the last 26 years have taught me not to bet against Jensen. Yeah, he's in a pretty good position here. I want to come back to that. The point that you made about training versus inference is an interesting one. It seems to me like the labs will decide to take all incremental profits and probably much more than their profits and invest them in training for a long period of time.
+
+21
+00:09:18.340 --> 00:09:45.220
+Would you think that's fair? Like it's very different than like the clouds, you know, because like the internet companies in the clouds, they just end up being supply demand driven and they generate tons of profit and they can still grow a certain amount. But they don't have some, maybe with the exception of Meta, like some big long-term bet that's like a multi-year payoff. Yeah, I think it's important to kind of be precise. They, for sure, I don't think they will generate free cash flow.
+
+22
+00:09:45.220 --> 00:10:14.160
+Anytime soon, I think they're gonna generate a lot of operating cash flow and then they'll use that to buy a lot of GPUs XPUs whatever whatever I'm gonna call them or Maybe they subsidize heavily we do know that that's happening at the labs subsidize What heavily their first-party products so to oh, yeah, yeah, they're first-party products. Oh, yeah, they're doing all this research and they're spending a lot of data on compute Yeah, so it's like a heavy subsidy
+
+23
+00:10:14.160 --> 00:10:44.320
+Products today, right? Yeah, so it's eight gigs of inference and two gigs is for internal research and then you know two gigs is actually training exactly And you know including probably the inference that goes into post training Yeah, I don't I I think given the belief systems that they all seem to have about scaling laws Which continue to hold I don't think any of them are going to be that focused on generating free cash flow and you've seen
+
+24
+00:10:44.320 --> 00:11:14.420
+Right, we saw Satya Blink. Yes. And Satya really regrets that, I think. Yeah. Yeah. You know, he kind of blinked, I think it was last year. You know, he gave that great interview for Davos and they asked him about all the CapEx and he said, I know I'm good for my 80 billion. Right. And I think they blinked a little, they slowed down, they regret that. And then Dario famously, he went on a podcast and he made, and he said, listen, some people are being super irresponsible with their spending.
+
+25
+00:11:14.420 --> 00:11:39.680
+And it's a hard decision because if you don't spend enough, you could lose a lot of share, but if you spend too much, you could go bankrupt. And like, those are both bad things, but bankruptcy is worse than losing share. Should I rather be conservative? And he was conservative. And then open AI was aggressive. And now open AI is back in the game. And SpaceX was aggressive. And SpaceX was aggressive. And so, you know, like there are clear high ROI's on those, independent of
+
+26
+00:11:39.680 --> 00:11:58.380
+supply-demand mismatches that are happening, like clearly that seems to be the right decision, short-term and long-term. Yeah, absolutely. I mean, we calculate, you know, Nebius and Coreweave both gave some interesting disclosures, but you can kind of get to a nine to ten month payback for Nebius because
+
+27
+00:11:58.380 --> 00:12:23.150
+You know, okay, you bring out a gig, it costs 50 billion. You can get an upfront payment for 50 to 60% of that for customers. So now, you know, you're talking about 25 or 30 billion, and then you can monetize it if you put it into the spot market. The spot, yeah. At a spot, spot paybacks are probably much faster than nine or 10 bucks. Yeah, you gotta assume like a smoothed out level, like two bucks, three bucks, even with that.
+
+28
+00:12:23.150 --> 00:12:52.380
+It's very high payback. Now you can get like five bucks or eight bucks. And yeah. And then SpaceX, because they build these really big clusters. And I think at a really important point is they bring them on fast. Yes. They have an even faster payback and they can monetize it, you know, higher. I have tried to shift, you know, to think of pricing and, you know, per megawatt rather than per GPU because it seems like where the world is. But like SpaceX, the payback feels well inside of that. Yes.
+
+29
+00:12:52.380 --> 00:13:20.540
+And I just, in my career as an investor, there haven't been that many opportunities where you have companies that could deploy tens, hundreds of billions of dollars and get sub one year paybacks. And it's kind of crazy. And then also, like we should also talk, particularly if you're buying NVIDIA GPUs to a lesser extent, you can finance these. And there's a very sophisticated, you know,
+
+30
+00:13:20.540 --> 00:13:48.290
+Yeah, it's a very low cost of capital to finance them today. Yeah, and everybody's worked up about circularity and it's like, well, I don't know. I know a lot of smart people who work at Blackstone and KKR and Apollo. And they're the ones that are financing it. The ones who are financing it at a relatively low cost. At a relatively low cost. And I think one reason that's happening is useful lives just keep getting extended.
+
+31
+00:13:48.290 --> 00:14:18.400
+has these models get better and better and better and the ROI on Toket Spin goes up, the monetization rate per gigawatt goes up. So, I mean, the true equity payback like might be way inside of a year. Yeah, exactly. Exactly. Yeah. And look, there's a case you could make that the prices actually of all this stuff go up, which could make the supply side economics even more compelling, right? Like, you know, so
+
+32
+00:14:18.400 --> 00:14:48.160
+On the supply side, that's the dynamic today. It just is what it is. There's a ton of data points out there that paybacks are within a year. I think it's actually interesting to think about the demand side too because the knock would be well in all these cycles you get some overbuild and then that destroys the economics of the supply side. The demand side today, what do we monitor? The monetization of these companies, which are doing, call it 180 billion of revenue or something in that direction.
+
+33
+00:14:48.160 --> 00:15:17.820
+is on the back of what, like 30 million actual heavy paying users? Like getting real value, I'm talking about like developers. It like- I might take the under on 30 million men. So call it, yeah, actually what we see inside our companies is, you know, obviously there's a power law in which companies are spending a lot on tokens. Like old banks are probably spending 1%, very tech forward companies are spending high single digits. But if you actually look at the sort of the power law of what's happening,
+
+34
+00:15:17.820 --> 00:15:45.660
+of the actual engineers in those companies. The highest spending engineers are spending 10 or sometimes 100x more than the median engineer. And so, yeah, your 30 million is probably way overstated. It might be sub 10. And so there's this question of where are we at in diffusion? There's one and a half billion knowledge workers. It feels like we're nowhere on the demand side and we're massively supply constrained. And what are, I'm just curious, across the A16Z portfolio, if you...
+
+35
+00:15:45.660 --> 00:16:14.110
+What are your best companies spending on tokens per month relative to human compensation? What rough range? Oh, high single digits, some at 10%. Like some of the very AI native ones, like 10% plus. And so, you know, and then old economy companies are spending the ones that are probably doing a good job, like 1%. So it feels to me like, when I look at the supply demand characteristics, it's like supply stuff,
+
+36
+00:16:14.110 --> 00:16:42.350
+People say is that sustainable? Well, like when you pair it with the demand stuff It feels it feels like there could be things that disappoint us in terms of like diffusion into the real economy But it feels like over a 10-year stretch like we're nowhere. Yeah, absolutely nowhere and I just My so at a trade is our internal token consumption has gone up a hundred X from the month of March March through August 100 X yeah our token spend
+
+37
+00:16:42.350 --> 00:17:12.130
+And we just got access to Grockbot Enterprise. And with two people using it, like it looks like a token spend might 10 or 20X in a month. Yes. From August. Yes. Like, like I think. But it's actually extremely valuable. Like we have some heavy Grockbot users here and like it is very productive use. Like this is not like wasteful token spend. Yeah. I was in listen like I try.
+
+38
+00:17:12.130 --> 00:17:39.860
+super hard. You know, I always, when I use AI, I just remember when my parents, like I was trying to get them to shift to an iPhone and an iPad and like, you know, get them used to it. And like, you know, they did a good job. I give them loads of credit. And, but you know, I'm 50 years old, you know, like, how do you, David? 42 42. And you see these like 23 year old kids and just the way they use AI, they're just fluent in native in it.
+
+39
+00:17:39.890 --> 00:18:06.400
+I just feel like maybe in a way that no matter how hard I try I will never be and I'm trying really hard But you know like we got cloud code. I try I you know I built some stuff did some cool stuff and in like I don't know three minutes of type Cricut creating grok bots I had much better versions of everything I created you know, so I went on this Patrick O'Shaughnessy pod podcast like five months ago and
+
+40
+00:18:06.400 --> 00:18:35.780
+I said, you know, like I love having a podcast summarizer. Everybody's like, how'd you do it? I was like, well, just use AI and do it. Yes, it takes 10 seconds and grok bot. Yes. It's amazing and it's so good. Yeah. And then, you know, a sub-stack summarizer, an X summarizer, an X sentiment tracker for topics and stocks. Yeah. And like that, all of those would have taken me, I don't know, hours working with Claude Code and
+
+41
+00:18:35.780 --> 00:19:06.180
+They each took seven to 12 seconds with Grokbot. Yeah, it's better. Yeah. So to me, Grokbot does feel like another, at least for me, like kind of chat GPT moment because Quad code, like I could see the data was, it was powerful. I did some really cool stuff with it. It was like empowering. Yeah, of course. And this is neat. You know, like family calendar apps, things like that. Yeah. But this is just
+
+42
+00:19:06.180 --> 00:19:32.050
+10 seconds and it's way better than what I was able to do. Yeah, yeah, the cloud code thing like was obviously the shift in coding and you know, our most sophisticated engineers, you know, we're doing whatever 20% of their code, you know, with AI to like, you know, whatever 90 plus percent. And so now I think everything you described in what you built with cloud code or codex is still kind of reactive.
+
+43
+00:19:32.050 --> 00:19:58.340
+Yeah, right like it's still you know, it's like summarizers. Yeah preparation. It's all like knowledge enhancing which is part of your job, but it's not actually doing the work for you Yeah, now you have a rock bot that says what are the recommended actions? Yes, exactly everything the other bots have learned today Yeah, what recommendations do you have for me today? And that for sure is like and it was so easy to build I now have it
+
+44
+00:19:58.340 --> 00:20:26.690
+I'm like horse racing all these which is like I have Grockbot doing it, Codex doing it, all the action taking for it. I want to know, make me better at my job, look at everything I do, give me recommended automations you can do. I have Town doing it as well, which is one of our companies, early stage we've been very good at it. And we're kind of on the bleeding edge of trying to do this stuff. Just wait till everyone does this stuff. And then when we actually click, yes, go just automate this.
+
+45
+00:20:26.690 --> 00:20:56.860
+Yeah, it feels like that's sort of endless token. Yeah, but I do, we should acknowledge like the history of financial markets, you know, dating kind of back to like the South Sea bubble is whenever you get this transformational new technology, I actually went on a podcast, I said, I thought the South Sea bubble was connected to like the invention of longitude and the ability to sail. Turns out it was not. It was just, it was kind of like a more of a tulip episode. But like every time you've had a real,
+
+46
+00:20:56.860 --> 00:21:26.980
+you know, profound new technology, you know, whether it's the automobile, the TV, the radio, internet, the PC, railroads, steel mills, you get a bubble because the markets get really excited and they get ahead of themselves. Things get overvalued. That overvaluation leads to an overbuild. And then particularly if you're funding it with debt, and even today, a majority of this is still being funded out of operating cash flow, which I think is really helpful.
+
+47
+00:21:26.980 --> 00:21:50.640
+You know debt funded bill buildouts they demand immediate ROI not an ROI in two years Yeah, you can't be off in the time. You can't be off. Yeah, but I'm just more you know, I like I You know I talked to jazz about how Watson wafers jazz I guess and Patrick Watson wafers are these fundamental constraints and just the buildout is so big and we're so early that we are
+
+48
+00:21:50.740 --> 00:22:20.940
+It's like impacting the raw productive capacity of so many industries, you know, now, you know, everybody and everybody in copper, there's like an AI thesis and like we're gonna have to like think about it to like fill the, you know, if 10% of what we just talked about comes true, you know, we're in this acute shortage with, I don't know, several million people are driving a crazy global compute shortage. What happens when that's 500 million?
+
+49
+00:22:20.940 --> 00:22:49.940
+And you know, how many copper mines do we need to build to like support this? Yeah, yeah. It's kind of a wild thought. And so like these fundamental constraints I think are slowing us down. And I think that's good. I actually think that's good for society. And I would now say rates and regulation, you know, real rates are going up. Yes. And it just is what it is, which makes sense because we're like investing a lot. So it makes sense that real rates are going up. And then regulation, man, it's, it is
+
+50
+00:22:49.940 --> 00:23:16.530
+Like I'm kind of shocked at what's happening in America. We're in a really bad place. Yeah, and just you know, I had this exchange with with a Schulte from anthropic and in Dario on X last weekend You know Dario said hey, I don't think I've been negative You know I've written I've written two essays one was positive one was negative so being 50% negative and particularly when it's like
+
+51
+00:23:16.590 --> 00:23:46.510
+a terrifying negative like an existential existential negative everybody might be out of out of a job like that Eleazar you'd Kowski guy says if we build it everyone will die and it's like how about if we build it like we're gonna cure cancer we're all gonna live forever I thought one of the best things to aro said was like what we need to do is stop talking about curing cancer actually curcans actually cure cancer and actually make breakthroughs like but just somebody like that my favorite line in the Bible is the truth shall set you free yes
+
+52
+00:23:46.510 --> 00:24:16.450
+But the only person who can, the only group that can tell the AI industry's truth is the AI industry, they need to just start telling the truth. Hey, when we, okay, you're opposed to data centers. Well, you know what? It's probably the best thing that has ever happened to working class Americans. Yeah, exactly. You know, it's like going to college might be significantly in PV negative now. Yeah. Because you can go learn how to be an electrician, a plumber, an HVAC tech.
+
+53
+00:24:16.450 --> 00:24:46.210
+and make ungodly amounts of money. So this has been amazing for working-class Americans. We now have a lot of data that particularly with behind the meter power generation, when a data center goes in, it transforms a town like tax revenue. It doesn't double. It like tin axes. And it is revitalizing all of these like dying small towns all over America. And listen, we're getting much better at addressing the environmental stuff.
+
+54
+00:24:46.210 --> 00:25:13.470
+Generally, they use natural gas, which is a pretty clean fuel. The water consumption thing is totally debunked. It's totally debunked. It's nothing. So these are really, really, really good. And they're having a really positive impact on the world. That's without even considering things like curing cancer, but somebody needs to tell that story. And I think the problem with it now is the burden of proof is on not curing cancer, but actually delivering some real tangible
+
+55
+00:25:13.470 --> 00:25:41.180
+Everyday American benefits beyond using chat, you know or grok to like answer your questions or substitute Yeah search engine right it does feel like we're pretty close to that Yeah, it does and by the way like one of the things that I think has been Correct, but ineffective is this idea that we need to stay ahead of China Like it's like it is true like I'm very much like I'm a patriot like I believe that but it's way too abstract
+
+56
+00:25:41.180 --> 00:26:10.190
+Yeah, the abstract for the average American nobody is worried about China invading America Yeah, exactly like what they care about is ocean is really bad Yeah, like affordability and like how is this gonna change my life for the better? Yeah, right? And so I think there's a pretty immediate impact you could feel like I my favorite is you know Loudon County, Virginia, which is like the highest highest per capita income Code in the US or county in the US and it has the highest density of data centers
+
+57
+00:26:10.190 --> 00:26:25.780
+Yeah, and they make a tremendous amount of tax revenue from data centers. Like we should we should do this everywhere. Yeah, well it's actually very funny a someone very opposed to data centers said oh you're for data centers I'd like to see them put in the highest income zip code and the highest you know they're like actually
+
+58
+00:26:25.780 --> 00:26:53.970
+The highest income zip code in America and the highest income county has the highest per capita concentration of data centers. So we've done that. And it worked out really well. You know, hey, don't bother me with the details. And all those talking points, it's tragic. Like there is an organized CCP funded campaign, I think against data centers here in America. Like I think a lot of it gets laundered through TikTok. And it's just tragic because other things happening.
+
+59
+00:26:53.970 --> 00:27:22.350
+is this is reindustrializing America. The combination of having the straight-of-form most closed, which is amazing for America, you know, natural gas here is two or three bucks. It's now 25 bucks in Europe and Asia, 20 bucks or whatever it is. And natural gas is an important input to the cost of electricity, which is an important input to almost all manufacturing processes. And so we have a huge cost advantage for that basic input now.
+
+60
+00:27:22.350 --> 00:27:51.710
+and you have that happening and you have this kind of data center boom happening. We are reindustrializing America and it's awesome. This is what everyone in both parties has wanted for a long time. Yeah, exactly. Like bring industry back. Small towns that were left behind by the steel most closing. Well, data centers are bringing them back. Yeah. But somebody has to tell that truth. I mean, I tried to do it on every podcast, but like I'm just a dude. Yeah. And like your audience is the tech audience that already believe you're reaching the choir, if you will.
+
+61
+00:27:51.710 --> 00:28:20.240
+But yeah, the story, the story, Meta's probably doing the best job of telling that story, I would think. Yeah, it seems. You know, and I think one reason it's really wired into Meta's DNA. So one of the first things they started doing as a public company, I remember it was on their first journey's call, but Cheryl would run through, Cheryl Sandberg, would run through 10 or 15 very specific small businesses that had started using Meta's advertising products.
+
+62
+00:28:20.240 --> 00:28:49.060
+and the impact it had on that business. This cake bakery in Des Moines started, worked with Metta. And it was two women who were single mothers working by themselves. And now they have 15 locations. They employ 50 people. And this has been amazing for Des Moines and it's been transformative for them. And they would just run through that every time. And I do think,
+
+63
+00:28:49.060 --> 00:29:15.200
+the entire AI industry. Like I'd love to see, you know, everybody, SpaceX, Anthropoc, OpenAI, Google, Metta say, hey, here are real businesses and real Americans and like either name the business or get permission to, if you can, name the American or anonymize it. This is a really positive thing it did. It had on their life. Already very tangible, yeah. Yeah, same, Nvidia, AMD, Broadcom.
+
+64
+00:29:15.200 --> 00:29:45.120
+All of them. Yeah, just run through specifics because the truth shall set you free, but only if you tell it. Yeah, exactly Yeah, so it seems more likely than given that fact pattern if you go back to just the sort of macro situation that we're in That we're we under build on the supply side Oh, yeah for like through 28 and and by the way like there's no capacity available with all the forecast builds that will happen through 28 Which are probably now going to be delayed given the political dynamics. Yeah, so
+
+65
+00:29:45.120 --> 00:30:14.980
+Everybody's worried about oversupply. I'm like more worried about massively under supplied. Yeah, yeah, which which okay, so then if that's the scenario Like you could see a scenario where you see, you know big price increases. Oh, yeah access the intelligence Yeah, well, which is the opposite direction of where everybody thinks this is gonna go. Yeah Well, Dorcas had a wild point. I forget what it was, but he was positing I forget like the cost of a token could go up 10x or something yes Yes, yeah, which is crazy, but like we do live in a supply demand world like
+
+66
+00:30:14.980 --> 00:30:43.840
+It's conceivable. If the demand goes massively. And by the way, the whole premise of this that's happening so far is that there's a massive amount of consumer or user surplus being generated. So like why do people select the frontier tokens when they could use the cheaper tokens to do most tasks? There's many reasons why. But like the biggest one is because there's a tremendous amount of surplus even if you're using the frontier tokens. Yeah, absolutely. And so yeah, what happens if there's like a massive supply shortage?
+
+67
+00:30:43.840 --> 00:31:09.090
+Well, I think that would be the, you know, kind of funny, the consequences of like these like data center, degrowthers, maybe like real compute inequality where big companies and wealthy people can afford compute. And then, you know, two years from now, they'll be on about that. And it's like, well, that happened because of you.
+
+68
+00:31:09.090 --> 00:31:32.450
+Yeah, you know that happened because you wouldn't let us build data centers Yeah, and by the way, we've seen this right like the path to a low-cost product delivered to consumers in a mass market is Advertising it takes a long time to build an advertising business. Yeah as we've seen with all the yeah, and some internet businesses that we've invested in over the years And so there may be a disconnect in the period where you can't actually offer that
+
+69
+00:31:32.450 --> 00:32:01.740
+Yeah, and that would be a terrible outcome. That'd be a terrible outcome for the world. Nobody wants that, so we need to build a lot of data centers. Yeah, exactly. Exactly. Yeah. Like a compute inequality like future, that's not a good future for anyone, which is another reason open source is so important. And just one of the things, you know, I had a... Grock make me like a meme of that like three-headed dragon and one of the heads is like kind of confused about like all of the really like stupid
+
+70
+00:32:01.740 --> 00:32:30.800
+Barish AI narratives, but people have this idea that open source tokens are free. They're not and it's like it takes the exact same amount of compute. Yeah, all else equal to make an open source token as a you know frontier token for a comparably sized model now There's a lot of nuances there, but that's broadly true. It's just a question of what are the margins that are charged on top of that. Yeah, and even then
+
+71
+00:32:30.800 --> 00:33:00.350
+the Kimmy license, something that I don't think a lot of people appreciate, is the Kimmy license stipulates a 30% share of any revenue. Yeah. So the Kimmy has taken a 30% cut of all the revenue generated on its, and this is because it's open weights, not open source. Yeah, exactly. Yeah. But it's also extremely token hungry too, right? Oh yeah. It's, it's, even, we're talking on a token basis, but on a task basis it's far more inefficient. Absolutely. And so it's very costly. Yeah. And I just always like,
+
+72
+00:33:00.350 --> 00:33:28.380
+Jensen, he's a great patriot, great American. We're so lucky to have him and Elon. And I think when the history of the 21st century is written, there was like the Victorian age, I think this will be like the age of Elon and Jensen. Because they are fundamentally altering the fabric of human society and civilization with AI, SpaceX, making humanity, multiplanetary, Starlink.
+
+73
+00:33:28.380 --> 00:33:57.250
+you know, bringing low-cost internet access to the poorest communities in the world, which is amazing, which is, you know, something that people don't talk about, but it's like an amazing, you know, you talked about consumer surplus, that is an amazing surplus. There was never, there was never going to be an economic case to build internet access in those places because of the cost. Yeah, and now the willingness to pay and now you could. No, well now it's there. And any incremental internet capacity, like it's not going to be
+
+74
+00:33:57.250 --> 00:34:27.330
+built in a traditional sense on it, it's gonna come from space. And so that is a huge, that is a huge unlock, I agree. That's a good thing, but we're like, we should all be grateful for them, because I do think that they're making the future as exciting and inspiring as possible. Say we are in this supply crunch. It's so funny whenever I talk about SpaceX and it's obviously near and dear to both our hearts. I say like, first of all, the orbital data center stuff,
+
+75
+00:34:27.330 --> 00:34:56.340
+It's not like big buildings in space. Like it's helpful to actually think of it's like the size of an airplane. Yeah, people are like people are picturing like the Death Star. Yeah, exactly. Like the Pintagad. Yeah. Floating around its base. That's not what it is at all. Yeah, it's a it's you know, whatever the size of an airplane, right? Yeah, it's like five of us standing together is kind of roughly the airplane is like the wings. Yeah, the solar, the solar wings. Yeah. And then you keep it in a Sun-Secretness orbit.
+
+76
+00:34:56.340 --> 00:35:25.660
+So you have the radiator that's always in the shadow of the rack. That's how you cool it. And it's like I can't, it's very hard for me to engage. Now there's all these people on X and they're like, I am a physics PhD. And this is impossible. And actually there's a friend who's another investor who actually is a physics PhD who had many arguments with him. And he's like, I am a PhD and this is impossible.
+
+77
+00:35:25.660 --> 00:35:55.340
+And then he goes to the SpaceX day and, you know, he talks to the SpaceX engineers. He's like, well, I was wrong. And so like, if let's say you're an astrophysics PhD, you're brilliant. You're hanging 100 IQ points on me. Have you thought about this for an hour? Have you thought about it for 10 hours? Have you thought about for five hours? Because you have 10,000 of the world's smartest engineers at SpaceX who've thought about this each for hundreds, if not thousands of hours. And
+
+78
+00:35:55.340 --> 00:36:25.120
+The sum of that, working with like very sophisticated, you know, engineering tools, is it's a solved problem and in their minds it's dramatically simpler and easier than a Starlink satellite because the Starlink has to have the phased rays and move around. I think it's like so okay so, assuming that you're right, I say it's like physics, there's not a physics reason why this can't work. Cost wise it seems really imposing.
+
+79
+00:36:25.120 --> 00:36:52.510
+But kind of the history of the Elon companies is the cost curve gets dramatically better like when we first invested in SpaceX, you know Starlink like was not commercially available and Like we had all these questions about how the economics would proceed over time with the same on the launch side the same with the Model 3 like I just have to think that that will get solved paired with the fact that we're gonna have massive under supply self-inflicted on earth
+
+80
+00:36:52.510 --> 00:37:21.420
+It feels clear to me at a minimum that will be swing capacity. Yeah. And you know in the fullness of time maybe it will be larger. Well, no, it's really simple. Like if we use 50 and it is the people the question people should be asking about orbital compute which is the one SpaceX is focused on is Starship reusability. Yes. Because the math is like let's just say it's 50 billion a gig and let's just say 35 of that is IT. Yep. So that's the same and maybe it grows a little because it's it's going into space.
+
+81
+00:37:21.420 --> 00:37:51.730
+The rest is power, cooling, labor, all sorts of things that you don't need in space because you have the solar panel and the big radiator. And that's 15 billion. And it's probably inflationary here on earth because labor fundamentally feeds into that. We just talked about what's happening to electrician. Yeah, comp, yeah. Yeah, electrician. Materials are all going to go off. Yeah, all of it. Yeah, we're going to run out of...
+
+82
+00:37:51.730 --> 00:38:14.960
+The copper bulls are focused on copper shortages. Yeah, optics, you know, all that. Yeah, so that 15 billion is inflationary. And so what you have to compare it to is the cost of launch and with Starship reusability that goes to under a billion so that economics just instantly flip. Now, you're always going to train on earth. There will always be advantages to having
+
+83
+00:38:15.020 --> 00:38:44.780
+You know GPUs right next to each other like there are you know speed of light limitations are a real thing latency matters So data centers on earth. They're not going anywhere. I think they're gonna continue to be very very valuable but an increasing fraction of the world's compute is gonna be in orbit and you know Elon said that he and Jensen have co-designed a Ruben rack and There it's gonna launch in the fourth quarter of 27. Yeah, and let's just say
+
+84
+00:38:44.780 --> 00:39:08.580
+Let's just say he's off by two quarters. Yeah. I mean, that's that's 2028. Yeah, that's okay. That's pretty soon that you know as Brad Gershner says like Nobody's really paying attention to this and it's like kind of happening in plain sight. I mean it kind of to me solves for something Yeah, you know mid-single just billions today, which by the way, you know is like that's just like keeping share constant
+
+85
+00:39:08.580 --> 00:39:37.460
+Yeah, exactly. You know, like what's happening with coding. Not presuming to take any share on Grockbot. Yeah, from 3 billion. And by the way, man, I would just probably take the over with Grockbot. Yeah. I bet it's like changing by the day, just based on my own usage. And the number of people who are hitting their usage limits. And then yours starting to get from, you know, Grockbot like, hey, servers are overloaded every once in a while. And like they have a lot of compute. So it's just like, okay, you don't want to debate.
+
+86
+00:39:37.460 --> 00:40:07.010
+Orbital data centers. No problem. Well, like Starleague Mobile, like they have a pretty clear credible plan for how that's gonna work and that, you know, wireless is, you know, call it another eight, nine hundred billion dollars of revenue that they address. So your, yeah, your mobile plus your broadband, whatever it's called, like close to two trillion of a market. And then you have a really rapidly growing AI ARR base. Yeah. AI ARR, you've got the cloud, you know, the sort of cloud business.
+
+87
+00:40:07.010 --> 00:40:33.380
+Yeah. So I don't think, great, you're an orbital compute skeptic. No problem. It doesn't matter. Yeah, exactly. We don't even need to, we can just look at things that are happening today with terrestrial compute, with cursor, with grok, with grokbot. By the way, I think X ads are, you know, we have telemetry. Yeah. They're also growing. You know, I would expect at some point you'll have like a starlink, grokbot.
+
+88
+00:40:33.380 --> 00:41:02.000
+X advertising bundle, you know, kind of one of the ways Google built their pod business as they bundled it with ads and like, hey, we're, you know, maybe you're bundling the ads with AI, but why not do that? Yeah. Yeah. I actually like the AI position that they're in because it's like heads you win, tails you win in the sense that their first party business is growing very fast and they caught up to the frontier like very quickly. Yeah. And so they've made the very aggressive compute investments.
+
+89
+00:41:02.000 --> 00:41:28.080
+to enable that first-party work. And that's the kind of heads you win and like tails you win. Say they overbuilt their capacity for what they need for inference or training. They have a very compelling six-mark payback on the compute side, you know, with like massive scarcity of supply. And so I think that's a really good setup. And there was a bear case that, hey, okay, well in the open AI and...
+
+90
+00:41:28.080 --> 00:41:55.950
+Anthropic, maximalist view, where they're the only two companies and they're designing their own chips, then like, where, what's the room for anyone else? Well, like, I don't think they're going to have a reusable Starship and multiple spaceports anytime soon. And if the economics are computer such that orbital is where it makes sense increasingly going forward because Starship should be deflationary, you know, terrestrial cooling, you know, power should be inflationary. Well, like, even in a world where
+
+91
+00:41:56.020 --> 00:42:25.780
+they fumble the ball with their first party AI applications like they do still have. Then they're a massive infrastructure business. Yeah. Yeah. I'm so fired up about the Starbase Louisiana. Oh yeah. I can't wait to visit it. It's so cool. I was reading about it last night and yeah, it's sort of like it's now the they now have the infrastructure for you know, thousands of launches a year. Yeah. And eventually I think you will see like these Starbases in multiple places
+
+92
+00:42:25.780 --> 00:42:55.260
+Multiple coasts all over the world. Yeah, like, you know at some point you'll probably see one somewhere in the Middle East You see you know, whatever European country is like the least bureaucratic at the time you'll see one there You know, you'll push I think you'll see probably one in you know whether it's Japan South Korea. Yeah, who knows. Yeah. Yeah. Yeah, yeah, that's pretty exciting. Yeah. Yeah, the the capability to do To call it, you know, whatever 5,000 launches a year like that feels very futuristic. Yeah
+
+93
+00:42:55.260 --> 00:43:24.300
+I mean, it's wild. And I do think a distinction that, you know, SpaceX really tried to kind of hammer home during their IPO is there's a difference between reusability and China. They did catch kind of a rocket using this. It was actually kind of ironic. It was this kind of jury rigged system of kind of wires that had actually been suggested on the SpaceX subreddit. Yes. Like seven or eight or nine or nine, no, no, it was before they landed the first Falcon. So it's like more than 10 years ago.
+
+94
+00:43:24.300 --> 00:43:48.260
+And like China's clearly paying closer attention to the SpaceX subreddit. But that's very different, catching that thing from what they're trying to do with Starship where, you know, the booster gets caught with the things, then it gets moved, and then the Starship gets caught, and then it gets stacked, it gets fueled, and just sent right back up. Two a day, two a day per pad. Like those numbers add up pretty fast.
+
+95
+00:43:48.260 --> 00:44:17.250
+And I do think, I think they're engineering the pads from more than two a day. Yeah, I think that's a conservative assumption. Yeah. Yeah. Yeah, what's the, okay, so SpaceX, like again, you and I talked a ton about SpaceX. What's like the most futuristic thing that you think about with SpaceX? Like the 10 year, okay, so you and I were at this conference together and there was this whole debate about among a small group of public investors of like what's gonna be the
+
+96
+00:44:17.250 --> 00:44:43.980
+the first $10 trillion company. And I think what you said was like, I have no idea, but I know which one's going to be the first $20 trillion company. So like, what's the most futuristic like product or market or technology thing about SpaceX that you can think of? Look, I mean, this sounds crazy, but asteroid mining is going to be a very real thing. We're going to capture, you know, there's asteroid psyche. It has more gold, silver, platinum.
+
+97
+00:44:44.050 --> 00:45:13.360
+you know, every precious metal in it that exists in the Earth's crust. At some point, particularly with Starship, you will be, you know, and we may need that lunar base to make this happen. You'll be able to capture these asteroids. You'll bring them into a stable kind of geosynchronous orbit over some, you know, American-owned atoll in the middle of the Pacific. You know, no humans within whatever 50 miles. You'll
+
+98
+00:45:13.360 --> 00:45:43.490
+You know, you can imagine like Optimus Robots, you know, doing the work. Yeah, doing the work. And then, you know, delivery to Earth is free. And for sure some of it's going to burn up. But I think that's going to happen. And I always think Jeff Bezos said something very interesting. He said, I think in the future, Earth is going to be zoned residential. And, you know, somebody asked him like 15 years ago, what do you mean by that? He's like, all heavy industry will take
+
+99
+00:45:43.490 --> 00:46:08.880
+place in outer space. And then this addresses the pollution concerns, it addresses everything. You know, people always get like really worried about, oh, you know, we still be able to see the stars. And it's just like, I think it's hard for like the human mind to understand how big space is. Yeah. How big outer space is. Yeah. You know, it's like, I don't have to worry so much about emissions up there. Yeah. Yeah. So I think that is, um,
+
+100
+00:46:09.650 --> 00:46:40.190
+That's probably the most futuristic thing but in terms of an economic application, but it does I mean I I do think in the next few years you're gonna have a fleet of Starships land on Mars next few years. I mean, I don't know Let's just say at the outside. This is eight years away. Yeah, they're gonna land on Mars gonna have like, you know A little ramps gonna come out of the pes dispenser and it's gonna be a modified Starship the Mars colonial transporter
+
+101
+00:46:40.190 --> 00:47:05.840
+And it's going to be wild. You're going to have the Optimus robots holding American flags like walk down. And then, you know, they're going to pull out a bunch of solar panels and batteries and racks of compute. And they're going to set all of that up. They'll be dropping star links, you know, and maybe the orbital mechanics don't allow this. But I think, you know, they will figure out a way to have
+
+102
+00:47:05.970 --> 00:47:34.540
+Your capacity so just think how crazy it is to watch like the views from Pathfinder You know our you know, whatever these different, you know Mars and rovers and stuff rovers are and like, you know 4k video through Optimus robots all over Mars and then After that there will be humans in inhabit it. Yeah. Yeah. Yeah, that is crazy to think about and that that's gonna be an amazing moment for America. Yeah, I mean think about some land This is a little bit bigger. Yeah. Yeah
+
+103
+00:47:34.540 --> 00:48:02.930
+So that seems cool. That's a good one. That's a good one. Yeah, there's not a lot of chatter about that one out there. Yeah, but I think it's highly likely to happen. Yeah, yeah. So you mentioned Microsoft and the bet that they made, which is like a little bit of, you know, like Apple's the extreme kind of bet against the future kind of bet they made. And like Microsoft is kind of a gradient of that. Yeah. Like what's your outlook for...
+
+104
+00:48:02.930 --> 00:48:31.580
+their decisions? Well, I do think the world has gotten a lot friendlier for their strategy. You know, they clearly tried to make a frontier model. They failed. Yeah. You know, Satya said, we're going to have our own models that are very competitive. Like I think he said that 18 months ago, they don't have their own models that are competitive. But what you're seeing with, I think the future is an ensemble of models. You know, there's a Pareto curve. No one model is going to be the best at everything.
+
+105
+00:48:31.580 --> 00:48:57.300
+And I think the future for certainly, you know, kind of the global, you know, 1000 biggest companies is you're going to take whatever the best open source model is. I think probably in the, in the very near, near future, that's going to be an Nvidia model. The labs making a six create very interesting incentives to get into each other's business incentives for Jensen and everybody's well, oh, in a world where open source wins, who funds the training?
+
+106
+00:48:57.300 --> 00:49:24.480
+Well, the chip companies can fund the training. Yeah. It's trivial to do a 50 to 100 billion dollar training run for Jensen. And maybe soon, I do wonder if this is kind of Google's like super long-term play. Like they seem to like maybe have opted out of the frontier race for now. We're going to monetize our compute at high rates and we're going to sell TPUs externally, but that generates so much cash flow.
+
+107
+00:49:24.480 --> 00:49:50.140
+and open source is getting closer and closer and closer to the frontier. And it just maybe the winner is ultimately just who has kind of the most cash flow to fund these big training runs. But I do think you're going to see American open source led by, led by Nvidia get really close to the frontier. Like they paid that poolside acquisition was made for a reason. Poolside actually had a lot of really good American open source talent.
+
+108
+00:49:50.140 --> 00:50:18.400
+Either they're you know, they're doing a lot of smart things but that that is really good for Microsoft and at some level almost every application software company because what you can do now is you can take a base model and Nemotron to date has not had a lot of post training It's kind of been a good pre-trained model that you could do with what you want So if you take a really good pre-trained base model and then instead of sharing your own kind of
+
+109
+00:50:18.400 --> 00:50:46.910
+Enterprise context that's truly your IP that's truly the value You know of your company is like, you know the context embedded in all of your data and like sharing that with a frontier lab You know that maybe hazardous for your financial health. Yes, there's certainly with like the shift in the ZDR policy like yes, yes and so you take a really capable open-source model and You do a lot of RL and supervised fine-tuning on your own data. So you own it and it's your model. Yeah
+
+110
+00:50:46.910 --> 00:51:16.340
+And then if intelligence is like a super important input into your business you want to own and control your intelligence, its capabilities, its cost. And then what we've seen from a lot of companies and you know, GrokBot my understanding is you know, I think it's Gemini 3.7 Flash, Grok 4.6 and some Opus. And what you and behind a router. And you will
+
+111
+00:51:16.340 --> 00:51:45.180
+And I'm sure Elon is very focused on having it all grow. Yeah, of course. But I think what you'll see these companies do is they'll have their own model on their data and it will work with one or two other frontier models. Not necessarily, but just checking each other, it'll be kind of transparent to the user. The most frontier for planning and then have execution run by everything else is lower cost. Yeah, absolutely.
+
+112
+00:51:45.180 --> 00:52:12.320
+And so I think that feels like a very likely future to me. And that is a much Microsoft-friendly or future than one in which there's just only two dominant frontier models. And it certainly looks like there's going to be at least three with Grok. I do think you got to give Metta a lot of credit. They've done a great job. Yeah. And I mean they were out of the game and they got back in the game. And it's just kind of amazing. Who could have imagined a year ago
+
+113
+00:52:12.320 --> 00:52:39.180
+you know, when it was like Jim and I was a synduct. Exactly. That this is the scenario that we're in. The Jim and I wouldn't even be in the conversation. Yeah, they're not in the conversation. And Muse and Meta would be significantly ahead of them from a capability perspective. So it's just, you know, this is kind of like the highest stakes game of like corporate chess ever played. And, you know, people, you know, some people have made bad moves, they've made good moves. You see some people come out of the game, others come back in.
+
+114
+00:52:39.180 --> 00:53:05.860
+But a future where that future where it's a you know, I don't know if we're gonna call it multi-model hybrid model Yeah, I don't know what terminology the world is gonna settle on but I think that's the future. Yeah, and I'm actually surprised I think the best broad instantiation of that today outside of Grockbot outside of cursor outside of you know like Harvey's done great things with that where they've done it
+
+115
+00:53:05.860 --> 00:53:34.670
+is actually just the fireworks nexus product. Yeah, yeah, exactly. Where you can, yeah, you can choose your frontier model. Let us take whatever open source model you want, RL it for you, for your data for Coleman Sacks, for Morgan Stanley, for JP Morgan, for Fidelity, for A16Z. You have all your own data, you control your intelligence and we make it transparent behind a router. I think that is like a very plausible future. And that's clearly what,
+
+116
+00:53:34.770 --> 00:54:01.860
+Lynn from Fireworks, she was the first one to say it, and then Alex, Carp and Satya, they both kind of like- Yeah, they've taken their own version of it. Yeah. But you know, Satya, as I say, a specialized intelligence, like I think it's very plausible, but this stuff is really hard to do. Like that sounds easy. It sounds easy to describe, like the way I describe it to people is like, who gets to be the abstraction layer to the organization and the users?
+
+117
+00:54:01.860 --> 00:54:32.340
+with intel, like of intelligence. It's like the most, whatever, wide after space or position that you could imagine in business, like in the history of business. Yeah, for sure. Right? I think it's like the answer is and again. Yeah, yes, and for sure. It's yeah, who's the arbiter of intelligence? Yes. For global enterprises and probably consumers. How's a retail analyst? And, you know, everybody kind of thinks running one of these big chains is easy and there's a lot into it. And it's like, well,
+
+118
+00:54:32.340 --> 00:54:58.930
+It's really easy. Start an American retailer in any category because America is so big that's worth over $50 billion, almost any category. Yeah. All you have to be able to do is have a fleet of a thousand stores in 50 different states that have very different climates, consumer preferences. You need to have them stocked with the right products at the right time for that region at the right prices.
+
+119
+00:54:58.930 --> 00:55:27.060
+They need to be staffed by friendly and knowledgeable employees who don't steal from you. You turn over 100% a year. Turn over at least 100% a year. The stores need to be clean and well lit. And if you can do that, press show, $50 billion. Yeah. And like in the history of American business, like you can, I mean, it's more than one hand, but you don't have to go through many. Yeah. It's really hard to do. Yeah. And having that abstraction layer,
+
+120
+00:55:27.060 --> 00:55:55.920
+having it work, having it seamless is I think way harder to do than people think. And I do think something I think is very interesting about cursor. I love your opinion on this, is like everybody else in the lab space, you know, had this like, we're creating a digital deity, you know, and AGI and ASI like we're, and the cursor guys were just like, we want to make great product. Yes, exactly.
+
+121
+00:55:55.920 --> 00:56:25.820
+in a strange way, everybody at the frontier probably Kirscher was the most product focused. I'd say in another part of SpaceX, but that suits Elon and his mindset really, really well. Let's make it an engineering problem, create the model factory, and then we need to have a really good product. The Tesla cars, they're amazing. I don't know if you drive one, but it drives.
+
+122
+00:56:25.820 --> 00:56:51.970
+Yeah, yeah, yeah, yeah, but like what cursor figured out is they're they had I would say a similar in-state vision as what those others guys had Yeah, it was just a different path to get there and it's sort of like a practical meet the customer with what with where they are meet the technology where it is And I think you know they'll sort of they have already demonstrated that they kind of leg their way up into autonomy from from that starting point Coding is unique
+
+123
+00:56:51.970 --> 00:57:20.850
+Compared to everything else in knowledge work this would be like in support of the point that Microsoft is in a good position Because it is verifiable and perfectly documented and like nothing else in enterprise Yeah is verifiable and perfectly documented and so it will be messy like that that leads you to a good, you know, bowl case for something like Microsoft that abstraction layer if execute, but it's really really hard to make it really simple for oh You know click my co-pilot link to all my stuff
+
+124
+00:57:20.850 --> 00:57:48.880
+train a model on our data, convince me that you're not going to share it with anyone else, and then put it behind a router that's seamless for me, and continuously upgrade that open source model. It's not just some middleware. It's very hard to do. And by the way, they're going to be competing with not only the labs to be that abstraction layer, but Databricks, so like Palantir, the inference providers.
+
+125
+00:57:48.880 --> 00:58:18.640
+the application companies, right? So like Harvey has done an incredible job of this. Yeah. And you know, like legal has sort of in take off and I think they can see the future of how to be that abstraction layer and do the work. But like legal is also unique because it's very documented and it's somewhat verifiable. We'll see tax. We'll see that. We'll see things like that. But like the one and a half billion, the really appealing broad pie is going to be very messy to go get. Yeah, although I do always think and you know, I think
+
+126
+00:58:18.640 --> 00:58:48.350
+Probably in their heart of hearts Harvey and LaGora think of we solve this We could be that abstractly or for everyone. Yeah, I think probably in their heart of hearts cognition think something like that too. I think everybody thinks it by the way There's like massive validation of the category because Kirkland and Ellis said We're gonna spend 500 million bucks to build this ourselves like first of all You know like good luck. That's gonna be very hard. Yes, um, but That actually tells you that the pie is really big. All right huge. Yes massive and that's it's
+
+127
+00:58:48.350 --> 00:59:16.640
+And, you know, just, and I'm sure they have a very smart head of AI, but it's not like a $500 million one time build. That model has to be continuously updated, switching out the base model. Then all of that has to happen transparently. But I think you're going to have this huge collision between, you know, products like fireworks, Nexus, these legal agents, coding agents, big companies like Microsoft, Databricks, Snowflake coming up.
+
+128
+00:59:16.640 --> 00:59:45.920
+You know, for sure, you know, Salesforce, I think is gonna, you know, Salesforce and Workday and all these companies, this is like, everybody's gonna go after it. It's just gonna come down to who executes the best and, and this is just, you know, who has the lowest costs. And it's gonna be very hard, I think over time, unless you're re, if you're not vertically integrated, you have to be so good to a merchants that abstraction. Yeah, yeah, yeah, to be the low cost provider. Yeah.
+
+129
+00:59:45.920 --> 01:00:14.700
+Because, yeah, you should simply not be the low-cost provider if you're not vertically integrated if you don't own your own compute over the very long, long term. And, you know, it's another reason like I increasingly look at these hyperscalers on EV to net Pp and E. Yes. Because net Pp and E is compute and that is just what the market thinks you're going to monetize your fleet of compute at. And you can kind of look at them and there's some pretty obvious inefficiency steps. Yeah. Yeah. Yeah.
+
+130
+01:00:14.700 --> 01:00:42.220
+kind of an AI version of price to book. Yeah, I like the price to book. Okay. That's good. It's okay. You mentioned Jensen. You know, I'd share your sentiment. Like he's like carrying this industry forward. Like tell me your thoughts on a video. So I think he's in a very, very good position and his strategy of being vertically integrated but horizontally open. And it's like, okay, like let's just say
+
+131
+01:00:42.930 --> 01:01:13.070
+You know, let's say there's some accelerator that emerges that is really really really really good. Almost certainly it will be better if it can plug into and this is why, like I know you have an accelerator investment. My number one thing is if you're a semiconductor CEO, the only thing you should ever say is thank you, Jensen. Thank you for creating this opportunity. Thank you. How can we work with you? We want to enable you. Sure, we're going to compete with you on the edges.
+
+132
+01:01:13.070 --> 01:01:40.020
+But you know my rule of thumb for accelerators every 1% share today is probably worth 100 billion. Yes. So there's no need to go head on with Nvidia. Yeah. Just pick a niche, get your 1%, make sure that- That's very big. He has nine chips. Yeah. You know, he's got multiple flavors of accelerators. He's got CPUs. He's got, you know, Ethernet switches. He has two kinds of GPUs. You know, he's got
+
+133
+01:01:40.020 --> 01:02:09.380
+You know, we've gone from just skill out networking being a thing. We have skill up, skill out, skill across, now skill in. So just try to find a way to plug into his ecosystem. By the way, this is not foreign. Like his biggest customers all have competing products with various of those nine chips. Yeah. And just try to find a way to plug in, but just be nice to him. Be nice. Be nice. It's all personal. You know, and it's just like sometimes like, you know, you hear
+
+134
+01:02:09.380 --> 01:02:36.530
+some of these and it's like, have you ever seen game tape of the Chicago Bulls when Jordan was, you know, it's game 50 of the season. Yeah. And he's a little bored. Yeah. And the Bulls are down because you know, they're up eight games, you know, they're up eight games over the number two person in their conference. And he's a little bored. And then somebody, somebody who's kind of young decides I'm going to talk shit to him because we're beating him and then he just looks.
+
+135
+01:02:36.530 --> 01:03:06.300
+And it's like it's the best. Yeah, it's amazing. Oh, yeah, you did. We've all seen you know, whatever the last dance just don't do that. Yeah, exactly. You know, just just like, hey, Michael, man, I'm so happy to be on the court with you. Like that's that's that's that's the move. But the reason it's particularly important is because Jensen's data centers are financeable. Yes. And we goes back to that point by let's say it's 50 billion dollars.
+
+136
+01:03:06.300 --> 01:03:29.600
+For an invidia data center, you need a $15 billion equity check. Yeah, okay. You can finance the other $35 billion. Yeah, and it's not circular financing. I have a lot of respect for the people I have met from Blackstone and KKR and Apollo. Yeah, and they're underwriting each of those. Yeah, and they finance it and then there's a residual value guarantee, which
+
+137
+01:03:29.600 --> 01:03:57.550
+as long as that residual value guarantee is less than the gross profit dollars he's getting from selling the chips into that data center, it's like essentially it's super NPV positive with very little risk for him. And then he gets a revenue share. So if you're and his data centers are the most financeable, and like let's just say a good case for
+
+138
+01:03:57.550 --> 01:04:23.090
+Probably TPUs are the second most financable. It probably takes I don't know double the equity check at least yeah, and then the rates on the rest of it are higher. Yeah, exactly and So cost of capital is a huge advantage and that's why you just want to be part of his ecosystem and you can see he's he's he has all these chips Yes, acquiring land power and shell companies now
+
+139
+01:04:23.090 --> 01:04:49.870
+matchmaking them with off-take agreements. I think one reason he's doing these RVGs is if he doesn't do them, it's kind of an anthropic and open AI dominated world because they can pay the most for compute. He can effectively help other people compete with the anthropic and open AI. And the same way that he stood up the neoclouds in the first place. Yeah. It's just democratizing compute, which is good for the world. Again, I think he's a patriotic American. His interests are aligned with that though, with the patriotic.
+
+140
+01:04:49.870 --> 01:05:20.210
+American ones, right? Of course, yeah. Like fragmentation. Yeah, fragmentation, no dominant AI. Yeah, exactly. Which is really good because he's like a, he is a ruthless competitor and it's awesome that his incentives around fragmentation of AI, fragmentation of models and, you know, fragmentation of power are completely aligned with what's good for America. And just going back to open source, just like, I just can't take it that people think that Jensen is like the world's
+
+141
+01:05:20.210 --> 01:05:49.470
+biggest advocate for open source and it's somehow a giant risk to his business. Yeah, exactly. No, it's great for his business. It's great for his business because it means that instead of, you know, having a 90% margin on top of a token made with an Nvidia GPU, maybe it's a 40% margin. So more of those tokens are going to be consumed, which means you need more compute. Yeah, exactly. In a supply constrained world, in a supply constrained world. And, you know, let's just
+
+142
+01:05:49.470 --> 01:06:18.400
+What percentage of the world supply has he locked up? 70, 80, somewhere in there. And then, um... You're talking about fab capacity. All of it. All of it. You know, it's just because he saw this coming before everybody else. Yeah, and all the system supply chain. Yeah, he's got the fab capacity locked up. He's got DRAM capacity locked up. He's got NAND capacity. He's got laser capacity. He has capacitor capacity. He has, you know...
+
+143
+01:06:18.400 --> 01:06:49.820
+what you need to make the racks. And it's just like, you know, he used to say, if I go back, you know, 15 years, he'd say, listen, I'm making a two or $3 billion bet every two years and I'm moving really, really fast. Now he's making these multi-hundred billion dollar bets, bringing the supply chain alongside him. He's bringing the financing alongside him by kind of standardizing it, making it easy for the very smart people at Blackstone, KKR on Apollo and Goldman Sachs and Morgan Stanley, JP Morgan to finance.
+
+144
+01:06:49.820 --> 01:07:19.490
+And like that is hard to compete with. And you know, it is, my firm, Trades, we have a pretty big portfolio, private portfolio companies. They're semiconductors. And it's just, you know, Elon said a lot of people are going to learn a hard lesson in hardware. And like, I would just say I've learned a lot of hard lessons in semiconductor investing. Like you can, you can bet on the best team and
+
+145
+01:07:19.490 --> 01:07:47.100
+You tape the chip out. You feel great. Okay. We've taped it out in it. And that's happening faster than ever, right? Yeah. It's happening faster than ever. You feel great about it. And we're getting really good with the emulation and the simulations. And you feel great about it. And then, you know, you'll experience this. The chip comes back from the lab. Everybody, you get a face time from the CEO. They plug it in, you know, and like, and then sometimes it doesn't work. You know, it's just like.
+
+146
+01:07:47.100 --> 01:08:13.360
+Yeah, this famously happened with Serebus twice, right? Yeah. And they've powered through and like they've done great job. Well, I think the chip, I think each Serebus chip worked. It just struggled to find product market fit. Yeah, yeah, yeah. For the first two generations. The chip worked. Yeah. It didn't have product market fit. And they've done great with it, yes. But there's a different thing between you plug it in. It doesn't work at all. And it doesn't work at all. Exactly. And then it's like, if it doesn't work at all...
+
+147
+01:08:13.360 --> 01:08:38.480
+you might be back to the drawing board and hey, we need another hundreds of millions of dollars, billion dollars. And we've learned our lesson, it's gonna work the next time, two years from now. Yeah, assuming you can get financing. So it's, you know, semiconductors are hard. Like the real world is hard. Like hardware is hard. And...
+
+148
+01:08:38.480 --> 01:09:08.510
+what he is doing at the scale he is doing at and the speed and bringing all of this alongside him. Because you know the land and the power has to come. You know, the entire supply chain has to come. The financing has to come. And so given that he's, you know, 70, 80%, whatever we want to say, you just want to plug into that ecosystem. Yeah, that's why Elon made the decision. Yeah, which I also think was like a very high Elon move.
+
+149
+01:09:08.510 --> 01:09:33.700
+So you've had everybody else try and build their own ASIC. Yeah. They've gotten up on stage. Sometimes they say negative things about, you know, Jensen or Nvidia or take shots. Um, I did think it was pretty smart, you know, the jalapeno team last night and we should give credit where credit is due. jalapeno is the, I would say the first good ASIC.
+
+150
+01:09:33.700 --> 01:10:00.750
+Other than TPU or tranium I've seen yeah, I'm internal you know, you know what seems to be a pretty short amount of time It's impressive. We should give credit where credit is due and I do have a good team working on the team. Yeah So they had a really good team I think they had a lot of advantages and I do think If you were a lab and you have the model and you see the direction of research That's a big advantage for designing your own chip, but then you go back to Nvidia and they work with everyone. Yes
+
+151
+01:10:00.750 --> 01:10:30.260
+And everybody keeps thinking it's going to really standardize. And if you look at the three big Chinese open source models, DeepSeq, Kimmy, Quinn, they're kind of all evolving in very different ways. And they can all run on a more general purpose chip, a GPU. But you're going to need, if you want to specialize, you're going to need general purposes, a minimum for the types of evolution from that.
+
+152
+01:10:30.260 --> 01:10:59.810
+Like I think he's I'm very happy his incentives has a CEO or perfectly aligned with what's good for America. Yes So I just Make sure your semiconductor guys do not talk trash about Michael Jordan. Be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to be nice to
+
+153
+01:10:59.810 --> 01:11:26.510
+Superman sometimes he just flies away. Yeah, like that's what happened to the TPU team. Yeah, yeah, yeah, and you know, jalapeno they're tugging on Superman's cape a little bit. Yeah, we'll see. We'll see. Yeah, and it is kind of amazing that like jalapeno did something that none of the big like this is has competitive of a chip as IFC. Yeah, but again, it's just competitive with one of his eight or nine chips. Yeah, one of his nine. Yeah, of course.
+
+154
+01:11:26.510 --> 01:11:55.410
+And it's they'll continue to work closely together. Yeah, they'll continue to work closely together. So it's like, hey, that's great. You did the one thing. Well, to actually be competitive with him at the system level, you did another eight chance. Exactly. Yeah. And he is at in, you know, Dylan at Summary Analysis talks about how he's the bank of AI. He's like, he's the central bank of AI. He's the Federal Reserve of AI. Yeah. And so I actually think it was really smart for Elon instead of like competing.
+
+155
+01:11:55.410 --> 01:12:24.740
+You know with somebody who is fully aligned. Yeah, fully aligned. Mm-hmm. Yeah, I think that history is gonna judge that to be a wise decision in a world that is so supply chain constrained It's actually really hard to tell what true customer preferences are right. It was like you come out. They'll take anything Yeah, that's this is how you know that like a very old whatever the price is all double H100 is very high Yeah, and if you have a TSM allocation, you're gonna be sold out. Yes, particularly if you can get the DRAM to pair with it. Yeah, you're gonna be sold out
+
+156
+01:12:24.740 --> 01:12:46.300
+So it's actually kind of hard to infer true customer preferences. And I actually think one of the best ways you can like see true customer preferences is the kind of deals they cut with chip companies. So broadly speaking, you know, the first deal is where the chip company invests in a customer and you saw a TPU and Tranium, Amazon and Google.
+
+157
+01:12:46.300 --> 01:13:16.000
+do that with the Anthropic. And that was to their immense advantage because it really helped their businesses. I think help those chips really level up because you kind of need to use a chip. There's a cold start problem. And that scenario, as long as the dollars you invest or less than the gross profit can't lose money. And then there's a scenario where you do the RVG, Blackstone finances it or whoever, Blackstone, Apollo, KKR, Goldman Sachs finances it. And as long as that RVG is actually less than your gross profit.
+
+158
+01:13:16.000 --> 01:13:44.080
+You can't lose money and you have upside prize through a revenue share on top of it. Then there are deals where you give warrants away, but they're tied to like a fixed price per million tokens. And as long as the performance of your chip kind of outruns the performance of your stock, you're going to do good in that situation. If you just give warrants away, it could be negative NPV because the better the stock does, the more value the deal is.
+
+159
+01:13:44.080 --> 01:14:15.700
+And so you can kind of look at that hierarchy of deals and like infer something about true customer preferences. That's interesting. Yeah. So in video, it is pretty good deals. Like, yeah, I mean, there's a reason that people I consider smart are investing in their deals. Yeah, I see it. Gavin, thank you. Fun, always fun to hang out with. Thanks David. This is great, man. Thanks for listening to this episode of the A16Z podcast. If you liked this episode, be sure to like, comment, subscribe, leave us a rating or review.
+
+160
+01:14:15.700 --> 01:14:46.030
+and share it with your friends and family. For more episodes, go to YouTube, Apple Podcast, and Spotify. Follow us on X at A16Z and subscribe to our sub-stack at a16z.substack.com. Thanks again for listening and I'll see you in the next episode. As a reminder, the content here is for informational purposes only. Should not be taken as legal business, tax, or investment advice, or be used to evaluate any investment or security and is not directed at any investors or potential investors in any A16Z fund.
+
+161
+01:14:46.060 --> 01:14:58.830
+Please note that A16Z and its affiliates may also maintain investments in the companies discussed in this podcast. For more details, including a link to our investments, please see a16z.com forward slash disclosures.
