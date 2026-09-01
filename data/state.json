@@ -2822,6 +2822,23 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from publisher transcript",
       "url": "https://share.transistor.fm/s/bc1a283c"
     },
+    "streamlined-solopreneur::5b30dc9d-4843-424e-93c2-20431186f45b": {
+      "attempts": 1,
+      "description": "<p>There was a time when building a quiz as a lead magnet seemed insurmountable to me. The setup, the configuration, the routing — not to mention how much those tools cost. It never felt like the juice was worth the squeeze.</p><p>LLMs have changed that. So today I'm walking through exactly how I built my Conscientious AI Usage quiz, and how you can too.</p><p><br />Take the quiz at <a href=\"https://quiz.lovehate.ai/\">quiz.lovehate.ai</a> — find out if you're at risk of AI brain rot and get the free Conscientious AI Usage Kit.</p><p><br /><strong>Show Notes</strong></p><ul><li><a href=\"https://quiz.lovehate.ai/\">Conscientious AI Usage Quiz</a></li><li><a href=\"https://joec.pro/kit\">Kit</a></li><li><a href=\"https://netlify.com/\">Netlify</a></li><li><a href=\"https://www.byholliearnett.com/\">Holly Arnett</a></li><li><a href=\"https://streamlinedsolopreneur.com/ai-brain-rot/\">Three Signs You're Suffering From AI Brain Rot and How to Prevent It</a></li></ul>\n<ul><li>(00:00) - Intro\n</li>\n<li>(04:05) - Creating a Quiz Spec with Claude\n</li>\n<li>(06:34) - Connecting the Tech Stack\n</li>\n<li>(08:44) - Designing the Quiz\n</li>\n<li>(10:04) - The Quiz Scoring Logic &amp; Custom PDF Deliverable\n</li>\n<li>(11:35) - How to Start Planning Your Own Quiz</li>\n</ul>\n<br /><p>————<br />Streamlined Solopreneur helps overwhelmed solo business owners go from overwhelmed to having their time back.</p><p>Each week, Joe Casabona shares one practical idea — a system, tool, or strategy to help you get your time back without selling your soul to AI...and run your business without sacrificing the rest of your life, or your health.</p><p><br />Looking for a place to start? Take the Solo Systems Starter Quiz. 60 seconds, 8 questions, and I will tell you what system you should build first, and exactly how to build it. <a href=\"https://streamlined.fm/quiz%20\">https://streamlined.fm/quiz </a></p><p><br />Connect with Joe on LinkedIn: <a href=\"https://www.linkedin.com/in/jcasabona/\">https://www.linkedin.com/in/jcasabona/</a></p>",
+      "external_id": "5b30dc9d-4843-424e-93c2-20431186f45b",
+      "item_slug": "streamlined-solopreneur-62fae90d035a",
+      "language": "en",
+      "published_at": "2026-09-01T06:00:00+00:00",
+      "published_to_feed_at": "2026-09-01T16:50:01.238981+00:00",
+      "source_id": "streamlined-solopreneur",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "Conscientious AI Usage: How I Built a Quiz in Two Hours",
+      "title_zh": "负责任的AI使用：我如何在两小时内制作测验",
+      "transcript_provenance": "publisher transcript",
+      "translation_provenance": "translation/openai/gpt-4o-mini from publisher transcript",
+      "url": "https://streamlined.fm/550"
+    },
     "streamlined-solopreneur::683cbcd2-f7e3-4849-ada7-aaca6ce7938c": {
       "attempts": 1,
       "description": "<p>Lately, I've been hearing horror stories about how people use AI. Not \"AI wrote me a program\" stories — I mean people who can't decide what to make for dinner, write their own feedback on a contractor's work, or come up with a single question for a webinar without asking a chatbot first. I call it AI Brain Rot, and getting really bad.</p><p>So I walk through the three warning signs you might be slipping into AI brain rot, my 5 Pillar AI Philosophy, and three rules to keep your brain sharp while you still automate your business. We get into where AI actually shines — crunching data, transcribing calls, processing your notes — and where it absolutely doesn't.</p><p>If you want to build solopreneur systems that rely on you in the right ways, this one's for you.</p><p>Want systems that will help you free up your time without killing your ability to think? Grab the Solopreneur Starter Kit — four systems to help you run your one-person business, with recommended tools and automations. Plus, it’s 100% written by me (not AI). It's free at <a href=\"http://streamlined.fm/kit\">streamlined.fm/kit</a>.</p><p><br /><strong>Links</strong></p><ul><li><a href=\"https://streamlined.fm/kit\">Solopreneur Starter Kit</a></li><li><a href=\"https://streamlinedsolopreneur.com/ai-brain-rot/\">AI Brain Rot (longer piece)</a></li><li><a href=\"https://whispermemos.com/\">Whisper Memos</a></li></ul>\n<ul><li>(00:00) - What is AI Brain Rot?\n</li>\n<li>(04:11) - Warning Signs of AI Brain Rot\n</li>\n<li>(13:10) - My 5-Pillar AI philosophy\n</li>\n<li>(14:46) - Rules for preventing AI Brain Rot\n</li>\n<li>(21:06) - Wrap-up</li>\n</ul>\n<br /><p>————<br />Streamlined Solopreneur helps overwhelmed coaches, consultants, and service providers build systems so their business doesn't depend on them. </p><p>Each week, Joe Casabona shares one practical idea — a system, tool, or strategy, with AI doing the tasks, not the thinking — to help you beat overwhelm, get your time back, and run your business without sacrificing the rest of your life, or your health.</p><p><br />Looking for a place to start? Download the Solopreneur Systems Starter Kit: the 4 systems every solopreneur should have, the simplest way to set them up, plus the exact tools, automations, and AI prompts you need. No guessing. Get it free at <a href=\"https://streamlined.fm/kit\">https://streamlined.fm/kit</a>.</p><p><br />Connect with Joe on LinkedIn: <a href=\"https://www.linkedin.com/in/jcasabona/\">https://www.linkedin.com/in/jcasabona/</a></p>",
@@ -3603,6 +3620,23 @@
       "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://a16z.simplecast.com/episodes/building-the-physical-ai-stack-travis-kalanick-on-tbpn-pij0lvRd"
+    },
+    "the-a16z-show::530a274b-dbf9-4577-9c39-1207c889db37": {
+      "attempts": 1,
+      "description": "a16z’s Lisha Li sits down with Daniel Litt, Assistant Professor of Mathematics at the University of Toronto, to unpack AI's rapid progress in mathematics, what today's frontier models can actually do, and what they're still missing about the way mathematicians think.\nDaniel explains why some recent AI-generated results are genuinely impressive, including an autonomous solution to the Erdős unit distance problem, but argues that solving problems is only one part of mathematics. Today's models can grind through calculations, combine known techniques, and search enormous spaces, but still struggle with intuition, theory building, identifying the right questions, and developing the kind of big-picture understanding that drives much of mathematical progress.\nLisha and Daniel also explore how AI is already changing mathematical research, why an explosion of AI-generated papers could distort academic incentives, and what happens if researchers outsource the work of thinking rather than use AI to deepen it. Ultimately, they ask a question that extends far beyond mathematics: as AI gets better at intellectual work, how do we make sure humans keep getting better at thinking too?",
+      "external_id": "530a274b-dbf9-4577-9c39-1207c889db37",
+      "item_slug": "the-a16z-show-96d7d43aa2f1",
+      "language": "en",
+      "published_at": "2026-09-01T10:00:00+00:00",
+      "published_to_feed_at": "2026-09-01T16:56:33.612601+00:00",
+      "source_id": "the-a16z-show",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "Daniel Litt: The Mathematician's Guide to AI",
+      "title_zh": "丹尼尔·利特：数学家的人工智能指南",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://a16z.simplecast.com/episodes/daniel-litt-the-mathematicians-guide-to-ai-TyLaUSzk"
     },
     "the-a16z-show::548ff3fc-0c93-4ca1-9475-b62cd4bd4288": {
       "attempts": 1,
@@ -6277,15 +6311,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:18:55.806325+00:00",
-      "last_modified": "Tue, 01 Sep 2026 05:13:17 GMT",
+      "last_checked_at": "2026-09-01T16:46:03.991347+00:00",
+      "last_modified": "Tue, 01 Sep 2026 16:45:05 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:17:45.446367+00:00",
+      "last_checked_at": "2026-09-01T16:45:13.647743+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -6293,14 +6327,14 @@
     "feng-tou-quan": {
       "etag": "W/\"e3cb8a315b07b457350f0f94e02bf736\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:17:08.544232+00:00",
+      "last_checked_at": "2026-09-01T16:44:05.958493+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:19:08.037983+00:00",
+      "last_checked_at": "2026-09-01T16:46:44.600191+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
@@ -6308,14 +6342,14 @@
     "gao-qian-nu-hai": {
       "force_refresh": false,
       "last_attempt_at": "2026-08-26T13:21:20.005733+00:00",
-      "last_checked_at": "2026-09-01T05:16:45.146078+00:00",
+      "last_checked_at": "2026-09-01T16:45:10.618294+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:16:56.384082+00:00",
+      "last_checked_at": "2026-09-01T16:43:54.428020+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -6323,7 +6357,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:19:37.011464+00:00",
+      "last_checked_at": "2026-09-01T16:48:14.777870+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -6332,7 +6366,7 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"3a4020ffe2a0b168b27ffcc34bd62a8c\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:18:46.256995+00:00",
+      "last_checked_at": "2026-09-01T16:46:00.245980+00:00",
       "last_modified": "Thu, 27 Aug 2026 12:41:27 GMT",
       "title": "声东击西",
       "type": "podcast",
@@ -6341,17 +6375,17 @@
     "silicon-valley-101": {
       "etag": "W/\"7cabe375ff28bb26afff07d798023f59\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:17:32.588228+00:00",
+      "last_checked_at": "2026-09-01T16:44:53.297444+00:00",
       "last_modified": "Sun, 30 Aug 2026 05:34:44 GMT",
       "title": "硅谷101",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/sv101/rss"
     },
     "streamlined-solopreneur": {
-      "etag": "W/\"945bfb885c764dbd80c384f21bed7071\"",
+      "etag": "W/\"b777322165e52f99352ad5a83c43f5bd\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:20:25.339617+00:00",
-      "last_modified": "Sun, 30 Aug 2026 16:33:16 GMT",
+      "last_checked_at": "2026-09-01T16:49:03.477566+00:00",
+      "last_modified": "Tue, 01 Sep 2026 06:01:26 GMT",
       "title": "Streamlined Solopreneur: Solo Ops to Stop Doing Everything Yourself",
       "type": "podcast",
       "url": "https://feeds.transistor.fm/streamlined"
@@ -6359,24 +6393,24 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"c4d7c3b2b1d55371a28997aa16bc1b66\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:18:01.645525+00:00",
+      "last_checked_at": "2026-09-01T16:45:43.215350+00:00",
       "last_modified": "Mon, 31 Aug 2026 11:55:02 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"9065ecccb59fec01cb6bfdd48d0b9da9\"",
+      "etag": "W/\"cfcbf22ed01224dbf60c90eb3132f500\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:19:29.611246+00:00",
-      "last_modified": "Mon, 31 Aug 2026 10:00:30 GMT",
+      "last_checked_at": "2026-09-01T16:46:44.343571+00:00",
+      "last_modified": "Tue, 01 Sep 2026 10:00:26 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:20:00.619769+00:00",
+      "last_checked_at": "2026-09-01T16:48:48.825872+00:00",
       "last_modified": "Tue, 01 Sep 2026 04:23:10 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
@@ -6385,7 +6419,7 @@
     "the-psychology-of-money-with-morgan-housel": {
       "etag": "W/\"2831d-c3+pZFSdcav+rajpUvFVcJByPbY\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:20:55.402306+00:00",
+      "last_checked_at": "2026-09-01T16:50:15.290190+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
@@ -6393,7 +6427,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"9365d5b07d75656ffaa7d9da23cdc885\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:20:27.847461+00:00",
+      "last_checked_at": "2026-09-01T16:49:37.713971+00:00",
       "last_modified": "Thu, 27 Aug 2026 09:36:48 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -6401,7 +6435,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:19:57.370226+00:00",
+      "last_checked_at": "2026-09-01T16:48:29.761502+00:00",
       "last_modified": "Wed, 19 Aug 2026 20:30:01 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -6409,26 +6443,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:16:50.948273+00:00",
+      "last_checked_at": "2026-09-01T16:44:22.241640+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:18:33.166983+00:00",
+      "last_checked_at": "2026-09-01T16:47:39.677716+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-01T05:17:59.994299+00:00",
+      "last_checked_at": "2026-09-01T16:45:13.895479+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-09-01T05:21:18.604412+00:00",
+  "updated_at": "2026-09-01T16:57:11.832276+00:00",
   "version": 1
 }

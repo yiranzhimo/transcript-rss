@@ -1,0 +1,59 @@
+**[00:00:00]** There was a time when building a quiz as a lead magnet seemed insurmountable to me. The amount of time it would take to set up, configure, and route, not to mention how much those premium quiz or evaluation software tools cost. And I just never felt like the juice was worth the squeeze. I never felt like I would get the amount of subscribers I would want from those quizzes for the cost in both time and money for those quizzes. Well, large language models have changed that.
+
+**[00:00:00]** I am always talking about the right ways to use AI, something I'm now calling conscientious AI usage, and how it's used for tasks and not craft. And so today I'm going to show you how I applied the craft. The AI did the tasks, and now I have a couple of fantastic quizzes and how exactly you can do the same thing.
+
+**[00:00:00]** Hey everybody, and welcome to The Streamlined Solopreneur, where I help overwhelmed coaches, consultants, and service providers build systems so their business doesn't depend on them. Each week I share one practical idea to help you beat overwhelm, get your time back, use AI conscientiously, and run your business without sacrificing your life or your health. And today I'm going to talk about building an interactive lead magnet.
+
+**[00:00:00]** So here's the thing that, I mean, I'm calling it the lie today, but up until a couple of years ago, it was the absolute truth. Building an interactive lead magnet required a Developer. A budget or a SaaS subscription. So you would default to simpler lead magnets or pay the amount of money it costs to have that quiz. And don't get me wrong. Let's say you're paying $1,000 a year for this quiz evaluation type tool. If that quiz is bringing in even 10 people a month and one of those people each month ends up paying you $1,000, that's a 10x return on your investment, right? That's not what I was getting, right? And that's what I'm still not getting, but the cost to build the quiz is way, way lower.
+
+**[00:00:00]** So what is the bottleneck here? It was never really code, right? Because you could go off and pay for ScoreApp or create a WordPress site and use a plugin like Gravity Forms. But the bottleneck is the time it takes to create the quiz, the evaluation mechanism, the scoring mechanism, and then delivering whatever it is the deliverable is. It could be a PDF that is customized for the user, right? Something that ScoreApp does very well. It could be a single PDF that's going to go to everybody no matter what, or it could be something else.
+
+**[00:00:00]** But today, if you can describe what you want, building it is pretty close to free now. But like, the other side of this is that most people say they're not technical, right? And it does take some steps. There is some effort, but the level of effort is way lower.
+
+**[00:00:00]** So how do you go about building a quiz or some other interactive lead magnet, we'll say, using AI in a way that it's not writing the lead magnet for you? Because that's the other important part for me. AI should never write for me. If you've listened to this show for even a week at this point, you have probably heard me say that.
+
+**[00:00:00]** So what do we do? I'm going to walk through my entire process for building my conscientious AI usage quiz. You can find that over at quiz.lovehate.ai. So it's going to go through and kind of tell you if you're going to, if you are suffering or at risk for AI brain rot.
+
+**[00:00:00]** And so the first step here is I have a body of work from which the large language model, in this case, I used Claude Code and Claude Cowork. 
+Okay. So I have a body of work from which the large language model can pull from. At this point, I've been writing somehow contrarian views of AI for a couple of years now, with 3 signs that you're suffering from AI brain rot. And how to prevent it, as like this big content pillar piece.
+
+**[00:00:00]** And so that was the main one, but I have a bunch of other stuff. And so I have all of that, and I fed that into the large language model, and I said, based on all of this, can we come up with a quiz to help people evaluate if they are suffering or at risk of suffering from AI brain rot? I want you to just create the spec, or specification document is exactly how everything should work, how it can be implemented, where it's going to live, the code logic or how the code logic should work, and the end state, and a whole bunch of other stuff.
+
+**[00:00:00]** If you give a spec to a Developer, they should have a good understanding of how they are going to implement the thing that you've specced out, right? So I didn't just say, I want a quiz on AI Brainrot, right? I was very specific in let's build this spec from my body of work.
+
+**[00:00:00]** And so it created the spec. And in the spec, I also said any place there is copy, add a, like I call it, add a to-do. There's a to-do marker that Developers will know. I was a Developer in a former life that they can look for that in the code and know that there's something they need to do there. So I said, mark all of the places where there's copy I need to edit in the code so that I can go in and change it.
+
+**[00:00:00]** And so that was the other part of it, right? I didn't want Claude to write anything for me. It did come up with the initial set of questions and answers, and I went and fixed it, but that's how it came up with those questions that I reviewed.
+
+**[00:00:00]** And it did point each question back to something I've written or one of the signs of AI brain rot, which I thought was good. So I took that spec, and I gave it to Claude Code. The reason I gave it to Claude Code is for a couple of reasons, right? Claude Code has all of the connectors that I also have in Claude Cowork. And so I wanted everything to connect to kit.com, which is my email service provider. So when somebody filled out this quiz, I wanted their information sent to Kit along with their scores and the right tags.
+
+**[00:00:00]** But it also connects to Netlify, which is a free website hosting service. You pay for credits, just like anything that's even remotely technically related these days. And you get 300 for free. And deploys are like 15 credits. And traffic is like, I think 1 credit per 20 megabits, gigabits, something. It's very cheap. And unless you're getting a ton of traffic, you don't need to pay for it. I have a bunch of projects on there. I still haven't hit my free limit. I suspect I will this month and it's $9 a month for 1,000 credits, which is more than, more than enough for me. So that's why I use Netlify and Claude Code.
+
+**[00:00:00]** So step 1 is to gather all of my content that makes up the body of work that I'm going to base the quiz off of. So I'm not just saying to it, " Hey, I think a cool thing would be a quiz that does this, right? Make that quiz for me”, cuz now it's doing the craft and the tasks. I said, “Here is my body of work. Create a quiz using my words verbatim”, as close to verbatim as possible, at least, right? So the craft is mine, the tasks are Claude's. And so it created the spec. I give that over to Claude Code. It runs, I create the project in Netlify, and it launches pretty quickly and pretty impressively, actually. I was very impressed.
+
+**[00:00:00]** I am continually impressed by how well these large language models write, test, and deploy code. And that's a, that's for another day. That's a conversation for a different day, but it is very impressive. So it was deployed. I made all the copy changes as well as some tweaks to the design. And I should say also here, the design- shout-out to Hollie Arnett. She's my Brand Designer. So she gave me a bunch of assets, including a brand guideline.
+
+**[00:00:00]** So I uploaded all of the assets Holly gave me to Claude Design. And I said, using this, create a design system for any single-serving websites that I want to make. So I specifically had these types of quizzes in mind. And it created the full design system. I said, package it in a way that I can put it into AI memory, make it a skill in Claude Cowork, and it's something that's accessible in Claude Code. And man, that was also very impressive.
+
+**[00:00:00]** Okay. And I think the impressive things here are all I'm asking a computer to do things for a computer, right? They speak the same language. It's a computer doing computer things, and that's where AI does and will always shine. So that's the other thing. The design's really nice. I was very impressed by it, and way better than what I would've come up with, right? I was a Developer. I was never a designer. And so I made the tweaks. I wired up Kit.  It's 8 questions. It will score the user on how much AI brain rot they have. It will give them their weakest area. So I've got like these 4 dimensions.
+
+**[00:00:00]** 1. Do you run to AI before thinking about a problem for 5 minutes?
+2. Do you ask AI questions when you should be asking people those questions? 
+3. Do you have AI do stuff and then not execute because you have no skin in the game? 
+4. Or are you using AI as a coach to give you advice?
+
+**[00:00:00]** So, one of those areas, those are also ranked. So, like AI coach, if there's a tie between like AI coach and skin in the game, AI coach is going to win, right? That, and using it reflexively, like going to it quickly without considering the problem. Those are the 2 highest levels of brain rot, in my opinion. And so it will send all of that to Kit, and then I will send an email with a PDF called the Conscientious AI Usage Kit. That PDF that they'll get was also generated by Claude using my design system from a Markdown file that I wrote.
+
+**[00:00:00]** So that is all my writing, all my guidance. I did say like, what's a, what's like a, an exercise in this that would be useful? And it was like, well, you have a 3-question test. Why don't we just give them a worksheet to fill out the 3-question test for how they're using AI? And I'm like, that's a very good idea. Something I could have come up with on my own. So all of that is, is my copy, my content.
+
+**[00:00:00]** And again, it's a very beautiful-looking PDF that I would not have been able to make. So it took me about 2 hours to do all of this because I had the body of work, because I kind of knew those steps, but now, you know, those steps, right?
+
+**[00:00:00]** So if this sounds really interesting to you, the first thing that you should do, right, is don't build anything this week. I recommend that you look at your body of content to see where you have frameworks, and evaluation exercises that you can consider.
+
+**[00:00:00]** Okay, well, this is an evaluation thing I do. Can this be a self-evaluation? And then that is a good candidate for a quiz. So that's what I recommend. Look at your body of work and gather it all together so that you have a nice little bundle to give to the large language model. So it has enough content and context to build the quiz in your own words. When you do get to the build phase, don't just take what it says and assume, right? Don't blindly accept its output.
+
+**[00:00:00]** I almost did that because I was like, well, it's all based on me. Then I saw it was weird. It worded some stuff weirdly. And that's when I was like, let's redo this. And I'm going to feed in everything. So. You know, I fall into the trap too, right? It feels so easy, but easy doesn't mean no work. So that's my recommendation.
+
+**[00:00:00]** If you want to take this quiz, if you're wondering how you can conscientiously use AI, or if you might be at risk of suffering from AI brain rot, you can head over to quiz.lovehate.ai and take the quiz.
+
+**[00:00:00]** But that's it for this episode of The Streamlined Solopreneur. Thanks so much for listening, and until next time. I hope you find some space in your week.
