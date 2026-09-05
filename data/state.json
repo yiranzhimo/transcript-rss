@@ -4131,6 +4131,23 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://a16z.simplecast.com/episodes/the-100b-niches-hiding-inside-payments-aKQoOt7o"
     },
+    "the-a16z-show::c467545c-37d0-4862-8fce-65d81646cd39": {
+      "attempts": 1,
+      "description": "Box co-founder and CEO Aaron Levie joins MTS hosts Theo Jaffee and Sofia Puccini to make the case for open-weight AI, unpack the economics of open versus closed models, and explain why he believes more openness could strengthen rather than undermine the U.S. AI ecosystem.\nAaron argues that open models create more use cases, push closed labs to innovate faster, and don't fundamentally change where the economics of AI ultimately accrue. They debate model distillation, America's competition with China, why restricting access may simply accelerate competing AI ecosystems, and whether U.S. labs should begin releasing open-weight versions of previous-generation models.\nThey also get into what the latest frontier models mean for knowledge work, how AI has changed software engineering at Box, and why Aaron believes companies cutting engineers may simply not be ambitious enough. Finally, they discuss why enterprises are unlikely to bet on a single model and why the layer that routes between models, data, and workflows could become increasingly valuable.",
+      "external_id": "c467545c-37d0-4862-8fce-65d81646cd39",
+      "item_slug": "the-a16z-show-5aa0a1754cc9",
+      "language": "en",
+      "published_at": "2026-09-05T10:00:00+00:00",
+      "published_to_feed_at": "2026-09-05T15:26:08.908106+00:00",
+      "source_id": "the-a16z-show",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "Aaron Levie on Why Open AI Wins",
+      "title_zh": "亚伦·莱维谈开放AI为何获胜",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://a16z.simplecast.com/episodes/aaron-levie-on-why-open-ai-wins-YUnuv_hR"
+    },
     "the-a16z-show::c74cda10-c994-45e0-9b42-3498fec93bc3": {
       "attempts": 1,
       "description": "a16z's Joel De La Garza is joined by Emilio Escobar, Chief Information Security Officer at Datadog, to discuss what it takes to secure a company where nearly every employee is using AI and more than 4,000 engineers are working with coding agents. Rather than trying to block new tools, Emilio explains why Datadog chose to embrace AI early and build the security infrastructure needed to use it safely.\nThey unpack how AI changes traditional assumptions around data permissions, credentials, developer access, and software supply chains. Emilio shares how Datadog uses role-based MCP servers and ephemeral credentials, as well as an AI \"judge\" built by his security team to evaluate the intent behind code and agent skills before they enter the environment.\nThey also discuss why security teams can't afford to wait for commercial solutions to every new AI threat, how the relationship between developers and security teams needs to change, and why Emilio is less concerned about an AI \"escaping\" than he is about the sheer volume of vulnerabilities AI could uncover.",
@@ -6583,15 +6600,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:38:20.473110+00:00",
-      "last_modified": "Sat, 05 Sep 2026 04:19:13 GMT",
+      "last_checked_at": "2026-09-05T15:21:05.994262+00:00",
+      "last_modified": "Sat, 05 Sep 2026 15:08:58 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:37:36.892541+00:00",
+      "last_checked_at": "2026-09-05T15:20:14.072346+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -6599,14 +6616,14 @@
     "feng-tou-quan": {
       "etag": "W/\"e3cb8a315b07b457350f0f94e02bf736\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:36:11.698549+00:00",
+      "last_checked_at": "2026-09-05T15:18:59.186052+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:38:48.987464+00:00",
+      "last_checked_at": "2026-09-05T15:21:03.913429+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
@@ -6614,14 +6631,14 @@
     "gao-qian-nu-hai": {
       "force_refresh": false,
       "last_attempt_at": "2026-08-26T13:21:20.005733+00:00",
-      "last_checked_at": "2026-09-05T04:36:25.513890+00:00",
+      "last_checked_at": "2026-09-05T15:18:59.900098+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:36:38.324772+00:00",
+      "last_checked_at": "2026-09-05T15:19:17.009786+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -6629,7 +6646,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:38:58.675885+00:00",
+      "last_checked_at": "2026-09-05T15:21:45.380020+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -6638,7 +6655,7 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"3a9e61f50fee0e5fdc10602e2f6c5419\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:38:04.757153+00:00",
+      "last_checked_at": "2026-09-05T15:20:58.018927+00:00",
       "last_modified": "Thu, 03 Sep 2026 22:43:18 GMT",
       "title": "声东击西",
       "type": "podcast",
@@ -6647,7 +6664,7 @@
     "silicon-valley-101": {
       "etag": "W/\"aa586ea0136a395ebcc7299b3c12a1bb\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:37:04.902085+00:00",
+      "last_checked_at": "2026-09-05T15:19:53.641766+00:00",
       "last_modified": "Fri, 04 Sep 2026 01:05:23 GMT",
       "title": "硅谷101",
       "type": "podcast",
@@ -6656,7 +6673,7 @@
     "streamlined-solopreneur": {
       "etag": "W/\"b851044cebfc4c85e7188d16d8cd96af\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:39:50.097375+00:00",
+      "last_checked_at": "2026-09-05T15:23:41.945202+00:00",
       "last_modified": "Fri, 04 Sep 2026 14:25:27 GMT",
       "title": "Streamlined Solopreneur: Solo Ops to Stop Doing Everything Yourself",
       "type": "podcast",
@@ -6665,33 +6682,33 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"b1a179f88b2af6fdabb53d0d1e9179f4\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:37:47.061092+00:00",
+      "last_checked_at": "2026-09-05T15:20:14.817638+00:00",
       "last_modified": "Wed, 02 Sep 2026 04:15:04 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"e36dcf7cf7b942c0e2e8ea02543080b0\"",
+      "etag": "W/\"d87fcba8496b0bf5b7818572374c678d\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:38:43.361589+00:00",
-      "last_modified": "Fri, 04 Sep 2026 10:00:28 GMT",
+      "last_checked_at": "2026-09-05T15:21:35.224068+00:00",
+      "last_modified": "Sat, 05 Sep 2026 10:28:01 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:39:38.232177+00:00",
+      "last_checked_at": "2026-09-05T15:22:09.104757+00:00",
       "last_modified": "Fri, 04 Sep 2026 07:32:19 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
       "url": "https://feeds.megaphone.fm/PPLLC8974708240"
     },
     "the-psychology-of-money-with-morgan-housel": {
-      "etag": "W/\"287db-M9O4F9OFBwUOOpz98g+q3xQSWmI\"",
+      "etag": "W/\"287db-CHGNtkIIivlxPXn8Apuaytgh/Wk\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:40:24.577762+00:00",
+      "last_checked_at": "2026-09-05T15:23:05.385375+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
@@ -6699,7 +6716,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"40b445a37ace7ce3769b7549c30aed23\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:40:15.070527+00:00",
+      "last_checked_at": "2026-09-05T15:22:50.550815+00:00",
       "last_modified": "Thu, 03 Sep 2026 09:35:06 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -6707,7 +6724,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:39:43.568430+00:00",
+      "last_checked_at": "2026-09-05T15:22:05.427084+00:00",
       "last_modified": "Fri, 04 Sep 2026 13:36:20 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -6715,26 +6732,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:36:49.004641+00:00",
+      "last_checked_at": "2026-09-05T15:18:57.329306+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:37:48.210628+00:00",
+      "last_checked_at": "2026-09-05T15:20:50.035179+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-05T04:37:07.376523+00:00",
+      "last_checked_at": "2026-09-05T15:19:58.839702+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-09-05T04:40:59.876152+00:00",
+  "updated_at": "2026-09-05T15:26:35.192986+00:00",
   "version": 1
 }
