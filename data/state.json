@@ -3655,6 +3655,23 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://a16z.simplecast.com/episodes/how-do-you-defend-against-ai-that-can-hack-L2M2EmmY"
     },
+    "the-a16z-show::34e47cf8-efba-4478-8edb-a0baa42e00af": {
+      "attempts": 1,
+      "description": "a16z General Partner Julie Yoo joins MTS host Sophia Dew to explain why she believes healthcare could benefit more from AI than almost any other industry, and why decades of slow technology adoption may actually give healthcare an advantage in the AI era.\nJulie traces healthcare’s evolution from paper records and fax machines through electronic health records and telehealth, and explains why AI represents something different: an organic adoption wave driven by tools that doctors and patients actually want to use. Because healthcare never built the same layers of legacy software as other industries, it may now be able to leapfrog directly into agentic AI.\nThey also explore how AI could dramatically lower the cost of care, why consumers are becoming a more important payer, where Julie sees the biggest opportunities for healthcare founders, and a future where everyone has a highly personalized AI doctor in their pocket for life.",
+      "external_id": "34e47cf8-efba-4478-8edb-a0baa42e00af",
+      "item_slug": "the-a16z-show-95c21efb64cb",
+      "language": "en",
+      "published_at": "2026-09-06T10:00:00+00:00",
+      "published_to_feed_at": "2026-09-06T15:37:47.457218+00:00",
+      "source_id": "the-a16z-show",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "Your AI Doctor Is Coming | Julie Yoo",
+      "title_zh": "你的AI医生来了 | 朱莉·尤",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://a16z.simplecast.com/episodes/your-ai-doctor-is-coming-julie-yoo-YEmlPria"
+    },
     "the-a16z-show::36a8220e-1090-417d-8ba7-c483df5c4f5d": {
       "attempts": 1,
       "description": "Sarah Wang and Kimberly Tan are joined by Jesse Zhang and Ashwin Sreenivas, co-founders of Decagon, to discuss the evolution of enterprise AI agents, why the company increasingly relies on open-source models, and how it is helping some of the world’s largest companies deploy AI in production.\nDecagon has become one of the fastest-growing AI companies by building agents that automate customer support, sales, and operational workflows. Jesse, Decagon’s CEO, and Ashwin, its president, explain how the company is building enterprise AI at scale.\nThey unpack why Decagon moved most of its inference to open-source models, how latency, evaluation, and fine-tuning shape production AI systems, and why enterprise AI requires far more than simply plugging into frontier models. The conversation also explores forward-deployed engineering, enterprise sales, AI’s impact on jobs, and why application companies will continue to thrive alongside the foundation model labs.",
@@ -6617,15 +6634,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:48:24.740703+00:00",
-      "last_modified": "Sun, 06 Sep 2026 04:44:12 GMT",
+      "last_checked_at": "2026-09-06T15:33:59.978139+00:00",
+      "last_modified": "Sun, 06 Sep 2026 15:14:07 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:47:20.433674+00:00",
+      "last_checked_at": "2026-09-06T15:32:47.883771+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -6633,14 +6650,14 @@
     "feng-tou-quan": {
       "etag": "W/\"e3cb8a315b07b457350f0f94e02bf736\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:46:21.768697+00:00",
+      "last_checked_at": "2026-09-06T15:31:52.550526+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:48:41.453068+00:00",
+      "last_checked_at": "2026-09-06T15:33:56.543918+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
@@ -6648,14 +6665,14 @@
     "gao-qian-nu-hai": {
       "force_refresh": false,
       "last_attempt_at": "2026-08-26T13:21:20.005733+00:00",
-      "last_checked_at": "2026-09-06T04:46:23.486804+00:00",
+      "last_checked_at": "2026-09-06T15:31:51.466885+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:46:16.542315+00:00",
+      "last_checked_at": "2026-09-06T15:32:02.610432+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -6663,7 +6680,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:49:03.839461+00:00",
+      "last_checked_at": "2026-09-06T15:34:42.940918+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -6672,7 +6689,7 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"3a9e61f50fee0e5fdc10602e2f6c5419\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:47:40.797179+00:00",
+      "last_checked_at": "2026-09-06T15:33:45.373832+00:00",
       "last_modified": "Thu, 03 Sep 2026 22:43:18 GMT",
       "title": "声东击西",
       "type": "podcast",
@@ -6681,7 +6698,7 @@
     "silicon-valley-101": {
       "etag": "W/\"aa586ea0136a395ebcc7299b3c12a1bb\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:46:56.030112+00:00",
+      "last_checked_at": "2026-09-06T15:32:43.544430+00:00",
       "last_modified": "Fri, 04 Sep 2026 01:05:23 GMT",
       "title": "硅谷101",
       "type": "podcast",
@@ -6690,7 +6707,7 @@
     "streamlined-solopreneur": {
       "etag": "W/\"b851044cebfc4c85e7188d16d8cd96af\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:49:28.285736+00:00",
+      "last_checked_at": "2026-09-06T15:35:37.674631+00:00",
       "last_modified": "Fri, 04 Sep 2026 14:25:27 GMT",
       "title": "Streamlined Solopreneur: Solo Ops to Stop Doing Everything Yourself",
       "type": "podcast",
@@ -6699,24 +6716,24 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"b1a179f88b2af6fdabb53d0d1e9179f4\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:47:11.689932+00:00",
+      "last_checked_at": "2026-09-06T15:33:01.582808+00:00",
       "last_modified": "Wed, 02 Sep 2026 04:15:04 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"d87fcba8496b0bf5b7818572374c678d\"",
+      "etag": "W/\"4d4e2f4459751ac75db3fd85036da7c5\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:48:25.443722+00:00",
-      "last_modified": "Sat, 05 Sep 2026 10:28:01 GMT",
+      "last_checked_at": "2026-09-06T15:34:37.292410+00:00",
+      "last_modified": "Sun, 06 Sep 2026 10:42:00 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:49:27.627149+00:00",
+      "last_checked_at": "2026-09-06T15:35:04.495149+00:00",
       "last_modified": "Sun, 06 Sep 2026 00:00:00 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
@@ -6725,7 +6742,7 @@
     "the-psychology-of-money-with-morgan-housel": {
       "etag": "W/\"287db-CHGNtkIIivlxPXn8Apuaytgh/Wk\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:50:21.219300+00:00",
+      "last_checked_at": "2026-09-06T15:36:10.364330+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
@@ -6733,7 +6750,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"40b445a37ace7ce3769b7549c30aed23\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:50:08.213225+00:00",
+      "last_checked_at": "2026-09-06T15:35:57.341915+00:00",
       "last_modified": "Thu, 03 Sep 2026 09:35:06 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -6741,7 +6758,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:49:35.608752+00:00",
+      "last_checked_at": "2026-09-06T15:34:49.873722+00:00",
       "last_modified": "Fri, 04 Sep 2026 13:36:20 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -6749,26 +6766,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:46:16.015576+00:00",
+      "last_checked_at": "2026-09-06T15:31:53.797088+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:47:45.765276+00:00",
+      "last_checked_at": "2026-09-06T15:33:51.287162+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-06T04:46:58.346200+00:00",
+      "last_checked_at": "2026-09-06T15:33:01.352322+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-09-06T04:58:19.663452+00:00",
+  "updated_at": "2026-09-06T15:38:14.514017+00:00",
   "version": 1
 }
