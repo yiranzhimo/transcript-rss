@@ -1,0 +1,73 @@
+WEBVTT
+
+1
+00:00:00.210 --> 00:00:28.820
+AI is becoming more powerful, but the resources needed to build it are increasingly concentrated. Does it have to stay that way? MTS host, Sophia Dew, heads to the open source AI summit in San Francisco to ask researchers and founders across the AI stack whether open source can create a more distributed future for AI. Lucas Kaiser, co-author of the landmark, Attention is All You Need paper, argues that today's concentration may be a property of our current technology.
+
+2
+00:00:28.820 --> 00:01:00.300
+Not an inevitable feature of AI. Transformers thrive on enormous amounts of data and compute, but they're less than a decade old, and the next breakthrough could change those economics. From open models and access to compute, to companies owning their own intelligence, Sophia explores where AI power is actually concentrating, what openness can change, and what it still leaves unsolved. Joining me is Lucas Kaiser, an AI researcher and the co-author of Attention is All You Need.
+
+3
+00:01:00.300 --> 00:01:29.230
+the paper that introduced the transformer that completely changed modern day AI. Where is modern day AI and where is power currently concentrating? There was a very important moment sometime around end of last year, start of this year, where the coding agents started to work. The nature of this AI is that you need to train it on very expensive data centers and on a lot of data. So there's big companies that do this and then they charge for it, right? That concentrates it in the sense to get the like...
+
+4
+00:01:29.230 --> 00:01:55.490
+To me, even the current models are not smart enough. So there still could be much smarter, right? There may be some research breakthroughs that are needed to make them smarter with less data. But since research breakthroughs, you know, sometimes they come, sometimes they don't, they're not like a business proposition. But the big companies are like, okay, but you can do things without research breakthroughs, which is to go bigger, bigger, bigger. Now that is very concentrating. You go bigger, bigger, you need
+
+5
+00:01:55.490 --> 00:02:22.880
+billions of dollars you need to scrape data from every corner of the internet. So the current state of the technology is a bit concentrating, but we should remember that it's just the current state. Short-transformers are great, but they're not even 10 years old. Time sure will be other things. Maybe we'll make it possible to train with less data, more diverse model. Like, transformers are really good if you train them on the whole internet and then they're reasonably smart. But if you try to say, you know, you just learn about this,
+
+6
+00:02:22.880 --> 00:02:52.750
+then they're just stupid, right? It doesn't work that well. But it doesn't work because maybe we need a research breakthrough that will make it work. But the transformer needs to be everything. And that's a problem, but it's a research problem that hopefully gets solved. With the transformer, architecturally, you need a lot of resources. And the more resources you have as a company, as a model, the more powerful you can be. But do you think there is a type of algorithmic breakthrough or some type of research breakthrough that will allow smaller players to really compete?
+
+7
+00:02:52.750 --> 00:03:20.000
+Well, I mean, we know it exists. We are the proof, right? Humans are not experts in everything. But in the field, there are experts. They're very good sometimes, better than our super huge models. So it exists. I don't think we have found it technically. It may even have attention layers somewhere, right? It may be because it's not just the model. It's also the loss and the data and how it's trained. There's a lot of factors, so we don't really know exactly where to look. That's the thing in research.
+
+8
+00:03:20.000 --> 00:03:43.840
+But on the other hand, I think more and more people are looking, I hope. I think the labs have a little bit, you know, OpenA, when I joined, it was a very research lab. Now it's a research lab a bit, but it's also a very big company like that needs to do products and stuff. So it has less focus on researching. But this gives the chance to the open source movements. That's a chance for academia to universities.
+
+9
+00:03:43.840 --> 00:04:11.140
+I recently started doing things on my own also and it's funny, so I bought a 59 TRTX GPU. It has more power than the eight GPU machines we used as a team to do the Transformers research. So you can buy and have one GPU that has all the power we used to design Transformer. So you can do things with it. You can't train a big LLM, but you can research and experiment on things.
+
+10
+00:04:11.140 --> 00:04:38.750
+And I think many people should. I believe there is still much more in machine learning research than. My last question for you is what makes you feel optimistic that the future of AI is going in a direction that will be truly open and broadly empowering for everyone? If you look at the world, humans are the most amazing computers in the world, right? Our brains are still unmatched by the models and
+
+11
+00:04:38.750 --> 00:05:07.380
+we are not generalists and there's not like one big brain of humanity. I think fundamentally it might be that given a fixed amount of data, the best way to learn from it is to have a lot of distributed models that are strong on its own but even stronger when they're... And if you look at some basic research, there are actually reasons to believe it like I was just talking about ensembles and things like that. So yes, transformers are great when you feed them all of the internet.
+
+12
+00:05:07.380 --> 00:05:34.260
+But we know there is an algorithm that's even better and it can learn from much smaller data and be amazing at the things it's learning. We are the proof. We have not found it yet like how to do this in computers very well. But we will. I mean, Progressive Machine Learning has not stopped in 2017. Of course, because it's so good everyone has focused on the big data. But now that it's so expensive maybe.
+
+13
+00:05:34.260 --> 00:05:58.740
+we will focus back more on more fundamental research. And yeah, I'm absolutely convinced it can work. And it just needs research and effort. I think many people sometimes look at the current state of AI and get a little pessimistic that it's like, you know, it's just big companies, big data centers, everything's so big. And then you get a subscription to something you cannot do much about. And
+
+14
+00:05:58.800 --> 00:06:10.720
+To me, it's like, okay, but that's just the current state, you know, we're it's just just this year next year. It's a step in the technology, but it's a step towards something much more fun where you'll
+
+15
+00:06:10.720 --> 00:06:39.730
+can have everyone can have their own model maybe we'll learn from much smaller data the models will be experts in different domains like we are and maybe you know maybe one will be making jokes this way and another another way it's like you currently when you ask a big language model about a joke it's always the same right something about atoms or like this will change because it's a it's a it's an outcome of a technology and the technology will change when the research catches up and also for researchers there is like just huge opportunity to catch up
+
+16
+00:06:39.730 --> 00:07:10.910
+with this. So, you know, just don't worry about, okay, it got concentrated because that was a convenient thing to do. And it showed that great things can be done. That's good. But there is there is think ahead that we just need to just need some research breakthroughs. Thanks for listening to this episode of the A16Z podcast. If you like this episode, be sure to like, comment, subscribe, leave us a rating or review.
+
+17
+00:07:10.910 --> 00:07:33.840
+and share it with your friends and family. For more episodes, go to YouTube, Apple Podcasts, and Spotify. Follow us on X and A16Z, and subscribe to our sub-stack at a16z.substack.com. Thanks again for listening, and I'll see you in the next episode. This information is for educational purposes only and is not a recommendation to buy, hold, or sell any investment or financial product.
+
+18
+00:07:33.840 --> 00:07:55.500
+This podcast has been produced by a third party and may include pay promotional advertisements, other company references, and individuals unaffiliated with A16Z. Such advertisements, companies, and individuals are not endorsed by AH Capital Management LLC, A16Z, or any of its affiliates. Information is from sources deemed reliable on the data publication, but A16Z does not guarantee its accuracy.
