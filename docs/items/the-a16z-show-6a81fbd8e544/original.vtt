@@ -1,0 +1,557 @@
+WEBVTT
+
+1
+00:00:00.270 --> 00:00:28.050
+Often as a practicing mathematician, you have an idea and then you kind of think it might work. Then you try for a few hours, a few weeks, and at some point you give up. Whereas for GPT, like, okay, a human told me to do this, like, let's just do this. And so that's why we're sort of in this renaissance of, like, reachable results. This is the best part about this problem, which is really nobody had any idea. Is the model just guessing in some insane way? It doesn't seem like there's a limit so far, but it doesn't have that context yet.
+
+2
+00:00:28.050 --> 00:00:57.100
+It'd be nice for the world to find mathematics a little faster. The ceiling for difficulty of a math problem is pretty high. Even if AI continues getting exponentially better at math, plausible will never solve something like P versus N. What's the ideal way that this is being taken up by the math community? Probably most at this point are like, okay, AI's obviously doing some non-trivial stuff. Um, so AI isn't just getting better at math benchmarks. It's beginning to make progress on mathematical problems that have resisted humans for decades.
+
+3
+00:00:57.100 --> 00:01:25.570
+In this episode, A16Z Infra-Partner, Leisha Lee, sits down with open AI mathematicians Metab Swani and Mark Selke to understand what's actually changing. They walk through recent results in sphere packing, coding theory and group theory, and explain why these advances can't be reduced to brute force. The models try different approaches, abandon dead ends, connect ideas across fields, and in some cases, produce reasoning that reads surprisingly like the notes of a human mathematician.
+
+4
+00:01:25.570 --> 00:01:50.430
+They also tackled the bigger question. What happens to mathematics when proving a result becomes less of a bottleneck? From mathematical taste and human judgment to understanding an explosion of new results, Leisha, Metab, and Mark explore how AI could change not just what problems get solved, but what it means to practice mathematics. Well, thank you guys for coming. This is...
+
+5
+00:01:50.430 --> 00:02:05.360
+It was really exciting because I think math has been moving so fast. With AI, I just love to get to both practicing mathematicians and who work at OpenAI to chat on some of these results. So we have with us Mark Selke and Etab Swani.
+
+6
+00:02:05.360 --> 00:02:31.650
+we're connected actually because UFAY was actually your advisor. So both of you guys have worked much more deeply in math since I have quit many, many like over a decade ago. So this is very exciting to kind of hear you download your thoughts on how open AI has been sort of approaching this and also just like where you think math is going with the incredibly rapid advance of how AI has been helping. We can start off with some
+
+7
+00:02:31.650 --> 00:02:58.800
+Very basic questions. What do you do to the extent that you can, of course, share? And how did you come from being a practicing mathematician to working at OpenAI? Yeah, I mean, I guess we both broadly got excited last year when the models started to really take off in math. So I joined a little bit before Metab. I saw the IMO Gold Medal last summer, basically. I thought, this is amazing. I want to see what the heck they did. Let me go see.
+
+8
+00:02:58.800 --> 00:03:25.390
+And then, yeah, I guess in the fall, Mark gave me a GPG5 account. And then I started playing with the models and very quickly became convinced that, yeah, it was extremely exciting to play with them. And you two were collaborating before that. Yeah, we've known each other for a while. Yeah. We had one paper we actually wrote jointly. Yeah. So GPG5 was your conversion? Yeah. What was the magic that sort of, what question do you throw at it? What process? Yeah, so I think actually...
+
+9
+00:03:25.390 --> 00:03:52.860
+Yeah, so I think how this started was at least for me the starting moment was something like there's a collection of problems called So Paul Erdisch is a very famous mathematician he posed a bunch of problems and so they've now all been collected on this site and so I specifically worked in combinatorics and a Lot of these questions are among the most important so it's always fun to flick through the slide But one thing that often happened to me that was extremely frustrating was I would look at a question see that it's marked as open and then
+
+10
+00:03:52.860 --> 00:04:20.530
+not actually know if it's correct, not actually know if it was still unsolved because the literature is often quite hard to search. And one instance I just plugged it into GPT-5 and five minutes later it found a reference and this was a case where a few of my friends actually started thinking about the problem on the site, I was talking with them and I mean we had spent a few hours, it wasn't clear if the problem was within reach and it was just very nice. Okay, to be told, yes, this is in reach, here's how you do it. And yeah, GPT-5 told me this and then I told Mark about this and this.
+
+11
+00:04:20.530 --> 00:04:50.320
+Yeah, this is sort of, yeah, this for me was quite a surprising moment. And then we looked more into it and we found 10 more cases sort of like this. At the time, I feel like being better at maybe making connections between, as you're saying, like the search for whether there's been a result or a related thing earlier is just kind of humanly hard, but maybe better for machine. But I imagine as the progress has happened the last year, what has been impressive has kind of reached beyond that.
+
+12
+00:04:50.320 --> 00:05:16.260
+And maybe through talking about it more abstractly or if it's more natural to talk about it through one of the problems that has been recently announced through Astra, you can kind of enlighten me as to how the recent progress has been a lot more than just searching through more areas, making these connections to the field and perhaps just actually deeper, more mathematical reasoning that's similar to a working mathematician. Yeah, I mean, I think this like...
+
+13
+00:05:16.260 --> 00:05:37.660
+search point of being familiar with everything is still definitely like a relative strength that maybe informs like the types of problems that AI is solving now. I think there are some other relative strengths and weaknesses. Another relative strength that's pretty noticeable is just like it's very good at executing on some like.
+
+14
+00:05:37.660 --> 00:06:06.080
+idea once it has it. Whenever you have an idea, there's usually some amount of getting everything lined up is epsilon like smaller than delta, this kind of thing, you have to get everything correct. And like for a human, it's easy to get lost in these kinds of details and the AI's just kind of always nail these kinds of arguments I find. Yeah, I feel like you guys will know more detail on this, but like for the unit distance problem, it was just like the approach, there was definitely contributions from open AI, but like the approach
+
+15
+00:06:06.080 --> 00:06:35.070
+perhaps was suggested even originally by Erdisch and then it's just that the actual reasoning was a very, very like momentous feat. And so for a human you're like, well, I only have a limited amount of time. And if after so many steps it is still not clear. I mean, maybe you're like Andrew Wiles and you actually spent 10 years alone and do something, but like it's not clear that the risk reward is not good enough. Whereas for GPT, okay, I'll
+
+16
+00:06:35.070 --> 00:07:02.130
+like a human told me to do this, let's just do this. And so that's why we're sort of in this renaissance of like reachable results. Does that track? And did you feel like with the astral results, is that sort of like where the strengths have been primarily or there's an extra ingredient or magic here? I feel, I think the unit distance example is about, it's quite telling in the sense of maybe the exact construction, you can make it look very similar to what people had tried before, but
+
+17
+00:07:02.130 --> 00:07:30.270
+I think, I mean, often as a practicing mathematician, you have an idea and then you kind of think it might work. Then you try for a few hours, a few days, a few weeks and at some point you give up. And then a not so uncommon experience is that you find out a year or two later that somebody else got the idea to work, that you thought that didn't work. So somehow getting an idea to work can even be a large portion of the battle. And I think, especially in the case of the unit distance conjecture, there's just a lot of extraordinarily finicky details and
+
+18
+00:07:30.270 --> 00:07:57.420
+Very often when you're doing mathematics, you're kind of gambling against the problem. You're like, maybe I should try this approach, but it seems really unlikely and just not worth my time. And the model, I think in several of these cases, both by combining what it knew and sort of having good taste kind of made the correct math. And you can kind of see this in the summarized chain of thought, really. So you can sort of look at it. It's reasoning like a mathematician and because it knows a few very correct bits, it makes the right decisions and eventually able to
+
+19
+00:07:57.420 --> 00:08:26.620
+prune search tree. It's not really trying everything. It tries a lot of different things. It's extremely dogged. I mean, it can't try every idea. It has to try a limited set of ideas and it's able to kind of use its knowledge plus good mathematical judgment and find the right path to go along. So, I mean, that for me was like, because this was a problem which a lot of people have thought about and the fact that the idea is not so foreign probably indicates that a lot of people have tried it or at least a few very serious mathematicians have tried it. And I think that's what made it really interesting to see. I think something else that
+
+20
+00:08:26.620 --> 00:08:50.020
+I feel when I see these proofs is like, if I have an idea and I'm trying to execute, it might be that I have some wrong plan for like how to get things to work. And as a human, if you have some wrong path you go down for a while, it can be hard to like rewire your brain to start over and try a different path. The initial idea is kind of linked in your brain with these other things that ended up not working.
+
+21
+00:08:50.020 --> 00:09:10.670
+It's sort of like your context window is like a little polluted and you can't just make another clone of yourself from last week and say, don't do this, try something else, build your intuition in another direction. But it's very easy to do this with an AI. So I think this is another reason that it's like getting the details right once you have some good general direction is much less of a barrier all of a sudden.
+
+22
+00:09:10.670 --> 00:09:28.100
+And when you say it's much easier to do with AI, it's not actually being directed with human interference too. As you're saying, the reasoning traces, it's like making these choices. Maybe it backtracks, but then it's able to not be distracted by maybe the context in which it's thinking about the problem via these machinery. And it's like, do you see it kind of go...
+
+23
+00:09:28.100 --> 00:09:57.300
+back as well or is it just like good choices? Like is it a lucky sample or is it actually reasoning like a mathematician or okay it doesn't do well in this path but it goes back but then it doesn't let that pollute? No, I mean it definitely makes mistakes and then it goes back and thinks about it. I think it's somehow very calculating, very correct. I mean as human mathematicians you're not always perfect in making these decisions and the first time something doesn't work you automatically kind of downgrade how likely this approach is to work and you keep doing this a few times. The model somehow is much better able to like it seems
+
+24
+00:09:57.300 --> 00:10:27.040
+For several of the solutions we've seen, it seems much better able to update how likely the path is to work versus rejecting a path versus a human doing it. But I think even if it weren't, the fact that you could just start another model session over, it's always going to be the case that it's not ended here. So in some sense, it is still leveraging the fact that you could run parallel agents on the problem. But if it were backtracking, then does make it seem much more like a human?
+
+25
+00:10:27.040 --> 00:10:55.790
+you know, mathematician, and perhaps it is kind of doing some of that stuff too. Because like obviously, like, we have to like make mistakes in order to like even gain intuition for like why that solution space is like not, you know, not in the set of paths that it could be in. I mean, I think this kind of thing happens with humans too, where like if you get stuck on some approach, you might tell another human your kind of general idea, and then they'll come back and like figure out how to get it to work. And you know, it's just, it takes more time to do this like with humans.
+
+26
+00:10:55.790 --> 00:11:21.300
+I wonder, I mean, you know, maybe this gets to the extent that you can actually talk about, sort of like, obviously don't talk about the training recipes or whatever, but like, it's interesting that if you're just studying, for instance, from math papers, it's like a very poor training set, like a priority for math, because, I mean, maybe math textbooks are even a pure example of this. It's like, really bad at actually reconstructing the motivation for why things were, you know, like, don't...
+
+27
+00:11:21.300 --> 00:11:48.940
+I mean, maybe some people like it, but don't learn real analysis from Ruta. It's just like it's very clean already and crisp. And I think that that's bad because it doesn't show the struggle that made us formulate definitions in a certain way. Like why do we even need to have real numbers be defined in this like super abstract way, et cetera. And so, you know, I think papers also, I mean, unless you're, most people don't write papers with the,
+
+28
+00:11:49.650 --> 00:12:16.400
+context of I need to educate somebody to be a mathematician. And so like the actual maybe curriculum of like learning math is not inherent in like a lot of our artifacts as mathematicians. So maybe another way to ask this question is if the reasoning tracers are actually producing things, I was like, okay, this is actually more close to mathematical thought. Like how does that arise? I mean, I guess open AI has been like the
+
+29
+00:12:16.400 --> 00:12:45.710
+pioneer of reasoning models and teaching AI to reason in this way. So we're doing a lot of work at kind of all possible directions on teaching models to reason better and for longer and all kinds of different domains. I think we're training general purpose reasoning models. A lot of these behaviors that we're describing mathematically like backtracking or kind of
+
+30
+00:12:45.710 --> 00:13:08.930
+starting again, I mean, these are not really specific to Mathematica. I mean, we're seeing them specifically in mathematics in these examples, but kind of their general purpose tools for reasoning. And I think if you work hard at reasoning, you should see these patterns eventually. So it's just emergent because it's... I mean, I do think that's why the OpenAI approach was so... I mean, it's like it doesn't rely on...
+
+31
+00:13:08.930 --> 00:13:36.980
+you know, doing auto formalization in order to like guide the reasoning. I think that's like obviously more like us. But it's just like so not obvious that if you're just like training on say a corpus of like math proofs, maybe auto formalize and lean that you get, get the sort of like projection of like how to think well, like put it another way like with maybe, maybe if we think about it with code, like code is such a good corpus to train on because it's one of the few
+
+32
+00:13:36.980 --> 00:14:04.240
+data sets that have such large contacts. You just like, I mean, maybe you see this kind of with books, but they're less structurally interconnected. There's just like less structure there, I think. It's safe to say, like on average in a book compared to like a piece of code. And so like with math papers, I feel like maybe what we're so bad at with coding models is stuff that that data set doesn't contain, which is like...
+
+33
+00:14:04.240 --> 00:14:26.270
+kind of the semantics, like the syntax is there, but there's a little bit of like the higher level semantics of what produce like, why do I have to write it this way? It's not, I'm kind of getting too much of the philosophical, but it is just like really interesting how it's still emergent that it's doing good mathematics. And we'll probably get into this in more detail if you guys, you know, wanted to talk in more detail about some of the problems, which is just like it's
+
+34
+00:14:26.270 --> 00:14:55.410
+It's not just doing like the expected like we'll push the brute force thing like you clearly are impressed with some of the reasoning traces and it's just not obvious that's gleaned from you know what we would imagine would be the easy training set here. Yeah, absolutely. I mean I think this kind of thing is one reason we decided it was important to release like these summarized chains of thought for these kinds of results because if you if you've never seen these and you just see all these proofs coming out you're kind of
+
+35
+00:14:55.410 --> 00:15:21.700
+you're not sure what it means. Like, is the model just guessing in some insane way? Like, is it thinking in some totally foreign, like, what's going on? But actually, it's reasoning kind of shockingly like an expert human would. Yeah. Yeah. Yeah, it's very much like reading colleagues' notes. I mean, it's a little more disorganized in some way. They're kind of like, especially when you work close enough with the co-workers, sometimes you'll just see them like...
+
+36
+00:15:21.700 --> 00:15:50.540
+spill out their thoughts in an email to you. And it kind of, it feels like reading a lot of those chain together. So it's, yeah, it's, it's very, it's quite surprising at first few times. Were you two sort of very involved in choosing the problems to, to release in this like last 10 problem set that Astros applied to? Which was your favorite? Yeah, we have definitely involved. Do you want to start? Yeah, I mean, I, yeah, I guess.
+
+37
+00:15:50.540 --> 00:16:21.820
+Yeah, so I guess my personal favorite among these problems is the following. It's extremely simple question, which is just like, it's just about how efficiently can you put a bun? My circles are not very good and they're not all the same size. But we're assuming they are. Yeah, so the question is just like how dense can you place a bunch of, so you have a bunch of spheres, you have a bunch of spheres of radius one and d dimensions. So the question is how densely can they pack? And so
+
+38
+00:16:21.820 --> 00:16:51.330
+Yeah, so in two dimensions, it's kind of like the... So d equals one, this is not an interesting question, kind of. It's just the real line, yeah, you can cut it up and a sphere in dimension one is just a unit segment, so okay, you can cover everything. So in d equals two, it's kind of the picture that you know that everybody loves. It's just like a bunch of spheres which sort of form like a hexagonal lattice. Hopefully, I've drawn it well enough.
+
+39
+00:16:51.330 --> 00:17:16.540
+I can draw the hexagon. Kind of betraying my naivete on this problem. Is that like obvious? Is like a very elegant proof that it's like regular lattice? Yeah, it's not so obvious that this should work. I was only proven in the 60s, I think. There's a short argument, but it's not it's not so easy. Yeah. Where's the intuition? Like what is kind of like the machinery of the argument? I mean it kind of like I mean it definitely looks like it should work. That's why I'm going to draw.
+
+40
+00:17:16.540 --> 00:17:45.940
+It's so good. Yeah, I think this is the best part about this problem, which is really nobody has any idea. Yeah. So, yeah. So, I mean, honestly, the best intuition I have for this is that like bees do this. And if there was a more efficient way than probably bees would pack honeycombs some other way. Evolution is efficient. Yeah. I think beyond that, like, I don't have a great argument. I mean, and I think how little we know is demonstrated by the fact. So, okay, d equals three. The answer is just like,
+
+41
+00:17:45.940 --> 00:18:13.120
+It's how you pack oranges in a grocery store. And this was proved by Hale's sometime in the 2000s. And we don't have a short proof of this. I think the shortest proof is a few hundred pages. What area does it draw from? So it's a lot of linear programming arguments and it's very delicate geometry. It's quite ugly actually. This is a famously ugly argument.
+
+42
+00:18:13.120 --> 00:18:35.700
+And then the two most famous results are d equals 8 and 24. 8 and 24. It must be some weird subspace thing. Yeah, exactly. So this was done in some time. Like gluing something. Yeah, so this was done in 2017. Sounds slightly prettier, though. Yeah, so the reason it works out in these two very special dimensions is that
+
+43
+00:18:35.700 --> 00:19:00.640
+So this is called a lattice packing. So it's like kind of very regular. And it turns out in these two dimensions, there are two very special lattices. They're called the E8 and leach lattice. And they're very nice and they're like unusually dense, like kind of, they're just very, very pretty structures coming from other areas of math. And it turns out that they're the optimal structures. But they're still like regular. Yeah, they're very regular. But I mean,
+
+44
+00:19:00.640 --> 00:19:28.610
+Beyond this so we don't know any more exact dimensions. We know these five dimensions and we kind of don't know anything else. And I mean, like to give an indication of how little we know. So there are two very surprising things about this. So you can define like delta D to be like the densest sphere packing in D dimensions. So there's kind of an easy lower bound of like two to the minus D. Basic, yeah, this is...
+
+45
+00:19:28.610 --> 00:19:53.440
+This is not so hard to show. Basically any packing where you can't put it in another sphere has to have this density. So okay, it's not ridiculously small. And we know that it has to decay exponentially. So it has to decay like it grows like one minus C for some at least for some content. So in large dimensions, you can only cover like a vanishingly small portion. But we know like
+
+46
+00:19:53.440 --> 00:20:20.800
+basically nothing else. And so from- And that's just because like the high-dimensional sphere like- Yeah. Thing where they occupy is, it just like, yeah, the volume behavior is weird. Yeah, so basically, I mean, basically they don't want to touch next to each other. I don't know if, I don't think there's a particularly short way to see that it's like exponentially small, but it's known to be exponentially small. And for a long, long time, the best bound was something like this funny number, like 2 to the minus 0.599.
+
+47
+00:20:20.800 --> 00:20:51.020
+And this was proved by two mathematicians in the 70s. Kaptyansky. That's a weird number. Where's that? It's not. It's like combinatorial. It's the answer to some extremely ugly optimization problem. There's like a nice underlying strategy. Okay. I'll say one last thing about this. Yeah. So yeah, these were these two Russian mathematicians in the 70s.
+
+48
+00:20:51.020 --> 00:21:18.480
+Yeah, it's actually very hard to find their paper. Like one page, it's like two pages long. Yeah, they don't write very many details because paper was far. But yeah. Yeah. And so two negative views are just like the square lattice, like the dumb one or... So yeah, it's actually not so easy to... So the argument for this is as follows. Basically imagine that you have a set of spheres and I tell you can construct a set of spheres so that like you can't put down another sphere because if you
+
+49
+00:21:18.480 --> 00:21:47.710
+could put down an extra sphere, you just keep putting it down. So you have a set of spheres so that there's no other sphere which you can put down. That sphere is like almost like a... Just take any such packing. Okay, yeah, yeah. And I claim that this has to cover at least two to the minus d fraction. The reason is that like, if you blew up each of these spheres by a factor of two, then like they have to cover every point in space. And the reason is otherwise you could put down... If there was any empty space, you could put down a sphere there.
+
+50
+00:21:47.710 --> 00:22:17.700
+So I guess if you take the usual lettuce, there are actually like more places you can put things kind of diagonally. Okay, yeah, yeah. So that's actually not good. It's like a worst bound. Yeah, you can just keep plopping things in. Yeah, this is like more. Okay, yeah, this is related to this like really funny fact where you like put a sphere on every point on you take a cube in high dimensions, you put a sphere on every point. It's like vanishingly small. It's vanishingly small. It's so small that you can put another sphere in the middle. Yeah, yeah, yeah. And it fits. Yeah, it's very weird.
+
+51
+00:22:17.700 --> 00:22:47.570
+And so the great part is that the model shows the following. So I'll write two things. So this is Astra, I guess. Probably the right way to refer to this. So I'm going to write something called the LP bound. I'll explain this in a second. And it shows that it's smaller than this very nice number. Do you want to say equals? Yeah, it's equals actually.
+
+52
+00:22:48.300 --> 00:23:19.950
+D to the 2 pi plus little o 1 to the D and if you you can work out what this number is it's like It's like roughly something like 2 to the minus point 6 Close to that one. Yeah, it's surprising. But this one you know you're like oh, maybe there's some like nicer kind of like structure there that that fell out. And it's mO's This is like roughly something like 2 to the minus point 6 0 1 dot dot dot D. That's the numerics
+
+53
+00:23:19.950 --> 00:23:47.330
+I thought it was 64. Great. Yeah, let's show this mine. Yeah. So there are a couple of things. So first, what is this LP of D? So Via Zasa's work actually builds on some earlier work. It turns out that there's a way to attack sphere packing via what's called a linear programming bound. So LP just stands for linear programming. So Conan Elke's gave an approach for sphere packing based on linear programming.
+
+54
+00:23:47.330 --> 00:24:20.290
+So it's like a linear optimization problem over a convex set, but it's all kind of infinite dimensional here. And basically what this reduces down to is you try to understand the following. So what you try to show is you basically you construct a function f. So this is in d dimensions and it's mapping to r. And it has the following properties. So first, f of x. So this is a function in d dimensions. So it's always less than zero.
+
+55
+00:24:20.290 --> 00:24:49.410
+if like the size of x is bigger than one and you second have that the Fourier transform of x this is always non-negative. So this is just this is a linear program because the Fourier transform is a linear operator and uh night race. So you're taking just some arbitrary f that says yeah yeah so you can take any f that satisfies these properties and what they prove is that delta d is bounded by um
+
+56
+00:24:49.410 --> 00:25:17.860
+the ratio of the Fourier transform with zero to its, to the Fourier transform with zero, an f of zero to the, over the Fourier transform with zero times the volume of the ball of radius one half in data matches. And so, okay, this proof is not so short for experience about petitions. It's like, it's half a paragraph to prove it, but a little bit tricky. And the point is, so,
+
+57
+00:25:17.860 --> 00:25:46.540
+It turns out, so this is a relaxation problem. There's no guarantee that taking the optimal left will give you a good bound on delta d. But so what Villazosca did, and this was sort of the key, I mean, a large part of the reason she won a Fields Medal in 2020 was that, or in 2022, was that she constructed a function in 8 and 24 dimensions such that this upper bound matches exactly these two very special lines.
+
+58
+00:25:46.540 --> 00:26:16.270
+And these are kind of miracles of nature that both you can construct this function and that it gives you the optimal about But you can just this is a very very natural problem It's a function with a very two very simple properties and you just want to understand how this behaves in for large dimensions D and That was a big mystery We there was a numeric paper by cone and several others which conjecture that just based on doing numeric that this was the answer
+
+59
+00:26:16.270 --> 00:26:45.860
+but they had no idea why this would be the answer. And what the model shows is that actually the linear programming bound in large dimensions has this extremely nice asymptotic behavior. And the proof kind of explains where this is coming from. And because you understand this LP bound perfectly, this actually just gives a better bound on delta d. It turns out that this old bound can be kind of reinterpreted in this framework. And what the model does, it shows you the best possible bound. You can get that in the framework.
+
+60
+00:26:45.860 --> 00:27:15.860
+So the model sort of made the connection. Yeah, so what is the sort of like, what did we all do? I think so the model gives a function f, which, so first it constructs a function f, which gives you this bound, and then it shows that there's no function f which does any better. So it's inequality, which is quite strong. So in like sort of, we now understand this problem in high dimensions very well. And that's pretty remarkable. And the model is just kind of told like,
+
+61
+00:27:15.860 --> 00:27:43.090
+analyze this linear program and hide dimensions. Go have fun. Got it. To give an indication of how little was known, I think this conjecture was based basically only by doing numerics. Extremely clever numerics, but numeric. Okay. Yeah, you have to kind of figure out why this is the right thing to aim for and it does. That was pretty remarkable. Yeah, I mean, I had actually thought about this problem for about six months at some point when I was a graduate student.
+
+62
+00:27:43.090 --> 00:28:11.410
+I remember making like absolutely zero progress on it. So it was very nice to be like explained why it was, yeah, why it was true. So that was a positive experience. I think also in general it was one of these solutions which I knew several people had tried the problem. It's pretty remarkable because like the model solution, especially for this being like the LP can't do better than this was like quite short. It's a few pages of like complex analysis, but it's kind of exactly the right approach. Like once you see it, it's kind of
+
+63
+00:28:11.410 --> 00:28:37.380
+It's like unbelievable, like why hasn't somebody done this before? It was like there are many types of good mathematics, but I think one of them is just like, you see it and you're like, oh man, why didn't I think of this? And it was really fun. I mean, I sure knew why I didn't think of it, but it was quite nice to see it and it was fun to see. That's why I like this a lot. Yeah, so this is the first of the 10 problems that Astro saw. But the second is actually closely related.
+
+64
+00:28:37.380 --> 00:29:02.350
+So this was sphere packing. The second one is spherical and binary codes. So what's that? You draw a code. You drew a packing. It's going to be the same picture. OK, sure. Otherwise, we're going to have his picture. The hexagonal packing in our minds. A spherical code is literally just a sphere packing, but on another sphere.
+
+65
+00:29:07.920 --> 00:29:41.340
+Yeah, so I mean a spherical code is basically just a sphere packing on the surface of another sphere. So Yeah, okay, so Same same pictures before except you're kind of on a curved surface. Okay. Okay. So why is it called a code? Well You can I guess the reason is because of binary codes, which is again the same sort of thing, but now it's on a cube
+
+66
+00:29:41.340 --> 00:30:13.620
+Okay, yeah fine. Let me draw a picture of a cube and some like simplest possible code on it. So like when you're like sending, so this is really like about error correcting codes. So what are error correcting codes? So you know it's like I send you some string of bits, right?
+
+67
+00:30:14.100 --> 00:30:44.000
+Maybe I'm like worried that some of the bits I send you get corrupted, right? So so maybe like just because of some errors in my system like this one gets gets changed and we want some communication protocol so that like you can Decode this like small amount of error and like recover what I was trying to tell you And you know like normal English language kind of has this sort of property, right? If I make a few typos that you know You're gonna be able to understand what I'm saying, but if I if we have some like really brittle
+
+68
+00:30:44.000 --> 00:31:13.710
+communication scheme it's not going to work. So codes are kind of the way you solve this and mathematically it just means like, you know, what's a binary string like this is a fixed length. It's like a point on some hyper cube. And we want a dictionary of allowable code words that are like separated from each other. So like in this case, if I don't want any two to be adjacent, I would kind of take these four vertices kind of the like even ones if you sum up the
+
+69
+00:31:13.710 --> 00:31:42.860
+the digits, right? And like, okay, I guess, okay, in this case, I guess if I have an error, you can't tell which one it's from, but at least you can tell it's like not, at least you can tell there was an error. Oh, I see, I see, yay, because it's like kind of sparse in the, yay. It's like it's not shoe adjacent, so that like, this is like when the handing distance is not, yeah. Yeah, yeah, yeah, right, right. So you want like a large hamming distance between any distinct points in your dictionary.
+
+70
+00:31:42.860 --> 00:32:12.290
+And yeah, I guess if you take two opposite corners, then if I have like a single bit error, I can always like recover which point it was coming. So one that it's definitely closest to. Yeah. So there's kind of the, you know, same question in both of these cases, like in a very high dimensional setting, what kind of rate can you get? And like for binary codes, it's really like, you know, an extremely practical question. It's sort of like, if I send you like an n bit string and there's like, you know, 1% error rate.
+
+71
+00:32:12.290 --> 00:32:42.350
+like how much longer does my message have to become to tolerate that amount of errors? This is like some fundamental information theoretic limit of like communication. And you can see like certainly this spherical case is like, it looks very much like sphere packing. For example, if you make all these little spheres really small, then like the curvature of the big sphere is kind of not going to matter so much and it looks like
+
+72
+00:32:42.350 --> 00:33:12.690
+just packing spheres in full space. And in fact, yeah, like these problems turned out to be very related. So for these problems, there were similar bounds coming from the KL authors. And there's like something for the sphere and something for the cube, but it's all kind of the same stuff. And our models found better bounds for these cases as well.
+
+73
+00:33:13.100 --> 00:33:42.820
+I mean, the techniques look pretty different actually if you like write them out. So this full space analysis of this linear programming was using like just complex analysis. But if you, like the method for these cases were using representation theory. Like both the sphere and the cube have a lot of symmetry. And basically the idea of the proof was to really leverage this symmetry.
+
+74
+00:33:42.820 --> 00:34:12.210
+There's some amount of this in the previous existing method and really the improvement is to lean into the representation theory really hard and make the algebraic symmetry like enter in a more sophisticated way. And then it turns out that from the representation theory formulas, if you take this small sphere limit in the spherical code case, you recover part of this result and you recover this value.
+
+75
+00:34:12.210 --> 00:34:41.310
+So, like this result isn't a special case. You kind of only went one direction of the bound from looking at it from the code's point of view, but like there's like a very close connection. Okay. Yeah. You guys let this like run in parallel. So it's like kind of discovering or because you're not sort of like feeding it. So actually, this was the one case where there was some interactivity. Oh, interesting. So for all of, so except for this pair, it was just, you know, we had some problems. We fed them in and we, you know.
+
+76
+00:34:41.310 --> 00:35:10.420
+the model came back with some solutions. What happened here is actually pretty interesting. So we first asked it to improve the bounds for the codes. And it came back with an improvement that used some amount of representation theory. And then we kind of asked it, hey, can you like push this further? Like, what happens? And then it came back with some much more sophisticated representation theory. And like,
+
+77
+00:35:10.420 --> 00:35:34.940
+it turned out that you got this conjectured value for full space sphere packing out of that method by pushing it as far as it can go. So then we kind of asked to directly analyze this guy and try to complete the picture. Okay. Yeah. So the relationship isn't a coincidence. Yeah. It's interesting when you're saying the first prompt, which is maybe so...
+
+78
+00:35:34.940 --> 00:36:02.620
+basic or just like, can you push this further? It does require some judgment from mathematicians. But eventually you would imagine by scaling the models, you don't need to do that. Or there's another view that the harness actually does matter and this is kind of part of the harness apparatus. Do you guys have any views on that with your working with Astra? Especially generations of models and how much do you have to kind of input or how much the harness matters versus not? I mean, yeah, I guess there have been some like
+
+79
+00:36:02.620 --> 00:36:29.170
+funny quirks like this that just come from like exactly what you asked the model to do, basically. Like in this case, what the model was asked to do originally for codes was to improve the bounds by like some exponential factor. So it really like shows up in this like leading constant up here. And you know, it improved the bounds and it didn't try to push things too much further. Like sometimes you see a do but sometimes it just doesn't bother. But yeah, you just
+
+80
+00:36:29.170 --> 00:36:56.020
+Ask it again, and it goes further. So it wasn't like a capabilities issue. It just Yeah, I didn't feel like it at the time. Do you call that judgment or like what is the? Because like there's a yeah, what do you call that? I mean models tend to be pretty task-oriented. If you tell it to do a task, it's pretty happy. So yeah, the task-orientedness it's like but do we expect that level to kind of ascend up to?
+
+81
+00:36:56.430 --> 00:37:22.080
+It's not that they will be less good at being task oriented. It's like they'll ascend to the level of like, okay, no, let's let's go in this direction You'll have the judgment you because you guys have the judgment you like okay. This is pretty promising looks like you're using a lot of representation theory doesn't seem like there's a limit so far But it doesn't have that context yet But like I guess what I'm trying to say is like this one it's hard to maybe extra harder to extrapolate but from like previous generations when you had to give it more
+
+82
+00:37:22.080 --> 00:37:51.380
+Maybe prompting more of that harness work, but eventually probably had to give it less so probably gives you some confidence that there's this like really fast Ascension and and do you see? Yeah, like we're somehow solving a harder math problem is like you have to solve many smaller like somewhat less hard math problem and the fact that the math problems are getting harder is kind of an indication that you're the model is able to take on more and more work and like a single continuous unit and I think that's that's the thing that looks very promising somehow like
+
+83
+00:37:51.380 --> 00:38:20.110
+Any of these solutions, it's not like one idea, then you're kind of home free. You need several pieces to kind of interact and talk to each other. The model doesn't come up with all the ideas at once. It doesn't pull everything out in an instance. So kind of the fact that it needs to sort of see how this piece interacts with another piece, that's kind of like solving a problem in itself or piecing together many problems in itself. It could just be that, okay, when you're telling it, okay.
+
+84
+00:38:20.110 --> 00:38:46.020
+precious even further that was of the same order of like magnitude as like all the smaller things it's solving as well in between and so you don't think that this kind of like a privileged direction it's just sort of like hey let's give it like one one more help or you actually think that there's I guess what I'm trying to get at a bigger question is like is there a good sense of like you know taste because like when people talk about for instance how well the models are getting at like
+
+85
+00:38:46.020 --> 00:39:14.190
+doing research. For instance, we had a little bit of RSI and sort of like, there's surprising things about how that improves. And then there's like, oh, you know, maybe right now it's at a level of still like a junior researcher. It's like not really asking like the right problems. And so I'm just trying to get like a maybe a sense of like where you're seeing that progress through the model advancements each generation. What is taste even?
+
+86
+00:39:15.220 --> 00:39:40.940
+Yeah, it thinks how I tend to be pretty utilitarian in my view of taste and if you're able to solve problems faster by making better judgments like I think that's like the best like general proxy I have for a taste and somehow the fact that solving harder problems means it has kind of by definition means it has better taste I think they're there are these no, yeah, I think occasioned actually because they are task oriented you do occasionally get these these symptoms of like
+
+87
+00:39:40.980 --> 00:40:10.610
+Oh, it clearly has made a breakthrough. It kind of understands it's made a breakthrough and then it doesn't kind of push all the way to the limit because that's not what you asked. But that seems, yeah, that seems rather minor compared to like the set, the state of progress we've seen so far. Okay. Yeah. I think it's a pretty clear answer. I think it's like maybe you're liable to get confused if you're trying to like do a concrete long horizon task and show taste kind of at the same time.
+
+88
+00:40:10.610 --> 00:40:39.380
+But if you have one model that's responsible for taste and one model that's responsible for going out and working for a long time at solving a hard problem, kind of as the underling of the supervising AI, I feel like that's going to be fine currently. Oh, interesting. Because that is saying that these two things are somewhat...
+
+89
+00:40:39.380 --> 00:41:01.230
+If not separate, at least they shouldn't pollute each other's context, which is a little bit... I mean, it could be potentially a stronger statement than... I guess it's just kind of interesting, because it might just be, to your point, let's take each other's hair and answer, solving harder and harder problems, it's doing a lot more than just like...
+
+90
+00:41:01.230 --> 00:41:28.800
+brute forcing something that's making choices. It's pruning a vastly large space of possible paths into something that's really, it's both tractable but then ends up being like it's a diminishingly small path within that space. But having, why would, what would be a separate model, a separate generation of something that's a different version of the model that would contribute to taste or maybe that's...
+
+91
+00:41:28.800 --> 00:41:51.070
+It's too abstract, doesn't make any sense. We should just let the actual... The related question would be like, what is the thing that gets us to a better version of intelligence, the harness in the model? Is it just the model? And it's like, we see this in, at least in applied AI or startups where it's like...
+
+92
+00:41:51.070 --> 00:42:17.760
+It's a continual battle of like you need the harness, but then the harness adapts very poorly to a new model because sometimes like a very, very minimal harness is still the best way to expose to the raw power of the model. But then now we also have these like training regimes where we require the harness to be trained with, or maybe part of this is to keep things more proprietary and harder to, harder for other people to use it. But I think partially it's maybe actually that it helps have more control on like the reasoning traces you care about.
+
+93
+00:42:17.760 --> 00:42:44.880
+It's a long rambling way of saying it's like, yeah, I don't actually, like this is so interesting to see how the models have gotten better at math and maybe something that's like very abstract and hard to describe like taste is the way to tease out like what is actually necessary here. I think my only like non-trivial thought here is that like when you're working, I mean just when you're doing any tasks, occasionally you get pigeonholed and you like work really hard and just having a friend look over your shoulder and be like
+
+94
+00:42:44.880 --> 00:43:14.400
+What are you doing? And then just like just having that one bit of like step back for 10 seconds like this is often very useful. Yeah, I mean I see no reason why humans would be so different than models somehow. Yep. Yep having Or models would be so different than humans having having a few humans working together is often more powerful than just having one. Yeah, it's like I'm just kind of collaborative thing you actually you guys yeah artificially created it, but it's very similar and dynamic But I think a lot of taste is also like having a sense of what
+
+95
+00:43:14.400 --> 00:43:40.480
+problems you or some method you have in mind are going to be good at solving. Certainly there's some amount of absolute aesthetic point, right? But there's also just having a nose for what you might want to pursue because you'll be able to make progress. I think for that, you would expect that...
+
+96
+00:43:40.480 --> 00:44:14.540
+as a side product of being good at completing tasks you would get there sort of, right? Let me know if we still want to do like a section on SOFIC groups because I think you know up to you guys it's definitely super interesting. So maybe the first question is what is a group? Let's remind ourselves. So a group is a set of elements with some multiplication operation and basically this is
+
+97
+00:44:14.540 --> 00:44:55.840
+How mathematicians think about symmetry? So you're like basically like if g and h are elements of your group then gh has some is some other well-defined element of your group and you have like associativity and you have an inverse so for every g there's some inverse and there's some like
+
+98
+00:44:55.840 --> 00:45:27.340
+specific element in the group that is kind of the identity. Okay, so it's some like abstraction of like composing operations. So these could be like numbers, they could be like multiplying matrices, they could be like like rotating something, which is a special case of multiplying matrices. And a group is SOFIC, if, well, there's some, you know,
+
+99
+00:45:27.500 --> 00:45:55.010
+precise definition but you know roughly it means it so I should say like groups that can be finite or infinite so like you know if you have like a square like all the rotations of it form a group with like four elements if you have like a circle then the rotations form a group with like uncountably any many elements and
+
+100
+00:45:55.010 --> 00:46:23.600
+So, SOFIC groups are either finite or countable. You should think of them as being countably infinite. So, there's like the same number of elements as like the integers. And it's SOFIC if in some sense it can be approximated by finite groups. So, we didn't know if there was a non-SOFIC group. So, the result that Astor proved is simply that there exists a non-SOFIC group.
+
+101
+00:46:25.460 --> 00:46:52.450
+Yeah, and without like I mean we can you know before going to to that prove it is like you know I feel like a lot of the programs of math is like okay. We are such finite creatures Let's see how well our finite approximations are you know? Do and in this case especially for the countable case like maybe you'll be relating it to like the Aldous Leon's thing It's just like it helps kind of anchor the picture like it seems like such a I mean it's a nice result if it
+
+102
+00:46:52.450 --> 00:47:19.180
+were true, but it's not and it seems almost like reasonable. And so yeah, I actually didn't didn't go I would love to hear the explanation of like how it found a counter example. Yeah, I mean I would say that like, you know the the hope that there was no non-sofic group. So every group has this kind of approximation like maybe this is sort of like people hoping that there's a miracle because
+
+103
+00:47:19.180 --> 00:47:47.710
+It turns out that groups like this have a lot of nice properties because you can run certain proofs for finite groups and then, you know, kind of approximate them in whatever way the definition of being SOFIC lets you approximate them and get the results. So, like, there's this notion of being a surjunctive group. So, there's some fact that any group which is SOFIC
+
+104
+00:47:47.710 --> 00:48:18.220
+is also surjunctive. Surjunctive is some property of like dynamical systems on the group. And I guess the original question was whether every group is surjunctive. This is some question of Gotchalk from the 70s. And this fact that follows this like pattern of prove it for finite groups and then do this approximation is what motivated the question about if there's a non-silvic group.
+
+105
+00:48:20.050 --> 00:48:49.600
+Yeah, maybe I'll say a little bit about this Aldous-Lions conjecture. Yeah, sure. Yeah, yeah. So I guess I had heard of this a little bit beforehand because there's a related stronger conjecture in probability that was made popular by Aldous and Lyons. This conjecture, roughly what it says is like any infinite graph with some nice property called...
+
+106
+00:48:49.600 --> 00:49:26.590
+you know modularity. A random, you know modular random graph can be approximated by large finite graphs. So maybe the way to like explain what these kinds of things are trying to say without getting into technical ways is to say what they mean about the integers. So like
+
+107
+00:49:26.590 --> 00:49:56.740
+How would I draw the integers as a graph? So this is called the Kelegraph. You're just going to connect nearest neighbors. So there's some kind of canonical way in which this is like the graph that represents the integers. And there's some sense in which you can approximate this by finite graphs. Why? Well, if you look at integers mod n, then
+
+108
+00:49:56.740 --> 00:50:28.260
+you kind of get the same picture, but you have a big circle instead of an infinite line. And the point is if you look at any point here and any point here, nearby things look the same. You have to go very far away to see this global geometric structure that you have a circle and not a line. And in fact, the integers and integers mod n are both groups just by adding numbers or adding numbers mod n.
+
+109
+00:50:28.260 --> 00:50:56.580
+So these integers mod n are like a Sofic approximations for the it full integers. So like this approximation is kind of why the integers are a Sofic group. So the the statement that every group is Sofic is sort of a generalization of the fact that you can do this approximation with groups and this other Slien's conjecture is
+
+110
+00:50:56.580 --> 00:51:23.840
+kind of a broader conjecture that like any network you can do this and it like you don't require as much algebraic structure roughly. So it's kind of a broader conjecture. So this conjecture was disproved earlier like two years ago and it was kind of a really tour de force work. Like it was like 250 pages building on another 200 pages that uses like like quantum complexity theory. So it really builds this like
+
+111
+00:51:23.840 --> 00:51:53.380
+you know, very complicated bridge and like, you know, I think not many people could understand this. Right? So since this is a stronger conjecture, the disproof like is weaker than disproving this statement that all groups are so thick. But it turns out that the direct proof that all that there's a non-sofic group was like much shorter and easier than this and this really amazing disproof of the other Slimes conjecture. It's like like 15 pages maybe and it doesn't
+
+112
+00:51:53.380 --> 00:52:23.660
+have any of this very complicated connection with quantum complexity. It just kind of stays in group theory land. I mean, it uses some important existing results by other mathematicians like Kun and Tom, but it's like a very reasonable normal kind of proof. Yeah. And kind of spelling maybe out the obvious, but like the connection between the SOFIC group statement is just you take the Cayley graph and that's the one that is what they use or
+
+113
+00:52:23.660 --> 00:52:53.380
+for the eldest lamb. Yeah. Yeah. And so that's why it's like a, you know, a subset of. Right. So yeah, basically what happens is, yeah. So for a group, you can take exactly a Cayley graph. So you take some like elements that like generate the group and you kind of connect elements that are adjacent. So in this case, like this is a Cayley graph of the integer. So, right. So when you do that from a group, you get like a deterministic graph. Right. You just get like a single graph, the Cayley graph. You fix some set of generators.
+
+114
+00:52:53.380 --> 00:53:20.290
+So this conjecture is stronger basically because it allows a broader set of graphs that aren't deterministic. It allows them to be random but have some extra, you know, modularity property that constrains exactly how it can be random. But yeah, basically that's the difference. Like here you kind of have to give a deterministic network instead of a random one. Yeah, anything kind of
+
+115
+00:53:20.290 --> 00:53:47.100
+interesting, surprising about the results. I mean, you mentioned some things, which is like it stayed within group theory, the techniques. I mean, I think maybe it's like a nice example of this general pattern that theorems produced by AI have generally been like, like the proofs are pretty short generally. They're like... Like with the counter examples so far.
+
+116
+00:53:47.100 --> 00:54:15.620
+Yeah, but this one it's like okay, it's sort of a counter example, but like there's some you know, there's some like Stuff you have to do to analyze things the difficult part here is that like The property of being a so if a group is not so easy to get your hands on so you have to find like a concrete way of saying like like Producing a producing way of saying this group cannot be so big and like yeah, and the proof is actually it's very short It's like it's almost it's a common or sorry, but it's like a very
+
+117
+00:54:15.620 --> 00:54:39.280
+Very delicate commentaries. The model, like somehow you need to both have the right statement and know what piece of literature and then execute it correctly. That's very nice. Like the difficulty of this problem is that like it's just a really, really hard. It's like very hard to get your hands on like being approximated by any possible finite group. Yeah. It's just like what is happening at that countable infinity that's like resisting this approximation? Like do you guys kind of...
+
+118
+00:54:39.280 --> 00:55:08.030
+Did it give a sense of... Like, do you do postmortem when you're like, okay, Astra, explain to me. Like, what is the... Oh yeah, we did that. Yeah, yeah, yeah. What was a good explanation you got out of it? I think there's some concrete combinatorial instruction. Basically, it's hard to explain, but there's some concrete combinatorial instruction, which if you read the previous papers, you realize that that's what they couldn't rule out, and Astra found a way to kind of say, okay, no, no. If you add this one extra algebraic fact, this...
+
+119
+00:55:08.030 --> 00:55:36.770
+weird conspiracy can't happen. It's like very clearly trying to rule out conspiracy in the sort of previous authors had implicitly written about. And those were the actual suspects. It turned out so they were sort of on the right track and then this did the last mile of well whatever. However you quantify that. But I think it's like like a year ago I would have been very surprised to learn like all of these AI proofs are like
+
+120
+00:55:36.770 --> 00:56:05.740
+very short and elegant. You're kind of like afraid that they're going to generate all these thousand page things. It's been kind of the opposite of that. Like only humans can generate like 200 page proofs right now. Yeah. Well, and also I was like asking if you do that postmortem, it ends up usually engendering more mathematics. Because when you do that with humans, that's what breeds new mathematics. So maybe if you kind of
+
+121
+00:56:05.740 --> 00:56:35.040
+alter the prompt a little bit and be like, how would you generalize this or something? Yeah, I don't know if that's been a technique for you guys to have it explore and exploit what it has already developed. Well, there has been some, there has been follow-up on this already actually by Kun and Tom who this was always built on. So they like... So math community is coming on. Yeah, which is kind of what we're hoping. We don't want to be writing lots of follow-up papers ourselves, but if there's some interesting follow-up that...
+
+122
+00:56:35.040 --> 00:57:02.000
+We're very, very happy that there's some follow-up building out these ideas more and giving more examples of non-sofic groups in this case. Yeah, well actually maybe that's a great segue into like, what's the ideal way that this is being taken up by the math community? Because I feel like there's a spectrum of answers from working mathematicians. A sense of like, probably most of this point are like, okay, AI is obviously doing some non-trivial stuff.
+
+123
+00:57:02.000 --> 00:57:29.840
+be disadvantaged not to admit that in my workflow. I've definitely heard some stories where people would find it hard to either take AI as a co-author or like how do you even do kind of attribution this way. But I don't know, like what, maybe to paint the more optimistic picture, so you're saying you want the mathematicians to be building on these results, it definitely generates a lot more results to be verified.
+
+124
+00:57:29.840 --> 00:57:57.920
+you know, it puts pressure on the community and the profession. Like how do you kind of expect the evolution of Krabap Taken and collaboration with mathematicians? I mean, given that the fact that the models can produce sophisticated mathematics means that they can help you understand like sophisticated mathematics. I mean, like, I don't know, occasionally, like, I enjoy looking at the archive and I want to understand some proof and like, I could read the introduction, but in practice it's just much faster to take the PDF, put it into...
+
+125
+00:57:57.920 --> 00:58:26.900
+put into my favorite model and then like get an output of like what is the rough proof strategy and somehow just like along I mean of course models are going to help us produce exponentially more mathematics but they also make it much easier to absorb it. And right now okay it's still a bit of a challenge back and forth but I think it's for me at least a much much faster at understanding. It's much much faster to understand a piece of mathematics with a model than without it.
+
+126
+00:58:26.900 --> 00:58:56.110
+It's helping solve the problem it creates anyways. Yeah, I feel like that at least and it's you know I don't I don't view it as like pretty much wrong but again like I don't have such you know high stakes and like okay I'm gonna get I'm not gonna get tenure etc. So like I I agree like making it more accessible like if I'm not spending so much time absorbing an area I can like put it into chat GPT and then expect to get me you guys having even more powerful model hopefully releasing for other people to enjoy as well, but like it's
+
+127
+00:58:56.660 --> 00:59:26.380
+I think the positive version of that is actually more people can participate in mathematics. There's people who might be coming with other intuitions and they could actually maybe generate good mathematics. Is that closer to the vision of what you're hoping this is pushing towards? Or what things do you think mathematicians should be wary of to adapt fast enough to take advantage of AI? Yeah, I think certainly there will be a lot of changes.
+
+128
+00:59:26.830 --> 00:59:56.400
+In math, there are a lot of things that are kind of important for a given result. You need someone to come up with it, but you also need people to understand and absorb it and internalize it enough to do more with it and figure out where it fits into humanity's understanding. A couple of years ago, the proving the result was so hard that
+
+129
+00:59:56.400 --> 01:00:26.180
+kind of the other stuff was just kind of coming along for the ride, right? You know, like if you manage to like prove this thing yourself, you're automatically going to understand it quite well. You're kind of responsible for like maintaining it in some sense and like, you know, explaining it to other people. And yeah, now this kind of, what was the main bottleneck before is kind of much less of a bottleneck. And, you know, these other kind of constraints come into play.
+
+130
+01:00:26.180 --> 01:00:54.110
+So, yeah, the optimal structuring for organizing the knowledge could look rather different. Yeah. How does that look? I mean, does this make the field a lot more kind of empirical? Will people do sort of the hard, like the first thing that was scarce, which is like all the reasoning and then more? I mean, not that it's like a bad thing to make it empirical, but it's almost like it functions as a very different discipline.
+
+131
+01:00:54.110 --> 01:01:23.440
+Like a lot of the fun stuff is understanding, you know? And so, going to Shannon Communicating, maybe assembling, having still the human taste, does that sort of remain rarified? And that's how, you know, current mathematicians need to adapt and reward, you know, contributions or, or is this too much of a caricature that's like something else? I think certainly understanding how to put, as we get more and more mathematics put in like a proper framework and sort of how
+
+132
+01:01:23.440 --> 01:01:51.500
+sort of like being able to explain it to other humans so that they can also appreciate it. I mean, so implicitly we valued this, but it was usually because you were the person proving the results that gave everybody else the understanding. But I think increasingly it would be a function of like, you're sort of helping, you're the human who can sort of give this understanding to other people and sort of help them with it. I think that more sort of that communal understanding will I think become, it was much more implicit in how we viewed math and cheese, but I think it would be.
+
+133
+01:01:51.500 --> 01:02:22.450
+an increasingly more explicit and valuable part of the subject. I mean, a nice thing about math is that the ceiling for difficulty of a math problem is pretty high. So even if AI continues getting exponentially better at math, plausible will never solve something like p versus np. And it could be that the field becomes more
+
+134
+01:02:23.180 --> 01:02:52.640
+you know, attached to like, like these big mysteries and less to like smaller mysteries that are more like routine now. Yeah, yeah. I think that's a positive vision of the... I mean, also like, I don't know, there are things I spent like months or years of my life wondering about not getting to know and... And now we get the answer. Yeah, some portion of them will get to know the answer to it. I'm pretty happy about that. Yeah, no, exactly. No, I'm excited about this like renaissance of results and understanding and I feel like, I mean, this is such an...
+
+135
+01:02:52.640 --> 01:03:22.000
+like an infinite field, like no pun intended. But like it's just like, it's just, there's so much that you can actually create here. So, I mean, especially for somebody like me who's not gonna have the time to actually like practice mathematics. Now there's like a lot more that you can actually do in the activity of math. So yeah. Yeah, I think the like the ability of someone who's not working on math is like their literal job all the time. So like understand what's going on and like
+
+136
+01:03:22.000 --> 01:03:35.790
+you know, learn about some of the mysteries they might have wondered about will go up quite a lot. Also, you know, if you're like, if you're working on something that requires some math, you know, suddenly you don't need to like...
+
+137
+01:03:35.790 --> 01:04:05.390
+find a world expert on this topic to be able to use it in your own work. Sorry, mathematician. It's getting me. No, it's true. I mean, I think there was just like a dearth of actual people who could do that. And so I think this is helpful. Maybe it's helpful for theoretical physics, like we'll see. But a lot of other applied areas as well. It'd be nice for the world to apply mathematics on a lot faster. Yes. I mean, I'm up for that. Well, thank you guys for joining. This is a lot of fun. And I'm just so excited for how
+
+138
+01:04:05.390 --> 01:04:35.550
+much the models are advancing. So maybe we'll have you guys back as soon. Thanks so much for having us. Thanks for having us. Thanks for listening to this episode of the A16Z podcast. If you like this episode, be sure to like, comment, subscribe, leave us a rating or review, and share it with your friends and family. For more episodes, go to YouTube, Apple Podcasts, and Spotify. Follow us on X and A16Z and subscribe to our substack at a16z.substack.com.
+
+139
+01:04:35.550 --> 01:05:06.380
+Thanks again for listening, and I'll see you in the next episode.
