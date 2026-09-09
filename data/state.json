@@ -3808,6 +3808,23 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://a16z.simplecast.com/episodes/martin-casado-on-where-the-value-is-going-in-ai-750ULKGM"
     },
+    "the-a16z-show::3f9d6ac8-7abc-4364-926d-900b2880fcb1": {
+      "attempts": 1,
+      "description": "a16z’s Erik Torenberg, Ben Horowitz, and Jennifer Li sit down with Vals founder and CEO Rayan Krishnan to discuss one of AI’s increasingly difficult problems: how do you actually measure whether a model is getting better?\nAs public benchmarks saturate and models get better at optimizing for the tests themselves, Rayan makes the case for independent, continuously evolving evaluations. They unpack why self-reported model scores can be misleading, how VALS evaluates models in the hours before a release, and why measuring increasingly agentic systems means testing work that can unfold over hours, days, or even weeks.\nThey also explore why evals are becoming critical for enterprises trying to understand the ROI of AI, what happens if token spend begins to rival employee salaries, and how evaluations could eventually provide a shared language for everything from model routing and recursive self-improvement to AI policy and international coordination.",
+      "external_id": "3f9d6ac8-7abc-4364-926d-900b2880fcb1",
+      "item_slug": "the-a16z-show-e99a823c5443",
+      "language": "en",
+      "published_at": "2026-09-09T10:00:00+00:00",
+      "published_to_feed_at": "2026-09-09T16:52:25.561790+00:00",
+      "source_id": "the-a16z-show",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "Who Grades the AI Models? | Ben Horowitz & Rayan Krishnan",
+      "title_zh": "谁来评估AI模型？| 本·霍洛维茨 & 拉扬·克里希南",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
+      "url": "https://a16z.simplecast.com/episodes/who-grades-the-ai-models-ben-horowitz-rayan-krishnan-uPW5nl18"
+    },
     "the-a16z-show::40eb3297-165c-4005-8cd9-5205a50b2154": {
       "attempts": 1,
       "description": "Travis Kalanick, Ben Horowitz, and Erik Torenberg reunite to reflect on Uber's early days, the investment that almost happened, and why Kalanick believes the next great technology opportunity lies beyond software.\nThey discuss the lessons of building Uber, the value of founder-led companies, and why Kalanick spent nearly eight years quietly building Atoms before stepping back into the spotlight.\nThe conversation explores industrial AI, robotics, autonomy, mining, food production, and Kalanick's vision for digitizing the physical world, where software, manufacturing, real estate, and transportation come together to transform entire industries.",
@@ -6770,15 +6787,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:51:31.947835+00:00",
-      "last_modified": "Wed, 09 Sep 2026 04:45:11 GMT",
+      "last_checked_at": "2026-09-09T16:46:19.358728+00:00",
+      "last_modified": "Wed, 09 Sep 2026 16:33:04 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:50:38.643835+00:00",
+      "last_checked_at": "2026-09-09T16:45:26.816588+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -6786,14 +6803,14 @@
     "feng-tou-quan": {
       "etag": "W/\"27dfa2e7a7a509b67a53d49a93f75f87\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:49:38.216066+00:00",
+      "last_checked_at": "2026-09-09T16:43:45.754620+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:51:45.494354+00:00",
+      "last_checked_at": "2026-09-09T16:46:49.984565+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
@@ -6801,14 +6818,14 @@
     "gao-qian-nu-hai": {
       "force_refresh": false,
       "last_attempt_at": "2026-08-26T13:21:20.005733+00:00",
-      "last_checked_at": "2026-09-09T04:49:41.168808+00:00",
+      "last_checked_at": "2026-09-09T16:43:48.531564+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:49:28.765482+00:00",
+      "last_checked_at": "2026-09-09T16:43:29.516696+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -6816,7 +6833,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:52:17.724240+00:00",
+      "last_checked_at": "2026-09-09T16:46:49.084873+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -6825,7 +6842,7 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"3a9e61f50fee0e5fdc10602e2f6c5419\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:51:25.476222+00:00",
+      "last_checked_at": "2026-09-09T16:45:58.530821+00:00",
       "last_modified": "Thu, 03 Sep 2026 22:43:18 GMT",
       "title": "声东击西",
       "type": "podcast",
@@ -6834,17 +6851,17 @@
     "silicon-valley-101": {
       "etag": "W/\"aa586ea0136a395ebcc7299b3c12a1bb\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:50:33.687001+00:00",
+      "last_checked_at": "2026-09-09T16:45:45.757838+00:00",
       "last_modified": "Fri, 04 Sep 2026 01:05:23 GMT",
       "title": "硅谷101",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/sv101/rss"
     },
     "streamlined-solopreneur": {
-      "etag": "W/\"d21549955a7a8a5ad948f8377c5beef5\"",
+      "etag": "W/\"34d4e10ec2903522d1cf07825bb1ee2d\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:53:22.497661+00:00",
-      "last_modified": "Tue, 08 Sep 2026 06:01:33 GMT",
+      "last_checked_at": "2026-09-09T16:47:40.284349+00:00",
+      "last_modified": "Wed, 09 Sep 2026 05:02:48 GMT",
       "title": "Streamlined Solopreneur: Solo Ops to Stop Doing Everything Yourself",
       "type": "podcast",
       "url": "https://feeds.transistor.fm/streamlined"
@@ -6852,24 +6869,24 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"b1a179f88b2af6fdabb53d0d1e9179f4\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:50:42.410867+00:00",
+      "last_checked_at": "2026-09-09T16:44:56.411418+00:00",
       "last_modified": "Wed, 02 Sep 2026 04:15:04 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"100d34920f9568369141a1348bba1422\"",
+      "etag": "W/\"fda4c52ec0613d644876d5cc888b6728\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:52:37.578541+00:00",
-      "last_modified": "Tue, 08 Sep 2026 10:00:32 GMT",
+      "last_checked_at": "2026-09-09T16:46:44.672126+00:00",
+      "last_modified": "Wed, 09 Sep 2026 10:00:29 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:52:27.728955+00:00",
+      "last_checked_at": "2026-09-09T16:47:28.793627+00:00",
       "last_modified": "Tue, 08 Sep 2026 06:46:16 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
@@ -6878,23 +6895,23 @@
     "the-psychology-of-money-with-morgan-housel": {
       "etag": "W/\"287db-CHGNtkIIivlxPXn8Apuaytgh/Wk\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:53:30.177077+00:00",
+      "last_checked_at": "2026-09-09T16:48:38.879421+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
     },
     "the-rational-reminder-podcast": {
-      "etag": "W/\"da3b0a127dead1e349c2a3c9c019c6fc\"",
+      "etag": "W/\"6168df52f8a9efb924889f2273f0309b\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:53:15.378454+00:00",
-      "last_modified": "Tue, 08 Sep 2026 22:55:15 GMT",
+      "last_checked_at": "2026-09-09T16:48:34.082611+00:00",
+      "last_modified": "Wed, 09 Sep 2026 11:12:29 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
       "url": "https://rss.libsyn.com/shows/127327/destinations/763774.xml"
     },
     "the-tim-ferriss-show": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:52:45.239016+00:00",
+      "last_checked_at": "2026-09-09T16:48:27.735536+00:00",
       "last_modified": "Fri, 04 Sep 2026 13:36:20 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -6902,26 +6919,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:49:44.220519+00:00",
+      "last_checked_at": "2026-09-09T16:43:51.397289+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:51:20.134543+00:00",
+      "last_checked_at": "2026-09-09T16:45:52.975221+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-09T04:50:33.680083+00:00",
+      "last_checked_at": "2026-09-09T16:44:55.742388+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-09-09T04:53:59.985094+00:00",
+  "updated_at": "2026-09-09T16:53:01.850630+00:00",
   "version": 1
 }
