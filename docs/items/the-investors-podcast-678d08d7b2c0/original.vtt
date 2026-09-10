@@ -1,0 +1,629 @@
+WEBVTT
+
+1
+00:00:00.110 --> 00:00:30.020
+You're listening to TIP.
+
+2
+00:00:30.020 --> 00:00:59.570
+After all recording, I listened to a five hour long German podcast, which also covered police work in Germany. And they mentioned Pellentier. And that was quite fascinating. Daniel, five hours. Come on. I thought our breakdowns were getting a little lengthy. I'm guessing that you raced through it at like two times speed. 2.85. I actually got to say, I love that YouTube feature where you can manually set the speed instead of having these point five jumps. And I'm not even sure whether that's part of YouTube premium or just
+
+3
+00:00:59.570 --> 00:01:28.320
+normal YouTube experience. But anyway, the podcast was about a police officer who talked about how it took him months to come up with a sort of mind map of a criminal organization and how if he would have been allowed to use Palantir, it would have simply taken him a couple of minutes. And that felt like a very tangible example of how just going through the databases of all of these agencies can simplify the day to day job of police officers, but also different security agencies.
+
+4
+00:01:28.320 --> 00:01:57.820
+That's basically the mind map that we talked about, the ontology that Palantir uses. But that was just my off-topic tangent on Palantir. So let's go to today's company, which is Co-Pod. Where we go? Since 2014, with more than 200 million downloads, we have interviewed the world's best investors, studied deeply the principles of value investing and uncovered many compelling investment opportunities.
+
+5
+00:01:57.820 --> 00:02:35.360
+We focus on understanding businesses and intrinsic value, investing accordingly and sharing everything we learn with you. This show is not investment advice. It's intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own and they may have investments in the securities discussed. Now for your hosts, Sean O'Malley and Daniel Manker. Perhaps we should start with our own history with Co-Part. You
+
+6
+00:02:35.360 --> 00:03:04.500
+pitched the stock in October of last year. And at that point, Co-part was already down 30% from all-time highs. But as we know today, there was still some room for even more pullbacks beyond that. And we don't try to time the market and we didn't sell because we speculated on where the stock was going to go in the next few months. But it did feel like the right decision to free up some capital by selling Co-part to invest it elsewhere. And the stock has had a rough time since then, which
+
+7
+00:03:04.500 --> 00:03:31.260
+makes the decision look prescient even if it was mostly just random luck. It's always random luck whenever we make buy or sell decisions now, but jokes aside, I mean, corporate has been a 2% position back then when we bought it. And just for context, a 2% position usually means it's sort of on probation. So we're basically not yet completely sold on it, either because of valuation or simply because we have some quality concerns in.
+
+8
+00:03:31.260 --> 00:04:00.240
+I think I could speak for the both of us when I say that with Copa, it was certainly the former. I think we all know the quality is quite high. But as you said, the stock was perhaps fairly valued, definitely not cheap at that point. And I feel like sometimes you also just need to zoom out and simplify so you don't miss the most important things. And if you do that for Copa, you will find out why the stock is where it currently is, which is that top line growth has been slowing down dramatically if you look at the last two or three years. So that was, you know, the major
+
+9
+00:04:00.240 --> 00:04:29.980
+common denominator in our biggest loser episode just a couple of weeks ago that stock prices tend to follow top line growth and co-pots slow down from just mid teens to basically no growth at all. That's the story for today. Thanks for tuning in, folks. No, I'm joking, of course. What is interesting for co-part, I think, is that while they have the reputation as being one of these high quality compounders, they have had these growth slowdowns before.
+
+10
+00:04:29.980 --> 00:04:59.230
+And we're used to the software charts by now that only go in basically one direction up into the right. But Co-part is fundamentally a more cyclical business. And so the last time revenue growth stalled out was in 2015. But again, that was not fatal to shareholders by any means. And to be fair, it does help that earnings per share grew consistently despite some revenue volatility. But before we get deeper into the numbers and what has changed since our first time pitching the company,
+
+11
+00:04:59.230 --> 00:05:27.790
+How about you just give us a little summary of the pitch for Copart first so we're all on the same page. Yeah. So if I had to summarize Copart's business in just one sentence, it would probably be that Copart is a marketplace for total cost. So every year, millions of cars reach the end of what you can call their useful life, whether that would be through a crash or a hail storm, a flood, or just because of old age, which is most often the actual reason. But most of those cars, they go to an insurance company.
+
+12
+00:05:27.790 --> 00:05:52.320
+And those insurance companies are essentially Copa's main customer base. So they want to get rid of the car and Copa takes care of that by connecting the seller, which is the insurance company with a potential buyer and buyers usually include, you know, dismantlers or recyclers, used car dealers, international exporters, auto repair shops, but also individual, let's say hobbyists or private buyers from basically all around the world.
+
+13
+00:05:52.320 --> 00:06:15.300
+Many cars sold through copart to private buyers actually end up on South American streets. For example, from what I've heard, I think when we first did the episode, you actually just got back from a little vacation in the Dominican Republic. And I remember you saying that a lot of the cars there looked like they could have been from a copart lot. Yeah, I think emerging markets tend to be where copart cars are being bought by private buyers. So
+
+14
+00:06:15.300 --> 00:06:44.900
+There were definitely some cars in the Dominican Republic that wouldn't have passed the German TÜV. And I actually talked to you about it before the episode because I hoped you might know what the German TÜV actually is. You didn't. And so just for context for the American listeners, the TÜV is the official technical inspection association in Germany. And I've Googled it and apparently there's no equivalent in the US and car safety for you guys is more of a state to state department thing, I guess. But you can think of it as every single German car has to go to the German TÜV.
+
+15
+00:06:44.900 --> 00:07:13.120
+And only if they approve, you can actually drive it on the streets. And I should add that in its core business, Copa doesn't take ownership of any of the cars. So it's just a marketplace that as part of its service also handles the logistics, which is kind of like Amazon, but for used cars. So Copa toast the vehicles, they park them in one of their yards, they photograph them, they handle the paperwork, and then they run the auction where they actually sell those cars. Then they basically take a fee from both the seller side. So those are the insurance companies.
+
+16
+00:07:13.120 --> 00:07:41.780
+and the buyer side, which for example, could be, you know, a dealer. And just to run through a quick example, so we're all on the same page, let's say you get rear ended and your insurer now has the decision to make either repair the car or write it off and pay you out. And if the repair costs, let's say $5,000 and the insurer thinks it can recover more than $5,000 by selling the wrecked car, it writes the car off and sells it. And if not, it repairs it. And so
+
+17
+00:07:41.780 --> 00:08:11.730
+In the industry, you call the outcome of that decision the total loss frequency, the percentage of accident claims where the insurer decides the car isn't worth repairing. And the higher the total loss frequency, the better it is for Co-part, because that means they're getting more cars coming into their platform. And the interesting part in the last decades is that this has been a major tailwind for Co-part. So J. Adair, who is the old and also the new CEO, and we'll explain that later on in the episode,
+
+18
+00:08:11.730 --> 00:08:41.340
+He recently said in an investor call that the total loss frequency when he started, which was about 35 years ago, was only 8%. And today it's almost 24%. Which is counterintuitive at first, because you would think that cars have become much safer, leading to fewer catastrophic accidents, which again, should lead to fewer total cars. But actually the modern car is packed with expensive sensors, much to my mom, Shagren, who has a new car and hates it.
+
+19
+00:08:41.340 --> 00:09:08.000
+cameras in the mirrors, radar in the bumper, parking sensors, lane assist, all that stuff does in theory help make the car safer, but also makes the car itself more fragile and expensive to fix because after a collision, every one of those sensors has to be recalibrated, which costs a lot of time and a lot of money. There are a lot of these photos of, I think, mostly Teslas, but that's just because they are the most modern cars out there right now, where you just see a minor
+
+20
+00:09:08.000 --> 00:09:35.730
+accident happening and then suddenly the car is total and it looks completely fine to be honest. There's just some cameras that were hid and even that can total a car by now. But another interesting point that the ex CEO Jeff Liao made in one of his late earnings calls is that copart is not only a passive beneficiary of an increased in the total loss frequency, but they actually help drive it upward. So basically every additional dollar that copart gets for a car at an auction
+
+21
+00:09:35.730 --> 00:10:03.360
+makes it more attractive for interest to just total the car and then send it to Copart for auction. And he's sort of framed it as basically competing with the repair shops, right? Every car that goes to Copart and doesn't get into a repair shop is a win for them. So the higher the returns, Copart generates, the more often it wins the right to resolve that claim instead of that car going to the body shop. And it's a great system because it also aligns Copart and the insurance companies much better. So not only is it more profitable,
+
+22
+00:10:03.360 --> 00:10:28.400
+for the insurance business to give go pod the cars and the volume but copart fees also scale with higher sales prices. Then on the seller side, they often use and I think I mentioned that last time, something that is called percentage incentive program. So basically that means that copart fees is a percentage of the car sale price and bio fees typically range from seven to 13% depending on the car and the buyer's volume.
+
+23
+00:10:28.400 --> 00:10:57.950
+And as we mentioned last time, roughly 80% of the fees come on the buyer's side, not with the insurance companies. And the reason behind that is there are only about a dozen insurance companies of size. So it's a very concentrated group of suppliers with pretty high negotiating leverage. And then on the buyer side, you have thousands of dismantlers and dealers and exporters. So it's a highly fragmented set of vehicle buyers. And there's little to no negotiating leverage correspondingly.
+
+24
+00:10:57.950 --> 00:11:24.690
+But besides the core business with insurance companies, there's also a second business called vehicle sales. So maybe you can explain what that is and the overall revenue breakdown for the company, what that looks like. Yeah. So as you said, basically, the vast majority of revenue comes from service revenue, which is the business that we just discussed. And it's called service because again, you know, corporate is doing a lot of the logistics and they basically take on what otherwise insurance companies would need to do. That's why they call it service.
+
+25
+00:11:24.690 --> 00:11:52.100
+The other 15 or so percent of the business come from what they call vehicle sales. So that's the part of the business where copart actually takes ownership of a car and then sells it through its own channel. So that model is a lot more common in copart's international businesses. And again, we talked about that last time. Mostly that's the case because the service model is established in the US, but it's not yet widely adopted in most international markets. And to show international customers the advantages of selling on copart, which again,
+
+26
+00:11:52.100 --> 00:12:22.080
+primarily comes from the liquidity that the auction offers. They basically buy cars, out right and then sell them as proof of the model in their own auction. And basically the goal is that over time, they can convert them into the fee or the service model, which is a much higher margin business for co-pod. And this works quite well. International service revenue is up almost 20 percent, while vehicle revenue is dropping close to 20 percent. Now, obviously, you might ask yourself, why is it good to see revenue drop in this case, vehicle revenue? But the reason is that that means
+
+27
+00:12:22.080 --> 00:12:50.880
+international markets are in fact adopting the higher margin service model, which is what you want to see. Actually, in one of the latest earnings calls, they point us Germany as an example, because Germany's model is completely different from the US model. So when a car is deemed a total loss here, the insurer traditionally pays the policyholder the replacement value minus the recs residual value. And then the policyholder keeps the rec basically and has to sell it themselves. And that's a pretty bad model because, you know,
+
+28
+00:12:50.880 --> 00:13:15.120
+At the end, you're still sitting on your total car and you have to deal with selling it yourself. I should add, though, this is not always the case. Unfortunately for us, my dad just crashed his car recently and the entire side is a huge scratch and you basically need to complete new doors for the entire side. And with him, the insurance is basically not just giving him the money, but sending him to a body shop and they will repair it for him. And that's sort of what the insurance is then covering.
+
+29
+00:13:15.120 --> 00:13:41.250
+Just to ask, is this all related to what I think you once told me in our Auto One episode that we did a while back? You said that many cars go to Eastern European countries for cheap repairs and then eventually come back to Germany without a mention of the actual damage. It sounds like your dad had no problem damaging the car himself, but my impression is that this is sort of a bigger problem in Germany.
+
+30
+00:13:41.250 --> 00:14:10.930
+What could have technically happened is that the insurance pays him the money if they would have done so, then he would get a cheap repair, let's say in Poland for the doors, then he gets the car back and he has the money and then he could sell that car, you know, with sort of not telling about the actual damage. And that's how you can make a profit. Of course, it's illegal. But yeah, that's what we discussed in the other one episode. Copa is now convinced some of the biggest insurance companies in Germany to switch to its service model. And since Copa has less than 10 percent market share,
+
+31
+00:14:10.930 --> 00:14:39.180
+And actually no real competitor in Europe. This could be a huge opportunity because you don't have a duopoly which will get you in the U.S. where basically insurers will always split the volume. In this case, all the volume and all the growth is only going to co-pot in the future. Let's take a quick break and hear from today's sponsors. For most of my 20s, my money story was simple. Earn more and the rest takes care of itself. My income did go up. My spending went up right alongside it, though. I just didn't notice.
+
+32
+00:14:39.180 --> 00:15:07.330
+My savings rate had quietly slipped from 30% down to 20% and I didn't catch it until Monarch put every account on one screen and showed me the trend, which seems a little for a guy who spends all day pulling apart someone else's balance sheet. And now the investment view shows me my whole portfolio in one place and how it's actually doing against the S&P 500. And when a big purchase is coming, I map it out first and see whether I'm on track.
+
+33
+00:15:07.330 --> 00:15:35.630
+before it's too late to adjust. Write your own money story with Monarch. Use code WSB at Monarch.com to get your first year of Monarch Core half off at just $50. That's 50% off your first year at Monarch.com with code WSB. Curious about online trading but haven't taken the first step yet? You're not alone. And Plus 500 Futures is a great place to start.
+
+34
+00:15:35.630 --> 00:16:00.580
+The futures markets are moving fast and with plus 500 you can explore popular assets like oil, gold, S&P 500, Bitcoin and more. From crypto to commodities, there's always something happening. The platform is super easy to use so you can trade on the go right from your phone. You can get started with just $100 and jump into the action. See something interesting? Once your account is open, you can trade it in just a couple of clicks.
+
+35
+00:16:00.580 --> 00:16:26.270
+And if you're not quite ready yet, you can practice with a free demo account. No risk, no pressure. With 20 years of experience, PLUS500 makes trading more accessible than ever. Check it out at PLUS500.com. Trading and futures involves risks of loss and is not suitable for everyone. Not all applicants will qualify. PLUS500 is trading with a plus. Every week we analyze companies on this show and ask the same question.
+
+36
+00:16:26.270 --> 00:16:55.200
+is management actually running this business efficiently? Here's the honest answer for most companies right now. The ones pulling ahead are the ones putting AI to work on the everyday stuff. That's exactly what NetSuite Next was built for. NetSuite Next surfaces insights exactly when you need them. It puts agents to work on routine tasks and problems, and it lets you ask complex questions and plain language like talking to a knowledgeable colleague. But technology is only part of the story. AI is also reshaping how people and teams work together, and that shift is already underway.
+
+37
+00:16:55.200 --> 00:17:23.280
+Expert created business guide in your hands today. It's called Aligning for the Agentsic Era, How AI is Changing Everyday Work. And right now, it's yours absolutely free. Inside, you'll discover how AI could reshape work across your entire organization and how to position your business to prosper from it. I use this and you should too. If your revenues are at least in the seven figures, get our free business guide, Aligning for the Agentsic Era, How AI is Changing Everyday Work.
+
+38
+00:17:23.280 --> 00:17:51.780
+All right. Back to the show. Margins are already up significantly for the international business. While US EBIT, which is Earnings Before Interest in Taxes, is just a fancy term for operating profit, it's up less than 4%, which is not particularly inspiring.
+
+39
+00:17:51.780 --> 00:18:19.820
+while international EBIT was up 50% year over year. So we're seeing an explosion in the operating profits from Co-parts International Business. But moving on here, how about we go ahead and continue the conversation and talk about Co-parts MOTES? I think there's a reason we liked the business enough to include it in the portfolio, even if it was only there for a short while. And also regarding our decision to potentially add
+
+40
+00:18:19.820 --> 00:18:46.780
+copart again today back to the portfolio. I think the most important thing for us to know is whether the moat is still intact. Yeah, and I would say that the first one is still intact. And I feel like it's one of the things that everyone knows about copart right now. And it's actually copart's land. So it's all the yards that they own. I've literally heard people say they've never looked at copart. They never looked at the company. They don't know anything about the fact that they own the land, which is kind of funny because I think like
+
+41
+00:18:46.780 --> 00:19:15.200
+Every copart pitch is initially starting with, hey, the one great thing, the one mode is they own their land and their competitors don't. But you just can't skip that part, even though it seems repetitive, because again, copart operates in the US in a duopoly with IAA. That's the main competitor. And IAA doesn't own this land. It's renting the land. And as we'll see later when we talk about the financials a bit more, that is a major factor. There's also a limited amount of land that still can be turned into a massive salvage yard. And since copart owns.
+
+42
+00:19:15.200 --> 00:19:44.180
+250 of such locations globally, the majority of them obviously in the US, it's increasingly hard to get the same sort of expansion in terms of yards for any competitor. Yeah. The good old NIMBY movement, not in my backyard. I mean, look, last time we recorded this episode, I was not yet a homeowner and now I am. And I can tell you, I'm probably more team NIMBY than I was just a year ago. I could imagine really only a few things that are probably worse than getting one of those massive
+
+43
+00:19:44.180 --> 00:20:11.890
+salvage yards anywhere near my house. I'm sure really everybody feels that way. Up until now, I only have seen photos, but in about what is it a month from now, I will actually visit you. So I'll see the backyard in real life. And I can say that I think if I would have a backyard like that, I wouldn't want a salvage yard anywhere near that either. And because every homeowner thinks that way, obviously the permits to get for those yards, it's incredibly difficult and it's only getting more difficult in the future.
+
+44
+00:20:11.890 --> 00:20:39.070
+And obviously also you can sell that land at a much better price when it's for housing or for office spaces. So there's just not really an incentive to still give a lot of permits for land that is then turned into a junkyard. So to some extent, again, this is a competitive advantage that IA can no longer attack. And that's true today, but it will also be even more true in five years time. And I should mention, and this is kind of bullish in my opinion that J. Adair said in his first callback as a CEO, which has happened.
+
+45
+00:20:39.070 --> 00:21:06.980
+about a month and a half ago that copart now has enough land and no longer needs to spend at least this half a billion dollars which they currently are spending to acquire more land. So I think that's a pretty good sign because if you just look at the financials, 500 million dollars is quite a significant amount, even for a company the size of copart. So for example, last year, copart generated free cash flow of 1.2 to 1.3 billion. So even if you know the spend is just cut in half, which means 250 million dollars of savings,
+
+46
+00:21:06.980 --> 00:21:32.140
+That's quite a meaningful chunk for a co-op. And the second mode is something that we've seen in many businesses that we looked at. And it's just about the marketplace dynamic. They launched a website and auctions in the mid 90s and just a couple of years after eBay is when they did that. And at that point, it's safe to say that most salvage yards were still running auctions in person with a guy in a clipboard probably overseeing things.
+
+47
+00:21:32.140 --> 00:22:01.060
+That's why Copart had a major advantage in onboarding customers. They were sort of a digital first mover. I still remember when I first looked at Copart and I kind of asked myself when no one even tried copying them. Even IAA, which again is their main competitor, only started really getting into online auctions during the pandemic. So we're literally talking 25, almost 30 years later. And I think that's just a pretty good example of how mismanaged that company has been for a very long time. And
+
+48
+00:22:01.060 --> 00:22:30.530
+Anyway, the website and also the virtual bidding system, which has been this innovation that Copart had, turned into a massive advantage because more bidders, and that's the dynamic that you just described, more bidders mean the winning bid goes higher than if you have fewer people bidding on an auction. And higher prices mean the insurance company recovers more money, which means Copart becomes the most profitable place for an insurer to dispose of a car, which is what we talked about earlier. And that brings in more insurers, which in turn,
+
+49
+00:22:30.530 --> 00:22:50.700
+brings in more and better inventory for corporate side. And if you can get better cars and maybe not the most wrecked ones, you will obviously also get more buyers. And that's sort of the flywheel that we're always looking for and all the companies that we cover. And I think it's safe to say that corporate is one of the strongest flywheels that we've ever seen in all of the companies we covered, which by now is close to 100, by the way.
+
+50
+00:22:50.700 --> 00:23:18.880
+And last but not least, as we think about co-parts, moats and the advantages that insulate them from competition, we have economies of scale to consider, especially thanks to the density of their yard network. Basically, the denser the network, the shorter the distance to the next yard when you have to pick up and tow a car. And it's sort of like the Domino's model of trying to have as many locations as possible in population dense areas.
+
+51
+00:23:18.880 --> 00:23:48.340
+so that it's as close as you can possibly be. The delivery time is less than a few minutes. That sort of accessibility is an advantage. Yeah, in this case, it's actually both. It's a cost advantage, but it's also about reliability. I mean, last time, I think we talked about Hurricane Katrina, which was a game changer for Copa. It basically left hundreds of thousands of vehicles in salvage condition. And while salvage vehicles are usually a good thing for Copa, too much volume at once, which tends to happen in these
+
+52
+00:23:48.340 --> 00:24:17.280
+catastrophe events is not that good for them because you have to handle it and that means you have to lease extra yards. You have to hire third party services and work many overtime hours. And obviously all of that comes at a time when the costs for yards for third party services and so on are much higher than usual. And then in the short term, that means that, you know, all of these vehicles, they are unprofitable volume for co-pod. And that's why competitors and especially I didn't want to go the extra mile to help back then and.
+
+53
+00:24:17.280 --> 00:24:46.960
+Coppard they chose to absorb the losses and help as much as they could and as fast as they could and actually I found a quote by what is Johnson who is the founder of Coppard and he said that they wanted to prove they're not only the best operator but also the most reliable partner and I actually think if you look at how many customers Coppard still has and how they stick with them you can still see that credit that it gave to them 20 years later because again the hurricane happened in 2005 this was also
+
+54
+00:24:46.960 --> 00:25:16.160
+just a year to after Copa shifted the entire business to online auction. So it was also a huge test for the new system and it worked out well with tens of thousands of flood damaged cars pro-ing into the market and Copa digital infrastructure allowed buyers globally to bid on cars, which as you said before was basically a national operation right now suddenly you have the entire world internationally. You have buyers for those cars and all of that helped bypassing the logistical bottleneck.
+
+55
+00:25:16.160 --> 00:25:44.270
+or physical auction lots. And after that, Copart established what they call a CAT response team. So a catastrophe team basically that can help further and faster when these hurricanes come up. And so this was a major part of why Copart was able to win market share for almost two decades after that. Insurers trusted Copart and knew it was not only the best place to sell volume, but also a reliable company in times of crisis. And it's really important for insurance companies.
+
+56
+00:25:44.270 --> 00:26:14.110
+to get quick help in those situations because that's exactly when they could lose a ton of customers if things are handled poorly. So the last thing you want is to wait months for your insurance company to pay you while already struggling with losing your car and maybe your house. So if the service is bad in those times, you know, insurance companies, they're probably going to lose thousands of customers. So it's a real point of vulnerability for them. But perhaps this is maybe a good moment to change the tone a bit and start talking about what has
+
+57
+00:26:14.110 --> 00:26:43.260
+changed since our first episode. What is different now about Co-part? Because there is the market narrative that market share dynamics have changed and IAA, which is Co-part's chief competitor, is now gaining market share. And so in our last episode, again, we talked about IAA and how it's closed the land capacity gap slowly. About five years ago, Co-part still had 70% more land capacity.
+
+58
+00:26:43.260 --> 00:27:11.980
+than IAA. Now that number is close to 25%. And I should add, if you ask yourself, well, Daniel just said five minutes ago that the land capacity will be a major mode for Corpott even in the future. Obviously, there's a difference between scaling land because you lease it compared to scaling land or yards because you buy them, right? Nevertheless, I got to say, apparently they did a quite good job for the last few years. I mean, I think what the market is scared about right now is Corpott's slowdown in the US insurance volume.
+
+59
+00:27:11.980 --> 00:27:41.340
+So basically the core of the business part of that can be explained fortunately because there were no major hurricanes this year, which is good for society. It's not that good for copart. I mean, talk about incentives. But even if you exclude natural disasters, the overall decline here over a year would be about three to five percentage points. And while copart's volumes are declining, IA's volumes have actually been up 10 percent. So it's not only that fewer cars are being totaled. It's also that IA is taking share from copart, which as you mentioned
+
+60
+00:27:41.340 --> 00:28:11.260
+didn't happen for let's say 20 to 25 years. And IA's management is actually claiming they have outperformed competition, which basically means co-part for about six quarters in a row now. So what changed there that you have insurers suddenly switching over to IAA? I mean, it seems like the most we've been discussing are still largely in place. I don't think anything fundamentally has changed with co-part. And even if IAA has more yard capacity than it did in the past, there's a question of whether they can offer the same liquidity for car auctions.
+
+61
+00:28:11.260 --> 00:28:38.980
+which is again, one of the major benefits of co-part is that they have this network effect reinforcing the entire flywheel. So yeah, what really has changed? Is there any reason in particular that ensures are looking to choose IAA over co-part? That was basically the big question for revisiting corporate, right? Has anything changed? Is there anything that I sort of missed where corporate is vulnerable? And I got to admit, I don't think what are problems and we'll get to them.
+
+62
+00:28:38.980 --> 00:29:06.820
+that anything major has actually changed. And even if you listen and trust JADR, he was quite vocal about not thinking that IAA has meaningfully improved its operations at all, which certainly is the market narrative right now. So there's primarily one insurer that has shifted its volume to IAA and that's progressive. So the historical split of volumes between COPD and IAA is quite uneven. So usually an insurer is not splitting 50-50 between the two, but more like
+
+63
+00:29:06.820 --> 00:29:34.290
+75% of the volume goes to co-pod and then 25% of the volume goes to IAA just due to all the advantages of co-pod that we have discussed earlier. So the reason why they split volume in the first place and they're not just giving 100% of the volume to the better operator, which is co-pod is that they don't want to create a monopoly because obviously in that case, co-pod would gain significant pricing power and could increase the fees for insurance companies because they couldn't shift the volume anymore. Now,
+
+64
+00:29:34.290 --> 00:30:03.500
+Progressive is going against the rest of the industry and has always leaned toward IAA. So they send three quarters of their volume to IAA and only one quarter to COPD. And I actually even heard that they shifted as much as 90% of their volume to IAA recently. And the problem for COPD is that Progressive has just become the biggest US auto insurer adding two and a half to three million policies per year. Well, I think it's a really interesting structure you have here where
+
+65
+00:30:03.500 --> 00:30:33.500
+Basically, on the supply side, the suppliers are so strong that they're able to do a degree of tacit collusion and prevent either IAA or Co-part from developing monopoly. And whether they admit it or not, it's something that is seemingly being done intentionally. And I think it's also good news that it's only primarily one insurer that's supporting this IAA outperformance. But the bad news is that Co-part is also unlikely to win over Progressive
+
+66
+00:30:33.500 --> 00:31:01.840
+And progressive is the fastest growing player in town. That's the problem right now. And I think you could even go a step further and say the second order effect here is that progressive is winning share from other insurers, obviously, which are co-part customers. So co-part is basically losing volume, not only because progressive tilts more to IA and send more of their volume over to them, but also because that volume is coming from co-parts insurance customers. So they are losing customers to progressive.
+
+67
+00:31:01.840 --> 00:31:26.270
+And then progressive shifts even more of that volume to IAA. That's sort of the double whammy that Copart is experiencing there. Maybe you ask, okay, well, what's the reason for progressive tilting towards IAA and potentially getting even more volume to them? So in the first place, what I think is that they have partnered for a very long time and IAA has basically provided priority services to progressive. So they offer them
+
+68
+00:31:26.270 --> 00:31:52.750
+faster vehicle pickup times and better storage lot placements. And it's also willing to operate. And that's the major part at quite a low margin on the progressive business. So it was my impression that Adea indirectly at least mentioned that Copa simply wasn't willing to offer progressive, very similar rates compared to IA because he didn't particularly name them. But given that they are the only lost volume and Adea mentioned that Copa chose not to do business with one party.
+
+69
+00:31:52.750 --> 00:32:15.820
+that's sort of the takeaway that I had coming out of that call. And you can even see in the margin that the progressive volume seems to come with quite low takeaways because Copa's auto segment has a margin of 36%. And if you go through the filings of Richie Brothers, which is the owner of IAA, they say that the auto segment is somewhere the 15 to 20% range. So it's significantly lower than Copa's.
+
+70
+00:32:15.820 --> 00:32:45.540
+When I hear about the profit margin difference between these two companies, I think the first thing that comes to mind is that old Bezos quote about your margin is my opportunity. But if IAA is willing to accept a lower margin, then I would very much worry as a shareholder about there being a race to the bottom on pricing between Co-part and IAA. And I think as Buffett and Munger would probably say, all it really takes is one ruthless competitor to ruin what is otherwise a wonderful
+
+71
+00:32:45.540 --> 00:33:13.250
+business. And so right now, we're only talking about progressive, but what if other insurers started switching volume over to IAA for similar reasons, then we have a bigger problem on our hands. I think that's a good point. And it's actually also the one question that immediately popped up in my head when I looked at it. But after digging into IAA's filings, it looks like the majority of the margin difference is due to depreciation relative to IAA's purchase price when Richard Brothers, which again is the parent company
+
+72
+00:33:13.250 --> 00:33:41.120
+bought IAA and then you also have stock based calm and obviously and this is coming back now the leases that it pays for its land because again they don't own it and that appears to be the majority of the margin difference. So it's not that co-part is overcharging for fees and also as we said earlier most of the fees are paid for on the buyer side. So you're not necessarily overcharging the insurance companies which is where you could lose most of your volume. So I'm not too worried that other insurers will start to choose IAA
+
+73
+00:33:41.120 --> 00:34:10.460
+over Co-Pod because of fees or price or any of that because, again, progressive chose IA because they also get special treatment and sort of by definition, IA can offer that to too many customers and you're set up all the other modes that we discussed earlier. I mean, they are still in place and I don't necessarily feel like they will evaporate anytime soon. So if you plan to be in business for the next 20 or 30 years and most insurance companies do because it's a long term business, you can still rely on Co-Pod since in case you didn't yet know it.
+
+74
+00:34:10.460 --> 00:34:39.970
+They own the land with IAA you have the risk that they will lose land over time because permits are being revoked and land will be used in another capacity, especially when cities are getting larger and larger and you need more space for people to live. And also if you trusted there, he again wouldn't agree with the market narrative that IAA has even become a better operator in the last couple of years. And that's very hard for me to judge from the outside because all we can do basically is just look at, hey, how many insurance companies
+
+75
+00:34:39.970 --> 00:35:09.440
+go over from co-part to IA and it doesn't look like any of the ones that favored copart in the past have done that. So right now I still feel quite good. However, should that change and you see insurers actually changing sides that would be not good for co-part and also you probably can see that before it's actually happening and then it's also present to the stock. Did you say co-part owns the land? I might have. I haven't heard that before. Obviously, obviously kidding. No, but it's
+
+76
+00:35:09.440 --> 00:35:38.130
+I would think it's very reassuring that the share loss is primarily due to one customer. If I were looking at this as a shareholder, and if you were seeing this coming from multiple customers, this might have been only the beginning of a long period in which Co-Part began to slowly lose market share. And even if they stay number one on paper, it would certainly hurt the stock because the numbers would look terrible compared to the comps. And I think what will be interesting to see is whether the insurance market actually becomes a tailwind.
+
+77
+00:35:38.130 --> 00:36:07.150
+for co-part again after being a pretty strong headwind for the last few years. And just for context as to what I'm referring to between 2022 and 2024, sort of COVID related auto insurance got brutally, brutally more expensive. And so average full coverage premiums in the US rose 46% over three years. So if you thought that you were going crazy imagining that vehicle insurance was much more expensive, you're not crazy. It absolutely is.
+
+78
+00:36:07.150 --> 00:36:35.230
+The reason for that was like carriers got hammered, repair costs exploded after COVID. There's lots of shortages. You had prices for used cars correspondingly explode. And then the insurance company's combined ratios, which is an important term to understand. This is just the claims plus the operating expenses of the insurance business divided by the premiums that they receive. And so if you didn't understand any of that, all you need to know that is for a combined ratio.
+
+79
+00:36:35.230 --> 00:37:03.120
+If the number is over 100, that means you're losing money on the underwriting itself. And so that's not a good thing. And in response to that, so that they could underwrite profitably and have a combined ratio below 100, at least that's the hope. You saw a lot of these companies raise rates significantly to be profitable again. But in times of high inflation and a tough economy, many people just aren't willing or able to stomach those premium increases.
+
+80
+00:37:03.120 --> 00:37:29.230
+Yeah, what you basically saw happening is that some people just drop from full coverage to liability only, which basically means if they wreck their own car, no claim gets fired and no car goes to a salvage auction. And then some rates, they're deductible so high that basically all of these small and medium accidents never get reported. And then some just stop ensuring the car at all, even though that's technically illegal and not only technically it is illegal. But I mean, if you look at the numbers.
+
+81
+00:37:29.230 --> 00:37:57.360
+About a third of American drivers were now uninsured or at least materially underinsured if you compare that to 2023 and especially up from 2017, which is almost 10 years now. This number is up more than 10 percent. And CCC, which is one of the most important data companies in this field, found that the share of third party claims coming in as uninsured or underinsured motorists claims have nearly doubled in three or four years time. So hitting 16 percent at the end of last year. So
+
+82
+00:37:57.360 --> 00:38:25.020
+There's just many data points showing that significantly fewer vehicles are insured and that's obviously a pretty bad data point for corporate. And one more that I have is that CCC also reckons about a quarter of repairs on our self pay, meaning that the driver just fixes it themselves rather than involving the insurer. They've even launched a further just recently a buy now pay later product for those people, which they will never buy now pay later is involved. You sort of have an idea of how big a problem got.
+
+83
+00:38:25.020 --> 00:38:53.460
+And Copa's own data is also proving this trend. So there are more cars on the road this year than last year up to Copa, but in short cars have dropped about 4%. So I think those were enough data points to prove the point that this is not only a Copa problem, even though IA is wearing this is primarily a story of progressive shifting over. Generally, there simply is a cyclical factor here involved for a lot fewer cars by actually on the road in short. Let's take a quick break and hear from today's sponsors.
+
+84
+00:38:53.460 --> 00:39:16.260
+One part of being an investor that I don't think gets enough attention is how hard it can be to continue to improve as an investment researcher. And for myself, I often find that when I finish a great conversation with some industry expert or fund manager, my head is full of ideas. But by the time I sit down to write it all up, half of them are already gone. That's why I've been using Plod Note Pro.
+
+85
+00:39:16.260 --> 00:39:43.950
+It's a small device that sticks to the back of my phone and captures the conversation and hands me back a clean, searchable recap. And so the key points, the follow-ups, the things I usually want to act on, it has all of that. And that allows me to stay present in the room and set a scribbling notes that I won't be able to read back later. And I notoriously have very bad handwriting. And so it's changed how I prep and how I follow up with investors. It's also built for people who take conversation seriously.
+
+86
+00:39:43.950 --> 00:40:08.560
+enterprise-grade security. So if you're recording calls with clients or industry contacts, that's covered too. So if you live in meetings, calls, and interviews, we'll give it a look. Go to plod.ai slash wsb and use code WSB for 10% off. That's plod.ai slash WSB code WSB and always get consent before you record a conversation.
+
+87
+00:40:08.560 --> 00:40:36.750
+Curious about online trading but haven't taken the first step yet? You're not alone. And Plus 500 futures is a great place to start. The futures markets are moving fast and with Plus 500 you can explore popular assets like oil, gold, S&P 500, Bitcoin and more. From crypto to commodities, there's always something happening. The platform is super easy to use so you can trade on the go right from your phone. You can get started with just $100 and jump into the action.
+
+88
+00:40:36.750 --> 00:41:03.540
+See something interesting? Once your account is open, you can trade it in just a couple of clicks. And if you're not quite ready yet, you can practice with a free demo account. No risk, no pressure. With 20 years of experience, plus 500 makes trading more accessible than ever. Check it out at plus500.com. Trading and futures involves risks of loss and is not suitable for everyone. Not all applicants will qualify. Plus 500. It's trading with a plus.
+
+89
+00:41:03.630 --> 00:41:29.170
+Every week we analyze companies on the show and ask the same question, is management actually running this business efficiently? Here's the honest answer for most companies right now. The ones pulling ahead are the ones putting AI to work on the everyday stuff. That's exactly what NetSuite Next was built for. NetSuite Next surfaces insights exactly when you need them. It puts agents to work on routine tasks and problems, and it lets you ask complex questions and plain language like talking to a knowledgeable colleague.
+
+90
+00:41:29.170 --> 00:41:58.370
+But technology is only part of the story. AI is also reshaping how people and teams work together and that shift is already underway. Expert created business guide in your hands today. It's called Aligning for the Agentec Era, How AI is Changing Everyday Work. And right now it's yours, absolutely free. Inside, you'll discover how AI could reshape work across your entire organization and how to position your business to prosper from it. I use this and you should too. If your revenues are at least in the seven figures,
+
+91
+00:41:58.370 --> 00:42:28.340
+Get our free business guide aligning for the Agentec Era, how AI is changing everyday work at netsuite.com. The guide is free to you at netsuite.com. Netsuite.com. All right, back to the show. You mentioned the by now pay later dynamic BNPL. You're making me wonder whether we should perhaps take a look at Klarna on the podcast here soon. But just staying on topic.
+
+92
+00:42:28.340 --> 00:42:57.620
+Let me ask you, are you seeing any signs of this trend that you mentioned reversing or is it something that will only get worse in the years to come, putting more pressure on co-parts volumes? It's very difficult to say when the cycle will turn, but I think there are some signs that we might see a reversal soon. So the personal auto industry ran a 95% combined ratio last year and Progressive's own personal vehicle business is actually about 8% points better than the target that they publicly said.
+
+93
+00:42:57.620 --> 00:43:25.440
+in their earnings score. So you could argue that there's some ammunition to cut prices now. And by the way, regarding progressive, I should add, I don't see the trend of them winning more and more customers as a long-term threat because insurance is a highly competitive field, which is also why you see these combined ratios sooner or later, go back and close it to 100. And if they all perform a couple of years, that's already pretty good performance. Usually, that's very unlikely to continue. So basically, I would expect that
+
+94
+00:43:25.440 --> 00:43:54.860
+By now, even though it can still take a couple of quarters, perhaps even years, you will see a shift and perhaps these insurance rates become a tailwind for corporate. And you should also see that progressive is not winning more and more market share from the competition, at least not in the long run. And then as we see bigger market shifts with lower insurance rates, we might also see a shift in who wins more customers in that new environment. And I don't have a guess on which company that will be, but I'm quite confident, most likely it will be a corporate customer. Generally, though,
+
+95
+00:43:54.860 --> 00:44:24.580
+even with first signs of a less hot insurance market, it will probably need a couple of quarters, at least before you see a meaningful impact in the numbers. After all, the rates are still 50 plus percent higher than just a couple of years ago. All right then, we alluded to it earlier just to kind of tease it. It's the elephant in the room, but why don't we discuss the CEO transition a bit and I got to say it did calm as a real surprise to me. Copeart has this history of very long CEO 10 years.
+
+96
+00:44:24.580 --> 00:44:54.100
+For anybody who's a fan of the NFL, it's sort of like the Pittsburgh Steelers. They keep their coaches around for a long, long time. So it was a real shock when they fired Mike Tomlin this year. But after Willis Johnson, the founder, served as CEO for almost 30 years, you had Jay Adair take over and then run the company for 14 years. And he's somebody who had been with Copart doing other positions since 1989. So pretty long connection to Copart, plenty of experience.
+
+97
+00:44:54.100 --> 00:45:19.060
+And then you had Jeff Liao, who took over in 2022 after serving as co-CEO with Jay for two years. And now just four years later, Jay Adair will take over again and Liao will step down. And as far as I know, Jeff will not even be a part of the board anymore. So he'll have something of a role like a special advisor, but I'm not really sure what that means. It might just be something to kind of placate him.
+
+98
+00:45:19.060 --> 00:45:45.680
+I wasn't quite sure what your NFL reference means, but just for the people who know the Bundesliga, the equivalent would be SC Freiburg, who also likes to have coaches on for a very long time, but getting to co-parts CEOs, it is a bit difficult to figure out how exactly that decision has been made. JR Deer scheduled a call and this is basically the call I'm referring to throughout this recording. Today, between the Q3 earnings call and last week's Q4 earnings call.
+
+99
+00:45:45.680 --> 00:46:14.260
+They never did this in the three decades of being a public company. And by the way, we record this just before September 3rd. So the Q4 earnings call that I just said last week's earnings call, we actually haven't yet listened to it. And if anything massive should happen, you got to check out our free newsletter, which I will link to in the show notes because over there we will have all the new information and updates included so you don't miss anything. Anyway, on that call, Jadea basically made sure to say that he and Jeff
+
+100
+00:46:14.260 --> 00:46:44.050
+agreed on the decision that they are still friends and they live on the same street and all of that stuff. But while that's all true, probably fact of the matter is that I don't think Jeff would have stepped down if things had gone great. And I also think that J&A and Willis Johnson thought the company has been mismanaged to some extent. And J is the one who could turn it around. Otherwise, why don't you have both people on the call? I think that would have helped to some extent. It also sounded like J&A thought there's some stuff that needs fixing at the company. I'd say it's
+
+101
+00:46:44.050 --> 00:47:13.220
+pretty awkward if they actually literally live on the same street. That would be a bit of a weird vibe. But yeah, the market dropped 8% when the news came out. And that is kind of surprising since Jay took the company from a market cap of $2 billion to $30 billion. So you would think that there should be more excitement about this veteran CEO and company builder coming back. And especially since he also said he will not be a transitionary CEO, he's planning to stay for a decade.
+
+102
+00:47:13.220 --> 00:47:42.260
+or even longer. I believe it was more about the fact that this transition felt like an admission that things were not going that well at the company. And that doesn't help, obviously, when the sentiment is bad anyway. And again, when we cover the company, it was already down like 30% back when, you know, this decision has been made. The stock was down even further and the sentiment was even worse. And by now, I should say the stock has recovered quite significantly. It's up about 25% from its lows. And also when the news first dropped and the market reacted,
+
+103
+00:47:42.260 --> 00:48:11.330
+It wasn't immediately clear whether JADL would actually stay on for the long term or basically would just be a transitional CEO, which definitely wouldn't have been a great sign because then you would need to look for a new CEO. It would even more be a sign off. We didn't trust Jeff Liao and what he did with the company. Now that's a bit different and you know, it has also been quite clear again that he thinks the current narrative on Copa is just wrong and he pushed very hardly back against the idea that some customers are unhappy with Copa or
+
+104
+00:48:11.330 --> 00:48:37.710
+likely to switch to competitors. And it was also during that call that he mentioned that spending on yachts is no longer necessary to, you know, at least the same extent. So I think there's a lot of stuff that we will see in the future. It wasn't too clear about what that will actually be. I'm really curious that Adair say anything more about what capital allocation will look like going forward. And the reason I ask is because one of the most important changes since the last time we looked at co-part.
+
+105
+00:48:37.710 --> 00:49:02.830
+is that they started buying back stock massively. And that could be a really positive signal, especially given their fantastic track record with doing buybacks very, very well in a way that's accruative to shareholders. And so after actually having five straight years of no buybacks, Copart has initiated the biggest buyback program that it's ever done, at least in absolute dollar terms. And so Copart bought back more than 1.6
+
+106
+00:49:02.830 --> 00:49:32.560
+billion dollars of stock in the last two quarters with more than 1.4 billion dollars of that coming in the last quarter at what seems like fairly rock bottom prices. So basically what management is telling you is that they think that this stock is fabulously cheap. We use co-polled as an example for how to make buybacks in many of the presentations that we had in our community and also at events. So finally they started buying again, which probably especially for this company is a very good
+
+107
+00:49:32.560 --> 00:50:01.950
+signal that the stock is most likely undervalued. And as you said, the last really meaningful buyback happened 15 years ago. So for the longest time, they thought the stock likely is overvalued at least compared to where they otherwise could invest at capital, which again, to some extent has been in yards, for example. So I think generally to me, co-pod is very much a story of trusting the management team, both in capital allocation and also in making the right decisions to position co-pod.
+
+108
+00:50:01.950 --> 00:50:26.130
+for future of EVs AVs and international expansion and I can already spoil will not talk too much about AVs today but we talked a lot about it in our first episode and I think our take on that hasn't really changed. I think the risks are the same. The timeline is the same. So if you want to know our opinion on that topic, I would say you should listen to the first episode speaking of which another change.
+
+109
+00:50:26.130 --> 00:50:55.970
+in the management team is that Jen Polkak has been promoted to president of the company and she ran Copart's UK business previously, which is the largest and the most established international market. And I think this is just another point to the importance of the international expansion. So if you ask me, where will they invest most of their money in the future? I think a significant chunk will likely go to the international business. Speaking of growth opportunities for Copart with Adair coming back, what strategic shifts
+
+110
+00:50:55.970 --> 00:51:23.730
+should we expect now? I mean, you just mentioned the international business. So I suspect that that will become an increasingly important focus for him and the management team as a whole. It seems that there are three pillars that Adair wants to focus on besides a general reversion to the mean in the core insurance volume. So the first is the often discussed as you just mentioned international business. Again, international revenues up 14% year-over-year, service revenue grew especially rapidly. And
+
+111
+00:51:23.730 --> 00:51:52.240
+The international operating market, and this is sort of the most important point, increased two and a half to three percentage points last year. And that happened for quite a long while right now. So J.A. Day really pointed out that the breakthrough in Germany makes some confidence that they can now use that as a blueprint to go into other markets and sort of initiate the service model there. Again, currently, the revenue there's up 18% total. So if we assume it can grow 15% per year on average, that contributes a bit under three percentage points to
+
+112
+00:51:52.240 --> 00:52:20.610
+consolidated corporate growth and a bit more than that to the bottom line because of, you know, the margin expansion that we see a second growth engine is what happens in the non insurance business. So Copart has, as we talked about last time, what is called blue car, which is for fleet and commercial accounts, which basically provides tailored services such as as the recovery arbitration and conditional reporting. And then they also have what's called cash forecast.com, which is just for buying cars directly from the public.
+
+113
+00:52:20.610 --> 00:52:47.870
+This used to be a growth driver, but it has slowed down recently and Adair didn't give much insight into why that has been the case. But he did say that the whole car business will look quote, very different in three to four quarters. Again, it's kind of vague, but you know, at least he gives the impression of knowing what to do and how to handle growth in the future. Another thing that we also talked about last time is what they have called Purple Wave, which is an online auction site for heavy equipment.
+
+114
+00:52:47.870 --> 00:53:14.140
+agriculture, construction vehicles, those sort of stuff. They actually acquired it a while ago. And then NPA, which is short for natural power spot auctions, which is doing the same. So we're talking auctions again for motorbikes, water sport vehicles, like jet skis or something like that, and even snowmobiles and RVs and golf carts. So those are sort of special things that I think we mentioned last time. We definitely not be replaced by AVs anytime soon. And
+
+115
+00:53:14.140 --> 00:53:40.210
+Then the last growth pillar would be what they call technology services. So, KOPAT basically operates what it calls title express. And that's a product for getting the vehicle title released from the bank or the owner, then paying off the outstanding loan. And that's part of a business model that sits somewhere between the insurance and the whole car business. So do you have any idea why he would say that the whole car business could look materially different in a
+
+116
+00:53:40.210 --> 00:54:09.780
+couple of quarters. I mean, do you think they're planning an acquisition or something similar? I think the on sense would be, I'm not sure. I think there's a cyclical element to the weakness in the sector, which is mainly the supply of at least quality three year lease returns is at its lowest in over a decade because, you know, similar to what we said earlier in terms of the pandemic, barely any new cars get built during the chip shortage that we saw in 2021 and 2022. And that should take care of itself over time. So I think that's
+
+117
+00:54:09.780 --> 00:54:33.780
+part of it. And then I'm not sure what Copa plans are directly, but perhaps we could see a spin off or something similar because it appears that Copa just doesn't have the same sort of mode and reputation in the whole cause as it has in the core salvage business. Because again, in your own salvage, you are up against IA and they went on land, they went on liquidity and they also win on the international buy base. But then when it comes to the whole car business,
+
+118
+00:54:33.780 --> 00:54:58.860
+that's just a completely different competitive set. So you're up against, you know, Monheim, which is a company that we also used for some data last time, and just many of these physical auction networks that are in the business for decades that people know when they actually want to buy a good car, which is not wrecked, which is usually what you get on Copa. So I don't know, I could imagine some more structural change to the company. I think some quarters ago and a call Jeff Lee Ow, who was back then still CEO.
+
+119
+00:54:58.860 --> 00:55:28.340
+was asked whether the brand would need to be a different one since again, corporate is not well known to consumers. And if so, they're again, primarily known for wrecked and damaged cars. And he said that, you know, perhaps they would need a sort of rebrand and that could be again a spin off. But that's just pure speculation on my end. So what's the deal with purple wave and national power sports auctions in PA? Did they also get dragged down by this pretty tough market environment? Or are they performing well? Unfortunately, corporate
+
+120
+00:55:28.340 --> 00:55:55.540
+doesn't disclose specific numbers for them. But they did mention that they expanded the sales force for Purple Wave specifically and made sort of a strategic decision to expand the business coast to coast prioritizing the highest GMV market. So I just assume this means the business is doing well, or at least they're believing in the future of the business. But it doesn't appear to be a core focus either because Adair again has publicly said on the call he didn't yet spend much time on that business and he would focus on the core insurance business first.
+
+121
+00:55:55.540 --> 00:56:22.140
+And then over time go to Purple Wave, NPA and those sorts of things. I've been thinking about Co-Part a lot and there's something else I wanted to ask you about. And that is that just a couple of days ago, there was a rumor spreading that Co-Part is perhaps interested in buying CCC intelligent solutions. And admittedly, it's a company I know very little about, but it sounds like perhaps it could help with the data aspect of Co-Part's business. And so the deal might be related
+
+122
+00:56:22.140 --> 00:56:51.220
+to one of these vague comments that Adair made in his July call with investors. It's actually a good point. It might be one of those. Although we should say that at the time of this recording, at least the potential acquisition is just a rumor. I think was started because Bloomberg reported that co-partisan talks with CCC, but they're not the only bit. They are basically up against a couple of private equity firms, including GTCR and Veritas Capital. And corporate management doesn't strike me as the sort of people who would overpay for such a deal, which
+
+123
+00:56:51.220 --> 00:57:15.760
+They might need to if PE firms are already in competition, but getting to CCC and what they actually do. I've actually indirectly mentioned them today a couple of times. I don't know if you realize that, but many of the data points I cited here came from CCC. So basically it's a company that was founded in 1980 in Chicago. And yet they built a software layer that sits between everyone involved after a car accident. So if you crash your car in the U.S. primarily.
+
+124
+00:57:15.760 --> 00:57:43.680
+There's very high chance that the estimate determining whether it gets repaired or written off is generated in CCC's software. And they have something like 300 insurance companies, including 27 of the top 30. So basically all of the big insurance companies are their customers. And then they have something like 30 K repair shops, thousands of parts suppliers, plus, you know, the car manufacturers. And they've got a huge data library of, you know, I read more than 300 million.
+
+125
+00:57:43.680 --> 00:58:12.080
+historical claims, which is what makes a damage estimate so accurate and also the data so important for companies like Copart, for example. To recap, Copart's core business is clearly dependent on insurers deciding to total cars rather than repair them. But then now you have Copart wanting to buy the company that essentially helps insurers to decide whether a car is totaled or not. Yeah, that's basically it. Yeah.
+
+126
+00:58:12.080 --> 00:58:41.300
+I gotta say it's a bit, sounds a little shady. If you ask me, I mean, it feels like a pretty flagrant conflict of interest that I assume, Copart wouldn't intentionally or blatantly influence the algorithm to push CCC to label more cars as being totaled, even though that would be good for their business. Cause that sounds very illegal and would destroy CCC's neutrality and credibility and thereby really its entire product. But again, it feels like something that would be at a minimum flagged.
+
+127
+00:58:41.300 --> 00:59:09.490
+by regulators and call me a pessimist, but if this sort of collusion or market manipulation is not possible or not what copart wants to achieve, then my question for you is what exactly do they want to gain by buying CCC? Yeah, I think I should preface that everything I say now is just an opinion that I sort of have, you know, formed on short notice because the news more or less just dropped and I haven't yet had a chance to actually deeply research what CCC does and what the potential
+
+128
+00:59:09.490 --> 00:59:37.490
+synergies were something like that deal would actually happen. But I do see many possible advantages for co-part that have nothing or at least very little to do with changing the algorithms. I think the first one would obviously be faster cycle time because days in the yards is one of the most important metrics for companies like co-part and IA. And those could obviously be reduced when CCC's total loss trigger directly wires costs to co-part dispatch. Maybe I was being a little too
+
+129
+00:59:37.490 --> 01:00:06.450
+cynical, but talking about data, as you mentioned, CCC has millions of historical claims and Co-part has the actual auction outcomes for millions of those cars. And so I can see why combined that would be maybe the best business model that they could build for predicting what a damaged car will fetch. And given that higher auction returns make totaling more attractive, a more accurate model services more total losses.
+
+130
+01:00:06.450 --> 01:00:36.320
+I do see your point on how it can fit into the existing co-part flywheel. And even if we would assume that some of these things wouldn't be possible given regulatory concerns, you would still get a business that has about a billion dollars in revenue, 96% recurring subscriptions, low-team cash flow margins, which at that point they are adjusted for SPC. And I think they have some potential of seeing higher margins in the future. And it will also serve as a sort of natural hatch, because it works the exact
+
+131
+01:00:36.320 --> 01:01:02.460
+other way than KOPOD. So if total loss frequency, for example, keeps climbing, KOPOD wins and CCC's repair volume shrinks. But if that reverses, then you have CCC's repair business boom and KOPOD supply tightening. So obviously, since KOPOD would be the much larger part of the business, it's a small hatch, but at least the sort of dynamic where you could see some sort of advantage from that acquisition. But of course, you would need to get at the right price for it to make any sense. And
+
+132
+01:01:02.460 --> 01:01:28.750
+again, that might be difficult since PE firms are already involved in the bidding process. And I think currently CCC's stock is down about 27 to close to 30% over the past year and price to operating cash flow has declined from over 30 to about 10 times. And the reason it is that cheap is, well, we talk about it so often, the top line growth has slowed to around 10%. It was a faster grower before that. And obviously, I don't need to tell you about it.
+
+133
+01:01:28.750 --> 01:01:58.270
+The market is a bit nervous right now if you haven't yet noticed about AI displacing software generally. Might be the understatement of the year. What would make this remarkable either way is that this would be by far the biggest seal Co-part has ever done. For context of purple wave deal was in the $100 million range and for NPA, that motorbike auction business that was estimated to be around in that same range as well. So this would be a minimum of a four and a half billion dollar deal.
+
+134
+01:01:58.270 --> 01:02:28.020
+to essentially cope art's entire cash pile. Although I'm sure they would raise some debt for the acquisition instead of burning all their cash point being this is very substantial. And historically, Copeland is not the type of company that likes to raise debt. But obviously, in this case, they would need to because you definitely not burn through all of your cash pile just to make an acquisition. And also referencing the debt call one last time, he did mention on that call that if the right opportunity comes up, he would also raise that so he would be open to it.
+
+135
+01:02:28.020 --> 01:02:55.940
+you know, it's just a speculation, but perhaps he had his mind on CCC when he said that back then. Well, it's that fun part of the episode where I think we should transition to the valuation section. And actually, I'm really curious about this one because as mentioned earlier, we briefly owned Co-Part before. So we're both fans of the business long term and with the price being even lower than it was last year. I wouldn't be too surprised if you ended up recommending buying it again.
+
+136
+01:02:55.940 --> 01:03:23.810
+and maybe this time for the long haul. So with all that said, I also remember that we primarily bought the business due to our perception of the company's quality. And the expected return, though, just barely met the 12% target that we have, our hurdle rate in your model last time. So has anything changed now? Do you feel like buying the stock at these prices is more likely to deliver a return that clears our hurdle rate?
+
+137
+01:03:23.810 --> 01:03:53.010
+Well, in this case, we clearly have to say that it was not only the price that went down, but the fundamentals were unchanged. But you actually had revenue growth come down significantly and the price adjusted, right? So it's not the same as, for example, Google last year where the fundamentals are the same, the multiple drops and therefore the stock gets more attractive. In this case, the stock might look more attractive because it's cheaper than a year ago. If you just look at how much share costs, but growth also slowed down. So it's a bit different than, for example, the Google situation.
+
+138
+01:03:53.010 --> 01:04:20.860
+So I've updated the DCF model than I did. And the result is not totally convincing. I gotta say, I mean, a total revenue growth of about 5 to 6%, which is low compared to the history, but it's also close to none right now. An EPS growth of 9%, thanks to some buybacks and then some slight margin expansion, which corporate has seen basically throughout the last two or three decades. Then the expected return would be about 10% from today's prices, assuming an exit multiple of 20, which again, if you would just look at the history,
+
+139
+01:04:20.860 --> 01:04:50.340
+it might seem cheap, but I do think the stock has been replaced and to some extent we won't see multiples of 40 or 50x again. I think that's kind of unlikely. However, this time I also did a reverse DCF and in a reverse DCF you basically do the DCF backward. I would say that's easy description of what you're doing. So the idea is that you assume today's price is exactly right and then you solve for the growth rate of the business. So essentially the growth rate of the market
+
+140
+01:04:50.340 --> 01:05:19.920
+currently expects Kopa to achieve based on the price that the market values the business at today. Now, given that my growth rate assumption in the normal DCF has been in the mid single digits and the results have been that the stock is more or less fairly priced today, it shouldn't come as a major surprise that the growth rate the market currently expects for a highest single digit to low and double digit return based on the reverse DCF is about 5%. Just to give folks a little easy summary. I think it would be that.
+
+141
+01:05:19.920 --> 01:05:46.750
+at a mid single digit growth rate over the next five years, you could probably expect an 8% to 10% return complemented by buybacks and things like that. And should Cope Art return to double digit top line growth, you would probably see a very compelling return in the mid to high teens on an annualized basis. And so if Cope Art basically stays at current growth rates, returns will be probably in line with the market. Nothing special, which is
+
+142
+01:05:46.750 --> 01:06:12.900
+really what we mean when we say that a stock is fairly valued. And a current growth rates, which are close to nothing basically, obviously, we would massively underperform the market in the next couple of years. But yeah, I think that's what it currently looks like. And usually what we do is we sort of have a different likelihood assessed to a certain outcome. So you know, a bearer base and a bull case. In this case, I think the likelihood of them actually achieving and going back to these double digit growth rates.
+
+143
+01:06:12.900 --> 01:06:40.850
+It's kind of high. So I would probably say there is a 40% likelihood that happens than the base case, which would be mid-singer digital return is also 40% and you have a 20% likelihood of them actually staying in this 0 to 3% growth rate. So I think it likely is a pretty good opportunity for people who very much like the business always wanted to own it and sort of feel like now is a good opportunity because we are at these lows. Personally, I'm not quite there yet. I don't feel like Copa is, you know,
+
+144
+01:06:40.850 --> 01:07:08.300
+the opportunity that now stands out to me when I look at the rest of our portfolio, where immediately if you like, we got to sell one of the companies to then make it happen and buy Copa because one of my major takeaways from, for example, the biggest loser episode is that we did not do too well on businesses where the revenue is declining, or at least the growth rate of the revenue is declining. And what I believe I do understand the reasons for Copa, we just saw the management raising some yellow flags with sudden CEO change.
+
+145
+01:07:08.300 --> 01:07:38.180
+And then some more or less vague statements on what JADR, the new CEO, will change about the business. And we sort of saw that, you know, we saw it with companies like Lulu, we saw it with PayPal. We thought to some extent, although it's different with Adobe, and just sort of stops me from, you know, really being excited about the opportunity right now. And again, if you put me on the spot, then I would say, co-part will be a good investment going forward, but perhaps not in the next couple of months. But once the cycle turns, and obviously we want to invest for the long term. But if we look at our portfolio,
+
+146
+01:07:38.180 --> 01:08:08.000
+I just don't see a company that I would want to sell right now in order to buy copper. And we only have about 2% cash left, actually a bit less than that. So basically what we would need to do is sell one company and then buy copper for it. And that's my take. How do you see it? Is there any company you would feel like, I got our own copper, so I got to sell company axio? I don't necessarily think so. I think we're probably both a bit traumatized from our experiences looking at the biggest losers in that episode. And we'll link to that in the show notes in case you missed it.
+
+147
+01:08:08.000 --> 01:08:36.780
+We have definitely come to appreciate how strong of a force downward momentum can be. Stocks almost always can fall further than you think possible even when you model out these. What you think are very conservative bear cases. And so that's just the reality, especially in the short term. And because the stock falls to a point far below what anyone thought was possible, that's actually where you get the last sellers of the stock capitulating. And then the shares can finally take off rallying again. So it is sort of
+
+148
+01:08:36.780 --> 01:09:01.360
+an inevitable process to have this pendulum swinging in finance. There's a lot of it. But I really like Kope Art because it's just such a perfect epitome of why you'll hear people say that you should invest in boring businesses. And unfortunately, that heuristic is too simplified, but Kope Art's business is very intuitive and boring in the sense that it's not going anywhere. Even though we didn't even really discuss AVs today,
+
+149
+01:09:01.360 --> 01:09:30.240
+which does promise to at least fundamentally change how we drive. And we don't really yet know how that will affect the business. But whether human driven or automated, I am sure that in the US in particular, they're a vast highway system. Cars are not going anywhere in our lifetimes. And if anything, AVs could lead to a proliferation of driving and therefore business for co-part, especially with the assumption that by baking in even more technology into cars to make them autonomous.
+
+150
+01:09:30.240 --> 01:09:58.130
+totaling them becomes easier. So I would say that's probably my bull case on co-part. But again, with 20 times earnings with decelerating growth, a CEO swap out, some of this fundamental uncertainty about autonomous vehicles, I would just agree that the stock is not obviously cheap, even though the price has come down a lot, which is counterintuitive to some people. But that's just the reality of how intrinsic value works. And so if we wait, we may very well be able to pick up.
+
+151
+01:09:58.130 --> 01:10:26.480
+shares at a bargain bin price and spare ourselves some of the roller coaster ride. And if we don't get the chance to do so, I'm perfectly fine with that too. I think we own a lot of other great businesses. I think the last point in what it comes down to me to where basically I would say, is this a company that I need to own at some point? And if it would be, I think it's at a great price right now to say, OK, well, maybe it gets a bit cheaper. But if I definitely want to own this business, I should use the opportunity right now to buy it and then potentially buy more when it comes down further.
+
+152
+01:10:26.480 --> 01:10:56.110
+I think I really enjoy looking into Co-Pod. I like the business. I like that it's one of the most multi-businesses that we looked at here on the show. And yet, as I said before, it doesn't excite me so much that I want to buy it necessarily. And that's not because it's a boring business. I think boring business is generally a great opportunity, but I think it needs to be cheaper. I think what you mentioned in terms of when the last person is selling stock, that's when you want to buy a company that you're not too sure of. I mean, one of the things we discussed with our biggest losers is that basically when we sold paper,
+
+153
+01:10:56.110 --> 01:11:24.420
+We were the last hand that sold the stock and since then it went up 50-60%. But I think that's not the case where we are currently with Co-Pod. I think there are still enough people who are bullish on the company so that this might not be the bottom. Again, if you want to buy the company, I think it is at the cyclical low and I think it could be interesting. But for the two of us, considering the companies we already have in the intrinsic value portfolio, I think we're going to pass for now. And should the stock decline even further,
+
+154
+01:11:24.420 --> 01:11:52.850
+I think that would be a bit of a different scenario. Also, I should say, you know, I mentioned in the podcast here, the stock is already up 25%. So we're not at the bottom anymore. I think it would have been even more attractive than it is today. Anyway, with all of that said, let me close it for today with a quote by none other than the corporate founder, Willis Johnson himself. And he said, quote, as long as we have got the land in the right place to put the cars on, we can't fail. So I said it, you know, oftentimes today.
+
+155
+01:11:52.850 --> 01:12:17.600
+We can stop talking about the mode that the yachts have been, but even Wallace Johnson can stop talking about it. So we'll probably write to do that. And with all that said, I hope you had a great time listening to this episode and see you all in the next one. Thanks for listening to TIP. Follow the Investors Podcast on your favorite podcast app and visit theinvestorspodcast.com for show notes and educational resources.
+
+156
+01:12:17.600 --> 01:12:43.900
+This podcast is for informational and entertainment purposes only and does not provide financial, investment, tax or legal advice. The content is impersonal and does not consider your objectives, financial situation or needs. Investing involves risk including possible loss of principal and past performance is not a guarantee of future results. Listeners should do their own research and consult a qualified professional before making any financial decisions. Nothing on this show is a recommendation or solicitation to buy or sell any security or other financial product.
+
+157
+01:12:43.900 --> 01:13:02.900
+hosts, guests, and the Investors' Podcast Network may hold positions in securities discussed and may change those positions at any time without notice. References to any third-party products, services, or advertisers do not constitute endorsements, and the Investors' Podcast Network is not responsible for any claims made by them. Copyright by the Investors' Podcast Network. All rights reserved.
