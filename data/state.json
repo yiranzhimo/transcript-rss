@@ -3044,11 +3044,11 @@
       "url": "https://share.transistor.fm/s/bc1a283c"
     },
     "streamlined-solopreneur::4b8bedfb-1e31-4ef4-b1f8-38b3081b5620": {
-      "attempts": 2,
+      "attempts": 3,
       "description": "<p>This week I talk about the iPhone Duo — my first real foldable — and why I'll trade away the telephoto lens, action button, and fast charging (and swallow a $2,100 price plus the end of the annual upgrade program) for a big anti-glare screen that folds into my pocket and takes an Apple Pencil. </p><p>Then an episode of Ditching Hourly with Nick Richtsmeier on doing things that don't scale and focusing on impact, which sold me on his new book, The Damn Rules. And a recommendation for You Can See Everything, the A24 documentary following Elizabeth Holmes in the weeks before she began her prison sentence, which premiered at the Telluride Film Festival. </p><p>Plus this week's systems tip: a Claude skill that splits one long recording into separate episodes by detecting the claps between them, then transcribes, titles, and schedules each one on rss.com.</p><p><strong>Links:</strong></p><ul><li><a href=\"https://www.youtube.com/watch?v=6Tve9mDy3LU\">iPhone Duo Hands-On: Apple Finally Made a Foldable</a> (MKBHD)</li><li><a href=\"https://jonathanstark.com/daily/20260827-2359-nick-richtsmeier---the-damn-rules\">The Damn Rules — Ditching Hourly with Jonathan Stark</a> (Ditching Hourly)</li><li><a href=\"https://www.nickrichtsmeier.com/the-damn-rules\">The Damn Rules by Nick Richtsmeier</a></li><li><a href=\"https://www.youtube.com/watch?v=pTL9BtN6IKs\">You Can See Everything — Official Teaser</a> (A24)</li></ul><p>If you need help with your systems — you're doing everything yourself and want to take things off your plate, but you don't want to hire a team or lean too much on AI to do the actual craft — I can help. Book a free 25-minute coaching call at <a href=\"https://streamlined.fm/clarity\">streamlined.fm/clarity</a>.</p><p>Are you an Apple nerd with something on your mind about the iPhone Duo? Let me know at <a href=\"https://streamlinedfeedback.com/\">streamlinedfeedback.com</a>. You can write in or leave a voice note — I might even play it on the show.</p><p><br /><a href=\"https://share.transistor.fm/s/2b3bb0fd/transcript\" title=\"View the episode transcript\">View the episode transcript</a><br />\n<br /></p><ul><li>(00:00) - My Thoughts on the iPhone Duo</li>\n<li>(03:34) - Recommended Reading: 'The Damn Rules'</li>\n<li>(04:28) - Something Fun: Theranos &amp; Elizabeth Holmes Documentary</li>\n<li>(06:12) - How I Use Claude to Automate My Podcast Workflow</li>\n<li>(09:16) - Wrapping Up</li>\n</ul><p></p><p>————<br />Streamlined Solopreneur helps overwhelmed solo business owners go from overwhelmed to having their time back.</p><p>Each week, Joe Casabona shares one practical idea — a system, tool, or strategy to help you get your time back without selling your soul to AI...and run your business without sacrificing the rest of your life, or your health.</p><p><br />Looking for a place to start? Take the Solo Systems Starter Quiz. 60 seconds, 8 questions, and I will tell you what system you should build first, and exactly how to build it. <a href=\"https://streamlined.fm/quiz%20\">https://streamlined.fm/quiz </a></p><p><br />Connect with Joe on LinkedIn: <a href=\"https://www.linkedin.com/in/jcasabona/\">https://www.linkedin.com/in/jcasabona/</a></p><br /><em>Disclosure: these show notes were generated from the transcript and written newsletter, using a very strict format for how it's all put together.</em>",
       "external_id": "4b8bedfb-1e31-4ef4-b1f8-38b3081b5620",
-      "last_attempt_at": "2026-09-12T04:46:14.049207+00:00",
-      "last_error": "HTTPStatusError: Client error '402 Payment Required' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/402",
+      "last_attempt_at": "2026-09-12T15:39:47.246878+00:00",
+      "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-11T15:16:00+00:00",
       "source_id": "streamlined-solopreneur",
       "source_type": "podcast",
@@ -4003,6 +4003,19 @@
       "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://a16z.simplecast.com/episodes/why-1-200-ai-agents-started-working-together-ryan-greenblatt-i7A557W2"
+    },
+    "the-a16z-show::655e460d-9b1f-42f3-8678-a3b8b561e964": {
+      "attempts": 1,
+      "description": "a16z General Partner Anish Acharya joins Lenny Rachitsky on Lenny’s Podcast to discuss why fears of an AI-driven “permanent underclass” may be misplaced, how AI is changing the way companies operate, and why the opportunity may be less about replacing people and more about dramatically expanding what they can build.\nAnish lays out his idea that companies are becoming a series of loops, with agents increasingly handling workflows across engineering, sales, marketing, support, and other functions while humans provide the judgment and new ideas needed to move beyond local maxima.\nThey also explore why Anish thinks consumer AI should focus less on productivity and more on helping people live richer lives, why moats are often discovered rather than designed, how to develop intuition for different AI models, and why his biggest advice for anyone trying to keep up with AI is simple: make more things.",
+      "external_id": "655e460d-9b1f-42f3-8678-a3b8b561e964",
+      "last_attempt_at": "2026-09-12T15:46:46.741961+00:00",
+      "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "published_at": "2026-09-12T10:00:00+00:00",
+      "source_id": "the-a16z-show",
+      "source_type": "podcast",
+      "status": "failed",
+      "title": "Why Companies Are Becoming a Series of Loops | Anish Acharya on Lenny’s Podcast",
+      "url": "https://a16z.simplecast.com/episodes/why-companies-are-becoming-a-series-of-loops-anish-acharya-on-lennys-podcast-ZW9GBD70"
     },
     "the-a16z-show::66ed7536-8ad1-44b3-8a94-06c3160329e2": {
       "attempts": 1,
@@ -4974,11 +4987,11 @@
       "url": "f7d553c8-8b1f-11f1-95f3-331195b68540"
     },
     "the-psychology-of-money-with-morgan-housel::10f90f85-4d2d-4224-b8d7-62f0b022d98c": {
-      "attempts": 2,
+      "attempts": 3,
       "description": "<p>Most forecasts are hyper-optimistic or hyper-pessimistic. Not enough attention to the possibility that the main outcome in 10 years is that all businesses are 20%-30% more productive and life goes on. </p><p><br /></p><p>This episode is brought to you by Davis Advisors. To learn more, visit</p><p>https://www.davisadvisors.com/.</p><p>Disclosure: Before investing, you should carefully consider the investment objectives, risks, charges, and expenses. The prospectus or Form ADV, as applicable, contains this and other information. You can obtain a current prospectus or Form ADV by calling 800-279-2279. Investing involves risks including possible loss of principal.</p>",
       "external_id": "10f90f85-4d2d-4224-b8d7-62f0b022d98c",
-      "last_attempt_at": "2026-09-12T04:48:56.575252+00:00",
-      "last_error": "HTTPStatusError: Client error '402 Payment Required' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/402",
+      "last_attempt_at": "2026-09-12T15:42:36.967337+00:00",
+      "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-11T16:20:58+00:00",
       "source_id": "the-psychology-of-money-with-morgan-housel",
       "source_type": "podcast",
@@ -5888,11 +5901,11 @@
       "url": "gid://art19-episode-locator/V0/hSFmtSoRe_chiSgnjDvdpf65jegtTYYVkmuFBCIoRDg"
     },
     "the-tim-ferriss-show::gid://art19-episode-locator/V0/hlfIEJeS2K_iQgzutRXXJAC6dXv-jL4o0bS-FNofBpM": {
-      "attempts": 3,
+      "attempts": 4,
       "description": "<p>This episode is a bit different. It's a live, unscripted working session with a founder, and I've only done one other earlier this year.</p><p><strong>Niels Hoven</strong> (<a href=\"https://x.com/NielsHoven\" rel=\"noopener noreferrer\" target=\"_blank\">@NielsHoven</a>) is the founder and CEO of <a href=\"https://www.mentava.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Mentava</strong></a>, a company building software to support fast learners. Eager kids are dramatically underserved by today's education system, and Niels created Mentava to allow students to achieve their potential. Prior to Mentava, Niels worked at Cloudflare, ClassDojo, and Pocket Gems, where he ran the highest-grossing mobile game in the world in 2011. He has a graduate degree in electrical engineering from UC Berkeley.</p><p><strong>This episode is brought to you by:</strong></p><ul><li><a href=\"https://fin.ai/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Fin</strong></a> <strong>powerful AI Agent for all your customer service:</strong> <a href=\"https://fin.ai/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Fin.Ai/Tim</strong></a></li><li><a href=\"https://shopify.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Shopify</strong></a><strong> global commerce platform, providing tools to start, grow, market, and manage a retail business: </strong><a href=\"https://shopify.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Shopify.com/Tim</strong></a></li><li><a href=\"https://wealthfront.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Wealthfront</strong></a><strong> high-yield cash account: </strong><a href=\"https://wealthfront.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Wealthfront.com/Tim</strong></a></li></ul><p><em>New clients get 3.30% base APY from program banks + additional 0.75% boost for 3 months on your uninvested cash (max $150k balance). Terms and conditions apply. The Cash Account offered by Wealthfront Brokerage LLC (“WFB”) member FINRA/SIPC, not a bank. The base APY as of 1/30/26 is representative, can change, and requires no minimum. Tim Ferriss, a non-client, receives compensation from WFB for advertising and holds a non-controlling equity interest in the corporate parent of WFB, which creates a conflict of interest. Individual experiences and outcomes will differ. Instant withdrawals may be limited by your receiving firm and other factors. Investment advisory services provided by Wealthfront Advisers LLC, an SEC-registered investment adviser. Securities investments: not bank deposits, not bank-guaranteed or FDIC-insured, and may lose value.</em></p><p><strong>Timestamps:</strong></p><p>[00:00:00] Start.</p><p>[00:01:32] What Mentava is—and the toddlers reading before age three.</p><p>[00:08:31] Game design, slot-machine motivation, and lowering the hoop.</p><p>[00:11:54] Tim's red pen: rewriting the bio and positioning.</p><p>[00:16:59] The real problem: wasted early years, high-school pressure.</p><p>[00:23:55] Learning at your own pace—and \"what if you did nothing?\"</p><p>[00:29:32] Dog-fish, fish-dog: readiness, failed trials, and follow-ups.</p><p>[00:35:06] The $500 price, school pilots, and videos-for-tuition scholarships.</p><p>[00:41:39] Teach a kid to fish: selling relief, not nagging.</p><p>[00:47:49] Viral posts, the culture-war trap, and why exaggeration is death.</p><p>[00:55:05] Put the ask on top: investor updates and what actually converts.</p><p>[00:59:35] The thirty-year phonics war—and it's not with teachers.</p><p>[01:01:10] A $1,000 coupon, zero takers: why the referral bribe flopped.</p><p>[01:08:04] Lead with the love letters: testimonials, homepage, and who's buying.</p><p>[01:20:03] \"No scam charges $500 a month\": pricing and who you're not for.</p><p>[01:34:16] Uncrowded channels and workshopping like a standup.</p><p>[01:42:08] Don't let Amazon be your debutante ball: testing what sells.</p><p>[01:46:42] Alpha School, the competitive map, and the eager investor.</p><p>[01:48:39] Reaching the already-converted: be the painkiller, TiE, surround sound.</p><p>[02:08:18] Niels's charge: advocate for your child, unapologetically.</p><p><em>*</em></p><p><strong>For show notes and past guests on </strong><a href=\"https://tim.blog/podcast\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><em>The Tim Ferriss Show</em></strong></a><strong>, please visit</strong> <a href=\"https://tim.blog/podcast/?utm_source=podcast&amp;utm_medium=podcast&amp;utm_campaign=podcast-description\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/podcast</strong></a><strong>.</strong></p><p><strong>For deals from sponsors of </strong><a href=\"https://tim.blog/podcast\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><em>The Tim Ferriss Show</em></strong></a><strong><em>, </em>please visit </strong><a href=\"https://tim.blog/podcast-sponsors\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/podcast-sponsors</strong></a></p><p><strong>Sign up for Tim’s email newsletter (<em>5-Bullet Friday</em>) at </strong><a href=\"https://go.tim.blog/5-bullet-friday-1/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/friday</strong></a><strong>.</strong></p><p><strong>For transcripts of episodes, go to </strong><a href=\"https://tim.blog/transcripts\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/transcripts</strong></a><strong>.</strong></p><p><strong>Discover Tim’s books: </strong><a href=\"https://tim.blog/books\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/books</strong></a><strong>.</strong></p><p><strong>Follow Tim:</strong></p><p><strong>Twitter</strong>: <a href=\"https://twitter.com/tferriss\" rel=\"noopener noreferrer\" target=\"_blank\">twitter.com/tferriss</a>&nbsp;</p><p><strong>Instagram</strong>: <a href=\"https://instagram.com/timferriss/\" rel=\"noopener noreferrer\" target=\"_blank\">instagram.com/timferriss</a></p><p><strong>YouTube</strong>: <a href=\"https://www.youtube.com/timferriss\" rel=\"noopener noreferrer\" target=\"_blank\">youtube.com/timferriss</a></p><p><strong>Facebook</strong>: <a href=\"https://www.facebook.com/TimFerriss/\" rel=\"noopener noreferrer\" target=\"_blank\">facebook.com/timferriss</a>&nbsp;</p><p><strong>LinkedIn: </strong><a href=\"http://linkedin.com/in/timferriss\" rel=\"noopener noreferrer\" target=\"_blank\">linkedin.com/in/timferriss</a></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
       "external_id": "gid://art19-episode-locator/V0/hlfIEJeS2K_iQgzutRXXJAC6dXv-jL4o0bS-FNofBpM",
-      "last_attempt_at": "2026-09-12T04:58:46.030072+00:00",
-      "last_error": "HTTPStatusError: Client error '402 Payment Required' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/402",
+      "last_attempt_at": "2026-09-12T15:52:02.850952+00:00",
+      "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-10T20:30:00+00:00",
       "source_id": "the-tim-ferriss-show",
       "source_type": "podcast",
@@ -6975,15 +6988,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-12T04:45:05.295875+00:00",
-      "last_modified": "Sat, 12 Sep 2026 04:25:10 GMT",
+      "last_checked_at": "2026-09-12T15:38:40.853741+00:00",
+      "last_modified": "Sat, 12 Sep 2026 15:36:49 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-12T04:43:44.603417+00:00",
+      "last_checked_at": "2026-09-12T15:37:16.245454+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -6991,14 +7004,14 @@
     "feng-tou-quan": {
       "etag": "W/\"27dfa2e7a7a509b67a53d49a93f75f87\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-12T04:43:07.581274+00:00",
+      "last_checked_at": "2026-09-12T15:36:29.002854+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-12T04:44:54.614378+00:00",
+      "last_checked_at": "2026-09-12T15:38:17.993141+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
@@ -7006,14 +7019,14 @@
     "gao-qian-nu-hai": {
       "force_refresh": false,
       "last_attempt_at": "2026-08-26T13:21:20.005733+00:00",
-      "last_checked_at": "2026-09-12T04:42:24.534689+00:00",
+      "last_checked_at": "2026-09-12T15:36:32.929090+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-12T04:42:18.294791+00:00",
+      "last_checked_at": "2026-09-12T15:36:23.744069+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -7021,7 +7034,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-12T04:45:20.216318+00:00",
+      "last_checked_at": "2026-09-12T15:39:01.792530+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -7030,7 +7043,7 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"1a12b77a08eb47e4b9be1be9bf9e7b06\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-12T04:44:36.015889+00:00",
+      "last_checked_at": "2026-09-12T15:38:11.610301+00:00",
       "last_modified": "Thu, 10 Sep 2026 09:45:04 GMT",
       "title": "声东击西",
       "type": "podcast",
@@ -7039,7 +7052,7 @@
     "silicon-valley-101": {
       "etag": "W/\"14caa3031de0002f797bd56561eb8f12\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-12T04:43:10.691865+00:00",
+      "last_checked_at": "2026-09-12T15:37:09.167992+00:00",
       "last_modified": "Thu, 10 Sep 2026 01:04:30 GMT",
       "title": "硅谷101",
       "type": "podcast",
@@ -7048,7 +7061,7 @@
     "streamlined-solopreneur": {
       "etag": "W/\"42992e2d569970b2aa7b0e34a514693e\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-12T04:46:10.242241+00:00",
+      "last_checked_at": "2026-09-12T15:39:44.494525+00:00",
       "last_modified": "Fri, 11 Sep 2026 15:19:41 GMT",
       "title": "Streamlined Solopreneur: Solo Ops to Stop Doing Everything Yourself",
       "type": "podcast",
@@ -7057,25 +7070,25 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"b1a179f88b2af6fdabb53d0d1e9179f4\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-12T04:43:57.053281+00:00",
+      "last_checked_at": "2026-09-12T15:37:27.410007+00:00",
       "last_modified": "Wed, 02 Sep 2026 04:15:04 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"ef7e810ff9ae90f85401041deddb8477\"",
+      "etag": "W/\"2bda0f97eddb2b3e6a0a12d50ec3823c\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-12T04:45:17.504594+00:00",
-      "last_modified": "Fri, 11 Sep 2026 10:00:29 GMT",
+      "last_checked_at": "2026-09-12T15:39:25.996569+00:00",
+      "last_modified": "Sat, 12 Sep 2026 10:00:29 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-12T04:45:48.474089+00:00",
-      "last_modified": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "last_checked_at": "2026-09-12T15:39:13.177701+00:00",
+      "last_modified": "Sat, 12 Sep 2026 15:35:55 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
       "url": "https://feeds.megaphone.fm/PPLLC8974708240"
@@ -7083,7 +7096,7 @@
     "the-psychology-of-money-with-morgan-housel": {
       "etag": "W/\"290bd-y8SXIuDEyG5QyTEIbn5KiqxCtUw\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-12T04:47:01.346654+00:00",
+      "last_checked_at": "2026-09-12T15:40:33.635641+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
@@ -7091,7 +7104,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"c78758b479eb10469310544d943c2011\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-12T04:47:04.644053+00:00",
+      "last_checked_at": "2026-09-12T15:40:11.935557+00:00",
       "last_modified": "Thu, 10 Sep 2026 09:35:40 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -7099,7 +7112,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": true,
-      "last_checked_at": "2026-09-12T04:45:59.768356+00:00",
+      "last_checked_at": "2026-09-12T15:39:44.079703+00:00",
       "last_modified": "Thu, 10 Sep 2026 20:30:17 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -7107,26 +7120,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-12T04:42:01.800476+00:00",
+      "last_checked_at": "2026-09-12T15:36:38.856330+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-12T04:43:59.362937+00:00",
+      "last_checked_at": "2026-09-12T15:38:09.139289+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-12T04:44:19.285101+00:00",
+      "last_checked_at": "2026-09-12T15:37:12.277669+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-09-12T04:59:13.841295+00:00",
+  "updated_at": "2026-09-12T15:52:32.132412+00:00",
   "version": 1
 }
