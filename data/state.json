@@ -3129,10 +3129,10 @@
       "url": "https://streamlined.fm/548"
     },
     "streamlined-solopreneur::0be87694-530b-4fca-a828-98d2b57bee1a": {
-      "attempts": 6,
+      "attempts": 7,
       "description": "<p>This week I'm doing a Pick Two for Voice Note apps (plus the one I’m not using, and a bonus transcription app)</p><p><br />#1 is Whisper Memos, which I happily pay for because of one killer feature.</p><p><br />#2 is Audio Pen, which gives me system-wide dictation: press a key, talk, and the text lands wherever my cursor is. That's what I use for long prompts to a large language model.</p><p><br />Wondering which system to start with? Take the quiz — a few questions, and it'll point you to one of the four systems every solopreneur needs: <a href=\"https://streamlined.fm/quiz\">https://streamlined.fm/quiz</a></p><p><br /><strong>Show Notes</strong></p><ul><li><a href=\"https://whispermemos.com/\">Whisper Memos</a></li><li><a href=\"https://audiopen.ai/\">Audio Pen</a></li><li><a href=\"https://wisprflow.ai/\">Wispr Flow</a></li><li><a href=\"https://goodsnooze.gumroad.com/l/macwhisper\">MacWhisper</a></li><li><a href=\"https://streamlinedfeedback.com/\">Send feedback on the show</a></li></ul>\n<ul><li>(00:00) - It's a Pick Two!\n</li>\n<li>(01:37) - Pick 1: Whisper Memos\n</li>\n<li>(04:22) - Pick 2: Audio Pen\n</li>\n<li>(07:54) - Why I Don't Use Wispr Flow\n</li>\n<li>(09:31) - Using MacWhisper for Transcriptions\n</li>\n<li>(10:58) - Wrapping Up</li>\n</ul>\n<br /><p>————<br />Streamlined Solopreneur helps overwhelmed solo business owners go from overwhelmed to having their time back.</p><p>Each week, Joe Casabona shares one practical idea — a system, tool, or strategy to help you get your time back without selling your soul to AI...and run your business without sacrificing the rest of your life, or your health.</p><p><br />Looking for a place to start? Take the Solo Systems Starter Quiz. 60 seconds, 8 questions, and I will tell you what system you should build first, and exactly how to build it. <a href=\"https://streamlined.fm/quiz%20\">https://streamlined.fm/quiz </a></p><p><br />Connect with Joe on LinkedIn: <a href=\"https://www.linkedin.com/in/jcasabona/\">https://www.linkedin.com/in/jcasabona/</a></p>",
       "external_id": "0be87694-530b-4fca-a828-98d2b57bee1a",
-      "last_attempt_at": "2026-09-18T04:58:09.318326+00:00",
+      "last_attempt_at": "2026-09-18T16:37:16.665394+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-15T06:00:00+00:00",
       "source_id": "streamlined-solopreneur",
@@ -4044,10 +4044,10 @@
       "url": "https://a16z.simplecast.com/episodes/your-ai-doctor-is-coming-julie-yoo-YEmlPria"
     },
     "the-a16z-show::360e9305-a300-4381-a4ee-640fd8833922": {
-      "attempts": 2,
+      "attempts": 3,
       "description": "a16z General Partner Jennifer Li sits down with fal co-founder Gorkem Yurtseven and Head of Engineering Batuhan Taskaya to discuss what changes when generative video becomes fast enough to run in real time.\nThey unpack the technical work behind H3 Max, fal’s post-trained version of MiniMax’s open-weight video model, and how combining model post-training with systems and hardware optimization significantly reduced generation time while maintaining quality. That speed has enabled experiments with continuous video, including streams that can remember previous scenes and respond to new directions while they’re running.\nThey also discuss why the next challenge may be less about speed and more about control, from camera movement and lighting to characters, motion, and lip sync. And they explore what those capabilities could mean for professional creative workflows, where artists and studios need predictable tools rather than simply generating a video from a prompt.",
       "external_id": "360e9305-a300-4381-a4ee-640fd8833922",
-      "last_attempt_at": "2026-09-18T04:58:16.497498+00:00",
+      "last_attempt_at": "2026-09-18T16:36:06.869962+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-17T10:00:00+00:00",
       "source_id": "the-a16z-show",
@@ -4891,10 +4891,10 @@
       "url": "4daa03be-87df-11f1-bb83-1f609a871a05"
     },
     "the-investors-podcast::51ef88a4-b183-11f1-b502-4724cb5513d0": {
-      "attempts": 3,
+      "attempts": 4,
       "description": "In today’s episode, Kyle Grieve and Shawn O’Malley revisit Alphabet nearly two years after Shawn’s original pitch, tracing how the company transformed from a cash-rich, buyback-driven business into an aggressive spender on AI infrastructure. They walk through what changed across Search, YouTube, Cloud, and Waymo, and unpack why the market’s fears around AI disrupting Google were largely unfounded. Along the way, they dig into how Alphabet is funding its buildout, what that means for shareholders, and which questions will determine whether this evolved version of the business is actually better.\n\nIN THIS EPISODE YOU’LL LEARN:\n\n(00:00:00) Intro\n\n(00:02:03) Why Shawn’s original Alphabet thesis needed a revisit\n\n(00:05:55) How the AI-kills-search narrative played out in reality\n\n(00:32:00) Why Google Cloud’s margins surprised skeptical investors\n\n(00:45:27) How Waymo went from afterthought to major asset\n\n(00:51:27) How Alphabet’s AI spending flows through its earnings\n\n(01:09:06) What Berkshire Hathaway’s growing stake signals about the company\n\n(01:09:42) Why Alphabet paused buybacks and started raising equity\n\n(01:13:11) Which unresolved questions will define Alphabet’s next few years\n\n(01:19:06) Whether Kyle & Shawn will add to their Alphabet position in the Intrinsic Value Portfolio\n\nDisclaimer: Slight discrepancies in the timestamps may occur due to podcast platform differences.\n\n\n\nBOOKS AND RESOURCES\n\n\n  Join the exclusive&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Learn more about how to join us in NYC for our ⁠⁠⁠⁠⁠⁠⁠⁠⁠Intrinsic Value Conference⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Portfolio Review&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠Submit Tool⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Our original&nbsp;podcast deep-dive on Alphabet.\n\n  Check out our previous Intrinsic Value breakdowns:&nbsp;SpaceX,&nbsp;Microsoft,&nbsp;Meta.\n\n  Follow Kyle on&nbsp;⁠⁠⁠⁠⁠⁠⁠X⁠⁠⁠⁠⁠⁠⁠&nbsp;and&nbsp;⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠.\n\n  Follow Shawn on&nbsp;⁠⁠⁠⁠X⁠⁠⁠⁠&nbsp;and&nbsp;⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠.\n\n  Related&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;mentioned in the podcast.\n\n  Ad-free episodes on our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\nNEW TO THE SHOW?\n\n\n  Get smarter about valuing businesses through&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Follow our official social media accounts:&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;|&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;|&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Try our tool for picking stock winners and managing our portfolios:&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TIP Finance⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Enjoy exclusive perks from our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠favorite Apps and Services⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Learn how to better start, manage, and grow your business with the&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠best business podcasts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\nSPONSORS\n\nSupport our free podcast by supporting our ⁠⁠sponsors⁠⁠:\n\n\n  ⁠Monarch⁠\n\n  ⁠Plus500⁠\n\n  ⁠Scribe⁠\n\n  ⁠Plaud⁠\n\n  ⁠Netsuite⁠\n\n\nReferences to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.\nSupport our show by becoming a premium member! https://theinvestorspodcastnetwork.supportingcast.fm",
       "external_id": "51ef88a4-b183-11f1-b502-4724cb5513d0",
-      "last_attempt_at": "2026-09-18T05:04:27.416329+00:00",
+      "last_attempt_at": "2026-09-18T16:41:53.322453+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-17T00:00:00+00:00",
       "source_id": "the-investors-podcast",
@@ -5511,6 +5511,19 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://podcasters.spotify.com/pod/show/morgan-housel/episodes/Respecting-Each-Others-Delusions--Memory-Dividends--and-What-Our-Grandchildren-Will-Enjoy-e3mp9ck"
     },
+    "the-psychology-of-money-with-morgan-housel::edcede58-bca9-4abe-a8a9-1191e70f2e65": {
+      "attempts": 1,
+      "description": "<p>One of the most important financial skills: recognizing when things are abnormally good and realizing they won't last. </p><p><br /></p><p>This episode is brought to you by Davis Advisors. To learn more, visit https://www.davisadvisors.com/. Before investing, you should carefully consider the investment objectives, risks, charges, and expenses. The prospectus or Form ADV, as applicable, contains this and other information. You can obtain a current prospectus or Form ADV by calling 800-279-2279. Investing involves risks including possible loss of principal.</p>",
+      "external_id": "edcede58-bca9-4abe-a8a9-1191e70f2e65",
+      "last_attempt_at": "2026-09-18T16:40:26.116802+00:00",
+      "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "published_at": "2026-09-18T13:04:56+00:00",
+      "source_id": "the-psychology-of-money-with-morgan-housel",
+      "source_type": "podcast",
+      "status": "failed",
+      "title": "Nothing Too Good or Too Bad Stays That Way For Long",
+      "url": "https://podcasters.spotify.com/pod/show/morgan-housel/episodes/Nothing-Too-Good-or-Too-Bad-Stays-That-Way-For-Long-e3p1ln3"
+    },
     "the-psychology-of-money-with-morgan-housel::f376ccfa-ca54-49f1-a27d-ec1f0015a98b": {
       "attempts": 1,
       "description": "<p>This episode is brought to you by Davis Advisors. </p><p>To learn more, visithttps://www.davisadvisors.com/.</p><p>Before investing, you should carefully consider the investment objectives, risks, charges, and expenses. The prospectus or Form ADV, as applicable, contains this and other information. You can obtain a current prospectus or Form ADV by calling 800-279-2279. Investing involves risks including possible loss of principal.</p>",
@@ -5580,10 +5593,10 @@
       "url": "https://rationalreminder.libsyn.com/ben-carlson-investing-at-all-time-highs-412"
     },
     "the-rational-reminder-podcast::13afd187-80c5-4e6d-9d44-e47c81435d6e": {
-      "attempts": 2,
+      "attempts": 3,
       "description": "<p dir=\"ltr\">In this episode, we're joined by Matthew Taylor, a litigation lawyer with Sotos Class Actions in Toronto who represents retail investors and pension funds in securities class actions. We take a deep dive into what makes a successful negligence claim against a financial advisor, how courts assess fiduciary relationships in Canada, and what investors should look for when evaluating the people managing their money.</p> <p><strong> </strong></p> <p dir=\"ltr\">We explore the evidence that can strengthen or weaken a negligence claim, from one-size-fits-all portfolios and unexplained trades to poor communication and failures to account for changing life circumstances. Matthew also explains the distinction between suitability and fiduciary standards, the factors courts consider when determining whether a fiduciary relationship exists, and why professional affiliations and explicit fiduciary commitments can matter.</p> <p><strong> </strong></p> <p dir=\"ltr\">The conversation then turns to class actions, including how securities claims differ from individual negligence lawsuits, what makes a claim suitable for class proceedings, and why regulatory investigations, specialist law firms, litigation funding, and parallel U.S. proceedings can provide important signals. We also discuss pension funds, their role as plaintiffs, and why monitoring potential claims and settlements can be part of managing beneficiaries' assets.</p> <p><strong> </strong></p> <p dir=\"ltr\">Finally, we examine the growing retailization of private assets and the risks created by limited information, complex structures, opaque fees, illiquidity, and manager-determined valuations. Matthew explains what advisors and clients should consider before investing in private funds—and why he expects more litigation in this area. We close with the legal and regulatory challenges created by financial influencers, and how investors and advisors can build greater resilience against misleading financial content.</p> <p><strong><br /> <br /></strong></p> <p dir=\"ltr\">Key Points From This Episode:</p> <p dir=\"ltr\">(0:01:04) Advisor errors leading to negligence claims—KYC, KYP, suitability failures, plus warning signs like one-size-fits-all portfolios, unexplained trades, concentrated positions, churning, and double dipping.</p> <p dir=\"ltr\">(0:02:20) Why evidence matters: the gap between what people know and what they can prove in court. </p> <p dir=\"ltr\">(0:04:08) How investors can recognize poor advice—changes in communication, failure to address life circumstances, or lack of transparency. </p> <p dir=\"ltr\">(0:06:41) Importance of checking an advisor's regulatory history before entrusting significant assets. </p> <p dir=\"ltr\">(0:07:51) Investor vulnerabilities: age, education, language barriers, or sudden wealth. </p> <p dir=\"ltr\">(0:11:27) Steps after negligent advice—seek a second opinion, adjust the portfolio, and consider legal recourse quickly due to limitation periods. </p> <p dir=\"ltr\">(0:13:30) Risk capacity vs. risk tolerance, and overlooked risks such as liquidity, sequence-of-returns, and withdrawal risk. </p> <p dir=\"ltr\">(0:16:34) Advisors' uneven understanding of risk, shaped by firm/product-provider education and low industry entry barriers. </p> <p dir=\"ltr\">(0:19:48) Courts' five fiduciary factors—vulnerability, trust, reliance, discretion, and professional standards—and how fiduciary duties differ from suitability standards. </p> <p dir=\"ltr\">(0:28:28) Individual lawsuits vs. group/class actions, with securities class actions focusing on disclosure problems and asset-manager claims. </p> <p dir=\"ltr\">(0:42:45) Case studies: Sino-Forest fraud and challenges of private assets—opaque structures, layered fees, liquidity risk, and valuation issues. </p> <p dir=\"ltr\">(1:01:00) Regulatory challenges of finfluencers, difficulties in enforcement, and how advisors can inoculate clients against misinformation by teaching evaluation skills.<br /> <br /></p> <p dir=\"ltr\">Sources From Today's Episode — <a href=\"https://zbib.org/71e494008bb74d18a17de20419ca0647\">https://zbib.org/71e494008bb74d18a17de20419ca0647</a></p> <p dir=\"ltr\"><br /> Links From Today's Episode:<br /> <br /> Meet with PWL Capital: <a href=\"https://pwlcapital.com/\">https://pwlcapital.com/</a> </p> <p dir=\"ltr\">PWL Team — <a href=\"https://pwlcapital.com/our-team/\">https://pwlcapital.com/our-team/</a></p> <p dir=\"ltr\">Rational Reminder on Spotify — <a href=\"https://open.spotify.com/show/6RHWTH9iW7hdnA7eAg7ukO?si=fe7f60349b584026\"> https://open.spotify.com/show/6RHWTH9iW7hdnA7eAg7ukO?si=fe7f60349b584026</a></p> <p dir=\"ltr\">Rational Reminder on iTunes — <a href=\"https://itunes.apple.com/ca/podcast/the-rational-reminder-podcast/id1426530582?mt=2\">https://itunes.apple.com/ca/podcast/the-rational-reminder-podcast/id1426530582</a>.<br />  Rational Reminder on Instagram — <a href=\"https://www.instagram.com/rationalreminder/\">https://www.instagram.com/rationalreminder/</a></p> <p dir=\"ltr\">Rational Reminder on YouTube — <a href=\"https://www.youtube.com/channel/UCOErWFfNOQzXsgE7f5S_ULw\">https://www.youtube.com/channel/<br /> </a>Benjamin Felix — <a href=\"https://pwlcapital.com/our-team/\">https://pwlcapital.com/our-team/</a></p> <p dir=\"ltr\">Benjamin on X — <a href=\"https://x.com/benjaminwfelix\">https://x.com/benjaminwfelix</a></p> <p dir=\"ltr\">Benjamin on LinkedIn — <a href=\"https://www.linkedin.com/in/benjaminwfelix/\">https://www.linkedin.com/in/benjaminwfelix/</a></p> <p dir=\"ltr\">Matthew on LinkedIn — <a href=\"https://www.linkedin.com/in/matthew-w-taylor/\">https://www.linkedin.com/in/matthew-w-taylor/</a></p> <p dir=\"ltr\">Geller Law — <a href=\"https://www.gellerlaw.ca/lawyers/matthew-w-taylor\">Legal Legacy - Webflow Ecommerce Website Template</a></p> <p><strong><br /> <br /></strong></p> <p dir=\"ltr\">Editing and post-production work for this episode was provided by The Podcast Consultant (<a href=\"https://thepodcastconsultant.com\">https://thepodcastconsultant.com</a>)</p> <p> </p>",
       "external_id": "13afd187-80c5-4e6d-9d44-e47c81435d6e",
-      "last_attempt_at": "2026-09-18T05:05:59.899959+00:00",
+      "last_attempt_at": "2026-09-18T16:45:54.071371+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-17T09:30:00+00:00",
       "source_id": "the-rational-reminder-podcast",
@@ -6188,10 +6201,10 @@
       "url": "gid://art19-episode-locator/V0/hSFmtSoRe_chiSgnjDvdpf65jegtTYYVkmuFBCIoRDg"
     },
     "the-tim-ferriss-show::gid://art19-episode-locator/V0/hlfIEJeS2K_iQgzutRXXJAC6dXv-jL4o0bS-FNofBpM": {
-      "attempts": 15,
+      "attempts": 16,
       "description": "<p>This episode is a bit different. It's a live, unscripted working session with a founder, and I've only done one other earlier this year.</p><p><strong>Niels Hoven</strong> (<a href=\"https://x.com/NielsHoven\" rel=\"noopener noreferrer\" target=\"_blank\">@NielsHoven</a>) is the founder and CEO of <a href=\"https://www.mentava.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Mentava</strong></a>, a company building software to support fast learners. Eager kids are dramatically underserved by today's education system, and Niels created Mentava to allow students to achieve their potential. Prior to Mentava, Niels worked at Cloudflare, ClassDojo, and Pocket Gems, where he ran the highest-grossing mobile game in the world in 2011. He has a graduate degree in electrical engineering from UC Berkeley.</p><p><strong>This episode is brought to you by:</strong></p><ul><li><a href=\"https://fin.ai/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Fin</strong></a> <strong>powerful AI Agent for all your customer service:</strong> <a href=\"https://fin.ai/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Fin.Ai/Tim</strong></a></li><li><a href=\"https://shopify.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Shopify</strong></a><strong> global commerce platform, providing tools to start, grow, market, and manage a retail business: </strong><a href=\"https://shopify.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Shopify.com/Tim</strong></a></li><li><a href=\"https://wealthfront.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Wealthfront</strong></a><strong> high-yield cash account: </strong><a href=\"https://wealthfront.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Wealthfront.com/Tim</strong></a></li></ul><p><em>New clients get 3.30% base APY from program banks + additional 0.75% boost for 3 months on your uninvested cash (max $150k balance). Terms and conditions apply. The Cash Account offered by Wealthfront Brokerage LLC (“WFB”) member FINRA/SIPC, not a bank. The base APY as of 1/30/26 is representative, can change, and requires no minimum. Tim Ferriss, a non-client, receives compensation from WFB for advertising and holds a non-controlling equity interest in the corporate parent of WFB, which creates a conflict of interest. Individual experiences and outcomes will differ. Instant withdrawals may be limited by your receiving firm and other factors. Investment advisory services provided by Wealthfront Advisers LLC, an SEC-registered investment adviser. Securities investments: not bank deposits, not bank-guaranteed or FDIC-insured, and may lose value.</em></p><p><strong>Timestamps:</strong></p><p>[00:00:00] Start.</p><p>[00:01:32] What Mentava is—and the toddlers reading before age three.</p><p>[00:08:31] Game design, slot-machine motivation, and lowering the hoop.</p><p>[00:11:54] Tim's red pen: rewriting the bio and positioning.</p><p>[00:16:59] The real problem: wasted early years, high-school pressure.</p><p>[00:23:55] Learning at your own pace—and \"what if you did nothing?\"</p><p>[00:29:32] Dog-fish, fish-dog: readiness, failed trials, and follow-ups.</p><p>[00:35:06] The $500 price, school pilots, and videos-for-tuition scholarships.</p><p>[00:41:39] Teach a kid to fish: selling relief, not nagging.</p><p>[00:47:49] Viral posts, the culture-war trap, and why exaggeration is death.</p><p>[00:55:05] Put the ask on top: investor updates and what actually converts.</p><p>[00:59:35] The thirty-year phonics war—and it's not with teachers.</p><p>[01:01:10] A $1,000 coupon, zero takers: why the referral bribe flopped.</p><p>[01:08:04] Lead with the love letters: testimonials, homepage, and who's buying.</p><p>[01:20:03] \"No scam charges $500 a month\": pricing and who you're not for.</p><p>[01:34:16] Uncrowded channels and workshopping like a standup.</p><p>[01:42:08] Don't let Amazon be your debutante ball: testing what sells.</p><p>[01:46:42] Alpha School, the competitive map, and the eager investor.</p><p>[01:48:39] Reaching the already-converted: be the painkiller, TiE, surround sound.</p><p>[02:08:18] Niels's charge: advocate for your child, unapologetically.</p><p><em>*</em></p><p><strong>For show notes and past guests on </strong><a href=\"https://tim.blog/podcast\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><em>The Tim Ferriss Show</em></strong></a><strong>, please visit</strong> <a href=\"https://tim.blog/podcast/?utm_source=podcast&amp;utm_medium=podcast&amp;utm_campaign=podcast-description\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/podcast</strong></a><strong>.</strong></p><p><strong>For deals from sponsors of </strong><a href=\"https://tim.blog/podcast\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><em>The Tim Ferriss Show</em></strong></a><strong><em>, </em>please visit </strong><a href=\"https://tim.blog/podcast-sponsors\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/podcast-sponsors</strong></a></p><p><strong>Sign up for Tim’s email newsletter (<em>5-Bullet Friday</em>) at </strong><a href=\"https://go.tim.blog/5-bullet-friday-1/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/friday</strong></a><strong>.</strong></p><p><strong>For transcripts of episodes, go to </strong><a href=\"https://tim.blog/transcripts\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/transcripts</strong></a><strong>.</strong></p><p><strong>Discover Tim’s books: </strong><a href=\"https://tim.blog/books\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/books</strong></a><strong>.</strong></p><p><strong>Follow Tim:</strong></p><p><strong>Twitter</strong>: <a href=\"https://twitter.com/tferriss\" rel=\"noopener noreferrer\" target=\"_blank\">twitter.com/tferriss</a>&nbsp;</p><p><strong>Instagram</strong>: <a href=\"https://instagram.com/timferriss/\" rel=\"noopener noreferrer\" target=\"_blank\">instagram.com/timferriss</a></p><p><strong>YouTube</strong>: <a href=\"https://www.youtube.com/timferriss\" rel=\"noopener noreferrer\" target=\"_blank\">youtube.com/timferriss</a></p><p><strong>Facebook</strong>: <a href=\"https://www.facebook.com/TimFerriss/\" rel=\"noopener noreferrer\" target=\"_blank\">facebook.com/timferriss</a>&nbsp;</p><p><strong>LinkedIn: </strong><a href=\"http://linkedin.com/in/timferriss\" rel=\"noopener noreferrer\" target=\"_blank\">linkedin.com/in/timferriss</a></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
       "external_id": "gid://art19-episode-locator/V0/hlfIEJeS2K_iQgzutRXXJAC6dXv-jL4o0bS-FNofBpM",
-      "last_attempt_at": "2026-09-18T05:08:50.557674+00:00",
+      "last_attempt_at": "2026-09-18T16:46:20.691060+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-10T20:30:00+00:00",
       "source_id": "the-tim-ferriss-show",
@@ -7287,20 +7300,37 @@
       "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
       "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
       "url": "https://www.xiaoyuzhoufm.com/episode/6aa37bcd492687f6aad83995?utm_source=rss"
+    },
+    "zhi-xing-xiao-jiu-guan::6aace1189d326477816b0a46": {
+      "attempts": 1,
+      "description": "<img src=\"https://image.xyzcdn.net/Fk5nraEU-OYEXsuDv6aDf1oHDEXM.jpg\" /><p><strong>🏡 公积金该存，还是取？聊聊新规对我们可能的影响。</strong></p><p>欢迎来到知行小酒馆，这是一档由 <a href=\"https://youzhiyouxing.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">有知有行</a> 出品的播客节目。我们关注投资，更关注怎样更好地生活，我是雨白。</p><p>三年前，五险一金研究小组也聊过一期公积金。当时我们给的建议很直接：应取尽取，应用尽用。</p><p>三年过去，公积金政策、房地产市场、就业环境，以及我们自己的生活都变了不少。今年 9 月 20 号，公积金新规就要正式实施了，借着这一契机，我们也想来重新聊聊这个话题：三年后的今天，我们对公积金的看法有改变吗？<strong>这次公积金的新规，对不同的人群到底有什么影响？</strong></p><p>这次我重新召集了五险一金研究小组，组员包括小酒馆的制作人周一，还有我们节目的老朋友，「面基」的主播老钱。我们会从各自的经验出发，聊聊这次新规可能产生的影响，也希望能帮你判断，<strong>公积金在你的生活里，到底能起什么作用。</strong></p><p>如果你也有一笔公积金，却不太确定这笔钱怎样才能发挥最大的效用，希望这期能对你有些帮助。</p><h2>🔗 官方地址</h2><p><a href=\"https://youzhiyouxing.cn/n/materials/2266\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">如果你所使用的客户端显示不全，请点此访问有知有行的官网查看全文</a></p><h2>🍻 本期嘉宾</h2><p><strong>老钱：</strong>小酒馆的老朋友，播客「<a href=\"https://www.xiaoyuzhoufm.com/podcast/6388760f22567e8ea6ad070f\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">面基</a>」主播。公众号：老钱日日谈</p><h2>🪡 时间轴</h2><p><a class=\"timestamp\">02:35</a> 再聊公积金，研究小组成员各自的感受——</p><p><a class=\"timestamp\">07:47</a> <strong>什么是公积金？</strong></p><p><a class=\"timestamp\">13:14</a> 开通公积金自动提取半年后，我主动选择了暂停</p><p><a class=\"timestamp\">20:57</a> 小提示：公积金 ≠ 银行存款，虚假提取可能面临处罚</p><p><a class=\"timestamp\">23:43</a> <strong>公积金新规主要有哪些变化？直接看这里 👉</strong></p><p><a class=\"timestamp\">32:20</a> 如果你未来可能有买房的计划，请一定慎重提取公积金</p><p><a class=\"timestamp\">44:05</a> <strong>灵活就业者请看 👀 如果我想自行缴存公积金，该怎么算？</strong></p><p><a class=\"timestamp\">52:44</a> 是不是足额缴纳公积金，也许能成为观察一家公司的切片</p><p><a class=\"timestamp\">59:06</a> <strong>公积金存取行动清单 📋</strong></p><h2>🔍 猜你想看</h2><blockquote><p>由于平台字数限制，完整版公积金资料库，欢迎<a href=\"https://youzhiyouxing.cn/n/materials/2266\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">点此前往有知有行官网</a>查看。</p></blockquote><p><strong>🟤 关于公积金新规</strong></p><p>本次新规为 2026 年 7 月 31 日国务院第 93 次常务会议通过，将于&nbsp;<strong>2026 年 9 月 20 日起施行</strong>的<a href=\"https://www.gov.cn/gongbao/2026/issue_12946/202608/content_7079363.html\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《国务院关于修改〈住房公积金管理条例〉的决定》</a>。此次修订是 1999 年《条例》出台以来近 20 年幅度最大的一次系统性修订，《决定》共有 20 条。</p><p>在这期节目中，我们提到本次修订主要有以下重要变化：</p><ol><li><p><strong>拓宽账户余额的提取和使用范围</strong></p><ol><li><p>装修自住住房、支付自住住房物业费、国务院批准的其他住房消费情形首次纳入可提取情形；</p></li><li><p>对提取住房公积金支付房租的，不再设置「房租超过家庭工资收入规定比例」的门槛限制；</p></li></ol></li><li><p><strong>扩大制度覆盖面</strong>，灵活就业人员可自愿缴存住房公积金，并按规定享受相应政策支持；</p></li></ol><ul><li><p><strong>提升住房公积金管理服务效能</strong>，缩短住房公积金提取及贷款申请的受理时限；</p></li></ul><blockquote><p>职工申请提取住房公积金的，住房公积金管理中心应当自受理申请之日起 3 日内作出准予提取或者不准提取的决定，并通知申请人；</p><p>申请住房公积金贷款的，住房公积金管理中心应当自受理申请之日起 10 日内作出准予贷款或者不准贷款的决定，并通知申请人。</p></blockquote><ol><li><p><strong>推动住房公积金缴存记录等全国范围内互信互认。</strong></p></li></ol><p><strong>🟤 补充资料</strong></p><p><a class=\"timestamp\">00:05:01</a> 中国人民银行、国家金融监督管理总局于 2026 年 8 月 28 日联合印发<a href=\"https://www.pbc.gov.cn/tiaofasi/144941/3581332/2026082817013334439/index.html\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《关于改革完善房地产信贷管理 推动加快构建房地产发展新模式的意见》</a>，<strong>将个人住房贷款最长期限由 30 年延长至 40 年。</strong></p><p><a class=\"timestamp\">00:11:36</a>&nbsp;<strong>转移支付</strong>：通过政府无偿支出实现社会收入和财富再分配的一种手段，该支出不涉及商品或服务的交换。社会保障、政府对特定企业的补贴等都属于转移支付的一种体现。</p><p><a class=\"timestamp\">00:11:36</a><strong>&nbsp;现收现付制</strong>：一种社会保障资金的运作方式，以横向平衡原则为依据，用同一时代工作者的缴费，来直接支付当下保险受益人的开支。</p><p><a class=\"timestamp\">00:11:58</a> 截至 2024 年末，住房公积金累计缴存总额 327941.35 亿元，缴存余额 109252.79 亿元、同比增长 8.61%。数据来源<a href=\"https://www.gov.cn/zhengce/zhengceku/202506/P020250601601759182303.pdf\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《全国住房公积金2024年年度报告》</a></p><blockquote><p>需要注意的是：这笔缴存余额中，约 8.07 万亿元已形成个人住房贷款，占缴存余额的 73.86%。个贷资产由于已经锁定在长期贷款合同中，因此不具备即时释放的条件，只能随借款人还本付息逐步回流。剩余非个贷资产约为 2.86 万亿元，但这只账面上限，不能作为可统一释放的「闲置资金」，因此无法据此给出具体「有几千亿能够释放」的结论。解读来自<a href=\"https://mp.weixin.qq.com/s/yyv8YpQ1-Je3mxmHK1vpNg\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《招商宏观 | 住房公积金还能释放多少空间？》</a></p></blockquote><p><a class=\"timestamp\">00:12:06</a> 截至 2026 年 8 月，中国境内住户存款总额已达到约 172.89 万亿元。数据来源<a href=\"https://www.pbc.gov.cn/diaochatongjisi/attachDir/2026/09/2026091418214943327.pdf\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《金融机构人民币信贷收支表》</a></p><p><a class=\"timestamp\">00:12:53</a>&nbsp;<strong>社零总额：</strong>「社会消费品零售总额」的简称，指企业（单位、个体户）通过交易直接售给个人、社会集团非生产、非经营用的实物商品金额，以及提供餐饮服务所取得的收入金额。2025 年，全年社会消费品零售总额已超 50 亿元。数据来源<a href=\"https://www.stats.gov.cn/sj/zxfb/202602/t20260228_1962662.html\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《中华人民共和国2025年国民经济和社会发展统计公报》</a></p><p><a class=\"timestamp\">00:22:03</a> 详见《住房公积金管理条例》第四十一条规定。</p><blockquote><p><strong>第四十一条</strong>　以欺诈、伪造证明材料或者其他手段违法提取住房公积金的，由住房公积金管理中心责令限期退回违法提取的住房公积金，3年内不得提取住房公积金或者使用住房公积金贷款。</p></blockquote><p><a class=\"timestamp\">00:30:22</a> 2024 年，住房公积金缴存额 36317.83 亿元，发放住房公积金个人住房贷款 230.56 万笔，发放金额 13043.07 亿元；当年新发放贷款与当年缴存额的比率约为 35.91%。如果回顾过往数据，2016 年住房公积金缴存额 16562.88 亿元，发放住房公积金个人住房贷款 327.49 万笔、12701.71 亿元，当年新发放贷款与当年缴存额的比率约为 76.69%。数据来源<a href=\"https://www.gov.cn/zhengce/zhengceku/202506/P020250601601759182303.pdf\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《全国住房公积金2024年年度报告》</a>、<a href=\"http://www.fangchan.com/policy/34/2017-06-01/6275875030002110515.html\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《全国住房公积金2016年年度报告》</a></p><p><a class=\"timestamp\">00:35:35</a> 一线城市二手房价格变化见下图。图片来源：嘉宾供图</p><img src=\"https://image.xyzcdn.net/Fj7m64vfizrV0PHG1ZmRJGj4CKyH.png\" /><p><a class=\"timestamp\">00:38:53</a> 截至2025 年，中国灵活就业人员已达约 2.8 亿人。数据来源<a href=\"https://www.fxbaogao.com/view?id=5461464\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《2025 中国蓝领群体就业研究报告》</a></p><p><a class=\"timestamp\">00:39:32</a> 数据补充：2024 年，住房公积金实缴人数 17628.75 万人，其中北京实缴职工 939.75 万人，上海实缴职工 931.26 万人，广州 533.62 万人，深圳实缴职工 721.65 万人，非一线城市城镇缴存人数约 14502.47 万人，灵活就业人员实缴人数 218.82 万人。而 2024 年度城镇就业人员 47345 万人，全国参加城镇职工基本养老保险人数 53449 万人。数据来源<a href=\"https://www.gov.cn/zhengce/zhengceku/202506/P020250601601759182303.pdf\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《全国住房公积金2024年年度报告》</a>、<a href=\"https://www.stats.gov.cn/sj/zxfb/202502/t20250228_1958817.html\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《中华人民共和国2024年国民经济和社会发展统计公报》</a></p><p><a class=\"timestamp\">00:39:18</a>&nbsp;<strong>LPR（贷款市场报价利率）</strong>：指由各报价行根据其对最优质客户执行的贷款利率，按照公开市场操作利率加点形成的方式报价，由中国人民银行授权全国银行间同业拆借中心计算得出并发布的利率。各银行实际发放的贷款利率可根据借款人的信用情况，考虑抵押、期限、利率浮动方式和类型等要素，在贷款市场报价利率基础上加减点确定。</p><p><a class=\"timestamp\">00:49:05</a> 更正，此处主要指<strong>职业年金</strong>：指机关事业单位及其工作人员在参加机关事业单位基本养老保险的基础上，建立的补充养老保险制度。</p><p><a class=\"timestamp\">00:50:33</a>&nbsp;<strong>个人养老金</strong>：一项由个人自愿参加，用于补充养老保障的制度。个人养老金每年缴纳上限为 12000 元，缴费完全由参加人个人承担，资金在专属账户中实行完全累积。缴费在个税前扣除，领取时按 3% 的税率单独计税。</p><p><a class=\"timestamp\">00:51:19</a> 2025年，全国城镇非私营单位就业人员年平均工资 129441 元，全国城镇私营单位就业人员年平均工资 71590 元。数据来源<a href=\"https://www.stats.gov.cn/sj/zxfb/202605/t20260515_1963707.html\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《2025年城镇单位就业人员年平均工资情况》</a></p><p><a class=\"timestamp\">00:51:52</a> 见住房城乡建设部、自然资源部、金融监管总局于 2026 年 8 月 28 日联合印发的<a href=\"https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_45644612a7064289bdc0d5b1427a25d8.html\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">《关于完善商品住房销售制度的通知》</a>。</p><blockquote><p>通知提出，各地要完善商品住房预售管理。需规范商品住房预售条件，商品住房项目实行预售的，单体建筑应完成主体结构封顶；需加强预售资金监管，购房人支付的首付款、个人住房贷款等购房资金应全部存入资金监管账户。</p></blockquote><p><a class=\"timestamp\">01:01:01</a> 此处提及的<a href=\"https://www.zzz.gov.cn/dkjsq/calculator.html#\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">住房公积金贷款计算器</a></p><p><strong>往期节目</strong></p><p><a href=\"https://www.xiaoyuzhoufm.com/episode/6438fc399361a4e7c3863b9a\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">E83 我们对公积金的态度：应用尽用，能取就取</a></p><p><a href=\"https://www.xiaoyuzhoufm.com/podcast-topic/6543a79ce5f242983f76c231\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">知行小酒馆｜五险一金系列</a></p><p><a href=\"https://www.xiaoyuzhoufm.com/podcast-topic/6543a57bde390991a499adac\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">知行小酒馆｜房产万事屋系列</a></p><h2>🌐 知行小酒馆公告牌</h2><p><strong>✨ 有知有行 App 3.0 版本上线啦</strong></p><p>过去几年，不少同路人都在问我们：什么时候可以不用跳转，直接在有知有行买入长稳海？现在终于可以告诉大家，<strong>从这一版本起，「长钱账户」「稳钱账户」「海外长钱」都已经支持在</strong><a href=\"https://youzhiyouxing.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><strong>有知有行 App</strong></a><strong> 里直接买入。</strong></p><p>谢谢你陪我们走到这里，有知有行还在继续成长，也希望可以继续陪伴你通过安心投资，一步步接近更好的生活。</p><blockquote><p>长钱账户、稳钱账户和海外长钱的销售、投顾服务，分别由海南有知有行基金销售有限公司和嘉实财富提供。产品的过往业绩不预示其未来表现，为其他投资者创造的收益也不构成业绩表现的保证。请在全面了解产品的风险收益特征后独立作出投资决策。</p></blockquote><img src=\"https://image.xyzcdn.net/FjkPEsamj3dEI6owRy7KgQNVsu1r.png\" /><p><strong>🍻 我们是谁？</strong>「知行小酒馆」是 <a href=\"https://youzhiyouxing.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">有知有行</a> 出品的一档分享投资与生活的播客节目，每周五晚八点更新。我们关注投资理财，更关注怎样更好地生活。在我们看来，投资成功，是我们变成一个更好的人之后，自然的结果。</p><p><a href=\"https://youzhiyouxing.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">有知有行</a> 成立于 2020 年，目前在陪伴投资者用正确的方式学习投资，下场实操。凭借在投资领域的良好口碑，有知有行在初创阶段已与一大批忠实用户同行。未来我们希望成为一家财富管理公司，不仅帮助投资者学习投资，也能让大家在有知有行安心交易，踏实赚钱。<a href=\"https://youzhiyouxing.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">欢迎在「有知有行」社区 和我们互动交流</a>。</p><h2>🎺 创作团队</h2><p><strong>主持 </strong>雨白 周一｜<strong>嘉宾</strong> 老钱｜<strong>制作 </strong>周一｜<strong>后期</strong> 孙称｜<strong>单集封面 </strong>雨白供图（摄于阿那亚金山岭中心小镇）</p><p><strong>免责声明</strong></p><p>本播客所述投资相关内容皆以交流分享为目的，仅供参考，不构成任何市场预测、判断，或投资、咨询建议。市场有风险，投资需谨慎。主持人及嘉宾对投资相关内容的准确性、可靠性、时效性及完整性不作任何明示或暗示的保证，并提醒您对相关内容请结合自身情况进行独立评估，依据或使用相关内容所造成的后果由您独自承担。</p><p>感谢您对本播客原创内容的青睐。如转载或引用本播客所述内容，请注明出处。转载前请与有知有行联系并取得同意。</p>",
+      "external_id": "6aace1189d326477816b0a46",
+      "item_slug": "zhi-xing-xiao-jiu-guan-e13f4c52cf5d",
+      "language": "zh",
+      "published_at": "2026-09-18T12:00:00+00:00",
+      "published_to_feed_at": "2026-09-18T16:37:57.739885+00:00",
+      "source_id": "zhi-xing-xiao-jiu-guan",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考",
+      "title_zh": "E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6aace1189d326477816b0a46?utm_source=rss"
     }
   },
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-18T04:53:32.486532+00:00",
-      "last_modified": "Fri, 18 Sep 2026 04:38:00 GMT",
+      "last_checked_at": "2026-09-18T16:32:05.226481+00:00",
+      "last_modified": "Fri, 18 Sep 2026 16:29:57 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-18T04:51:57.310643+00:00",
+      "last_checked_at": "2026-09-18T16:30:58.279462+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -7308,14 +7338,14 @@
     "feng-tou-quan": {
       "etag": "W/\"27dfa2e7a7a509b67a53d49a93f75f87\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-18T04:50:51.443346+00:00",
+      "last_checked_at": "2026-09-18T16:29:55.498375+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-18T04:54:26.106502+00:00",
+      "last_checked_at": "2026-09-18T16:32:46.028166+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
@@ -7323,14 +7353,14 @@
     "gao-qian-nu-hai": {
       "force_refresh": false,
       "last_attempt_at": "2026-08-26T13:21:20.005733+00:00",
-      "last_checked_at": "2026-09-18T04:50:40.560142+00:00",
+      "last_checked_at": "2026-09-18T16:29:54.240627+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-18T04:50:48.437585+00:00",
+      "last_checked_at": "2026-09-18T16:29:53.670596+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -7338,7 +7368,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-18T04:55:18.879588+00:00",
+      "last_checked_at": "2026-09-18T16:32:59.598566+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -7347,17 +7377,17 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"3c116e388797033be8c9b870ae530829\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-18T04:52:44.714001+00:00",
+      "last_checked_at": "2026-09-18T16:31:39.174567+00:00",
       "last_modified": "Thu, 17 Sep 2026 11:30:05 GMT",
       "title": "声东击西",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/shengdongjixi/rss"
     },
     "silicon-valley-101": {
-      "etag": "W/\"9e7721cf17fd895720a7905f3f3006ba\"",
+      "etag": "W/\"a4a375c834e0cc9221a648f4401b2e9f\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-18T04:51:49.011905+00:00",
-      "last_modified": "Fri, 18 Sep 2026 00:15:06 GMT",
+      "last_checked_at": "2026-09-18T16:30:45.250209+00:00",
+      "last_modified": "Fri, 18 Sep 2026 13:46:33 GMT",
       "title": "硅谷101",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/sv101/rss"
@@ -7365,7 +7395,7 @@
     "streamlined-solopreneur": {
       "etag": "W/\"2d3451517c6d54b4565e6c6bec7308e2\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-18T04:58:05.832788+00:00",
+      "last_checked_at": "2026-09-18T16:37:13.105920+00:00",
       "last_modified": "Wed, 16 Sep 2026 12:34:42 GMT",
       "title": "Streamlined Solopreneur: Solo Ops to Stop Doing Everything Yourself",
       "type": "podcast",
@@ -7374,7 +7404,7 @@
     "sui-ji-bo-dong": {
       "etag": "W/\"6227f97e4fabffefb08c3b5d1be753a1\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-18T04:51:56.745468+00:00",
+      "last_checked_at": "2026-09-18T16:30:42.457833+00:00",
       "last_modified": "Wed, 16 Sep 2026 04:23:26 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
@@ -7383,7 +7413,7 @@
     "the-a16z-show": {
       "etag": "W/\"bd5f245ff49e3d5754f8037496cd6934\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-18T04:54:32.039762+00:00",
+      "last_checked_at": "2026-09-18T16:33:30.871969+00:00",
       "last_modified": "Thu, 17 Sep 2026 10:00:31 GMT",
       "title": "The a16z Show",
       "type": "podcast",
@@ -7391,16 +7421,16 @@
     },
     "the-investors-podcast": {
       "force_refresh": true,
-      "last_checked_at": "2026-09-18T04:56:43.225971+00:00",
-      "last_modified": "Fri, 18 Sep 2026 04:29:31 GMT",
+      "last_checked_at": "2026-09-18T16:33:50.965859+00:00",
+      "last_modified": "Fri, 18 Sep 2026 07:12:12 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
       "url": "https://feeds.megaphone.fm/PPLLC8974708240"
     },
     "the-psychology-of-money-with-morgan-housel": {
-      "etag": "W/\"290bd-y8SXIuDEyG5QyTEIbn5KiqxCtUw\"",
+      "etag": "W/\"298dd-+DlBqAF/UQ9sqZIJOlnNksPDkgs\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-18T04:59:31.375050+00:00",
+      "last_checked_at": "2026-09-18T16:39:00.574611+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
@@ -7408,7 +7438,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"609cfb220222d8e5c479f28e9e0f515d\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-18T04:59:04.095961+00:00",
+      "last_checked_at": "2026-09-18T16:38:28.376807+00:00",
       "last_modified": "Thu, 17 Sep 2026 09:37:03 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -7416,7 +7446,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": true,
-      "last_checked_at": "2026-09-18T04:56:13.756924+00:00",
+      "last_checked_at": "2026-09-18T16:34:02.642416+00:00",
       "last_modified": "Mon, 14 Sep 2026 13:59:45 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -7424,26 +7454,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-18T04:51:02.578036+00:00",
+      "last_checked_at": "2026-09-18T16:29:48.344443+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-18T04:52:49.845989+00:00",
+      "last_checked_at": "2026-09-18T16:31:51.962164+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-18T04:51:42.196400+00:00",
+      "last_checked_at": "2026-09-18T16:31:01.989392+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-09-18T05:09:19.393541+00:00",
+  "updated_at": "2026-09-18T16:46:55.439625+00:00",
   "version": 1
 }
