@@ -2091,6 +2091,23 @@
       "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
       "url": "https://www.xiaoyuzhoufm.com/episode/6aa9329c051af796b9e8a2dc?utm_source=rss"
     },
+    "luan-fan-shu::6ab029b7ac389df82734ebb6": {
+      "attempts": 1,
+      "description": "<p>🎙【本期嘉宾】莫唯书、Suki、Vanessa</p><p><a href=\"https://okjk.co/7Znqm2\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">莫唯书Mark</a>（前TikTok产品，公众号：莫思Moss）</p><p><a href=\"https://okjk.co/b1rO0T\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Suki</a>（Today founding PM）</p><p><a href=\"https://okjk.co/6cD0rC\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">郦橙锦妖Vanessa</a>（前字节AI PM）</p><p>主播：潘乱（「乱翻书」主理人）</p><p>💡【本期概要】</p><p>AI办公的仗还没打完，硅谷已经开始争抢下一个入口。</p><p>Instinct今年才开始小范围测试，估值便从早期的5000万美元一路涨到25亿美元，随后又传出以100亿美元目标估值融资的消息；Meta推出Muse后迅速登上美国App Store免费榜榜首。资本、创业公司和科技巨头突然形成了一个新共识：Chatbot只能回答问题，Personal Agent却可能长期理解一个人，替他处理邮件、订票、购物、预约、退款和家庭事务。</p><p>一旦AI开始替人办事、花钱和作出决定，它争夺的就不再是一款工具的使用时长，而是用户意图产生后的第一入口。搜索、推荐、电商、支付和超级App原来的位置，都可能重新排列。</p><p>这期节目，我们邀请Today产品经理Suki、前字节AI产品经理Vanessa，以及前TikTok产品经理莫唯书，从Town、Instinct、Grok Bot和Meta Muse出发，讨论Personal Agent为什么突然爆发，上一批Agent为什么成了先烈，独立App和IM谁更接近终局，以及这场战争最后比拼的究竟是模型、Context、执行能力、生态，还是用户的信任。</p><p>直播中途，还有一位正在美国读大三的创业者临时连麦。他想从课程、作业、选课和求职切入，为美国大学生做Personal Agent。听着很像十多年前移动互联网时代的“超级课程表”——时代没有简单重复，却总押着相似的韵脚。</p><p><strong>这里也顺便预告一下</strong>，<a href=\"https://today.ai/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><strong>Today</strong></a><strong> 中国版将于9月24日正式在国内首发上线</strong>。<strong>下载注册可以获得三个月免费会员</strong>，这可能是国内真正意义上的第一个专属于你的AI ，感兴趣的话可以体验一下。</p><p>网址：<a href=\"https://today.ai/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">https://today.ai/</a></p><img src=\"https://image.xyzcdn.net/FksML9q0wS0g0BE29QkiMRlHbxvg.jpg\" /><img src=\"https://image.xyzcdn.net/Fs40O4LD6v9P-_nTvL_qkB4Bjjd7.png\" /><p>🎬 本期视频播客同步上线于@潘乱的视频号、哔哩哔哩、微博、小红书、Youtube等平台。</p><p>⏰【时间线】</p><p><strong>一、硅谷为什么突然开始争夺Personal Agent</strong></p><p><a class=\"timestamp\">07:42</a> 产品还没真正普及，估值已经冲上百亿美元：真实需求爆发，还是VC提前制造恐慌？</p><p><a class=\"timestamp\">15:13</a> 从Siri、ChatGPT到办公Agent，为什么这一轮还需要一个新的“Personal Agent”概念？</p><p><a class=\"timestamp\">16:16</a> 工具与“人”的分界线：长期理解、持续记忆，以及不等指令的主动性</p><p><a class=\"timestamp\">18:09</a> 办公Agent围绕任务组织Context，Personal Agent围绕用户本人组织Context</p><p><a class=\"timestamp\">21:40</a> Personal AI并不站在工作的对立面：你是什么样的人，它就会长成什么样</p><p><a class=\"timestamp\">25:17</a> 第一印象决定AI的用途：从桌面端开始，它更像同事；从手机和IM开始，它更像生活助理</p><p><strong>二、四款产品，四种关于未来的赌注</strong></p><p><a class=\"timestamp\">30:14</a> Town、Instinct、Grok Bot与Muse：四款产品都在做助理，为什么走出了四条完全不同的路线？</p><blockquote><p><a class=\"timestamp\">30:28</a> Town的赌注：先把邮箱做深，用一次次谨慎交付换取用户的委托权</p><p><a class=\"timestamp\">31:46</a> Instinct的赌注：取消独立App，把交代任务的成本压缩成一条消息，并进一步接管支付</p><p><a class=\"timestamp\">32:24</a> Grok Bot的赌注：给每个人组建一支Bot队伍，但多Bot究竟是执行力，还是情绪价值？</p><p><a class=\"timestamp\">33:22</a> Muse的赌注：免费、分发和专用虚拟机，用Meta的现金流直接培养整个市场</p></blockquote><p><a class=\"timestamp\">34:40</a> 小扎的补贴战争：当巨头直接免费送算力，靠订阅活着的创业公司怎么打？</p><p><a class=\"timestamp\">36:48</a> 同样住在IM里，为什么Poke没跑出来，Instinct却制造了病毒式传播？</p><p><a class=\"timestamp\">39:33</a> 分水岭不在聊天体验：Instinct把信用卡、屏幕和麦克风都接进来，第一次真正替用户把事办完</p><p><a class=\"timestamp\">41:16</a> 小龙虾为什么成了先烈：产品太糙、门槛太高，还是云端执行能力尚未成熟？</p><p><a class=\"timestamp\">42:39</a> 做一个24小时在线的Agent有多难：设备、云服务和执行环境之间的状态如何保持？</p><p><a class=\"timestamp\">45:22</a> 大厂的产品形态困境：塞进原有产品、另做独立App，还是同时留下三个入口？</p><p><strong>三、最先跑出来的，为什么都是生活里的麻烦事</strong></p><p><a class=\"timestamp\">49:16</a> 为什么Personal Agent最早跑通的不是宏大任务，而是退订、改签、预约和账单？</p><p><a class=\"timestamp\">50:39</a> 两种截然不同的生意：用户花钱雇一个私人助理，还是商家付费养一个消费中介？</p><p><a class=\"timestamp\">52:41</a> “人人都需要一个助理”：过去只属于高净值人群的服务，能否被AI真正普惠？</p><p><a class=\"timestamp\">53:55</a> Town意外破圈的地方：美国学校邮件和家长群，成为投资人没有想到的高频场景</p><p><a class=\"timestamp\">54:42</a> Today海外用户的真实用法：三个孩子、家庭采购、缴费和育儿，被放进同一个长期Context</p><p><a class=\"timestamp\">56:36</a> 豆包能不能华丽转身：它已经拥有用户，距离Personal Agent还缺哪一层能力？</p><p><a class=\"timestamp\">57:42</a> 有记忆不等于懂你：当AI把毫不相关的问题强行关联到你的日本签证</p><p><a class=\"timestamp\">58:46</a> 一个暴论：豆包真正缺的，可能是与抖音用户数据的彻底打通</p><p><strong>四、Agent开始替人花钱，意图经济浮出水面</strong></p><p><a class=\"timestamp\">61:31</a> 从争夺注意力到赢得理解：Personal Agent会不会终结信息流时代的旧入口？</p><p><a class=\"timestamp\">64:35</a> 超级App、手机厂商、模型公司和创业公司，分别握着什么，又分别缺什么？</p><p><a class=\"timestamp\">68:31</a> “AI手机”会不会重演AI浏览器：一个App已经能做到的事，为什么值得用户换设备？</p><p><a class=\"timestamp\">71:33</a> 小扎讲述的Muse故事：把Instagram收藏的食谱，变成采购、聚会与关系维护</p><p><a class=\"timestamp\">72:07</a> 收藏内容原来是“没有兑现的意图”：Meta能否从种草平台升级成决策和交易平台？</p><p><a class=\"timestamp\">74:26</a> 反方意见：购物可能只是小扎为了支撑免费模式，讲给投资人听的商业故事</p><p><a class=\"timestamp\">75:32</a> Muse真实需求排序：行政杂事、旅行、省钱和购物，谁才是Personal Agent的主战场？</p><p><a class=\"timestamp\">76:57</a> AI适合替你买东西，还是会毁掉“逛”的乐趣？</p><p><strong>五、App、IM和Bot队伍，产品终局仍没有答案</strong></p><p><a class=\"timestamp\">79:44</a> Personal Agent需要独立App，还是应该主动存在于WhatsApp、iMessage和微信里？</p><p><a class=\"timestamp\">80:35</a> Today走过的弯路：先接入微信和Telegram，最后为什么又做回独立App？</p><p><a class=\"timestamp\">81:19</a> GUI的新角色：它不再负责完成操作，而是给用户一张探索Agent能力的地图</p><p><a class=\"timestamp\">84:57</a> Instinct与Grok Bot的Onboarding差异：纯文字交流与角色化Bot，谁更容易让普通人理解？</p><p><a class=\"timestamp\">87:03</a> 一个人真的需要一支Bot队伍吗，还是只需要一个能够自动调度的总管？</p><p><a class=\"timestamp\">88:34</a> 住在别人的IM里，接口不属于你，产品的命运也不属于你</p><p><a class=\"timestamp\">90:35</a> 一个总管、多Bot、多Thread和单Session，哪种形态最符合普通人的直觉？</p><p><strong>六、一个美国大三创业者，闯进了直播间</strong></p><p><a class=\"timestamp\">91:35</a> 现场插曲：美国大三创业者赵凯突然申请连麦</p><p><a class=\"timestamp\">92:25</a> Suki为什么离开AI教育，转而押注Personal Agent？</p><p><a class=\"timestamp\">95:50</a> 美国大学生版Personal Agent：管理作业、安排选课、预约教授，再帮学生找实习</p><p><a class=\"timestamp\">97:54</a> 从“超级课程表”到校园Agent：每一轮创业潮，为什么都从大学生入口开始？</p><p><a class=\"timestamp\">99:12</a> Instinct为什么拥有如此夸张的融资能力：技术、团队、年轻天才，还是讲故事的能力？</p><p><a class=\"timestamp\">100:54</a> 美国还有多少尚未浮出水面的Personal Agent创业公司？</p><p><a class=\"timestamp\">103:47</a> 一个产品真正破圈的信号：讨论者开始从Twitter极客转向Facebook宝妈和社区用户</p><p><a class=\"timestamp\">105:22</a> 在AI产品能力快速趋同之后，Branding和媒体叙事会不会成为竞争壁垒？</p><p><a class=\"timestamp\">107:49</a> 资本、媒体和创业公司的合谋：Personal Agent是否正在被融资提前催熟？</p><p><strong>七、中国玩家入场，最后押注谁会赢</strong></p><p><a class=\"timestamp\">112:45</a> 中国第一个真正普及的Personal Agent，最可能从微信、豆包、手机厂商还是创业公司里长出来？</p><p><a class=\"timestamp\">115:08</a> 创业公司的机会与残酷：产品创新很快会被复制，唯一壁垒可能只剩持续创新的团队</p><p><a class=\"timestamp\">117:31</a> 快问快答：</p><blockquote><p><a class=\"timestamp\">117:57</a> 如果微信推出Personal Agent，你愿意授权它读取聊天记录吗？</p><p><a class=\"timestamp\">118:11</a> 你愿意用多少隐私，换取一个真正能替你办事的Agent？</p><p><a class=\"timestamp\">119:59</a> 三年后，大多数人都会拥有一个24小时在线的Personal Agent吗？</p><p><a class=\"timestamp\">120:03</a> “从人民中来，到人民中去，最终还是要为人民服务”</p><p><a class=\"timestamp\">120:21</a> 十二个月后，出现什么现象才能证明Personal Agent真的成立了？</p><p><a class=\"timestamp\">121:07</a> 最后押注：Personal Agent时代最值钱的位置，究竟是模型、Context、设备、供给，还是用户信任？</p></blockquote><p>【本期提及】</p><p>Town、Instinct、Grok Bot、Meta Muse、Today、Poke、OpenClaw、Manus、豆包、千问、元宝、微信、WhatsApp、Instagram、Slack、Stripe Link。</p><img src=\"https://image.xyzcdn.net/FgSJ1pqSnnkgifUVbaBkkWPMqxPp.png\" /><img src=\"https://image.xyzcdn.net/FgDrV7EGOFfwDOKLSG1SGNyf_zLT.png\" /><img src=\"https://image.xyzcdn.net/FlIaiePQCjt4FHdzfU7Q_-95NaQB.png\" /><p>🎵【开场&amp;结尾音乐】</p><p>开场音乐：Trent Reznor&amp;Atticus Ross - In Motion（电影《社交网络》原声音乐。）</p><p>结尾音乐：Mount Dreams - Wolfs</p><p></p><p>ℹ【关于「乱翻书」】</p><p>「乱翻书」是一档关注商业、科技和互联网的圆桌对话节目。关心How和Why，以及少有人注意到的What。内容主要方向是科技考古、行业观察和前沿思考，研究公司的兴衰循环，希望能够为你带来信息增量。</p><p>「乱翻书」主理人是潘乱，代表作品有《<a href=\"https://mp.weixin.qq.com/s/3oWeukzgqpy0RSWmaO8mzw\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">腾讯没有梦想</a>》、字节跳动/快手早期关键节点的系列特写。</p><img src=\"https://image.xyzcdn.net/FhSAkfomuu9OAzYpdRBjz6vcKk9x.jpg\" /><p>【图】▲直播截图</p><p>本期编辑：怀杭</p><p></p>",
+      "external_id": "6ab029b7ac389df82734ebb6",
+      "item_slug": "luan-fan-shu-4a29685e4736",
+      "language": "zh",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "published_to_feed_at": "2026-09-21T05:14:19.254603+00:00",
+      "source_id": "luan-fan-shu",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
+      "title_zh": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6ab029b7ac389df82734ebb6?utm_source=rss"
+    },
     "naval::01845d42-7449-492d-b0c8-af7da7f3f421": {
       "attempts": 1,
       "description": "<p>http://nav.al/simplest</p>",
@@ -3210,10 +3227,10 @@
       "url": "https://share.transistor.fm/s/bc1a283c"
     },
     "streamlined-solopreneur::4b8bedfb-1e31-4ef4-b1f8-38b3081b5620": {
-      "attempts": 9,
+      "attempts": 10,
       "description": "<p>This week I talk about the iPhone Duo — my first real foldable — and why I'll trade away the telephoto lens, action button, and fast charging (and swallow a $2,100 price plus the end of the annual upgrade program) for a big anti-glare screen that folds into my pocket and takes an Apple Pencil. </p><p>Then an episode of Ditching Hourly with Nick Richtsmeier on doing things that don't scale and focusing on impact, which sold me on his new book, The Damn Rules. And a recommendation for You Can See Everything, the A24 documentary following Elizabeth Holmes in the weeks before she began her prison sentence, which premiered at the Telluride Film Festival. </p><p>Plus this week's systems tip: a Claude skill that splits one long recording into separate episodes by detecting the claps between them, then transcribes, titles, and schedules each one on rss.com.</p><p><strong>Links:</strong></p><ul><li><a href=\"https://www.youtube.com/watch?v=6Tve9mDy3LU\">iPhone Duo Hands-On: Apple Finally Made a Foldable</a> (MKBHD)</li><li><a href=\"https://jonathanstark.com/daily/20260827-2359-nick-richtsmeier---the-damn-rules\">The Damn Rules — Ditching Hourly with Jonathan Stark</a> (Ditching Hourly)</li><li><a href=\"https://www.nickrichtsmeier.com/the-damn-rules\">The Damn Rules by Nick Richtsmeier</a></li><li><a href=\"https://www.youtube.com/watch?v=pTL9BtN6IKs\">You Can See Everything — Official Teaser</a> (A24)</li></ul><p>If you need help with your systems — you're doing everything yourself and want to take things off your plate, but you don't want to hire a team or lean too much on AI to do the actual craft — I can help. Book a free 25-minute coaching call at <a href=\"https://streamlined.fm/clarity\">streamlined.fm/clarity</a>.</p><p>Are you an Apple nerd with something on your mind about the iPhone Duo? Let me know at <a href=\"https://streamlinedfeedback.com/\">streamlinedfeedback.com</a>. You can write in or leave a voice note — I might even play it on the show.</p><p><br /><a href=\"https://share.transistor.fm/s/2b3bb0fd/transcript\" title=\"View the episode transcript\">View the episode transcript</a><br />\n<br /></p><ul><li>(00:00) - My Thoughts on the iPhone Duo</li>\n<li>(03:34) - Recommended Reading: 'The Damn Rules'</li>\n<li>(04:28) - Something Fun: Theranos &amp; Elizabeth Holmes Documentary</li>\n<li>(06:12) - How I Use Claude to Automate My Podcast Workflow</li>\n<li>(09:16) - Wrapping Up</li>\n</ul><p></p><p>————<br />Streamlined Solopreneur helps overwhelmed solo business owners go from overwhelmed to having their time back.</p><p>Each week, Joe Casabona shares one practical idea — a system, tool, or strategy to help you get your time back without selling your soul to AI...and run your business without sacrificing the rest of your life, or your health.</p><p><br />Looking for a place to start? Take the Solo Systems Starter Quiz. 60 seconds, 8 questions, and I will tell you what system you should build first, and exactly how to build it. <a href=\"https://streamlined.fm/quiz%20\">https://streamlined.fm/quiz </a></p><p><br />Connect with Joe on LinkedIn: <a href=\"https://www.linkedin.com/in/jcasabona/\">https://www.linkedin.com/in/jcasabona/</a></p><br /><em>Disclosure: these show notes were generated from the transcript and written newsletter, using a very strict format for how it's all put together.</em>",
       "external_id": "4b8bedfb-1e31-4ef4-b1f8-38b3081b5620",
-      "last_attempt_at": "2026-09-20T05:03:21.704364+00:00",
+      "last_attempt_at": "2026-09-21T05:13:11.978729+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-11T15:16:00+00:00",
       "source_id": "streamlined-solopreneur",
@@ -4326,10 +4343,10 @@
       "url": "https://a16z.simplecast.com/episodes/three-startups-reinventing-critical-infrastructure-FkRDwjit"
     },
     "the-a16z-show::6f1d0668-af88-4f33-abb8-e5ffbc3bfc09": {
-      "attempts": 1,
+      "attempts": 2,
       "description": "Ben Horowitz and Erik Torenberg sit down with Nas, Grandmaster Caz, and Steve Stoute for a conversation about the Paid in Full Foundation and its mission to recognize and support the pioneers who built hip-hop.\nBen, Nas, and Steve share how the foundation began, why simply giving artists money wasn’t enough, and how the Hip Hop Grandmaster Awards became a way to pair financial support with the recognition many foundational artists never received. Caz brings the perspective of one of those pioneers, reflecting on his role in hip-hop’s earliest history and what receiving the award has meant for his life and legacy.\nThey also discuss the enormous cultural and commercial impact of hip-hop beyond music, from language and fashion to some of the world’s biggest brands, why so many of its pioneers captured so little of that value, and what happens when generations of hip-hop finally come together in the same room.",
       "external_id": "6f1d0668-af88-4f33-abb8-e5ffbc3bfc09",
-      "last_attempt_at": "2026-09-20T16:20:45.570431+00:00",
+      "last_attempt_at": "2026-09-21T05:12:06.154733+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-20T10:01:39+00:00",
       "source_id": "the-a16z-show",
@@ -4913,10 +4930,10 @@
       "url": "33e11418-6a02-11f1-a757-6fc489e9396e"
     },
     "the-investors-podcast::3a8c39aa-b318-11f1-aa0a-d323fb577b4e": {
-      "attempts": 2,
+      "attempts": 3,
       "description": "In this episode, William Green speaks with Rob Vinall, an English hedge fund manager with a terrific track record. Since launching his Business Owner Fund in 2008, he’s racked up stellar annualized returns of 15.5%. Rob almost never gives interviews but speaks in depth here about the principles & practices that have driven his success in the 20 years since he founded his firm, RV Capital—not least, his habit of betting on CEOs who view their business as their life’s work.\n\nIN THIS EPISODE YOU’LL LEARN:\n\n(00:00:00) Intro\n\n(00:03:54) How Rob Vinall vaulted himself out of humble circumstances\n\n(00:14:26) Why he disliked working at Goldman Sachs\n\n(00:17:12) How he taught himself to invest during the dotcom crash\n\n(00:24:20) How Berkshire Hathaway’s annual meeting changed his life\n\n(00:27:39) How he launched a fund with no staff, no office & no track record\n\n(00:41:22) What he learned from Warren Buffett’s relationship with Ajit Jain\n\n(00:50:19) What qualities Rob looks for in outlier CEOs\n\n(01:01:03) Why he admires Mark Zuckerberg & disagrees with Meta’s critics\n\n(01:03:21) How Rob’s thinking about business moats has evolved\n\n(01:04:47) Why he’s betting a third of his assets on out-of-favor Chinese stocks\n\n(01:20:41) Why today’s momentum-driven market is ideal for long-term investors\n\n(01:32:12) How he survived the most traumatic year of his life\n\n(01:42:07) What drives him after 20 years of investment success\n\n(01:48:54) How to handle being rich without wrecking your kids\n\nDisclaimer: Slight discrepancies in the timestamps may occur due to podcast platform differences.\n\n\n\nBOOKS AND RESOURCES\n\n\n  Inquire about William Green’s&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Richer, Wiser, Happier Masterclass⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Benjamin Graham’s book,&nbsp;The Intelligent Investor.\n\n  Alice Schroeder’s book,&nbsp;The Snowball.\n\n  William Green’s&nbsp;podcast episode with&nbsp;Chris Begg.&nbsp;\n\n  William Green’s&nbsp;podcast episode with&nbsp;Terry Smith.\n\n  William Green’s book, “Richer, Wiser, Happier” –&nbsp;⁠read the reviews of this book⁠.\n\n  Follow William Green on ⁠X⁠.\n\n  Related&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;mentioned in the podcast.\n\n  Ad-free episodes on our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\nNEW TO THE SHOW?\n\n\n  Get smarter about valuing businesses through&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Follow our official social media accounts:&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;|&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;|&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Try our tool for picking stock winners and managing our portfolios:&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TIP Finance⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Enjoy exclusive perks from our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠favorite Apps and Services⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\nSPONSORS&nbsp;\n\nSupport our free podcast by supporting our ⁠sponsors⁠:\n\n\n  Monarch\n\n  Plus500\n\n  Netsuite\n\n  Plaud\n\n\nReferences to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.\nSupport our show by becoming a premium member! https://theinvestorspodcastnetwork.supportingcast.fm",
       "external_id": "3a8c39aa-b318-11f1-aa0a-d323fb577b4e",
-      "last_attempt_at": "2026-09-20T16:25:33.205811+00:00",
+      "last_attempt_at": "2026-09-21T05:18:35.932132+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-20T00:00:00+00:00",
       "source_id": "the-investors-podcast",
@@ -5564,10 +5581,10 @@
       "url": "https://podcasters.spotify.com/pod/show/morgan-housel/episodes/Respecting-Each-Others-Delusions--Memory-Dividends--and-What-Our-Grandchildren-Will-Enjoy-e3mp9ck"
     },
     "the-psychology-of-money-with-morgan-housel::edcede58-bca9-4abe-a8a9-1191e70f2e65": {
-      "attempts": 5,
+      "attempts": 6,
       "description": "<p>One of the most important financial skills: recognizing when things are abnormally good and realizing they won't last. </p><p><br /></p><p>This episode is brought to you by Davis Advisors. To learn more, visit https://www.davisadvisors.com/. Before investing, you should carefully consider the investment objectives, risks, charges, and expenses. The prospectus or Form ADV, as applicable, contains this and other information. You can obtain a current prospectus or Form ADV by calling 800-279-2279. Investing involves risks including possible loss of principal.</p>",
       "external_id": "edcede58-bca9-4abe-a8a9-1191e70f2e65",
-      "last_attempt_at": "2026-09-20T16:23:17.267372+00:00",
+      "last_attempt_at": "2026-09-21T05:16:51.415710+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-18T13:04:56+00:00",
       "source_id": "the-psychology-of-money-with-morgan-housel",
@@ -5645,10 +5662,10 @@
       "url": "https://rationalreminder.libsyn.com/ben-carlson-investing-at-all-time-highs-412"
     },
     "the-rational-reminder-podcast::13afd187-80c5-4e6d-9d44-e47c81435d6e": {
-      "attempts": 7,
+      "attempts": 8,
       "description": "<p dir=\"ltr\">In this episode, we're joined by Matthew Taylor, a litigation lawyer with Sotos Class Actions in Toronto who represents retail investors and pension funds in securities class actions. We take a deep dive into what makes a successful negligence claim against a financial advisor, how courts assess fiduciary relationships in Canada, and what investors should look for when evaluating the people managing their money.</p> <p><strong> </strong></p> <p dir=\"ltr\">We explore the evidence that can strengthen or weaken a negligence claim, from one-size-fits-all portfolios and unexplained trades to poor communication and failures to account for changing life circumstances. Matthew also explains the distinction between suitability and fiduciary standards, the factors courts consider when determining whether a fiduciary relationship exists, and why professional affiliations and explicit fiduciary commitments can matter.</p> <p><strong> </strong></p> <p dir=\"ltr\">The conversation then turns to class actions, including how securities claims differ from individual negligence lawsuits, what makes a claim suitable for class proceedings, and why regulatory investigations, specialist law firms, litigation funding, and parallel U.S. proceedings can provide important signals. We also discuss pension funds, their role as plaintiffs, and why monitoring potential claims and settlements can be part of managing beneficiaries' assets.</p> <p><strong> </strong></p> <p dir=\"ltr\">Finally, we examine the growing retailization of private assets and the risks created by limited information, complex structures, opaque fees, illiquidity, and manager-determined valuations. Matthew explains what advisors and clients should consider before investing in private funds—and why he expects more litigation in this area. We close with the legal and regulatory challenges created by financial influencers, and how investors and advisors can build greater resilience against misleading financial content.</p> <p><strong><br /> <br /></strong></p> <p dir=\"ltr\">Key Points From This Episode:</p> <p dir=\"ltr\">(0:01:04) Advisor errors leading to negligence claims—KYC, KYP, suitability failures, plus warning signs like one-size-fits-all portfolios, unexplained trades, concentrated positions, churning, and double dipping.</p> <p dir=\"ltr\">(0:02:20) Why evidence matters: the gap between what people know and what they can prove in court. </p> <p dir=\"ltr\">(0:04:08) How investors can recognize poor advice—changes in communication, failure to address life circumstances, or lack of transparency. </p> <p dir=\"ltr\">(0:06:41) Importance of checking an advisor's regulatory history before entrusting significant assets. </p> <p dir=\"ltr\">(0:07:51) Investor vulnerabilities: age, education, language barriers, or sudden wealth. </p> <p dir=\"ltr\">(0:11:27) Steps after negligent advice—seek a second opinion, adjust the portfolio, and consider legal recourse quickly due to limitation periods. </p> <p dir=\"ltr\">(0:13:30) Risk capacity vs. risk tolerance, and overlooked risks such as liquidity, sequence-of-returns, and withdrawal risk. </p> <p dir=\"ltr\">(0:16:34) Advisors' uneven understanding of risk, shaped by firm/product-provider education and low industry entry barriers. </p> <p dir=\"ltr\">(0:19:48) Courts' five fiduciary factors—vulnerability, trust, reliance, discretion, and professional standards—and how fiduciary duties differ from suitability standards. </p> <p dir=\"ltr\">(0:28:28) Individual lawsuits vs. group/class actions, with securities class actions focusing on disclosure problems and asset-manager claims. </p> <p dir=\"ltr\">(0:42:45) Case studies: Sino-Forest fraud and challenges of private assets—opaque structures, layered fees, liquidity risk, and valuation issues. </p> <p dir=\"ltr\">(1:01:00) Regulatory challenges of finfluencers, difficulties in enforcement, and how advisors can inoculate clients against misinformation by teaching evaluation skills.<br /> <br /></p> <p dir=\"ltr\">Sources From Today's Episode — <a href=\"https://zbib.org/71e494008bb74d18a17de20419ca0647\">https://zbib.org/71e494008bb74d18a17de20419ca0647</a></p> <p dir=\"ltr\"><br /> Links From Today's Episode:<br /> <br /> Meet with PWL Capital: <a href=\"https://pwlcapital.com/\">https://pwlcapital.com/</a> </p> <p dir=\"ltr\">PWL Team — <a href=\"https://pwlcapital.com/our-team/\">https://pwlcapital.com/our-team/</a></p> <p dir=\"ltr\">Rational Reminder on Spotify — <a href=\"https://open.spotify.com/show/6RHWTH9iW7hdnA7eAg7ukO?si=fe7f60349b584026\"> https://open.spotify.com/show/6RHWTH9iW7hdnA7eAg7ukO?si=fe7f60349b584026</a></p> <p dir=\"ltr\">Rational Reminder on iTunes — <a href=\"https://itunes.apple.com/ca/podcast/the-rational-reminder-podcast/id1426530582?mt=2\">https://itunes.apple.com/ca/podcast/the-rational-reminder-podcast/id1426530582</a>.<br />  Rational Reminder on Instagram — <a href=\"https://www.instagram.com/rationalreminder/\">https://www.instagram.com/rationalreminder/</a></p> <p dir=\"ltr\">Rational Reminder on YouTube — <a href=\"https://www.youtube.com/channel/UCOErWFfNOQzXsgE7f5S_ULw\">https://www.youtube.com/channel/<br /> </a>Benjamin Felix — <a href=\"https://pwlcapital.com/our-team/\">https://pwlcapital.com/our-team/</a></p> <p dir=\"ltr\">Benjamin on X — <a href=\"https://x.com/benjaminwfelix\">https://x.com/benjaminwfelix</a></p> <p dir=\"ltr\">Benjamin on LinkedIn — <a href=\"https://www.linkedin.com/in/benjaminwfelix/\">https://www.linkedin.com/in/benjaminwfelix/</a></p> <p dir=\"ltr\">Matthew on LinkedIn — <a href=\"https://www.linkedin.com/in/matthew-w-taylor/\">https://www.linkedin.com/in/matthew-w-taylor/</a></p> <p dir=\"ltr\">Geller Law — <a href=\"https://www.gellerlaw.ca/lawyers/matthew-w-taylor\">Legal Legacy - Webflow Ecommerce Website Template</a></p> <p><strong><br /> <br /></strong></p> <p dir=\"ltr\">Editing and post-production work for this episode was provided by The Podcast Consultant (<a href=\"https://thepodcastconsultant.com\">https://thepodcastconsultant.com</a>)</p> <p> </p>",
       "external_id": "13afd187-80c5-4e6d-9d44-e47c81435d6e",
-      "last_attempt_at": "2026-09-20T16:23:28.772337+00:00",
+      "last_attempt_at": "2026-09-21T05:17:54.007101+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-17T09:30:00+00:00",
       "source_id": "the-rational-reminder-podcast",
@@ -6351,10 +6368,10 @@
       "url": "gid://art19-episode-locator/V0/uq7SO7o_c3RZjHTWkxBTUTZezGPf2BKrQpBzrXkHCaY"
     },
     "the-tim-ferriss-show::gid://art19-episode-locator/V0/w-0oGFd2IzhFS0QEXBKFFS5ISPi0tChyH9JjnpZM9NI": {
-      "attempts": 4,
+      "attempts": 5,
       "description": "<p>My guest today is <a href=\"https://www.taniadejong.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Tania de Jong</strong></a>, co-founder of <a href=\"https://mindmedicineaustralia.org.au/\" rel=\"noopener noreferrer\" target=\"_blank\">Mind Medicine Australia</a>. Tania and her husband, Peter, helped lead the push that, in 2023, made Australia the first country in the world to allow MDMA and psilocybin to be prescribed for psychiatric conditions. I wanted to understand how the hell they helped make that happen and what the rest of the world can learn from it.</p><p><strong>This episode is brought to you by:</strong></p><ul><li><a href=\"https://prolonlife.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>ProLon</strong></a><strong> science-backed Fasting Mimicking Diet that helps activate cellular renewal through fasting, while still eating nourishing meals: </strong><a href=\"https://prolonlife.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>https://prolonlife.com/Tim</strong></a></li><li><a href=\"https://livemomentous.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Momentous</strong></a><strong> high-quality creatine for cognitive and muscular support: </strong><a href=\"https://LivemoMentous.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>https://LiveMomentous.com/Tim</strong></a></li><li><a href=\"https://drinkag1.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>AG1</strong></a> <strong>all-in-one nutritional supplement: </strong><a href=\"https://drinkag1.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>DrinkAG1.com/Tim</strong></a></li></ul><p><strong>Timestamps</strong></p><p>[00:00:00] Intro from Tim.</p><p>[00:02:46] The article that changed Tania’s life.</p><p>[00:04:39] A first psychedelic experience—and the year it took to integrate it.</p><p>[00:10:17] Rick Doblin’s encouragement and the birth of Mind Medicine Australia.</p><p>[00:13:15] Turning regulatory rejection into a stronger application.</p><p>[00:20:48] Building a grassroots movement and training clinicians.</p><p>[00:23:23] Cold emails, scientific allies, and singing your way into the room.</p><p>[00:31:11] A week with Ram Dass: silence, singing, and an extraordinary LSD story.</p><p>[00:37:54] Bringing David Nutt—and a family’s devastating story—to the regulators.</p><p>[00:42:42] Dancing in the kitchen: Australia’s rescheduling breakthrough.</p><p>[00:43:40] From changing the rules to treating patients.</p><p>[00:48:18] Why Tim thinks MDMA is still underestimated.</p><p>[00:50:23] Integration beyond the session: therapy, nutrition, and exercise.</p><p>[00:52:29] Scaling access and collecting real-world evidence.</p><p>[00:58:13] Getting insurers, government agencies, and philanthropists on board.</p><p>[01:01:39] Syrian rue, psilocybin, and learning to let go of control.</p><p>[01:10:01] Dosing, expectations, and the pressure to take more.</p><p>[01:12:02] The promise of group therapy and shared integration.</p><p>[01:14:22] Hiring mistakes, personal attacks, and the resilience advocacy requires.</p><p>[01:23:38] Turning a window of change into lasting habits.</p><p>[01:25:51] Getting through to regulators and pushing for end-of-life access.</p><p>[01:28:27] The bureaucratic barriers that remain.</p><p>[01:31:38] What treatment costs—and why therapist time drives the bill.</p><p>[01:35:07] Could shorter-acting compounds make treatment more affordable?</p><p>[01:38:46] Ketamine, kratom, and the limits of “all natural.”</p><p>[01:43:14] The unexpected payoff from Tim’s ketamine experiment.</p><p>[01:47:46] What might come next for psychedelic access worldwide?</p><p>[01:49:04] Persistence versus pushiness—and knowing when to try another door.</p><p>[01:54:22] Supporting patients and training the next wave of clinicians.</p><p>[01:57:51] “Be curious”: exploring your inner world and walking each other home.</p><p>[02:01:35] The ripple effects of sharing your curiosity—and simply asking for help.</p><p><strong>Timeline:</strong></p><ul><li><strong>February 2, 2015:</strong> Michael Pollan publishes “<a href=\"https://www.newyorker.com/magazine/2015/02/09/trip-treatment\" rel=\"noopener noreferrer\" target=\"_blank\">The Trip Treatment</a>” in <em>The New Yorker, </em>which is the article Tania credits with setting her journey in motion.</li><li><strong>March 21, 2015:</strong> Tim releases his James Fadiman interview, “<a href=\"https://tim.blog/2015/03/21/james-fadiman/\" rel=\"noopener noreferrer\" target=\"_blank\">The Psychedelic Explorer’s Guide</a>” (#66). Its show notes link to “The Trip Treatment.”</li><li><strong>January 15, 2016:</strong> In <em>5-Bullet Friday</em>, Tim announces support for Johns Hopkins’ psilocybin research and a personal commitment of at least $100,000 toward psychedelic research that year.</li><li><strong>2016:</strong> Tania and Peter travel to the Netherlands for their first guided psilocybin experience. <a href=\"https://www.taniadejong.com/wp-content/uploads/Songs-for-Psychedelics-A-Magic-Mushroom-Adventure-Press-Release-2021.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">(Source)</a></li><li><strong>2017–2019:</strong> UCSF conducts the psilocybin-assisted group-therapy study involving long-term AIDS survivors that Tim helped support. <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC7599297/\" rel=\"noopener noreferrer\" target=\"_blank\">(Source)</a></li><li><strong>May 6, 2018:</strong> Michael Pollan joins Tim for “Exploring the New Science of Psychedelics” (#313), discussing his forthcoming book (<a href=\"https://www.amazon.com/dp/0735224153?tag=offsitoftimfe-20\" rel=\"noopener noreferrer\" target=\"_blank\"><em>How to Change Your Mind</em></a><em>)</em>.</li><li><strong>May 15, 2018:</strong> Pollan’s <a href=\"https://www.amazon.com/dp/0735224153?tag=offsitoftimfe-20\" rel=\"noopener noreferrer\" target=\"_blank\"><em>How to Change Your Mind</em></a> is published.</li><li><strong>February 13, 2019:</strong> Tania and Peter publicly launch <a href=\"https://mindmedicineaustralia.org.au/\" rel=\"noopener noreferrer\" target=\"_blank\">Mind Medicine Australia</a>. <a href=\"https://mindmedicineaustralia.org.au/understanding/\" rel=\"noopener noreferrer\" target=\"_blank\">(Source)</a></li><li><strong>2020–2022:</strong> MMA applies to reschedule MDMA and psilocybin, faces rejection, and submits new applications in March 2022. <a href=\"https://mindmedicineaustralia.org.au/wp-content/uploads/Media-Alert_MMA-response-to-Interim-Decision-2022-Release_FINAL_261022.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">(Source)</a></li><li><strong>November 21, 2022:</strong> David Nutt presents to Australia’s medicines regulator, the TGA, supporting the case for therapeutic access. <a href=\"https://www.tga.gov.au/sites/default/files/2023-02/notice-of-final-decision-to-amend-or-not-amend-the-current-poisons-standard-june-2022-acms-38-psilocybine-and-mdma.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">(Source)</a></li><li><strong>February 3, 2023:</strong> The TGA announces restricted prescribing access to MDMA for PTSD and psilocybin for treatment-resistant depression, effective <strong>July 1, 2023</strong>. <a href=\"https://www.tga.gov.au/news/media-releases/change-classification-psilocybin-and-mdma-enable-prescribing-authorised-psychiatrists\" rel=\"noopener noreferrer\" target=\"_blank\">(Source)</a></li><li><strong>January 2024:</strong> Patients begin receiving treatment under the new prescribing program. <a href=\"https://mindmedicineaustralia.org.au/treatments/\" rel=\"noopener noreferrer\" target=\"_blank\">(Source)</a></li></ul><p><em>*</em></p><p><strong>For show notes and past guests on </strong><a href=\"https://tim.blog/podcast\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><em>The Tim Ferriss Show</em></strong></a><strong>, please visit</strong> <a href=\"https://tim.blog/podcast/?utm_source=podcast&amp;utm_medium=podcast&amp;utm_campaign=podcast-description\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/podcast</strong></a><strong>.</strong></p><p><strong>For deals from sponsors of </strong><a href=\"https://tim.blog/podcast\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><em>The Tim Ferriss Show</em></strong></a><strong><em>, </em>please visit </strong><a href=\"https://tim.blog/podcast-sponsors\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/podcast-sponsors</strong></a></p><p><strong>Sign up for Tim’s email newsletter (<em>5-Bullet Friday</em>) at </strong><a href=\"https://go.tim.blog/5-bullet-friday-1/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/friday</strong></a><strong>.</strong></p><p><strong>For transcripts of episodes, go to </strong><a href=\"https://tim.blog/transcripts\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/transcripts</strong></a><strong>.</strong></p><p><strong>Discover Tim’s books: </strong><a href=\"https://tim.blog/books\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/books</strong></a><strong>.</strong></p><p><strong>Follow Tim:</strong></p><p><strong>Twitter</strong>: <a href=\"https://twitter.com/tferriss\" rel=\"noopener noreferrer\" target=\"_blank\">twitter.com/tferriss</a>&nbsp;</p><p><strong>Instagram</strong>: <a href=\"https://instagram.com/timferriss/\" rel=\"noopener noreferrer\" target=\"_blank\">instagram.com/timferriss</a></p><p><strong>YouTube</strong>: <a href=\"https://www.youtube.com/timferriss\" rel=\"noopener noreferrer\" target=\"_blank\">youtube.com/timferriss</a></p><p><strong>Facebook</strong>: <a href=\"https://www.facebook.com/TimFerriss/\" rel=\"noopener noreferrer\" target=\"_blank\">facebook.com/timferriss</a>&nbsp;</p><p><strong>LinkedIn: </strong><a href=\"http://linkedin.com/in/timferriss\" rel=\"noopener noreferrer\" target=\"_blank\">linkedin.com/in/timferriss</a></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
       "external_id": "gid://art19-episode-locator/V0/w-0oGFd2IzhFS0QEXBKFFS5ISPi0tChyH9JjnpZM9NI",
-      "last_attempt_at": "2026-09-20T16:28:00.612613+00:00",
+      "last_attempt_at": "2026-09-21T05:21:02.969650+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-18T19:30:00+00:00",
       "source_id": "the-tim-ferriss-show",
@@ -7387,15 +7404,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-20T16:14:36.052582+00:00",
-      "last_modified": "Sun, 20 Sep 2026 16:14:19 GMT",
+      "last_checked_at": "2026-09-21T05:06:39.173201+00:00",
+      "last_modified": "Mon, 21 Sep 2026 05:04:48 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-20T16:13:48.925793+00:00",
+      "last_checked_at": "2026-09-21T05:05:04.426733+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -7403,14 +7420,14 @@
     "feng-tou-quan": {
       "etag": "W/\"27dfa2e7a7a509b67a53d49a93f75f87\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-20T16:12:44.793610+00:00",
+      "last_checked_at": "2026-09-21T05:04:11.334701+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-20T16:14:40.087253+00:00",
+      "last_checked_at": "2026-09-21T05:07:07.120424+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
@@ -7418,14 +7435,14 @@
     "gao-qian-nu-hai": {
       "force_refresh": false,
       "last_attempt_at": "2026-08-26T13:21:20.005733+00:00",
-      "last_checked_at": "2026-09-20T16:12:51.239194+00:00",
+      "last_checked_at": "2026-09-21T05:04:07.352980+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-20T16:12:41.060621+00:00",
+      "last_checked_at": "2026-09-21T05:04:03.350351+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -7433,7 +7450,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-20T16:16:01.219254+00:00",
+      "last_checked_at": "2026-09-21T05:08:04.879286+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -7442,7 +7459,7 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"3c116e388797033be8c9b870ae530829\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-20T16:14:37.593956+00:00",
+      "last_checked_at": "2026-09-21T05:05:55.752450+00:00",
       "last_modified": "Thu, 17 Sep 2026 11:30:05 GMT",
       "title": "声东击西",
       "type": "podcast",
@@ -7451,7 +7468,7 @@
     "silicon-valley-101": {
       "etag": "W/\"a4a375c834e0cc9221a648f4401b2e9f\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-20T16:13:30.676323+00:00",
+      "last_checked_at": "2026-09-21T05:04:46.693400+00:00",
       "last_modified": "Fri, 18 Sep 2026 13:46:33 GMT",
       "title": "硅谷101",
       "type": "podcast",
@@ -7460,7 +7477,7 @@
     "streamlined-solopreneur": {
       "etag": "W/\"e29fcbfc40d54b4e3eafed8be968ae2f\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-20T16:17:16.782714+00:00",
+      "last_checked_at": "2026-09-21T05:13:07.956208+00:00",
       "last_modified": "Sat, 19 Sep 2026 10:58:30 GMT",
       "title": "Streamlined Solopreneur: Solo Ops to Stop Doing Everything Yourself",
       "type": "podcast",
@@ -7470,7 +7487,7 @@
       "etag": "W/\"6227f97e4fabffefb08c3b5d1be753a1\"",
       "force_refresh": false,
       "last_attempt_at": "2026-09-19T15:58:18.869677+00:00",
-      "last_checked_at": "2026-09-20T16:13:36.758045+00:00",
+      "last_checked_at": "2026-09-21T05:05:47.374188+00:00",
       "last_error": "ConnectError: [Errno 104] Connection reset by peer",
       "last_modified": "Wed, 16 Sep 2026 04:23:26 GMT",
       "title": "随机波动StochasticVolatility",
@@ -7480,7 +7497,7 @@
     "the-a16z-show": {
       "etag": "W/\"085b22540bf2a6c2fc740899463b48a7\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-20T16:15:31.428091+00:00",
+      "last_checked_at": "2026-09-21T05:06:56.441612+00:00",
       "last_modified": "Sun, 20 Sep 2026 10:20:08 GMT",
       "title": "The a16z Show",
       "type": "podcast",
@@ -7488,7 +7505,7 @@
     },
     "the-investors-podcast": {
       "force_refresh": true,
-      "last_checked_at": "2026-09-20T16:15:37.035815+00:00",
+      "last_checked_at": "2026-09-21T05:08:04.738947+00:00",
       "last_modified": "Sun, 20 Sep 2026 00:00:00 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
@@ -7497,7 +7514,7 @@
     "the-psychology-of-money-with-morgan-housel": {
       "etag": "W/\"298dd-+DlBqAF/UQ9sqZIJOlnNksPDkgs\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-20T16:21:46.887086+00:00",
+      "last_checked_at": "2026-09-21T05:15:08.420120+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
@@ -7505,7 +7522,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"609cfb220222d8e5c479f28e9e0f515d\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-20T16:18:28.764500+00:00",
+      "last_checked_at": "2026-09-21T05:14:41.993477+00:00",
       "last_modified": "Thu, 17 Sep 2026 09:37:03 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -7513,7 +7530,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": true,
-      "last_checked_at": "2026-09-20T16:16:04.821212+00:00",
+      "last_checked_at": "2026-09-21T05:09:05.047463+00:00",
       "last_modified": "Fri, 18 Sep 2026 20:00:42 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -7521,26 +7538,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-20T16:12:54.214301+00:00",
+      "last_checked_at": "2026-09-21T05:04:04.380641+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-20T16:15:09.302625+00:00",
+      "last_checked_at": "2026-09-21T05:05:44.596216+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-20T16:13:44.190531+00:00",
+      "last_checked_at": "2026-09-21T05:04:53.219335+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-09-20T16:28:28.822906+00:00",
+  "updated_at": "2026-09-21T05:21:28.438579+00:00",
   "version": 1
 }
