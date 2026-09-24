@@ -2176,6 +2176,23 @@
       "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
       "url": "https://www.xiaoyuzhoufm.com/episode/6ab2546493d5eb3bdc794b18?utm_source=rss"
     },
+    "luan-fan-shu::6ab4b804e742e36efcbab131": {
+      "attempts": 1,
+      "description": "<p>🎙【本期嘉宾】高策、Suki</p><p>高策（Today 技术负责人）</p><p>Suki（Today founding PM）</p><p>主播：潘乱（「乱翻书」主理人）</p><p></p><p>💡【温馨提醒】</p><ul><li><p><a href=\"https://todayai.cn/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><strong>Today</strong></a><strong> 中国版于9月24日下午18：00正式在国内首发上线</strong>。</p></li><li><p><strong>基础版永久免费使用。</strong></p></li><li><p><strong>新用户注册即领1亿token，畅享1个月Pro权益。</strong></p></li></ul><p>Today是一个会在使用中逐渐了解你的AI助理，把你的每件事都放在心上。开会前准备资料、出发前安排旅行，这些繁琐的事情可以找它。学习、健康和个人财务这些需要长期跟进的事情，也可以让它一起关心。遇到值得留意的变化，它会告诉你。有时候你还没开口，它已经能根据之前了解的情况，替你多想一步。</p><ul><li><p><strong>下载入口：</strong><a href=\"https://todayai.cn/downloads\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">https://todayai.cn/downloads</a>（<strong>9月24日下午18：00后开放下载</strong>）</p></li></ul><img src=\"https://image.xyzcdn.net/FksML9q0wS0g0BE29QkiMRlHbxvg.jpg\" /><p>&nbsp;</p><p>🎬 本期视频播客同步上线于@潘乱的视频号、哔哩哔哩、微博、小红书、Youtube等平台。</p><img src=\"https://image.xyzcdn.net/Fv29gxwAs2dVEC6fdxybJFAUoibd.png\" /><p>⏰【时间线】</p><p><strong>一、热潮来了：产品还早，市场已经开打</strong></p><p><a class=\"timestamp\">02:11</a> 不说术语，Today 到底想做一个什么样的助理？</p><p><a class=\"timestamp\">03:48</a> 埋头做了半年，突然全世界都在讨论 Personal Agent：被验证了，还是得跑快点？</p><p><a class=\"timestamp\">06:58</a> 这轮热潮证明市场可能很大，眼下能办成的事却还很少。</p><p><a class=\"timestamp\">08:29</a> 为什么Today选择现在公开上线？</p><p>&nbsp;</p><p><strong>二、从“小龙虾”到个人助理：普通人为什么需要 Today？</strong></p><p><a class=\"timestamp\">10:57</a> 从 Monica 到 Today：Suki为什么越来越在意“用户有了想法，离事情办成还有多远”？</p><p><a class=\"timestamp\">14:10</a> 高策从 AI 基础设施转向 Personal Agent：模型能力不再是唯一瓶颈。</p><p><a class=\"timestamp\">17:01</a> 先服务 AI 重度用户，还是从普通人愿意交出去的事情找起？</p><p><a class=\"timestamp\">19:31</a> 为什么最早用上个人 Agent 的，往往是那些特别忙、又愿意折腾的人？</p><p><a class=\"timestamp\">22:27</a> Today 的一天：简报、日程、团队协作，以及下班后的一束花。</p><p><a class=\"timestamp\">25:31</a> 工作和生活本来就混在一起，个人 Agent 与办公 Agent 会走向融合吗？</p><p><a class=\"timestamp\">28:55</a> 豆包、千问也会接入干活能力，Today这样的独立产品还有什么机会？</p><p><a class=\"timestamp\">30:10</a> 市场目前仍小、产品尚未验证，大厂何时会真正重兵投入？</p><p><a class=\"timestamp\">32:22</a> 给助理起名字、赋予身份，会让它更好用，还是只增加拟人感？</p><p><a class=\"timestamp\">35:34</a> 养过一群 Agent，为什么最后希望用户只需要面对一个助理？</p><p>&nbsp;</p><p><strong>三、记忆篇：拿到了上下文，怎样真正理解一个人？</strong></p><p><a class=\"timestamp\">41:18</a> 邮件、日历、手机里都有信息；同样的上下文，为什么不同产品读出的东西不一样？</p><p><a class=\"timestamp\">44:28</a> Today 想怎样把记忆和主动服务接起来？</p><p><a class=\"timestamp\">52:17</a> 人会换工作、结婚、生孩子，旧记忆什么时候应该更新？</p><p><a class=\"timestamp\">57:19</a> 四千封未读邮件：“经常出现”和“真正关心”是两回事。</p><p><a class=\"timestamp\">59:15</a> “小孩发烧了怎么办”：Agent怎样分清一家人的身份与健康信息？</p><p><a class=\"timestamp\">01:02:43</a> 意图识别、任务路由能否交给更快更便宜的模型？</p><p>&nbsp;</p><p><strong>四、主动篇：从推送一条消息，到替你办完一件事</strong></p><p><a class=\"timestamp\">01:04:56</a> 想要做好Person AI，理解模型、Agent 框架和产品的人都稀缺</p><p><a class=\"timestamp\">01:07:21</a> 不同任务怎么选模型？表现、速度、成本之外，还有什么会影响体验？</p><p><a class=\"timestamp\">01:08:53</a> 没有记忆的主动容易变成骚扰；只有记忆，又只是一本档案。</p><p><a class=\"timestamp\">01:09:45</a> Today现在会怎样主动出现？信息推荐和跨场景发现，有哪些真实例子？</p><p><a class=\"timestamp\">01:10:00</a> 主动服务像两种下属：一个等你派活，一个知道什么事对你重要。</p><p><a class=\"timestamp\">01:11:28</a> 早晚报、事件提醒、任务推荐：怎么判断什么时候该出现、什么时候该闭嘴？</p><p><a class=\"timestamp\">01:13:40</a> AI 整理完会议又生成八项待办，为什么不能顺手把活干了？</p><p><a class=\"timestamp\">01:15:14</a> 从提醒、准备、确认到执行：Agent 最终能在多大程度上自己动手？</p><p><a class=\"timestamp\">01:16:47</a> 好的个人助理，首先得学会少说废话。</p><p>&nbsp;</p><p><strong>五、竞争篇：大厂会来，创业公司靠什么留下？</strong></p><p><a class=\"timestamp\">01:18:26</a> Muse 有资金和分发优势，Instinct 与 Town 各有切口；Today 怎么选择？</p><p><a class=\"timestamp\">01:21:55</a> Personal Agent 是短期过热、长期仍被低估吗？</p><p><a class=\"timestamp\">01:24:30</a> 创业公司的广度与深度：什么都能做，如何避免什么都做不透？</p><p><a class=\"timestamp\">01:28:11</a> 垂直场景更容易验证价值，Today 为什么坚持做横向的个人助理？</p><p><a class=\"timestamp\">01:30:31</a> 安排约会、发送邮件、跟进长期学习：哪些小事能让人先用起来？</p><p><a class=\"timestamp\">01:36:32</a> 一年以后，用户会怎样描述 Today？它究竟替人省下了什么？</p><p>&nbsp;</p><p>📌【本期提及】</p><p>Town、Instinct、Grok Bot、Meta Muse、Today、Poke、OpenClaw、Manus、豆包、千问、元宝、微信、WhatsApp、Instagram、Slack、Stripe Link。</p><p></p><p>🎵【开场&amp;结尾音乐】</p><p>开场&amp;结尾音乐：朴树 - New Boy（出自朴树专辑《我去2000年》，1999年1月发布）</p><img src=\"https://image.xyzcdn.net/FhIHBNr6MfDwDeKgL4oOJQChzSHi.jpg\" /><p></p><p>ℹ【关于「乱翻书」】</p><p>「乱翻书」是一档关注商业、科技和互联网的圆桌对话节目。关心How和Why，以及少有人注意到的What。内容主要方向是科技考古、行业观察和前沿思考，研究公司的兴衰循环，希望能够为你带来信息增量。</p><p>「乱翻书」主理人是潘乱，代表作品有《<a href=\"https://mp.weixin.qq.com/s/3oWeukzgqpy0RSWmaO8mzw\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">腾讯没有梦想</a>》、字节跳动/快手早期关键节点的系列特写。</p><img src=\"https://image.xyzcdn.net/FtnKqn8yXATcbu5t3TAgiN-_7_zo.jpg\" /><p>【图】▲Today中国版已于9月24日正式在国内首发上线</p><p>本期编辑：怀杭</p><p></p>",
+      "external_id": "6ab4b804e742e36efcbab131",
+      "item_slug": "luan-fan-shu-076c043589f2",
+      "language": "zh",
+      "published_at": "2026-09-24T05:46:12+00:00",
+      "published_to_feed_at": "2026-09-24T17:26:41.206908+00:00",
+      "source_id": "luan-fan-shu",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？",
+      "title_zh": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6ab4b804e742e36efcbab131?utm_source=rss"
+    },
     "naval::01845d42-7449-492d-b0c8-af7da7f3f421": {
       "attempts": 1,
       "description": "<p>http://nav.al/simplest</p>",
@@ -3312,10 +3329,10 @@
       "url": "https://share.transistor.fm/s/bc1a283c"
     },
     "streamlined-solopreneur::437f9509-6867-4d44-b5a2-e836cd11f80e": {
-      "attempts": 4,
+      "attempts": 5,
       "description": "<p>I hate lunch. I’m never prepared for it, so I just end up wasting a bunch of time before picking the fast, easy thing. If I did some meal prep, this wouldn’t be a problem.</p><p>But many solo business owners do the same thing with their work. They sit down, they shrug their shoulders, and wonder what to do. Everything takes more time because it's not written down.</p><p>That’s why today I'm walking through how to create an SOP with a screen recorder, a microphone, and AI.</p><p>If your business feels broken and you don't know where to start, take the quiz — a couple of questions, and it'll tell you which system to build first and send you the resource to get going: <a href=\"https://streamlined.fm/quiz\">https://streamlined.fm/quiz</a></p><p><br /><strong>Show Notes</strong></p><ul><li><a href=\"https://joec.pro/tella\">Tella</a></li><li><a href=\"https://streamlined.fm/quiz\">Which system should you build first? Take the quiz</a></li></ul>\n<ul><li>(00:00) - Why I Hate Lunch\n</li>\n<li>(01:24) - You Need SOPs\n</li>\n<li>(02:34) - Step 1: Choose a Task\n</li>\n<li>(04:12) - Step 2: Record and Narrate Your Process\n</li>\n<li>(06:27) - Step 3: Generate the SOP Using AI\n</li>\n<li>(08:36) - Finding Where to Start</li>\n</ul>\n<br /><p>————<br />Streamlined Solopreneur helps overwhelmed solo business owners go from overwhelmed to having their time back.</p><p>Each week, Joe Casabona shares one practical idea — a system, tool, or strategy to help you get your time back without selling your soul to AI...and run your business without sacrificing the rest of your life, or your health.</p><p><br />Looking for a place to start? Take the Solo Systems Starter Quiz. 60 seconds, 8 questions, and I will tell you what system you should build first, and exactly how to build it. <a href=\"https://streamlined.fm/quiz%20\">https://streamlined.fm/quiz </a></p><p><br />Connect with Joe on LinkedIn: <a href=\"https://www.linkedin.com/in/jcasabona/\">https://www.linkedin.com/in/jcasabona/</a></p>",
       "external_id": "437f9509-6867-4d44-b5a2-e836cd11f80e",
-      "last_attempt_at": "2026-09-24T05:07:11.924420+00:00",
+      "last_attempt_at": "2026-09-24T17:24:13.649205+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-22T06:00:00+00:00",
       "source_id": "streamlined-solopreneur",
@@ -4581,6 +4598,19 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://a16z.simplecast.com/episodes/inside-cursor-the-anatomy-of-a-generational-startup-eVZ_egyp"
     },
+    "the-a16z-show::8f0887d4-0c0f-45cc-b0e7-d7fe166c111c": {
+      "attempts": 1,
+      "description": "a16z crypto General Partner Eddy Lazzarin joins Theo Jaffee on MTS to debate the increasingly prominent calls to slow AI development and whether the current safety conversation is conflating very different kinds of risk.\nEddy argues that the debate puts too much emphasis on speculative superintelligence and not enough on the costs of delaying useful technology. Rather than treating every AI failure as evidence of an alignment problem, he makes the case for familiar tools like cybersecurity, accountability, liability, market incentives, and stronger technical controls.\nThey also discuss whether AI models can develop reputations for trustworthiness, the risks of concentrating oversight among a small group of evaluators, and why Eddy thinks the collision between Silicon Valley’s AI debates and broader politics could fundamentally reshape the conversation over the next year.",
+      "external_id": "8f0887d4-0c0f-45cc-b0e7-d7fe166c111c",
+      "last_attempt_at": "2026-09-24T17:23:11.603339+00:00",
+      "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "source_id": "the-a16z-show",
+      "source_type": "podcast",
+      "status": "failed",
+      "title": "The Case Against an AI Pause | Eddy Lazzarin",
+      "url": "https://a16z.simplecast.com/episodes/the-case-against-an-ai-pause-eddy-lazzarin-oPay7sAU"
+    },
     "the-a16z-show::8fe5cec4-1819-471b-b826-50cc7292e4f5": {
       "attempts": 1,
       "description": "a16z Managing Partner and Head of Global Partnerships Jen Kha joins MTS hosts Theo Jaffee and Sophia Dew to discuss a16z's Machine Age Fund and the investment thesis behind rebuilding the physical infrastructure that powers AI.\nJen explains why chips, networking, memory, cooling, data centers, and other parts of the physical computing stack are becoming investable again after decades in which software captured much of the industry's attention. As AI demand pushes existing infrastructure to its limits, she explains why a16z created a dedicated fund and why hardware founders are increasingly rethinking the stack from first principles.\nThey also discuss the global race to adopt AI, what hardware startups need beyond capital, the backlash against data centers in the U.S., and why experienced systems builders are returning to entrepreneurship as a new generation of infrastructure gets built.",
@@ -5144,10 +5174,10 @@
       "url": "56ae8960-74ae-11f1-9f03-3ff3e690a86a"
     },
     "the-investors-podcast::6439640e-b72c-11f1-bc7a-9ba945e4fc74": {
-      "attempts": 1,
+      "attempts": 2,
       "description": "Daniel Mahncke and Shawn O’Malley revisit Meta Platforms (NASDAQ: META), the advertising machine behind Facebook, Instagram, and WhatsApp that reaches 3.6 billion people every day — over 40% of the world’s population — and just grew ad revenue 27% to a nearly $240 billion annual run rate. Yet the stock trades more than 20% below its highs, because the money is going out even faster than it’s coming in: operating margins fell from 43% to 31% in a single year, quarterly free cash flow collapsed from $8.5 billion to $784 million, and capex guidance now sits at $130–145 billion this year — with analysts penciling in $200 billion for next.\n\nDaniel and Shawn dig into what all that spending actually buys. Is this Mark Zuckerberg’s third failed attempt to turn Meta into a platform — after the FarmVille-era Facebook apps and a $100 billion metaverse — or does AI finally make the vision real, whether through AI glasses, a personal agent, a budding cloud business, or an ad engine where every pixel becomes sellable inventory? They also cover Meta’s $17 billion settlement with 47 states over teen safety, the special purpose vehicles keeping tens of billions of data-center debt off Meta’s balance sheet, why Apple is quietly taking the opposite side of Meta’s bet, and why Wall Street rewards Google for the same capex it punishes Meta for. In the end, Daniel rebuilds his valuation model from scratch and decides whether Meta finally earns a spot in The Intrinsic Value Portfolio.\n\nIN THIS EPISODE YOU’LL LEARN:\n\n(00:00:00) Intro\n\n(00:01:54) About Zuckerberg’s Platform Dream\n\n(00:11:52) Why Meta was sued and how it settled\n\n(00:25:18) What the regulatory risk means for Meta’s future\n\n(00:30:56) What Meta’s AI vision looks like\n\n(00:39:00) How AI could revolutionize Meta’s Ads Business\n\n(00:42:02) About the optionality of WhatsApp\n\n(00:53:21) Why AI could make Meta glasses a success\n\n(01:06:58) How Meta is planning to build a Cloud Business\n\n(01:22:46) Meta's valuation discussion\n\n(01:26:29) How much Meta's stock is actually worth\n\n(01:26:51) Whether META will be added to The Intrinsic Value Portfolio\n\nDisclaimer: Slight discrepancies in the timestamps may occur due to podcast platform differences.\n\n\n\nBOOKS AND RESOURCES\n\n\n  Join the exclusive&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Portfolio Review ⁠⁠⁠⁠⁠⁠⁠⁠Submit Tool⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Our original deep-dive on Meta.\n\n  Zuckerberg’s WSJ Article –&nbsp;The AI Future is for Everyone.\n\n  Ben Thompson’s Research at Stratechery.\n\n  Check out our previous Intrinsic Value breakdowns: Alphabet, Microsoft, SpaceX.\n\n  Related&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;mentioned in the podcast.\n\n  Ad-free episodes on our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\nNEW TO THE SHOW?\n\n\n  Get smarter about valuing businesses through&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Follow our official social media accounts:&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;|&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;|&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Try our tool for picking stock winners and managing our portfolios:&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TIP Finance⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Enjoy exclusive perks from our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠favorite Apps and Services⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Learn how to better start, manage, and grow your business with the&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠best business podcasts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\nSPONSORS\nSupport our free podcast by supporting our ⁠⁠⁠⁠⁠⁠⁠⁠⁠sponsors⁠⁠⁠⁠⁠⁠⁠⁠⁠:\n\n\n  Monarch\n\n  Plus500\n\n  Netsuite\n\n  Plaud\n\n\nReferences to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.\nSupport our show by becoming a premium member! https://theinvestorspodcastnetwork.supportingcast.fm",
       "external_id": "6439640e-b72c-11f1-bc7a-9ba945e4fc74",
-      "last_attempt_at": "2026-09-24T05:13:43.560558+00:00",
+      "last_attempt_at": "2026-09-24T17:31:10.064657+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-24T00:00:00+00:00",
       "source_id": "the-investors-podcast",
@@ -5748,10 +5778,10 @@
       "url": "https://podcasters.spotify.com/pod/show/morgan-housel/episodes/Respecting-Each-Others-Delusions--Memory-Dividends--and-What-Our-Grandchildren-Will-Enjoy-e3mp9ck"
     },
     "the-psychology-of-money-with-morgan-housel::edcede58-bca9-4abe-a8a9-1191e70f2e65": {
-      "attempts": 12,
+      "attempts": 13,
       "description": "<p>One of the most important financial skills: recognizing when things are abnormally good and realizing they won't last. </p><p><br /></p><p>This episode is brought to you by Davis Advisors. To learn more, visit https://www.davisadvisors.com/. Before investing, you should carefully consider the investment objectives, risks, charges, and expenses. The prospectus or Form ADV, as applicable, contains this and other information. You can obtain a current prospectus or Form ADV by calling 800-279-2279. Investing involves risks including possible loss of principal.</p>",
       "external_id": "edcede58-bca9-4abe-a8a9-1191e70f2e65",
-      "last_attempt_at": "2026-09-24T05:11:47.235093+00:00",
+      "last_attempt_at": "2026-09-24T17:29:16.116841+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-18T13:04:56+00:00",
       "source_id": "the-psychology-of-money-with-morgan-housel",
@@ -5942,6 +5972,19 @@
       "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://rationalreminder.libsyn.com/is-veqt-costing-you-other-questions-416"
+    },
+    "the-rational-reminder-podcast::772fbfc5-fa95-4ef9-9ee3-176561581293": {
+      "attempts": 1,
+      "description": "<p dir=\"ltr\">What happens when a small group of exceptionally wealthy people holds a growing share of a country's income and wealth? And what can economics tell us about the forces behind that concentration?</p> <p><strong> </strong></p> <p dir=\"ltr\">In this episode, we are joined by Owen Zidar, professor of economics and public affairs at Princeton University and coauthor of the forthcoming book The Everywhere Millionaire. We explore the rise of the millionaire class, how tax policy shapes inequality, and why the geography of wealth matters when trying to understand the economic landscape.</p> <p><strong> </strong></p> <p dir=\"ltr\">We also discuss the role of entrepreneurship, industry-specific knowledge, and concentrated ownership in building wealth. Owen shares insights from extensive Treasury data, interviews with business owners, and research into the paths taken by millions of entrepreneurs. The conversation examines why access to capital may be less important than practical experience, how private equity can help or hurt business owners, and how local business consolidation can affect both consumers and workers.</p> <p><strong> </strong></p> <p dir=\"ltr\">Finally, we explore the influence of \"everywhere millionaires\" on public policy, the impact of interest rates on wealth valuations, and possible ways to expand access to entrepreneurial opportunities without undermining economic growth.</p> <p dir=\"ltr\"> </p> <p dir=\"ltr\">Sources From Today's Episode — <u><a href=\"https://zbib.org/75a6ae2e79a34ba8b5fb632f54816447\" rel=\"noopener\" target=\"_blank\">https://zbib.org/75a6ae2e79a34ba8b5fb632f54816447</a></u><br />  Books From Today's Episode — <u><a href=\"https://www.amazon.com/Everywhere-Millionaire-Really-America-There/dp/1250378508\" rel=\"noopener\" target=\"_blank\">The Everywhere Millionaire: Who Is Really Rich in America and How They Got There<br /> by Owen Zidar</a><br /></u><strong><br /></strong></p> <p dir=\"ltr\"><strong>Key Points From This Episode:</strong></p> <p dir=\"ltr\">(0:01:15) Why the typical wealthy American is more likely to be a business owner than a celebrity or Wall Street executive.</p> <p dir=\"ltr\">(0:02:12) How \"everywhere millionaires\" can provide a roadmap for building wealth and understanding inequality.</p> <p dir=\"ltr\">(0:03:33) The rise of entrepreneurial income among the top 0.1% over the past several decades.</p> <p dir=\"ltr\">(0:04:48) Why the inequality debate often overlooks wealth generated by private businesses.</p> <p dir=\"ltr\">(0:05:48) Why the typical millionaire is more likely to be found on Main Street than Wall Street.</p> <p dir=\"ltr\">(0:06:32) The ordinary—and sometimes unusual—industries that produce substantial wealth.</p> <p dir=\"ltr\">(0:08:01) Why building wealth through business ownership often takes decades.</p> <p dir=\"ltr\">(0:08:54) The role of concentrated ownership and the risks involved in becoming wealthy through entrepreneurship.</p> <p dir=\"ltr\">(0:09:51) How failed businesses can still provide valuable human capital and career opportunities.</p> <p dir=\"ltr\">(0:10:46) Which early-career paths may put people on track to become business owners.</p> <p dir=\"ltr\">(0:12:14) Why domain expertise and industry experience can matter more than access to capital.</p> <p dir=\"ltr\">(0:15:25) The Treasury data, tax records, research papers, interviews, and other sources behind The Everywhere Millionaire.</p> <p dir=\"ltr\">(0:16:54) How lower interest rates, tax cuts, deregulation, and globalization contributed to wealth accumulation.</p> <p dir=\"ltr\">(0:18:18) What the data suggests about academic performance, risk-taking, and entrepreneurial success.</p> <p dir=\"ltr\">(0:19:52) Why attending an elite university is not necessarily a prerequisite for becoming wealthy through business ownership.</p> <p dir=\"ltr\">(0:20:57) The importance of early labor-market experience and practical knowledge in entrepreneurship.</p> <p dir=\"ltr\">(0:22:17) The factors that help certain places foster upward mobility.</p> <p dir=\"ltr\">(0:30:14) How family businesses, inheritance, and succession can shape the distribution of wealth.</p> <p dir=\"ltr\">(0:38:06 How business owners can successfully exit their companies, including the role of seller financing.</p> <p dir=\"ltr\">(0:39:09) The potential benefits and drawbacks of private equity for business owners.</p> <p dir=\"ltr\">(0:41:33) How \"stealth consolidation\" can allow businesses to gain local market power without attracting regulatory scrutiny.</p> <p dir=\"ltr\">(0:42:55) The possible relationship between product-market power and labor-market power.</p> <p dir=\"ltr\">(0:44:33) Whether the United States is experiencing a new Gilded Age—and how today's wealthy differ from those of the past.</p> <p dir=\"ltr\">(0:46:07) Why local business owners can have significant economic and political influence in their communities.</p> <p dir=\"ltr\">(0:48:47) How interest rates affect the value of private businesses and other assets.</p> <p dir=\"ltr\">(0:49:49) How apprenticeships and alternative career paths could expand access to financial success.</p> <p dir=\"ltr\">(0:50:41) What aspiring entrepreneurs can do to reduce risk and improve their chances of success.</p> <p dir=\"ltr\">(0:51:45) Potential approaches to reducing inequality while preserving incentives for business growth and investment.</p> <p dir=\"ltr\">(0:53:48) Owen's reflections on family, personal fulfillment, and how he defines success.</p> <p dir=\"ltr\"> </p> <p dir=\"ltr\"><strong>Links From Today's Episode:</strong><br /> <br /> Meet with PWL Capital: <a href=\"https://pwlcapital.com/\">https://pwlcapital.com/</a><br /> PWL Team — <a href=\"https://pwlcapital.com/our-team/\">https://pwlcapital.com/our-team/</a></p> <p dir=\"ltr\">Rational Reminder on iTunes — <a href=\"https://itunes.apple.com/ca/podcast/the-rational-reminder-podcast/id1426530582?mt=2\">https://itunes.apple.com/ca/podcast/the-rational-reminder-podcast/id1426530582</a>.<br />  Rational Reminder on Instagram — <a href=\"https://www.instagram.com/rationalreminder/\">https://www.instagram.com/rationalreminder/</a></p> <p dir=\"ltr\">Rational Reminder on YouTube — <a href=\"https://www.youtube.com/channel/UCOErWFfNOQzXsgE7f5S_ULw\">https://www.youtube.com/channel/</a></p> <p dir=\"ltr\">Rational Reminder on Spotify —<a href=\"https://open.spotify.com/show/6RHWTH9iW7hdnA7eAg7ukO?si=fe7f60349b584026\">https://open.spotify.com/show/6RHWTH9iW7hdnA7eAg7ukO?si=fe7f60349b584026<br /> </a>Benjamin Felix — <a href=\"https://pwlcapital.com/our-team/\">https://pwlcapital.com/our-team/</a></p> <p dir=\"ltr\">Benjamin on X — <a href=\"https://x.com/benjaminwfelix\">https://x.com/benjaminwfelix</a></p> <p dir=\"ltr\">Benjamin on LinkedIn — <a href=\"https://www.linkedin.com/in/benjaminwfelix/\">https://www.linkedin.com/in/benjaminwfelix/</a><a href=\"https://www.amazon.com/Everywhere-Millionaire-Really-America-There/dp/1250378508\"><br /> </a></p> <p dir=\"ltr\">Owen's website - <a href=\"https://www.everywheremillionaire.com/\">https://www.everywheremillionaire.com/<br /> </a></p> <p dir=\"ltr\">Owen's LinkedIn - <a href=\"https://www.linkedin.com/in/owenzidar/\">https://www.linkedin.com/in/owenzidar/</a></p> <p><strong><br /> <br /></strong></p> <p dir=\"ltr\">Editing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com)</p> <p> </p>",
+      "external_id": "772fbfc5-fa95-4ef9-9ee3-176561581293",
+      "last_attempt_at": "2026-09-24T17:29:31.656589+00:00",
+      "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "published_at": "2026-09-24T09:30:00+00:00",
+      "source_id": "the-rational-reminder-podcast",
+      "source_type": "podcast",
+      "status": "failed",
+      "title": "Wealthy People Are Hiding in Plain Sight (ft. Owen Zidar) | #428",
+      "url": "https://rationalreminder.libsyn.com/wealthy-people-are-hiding-in-plain-sight-ft-owen-zidar-428"
     },
     "the-rational-reminder-podcast::7ea8ef82-c7ca-4511-a83e-b982bce00046": {
       "attempts": 1,
@@ -6465,6 +6508,19 @@
       "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "gid://art19-episode-locator/V0/jILZCBtRCcnjtqi9JHu61VvzRW6OvYQnUUPOg4Edrzs"
+    },
+    "the-tim-ferriss-show::gid://art19-episode-locator/V0/mbdm7FqApWkMF1leES32j8BmnIVkghmms67B1O_PMMg": {
+      "attempts": 1,
+      "description": "<p><strong>Kevin Ryan</strong> is one of the leading entrepreneurs and investors in New York. Often called the “Godfather of NYC tech,” he is the founder and CEO of <a href=\"https://alleycorp.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>AlleyCorp</strong></a>, a New York based venture capital firm that incubates and invests across healthcare, AI and software, consumer tech, deep tech, and more. Kevin is also the co-founder of several notable companies including MongoDB, Business Insider, Zola, Gilt Groupe, and Transcend Therapeutics. Earlier in his career, Kevin was the CEO of DoubleClick, which he helped grow from a 20-person startup to a publicly-traded company with more than 1,500 employees.</p><p><strong>This episode is brought to you by:</strong></p><ul><li><a href=\"https://www.eightsleep.com/tim/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Eight Sleep Pod 6</strong></a> <strong>which cools or heats each side of the bed, with custom elevation and snoring reduction, and wearable-free sleep tracking: </strong><a href=\"https://www.eightsleep.com/tim/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>EightSleep.com/tim</strong></a></li><li><a href=\"https://shopify.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Shopify</strong></a><strong> global commerce platform, providing tools to start, grow, market, and manage a retail business: </strong><a href=\"https://shopify.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Shopify.com/Tim</strong></a></li><li><a href=\"https://livemomentous.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Momentous</strong></a><strong> high-quality creatine for cognitive and muscular support: </strong><a href=\"https://livemomentous.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>LiveMomentous.com/Tim</strong></a></li><li><a href=\"https://drinkag1.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>AG1</strong></a> <strong>all-in-one nutritional supplement: </strong><a href=\"https://drinkag1.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>DrinkAG1.com/Tim</strong></a></li></ul><p><em>*</em></p><p><strong>For show notes and past guests on </strong><a href=\"https://tim.blog/podcast\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><em>The Tim Ferriss Show</em></strong></a><strong>, please visit</strong> <a href=\"https://tim.blog/podcast/?utm_source=podcast&amp;utm_medium=podcast&amp;utm_campaign=podcast-description\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/podcast</strong></a><strong>.</strong></p><p><strong>For deals from sponsors of </strong><a href=\"https://tim.blog/podcast\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><em>The Tim Ferriss Show</em></strong></a><strong><em>, </em>please visit </strong><a href=\"https://tim.blog/podcast-sponsors\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/podcast-sponsors</strong></a></p><p><strong>Sign up for Tim’s email newsletter (<em>5-Bullet Friday</em>) at </strong><a href=\"https://go.tim.blog/5-bullet-friday-1/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/friday</strong></a><strong>.</strong></p><p><strong>For transcripts of episodes, go to </strong><a href=\"https://tim.blog/transcripts\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/transcripts</strong></a><strong>.</strong></p><p><strong>Discover Tim’s books: </strong><a href=\"https://tim.blog/books\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/books</strong></a><strong>.</strong></p><p><strong>Follow Tim:</strong></p><p><strong>Twitter</strong>: <a href=\"https://twitter.com/tferriss\" rel=\"noopener noreferrer\" target=\"_blank\">twitter.com/tferriss</a>&nbsp;</p><p><strong>Instagram</strong>: <a href=\"https://instagram.com/timferriss/\" rel=\"noopener noreferrer\" target=\"_blank\">instagram.com/timferriss</a></p><p><strong>YouTube</strong>: <a href=\"https://www.youtube.com/timferriss\" rel=\"noopener noreferrer\" target=\"_blank\">youtube.com/timferriss</a></p><p><strong>Facebook</strong>: <a href=\"https://www.facebook.com/TimFerriss/\" rel=\"noopener noreferrer\" target=\"_blank\">facebook.com/timferriss</a>&nbsp;</p><p><strong>LinkedIn: </strong><a href=\"http://linkedin.com/in/timferriss\" rel=\"noopener noreferrer\" target=\"_blank\">linkedin.com/in/timferriss</a></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+      "external_id": "gid://art19-episode-locator/V0/mbdm7FqApWkMF1leES32j8BmnIVkghmms67B1O_PMMg",
+      "last_attempt_at": "2026-09-24T17:30:59.204035+00:00",
+      "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "published_at": "2026-09-24T17:00:00+00:00",
+      "source_id": "the-tim-ferriss-show",
+      "source_type": "podcast",
+      "status": "failed",
+      "title": "#884: How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More",
+      "url": "gid://art19-episode-locator/V0/mbdm7FqApWkMF1leES32j8BmnIVkghmms67B1O_PMMg"
     },
     "the-tim-ferriss-show::gid://art19-episode-locator/V0/pbMNVX36hJGhlidWOjFkujYB5G3id8FKiswqNzhKDxk": {
       "attempts": 1,
@@ -7605,15 +7661,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-24T05:03:01.001966+00:00",
-      "last_modified": "Thu, 24 Sep 2026 05:01:31 GMT",
+      "last_checked_at": "2026-09-24T17:20:23.328284+00:00",
+      "last_modified": "Thu, 24 Sep 2026 17:10:07 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-24T05:00:06.025543+00:00",
+      "last_checked_at": "2026-09-24T17:19:09.324318+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -7621,14 +7677,14 @@
     "feng-tou-quan": {
       "etag": "W/\"27dfa2e7a7a509b67a53d49a93f75f87\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-24T04:59:08.647613+00:00",
+      "last_checked_at": "2026-09-24T17:17:30.765708+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-24T05:03:47.177209+00:00",
+      "last_checked_at": "2026-09-24T17:21:28.218447+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
@@ -7636,14 +7692,14 @@
     "gao-qian-nu-hai": {
       "force_refresh": false,
       "last_attempt_at": "2026-08-26T13:21:20.005733+00:00",
-      "last_checked_at": "2026-09-24T04:59:14.774100+00:00",
+      "last_checked_at": "2026-09-24T17:17:13.802414+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-24T04:59:10.265253+00:00",
+      "last_checked_at": "2026-09-24T17:17:09.029874+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -7651,7 +7707,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-24T05:04:39.474451+00:00",
+      "last_checked_at": "2026-09-24T17:22:10.194341+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -7660,7 +7716,7 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"3c116e388797033be8c9b870ae530829\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-24T05:02:08.065067+00:00",
+      "last_checked_at": "2026-09-24T17:20:21.768036+00:00",
       "last_modified": "Thu, 17 Sep 2026 11:30:05 GMT",
       "title": "声东击西",
       "type": "podcast",
@@ -7669,7 +7725,7 @@
     "silicon-valley-101": {
       "etag": "W/\"84c8d532fbbf680ade8fbb6872a50116\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-24T05:00:22.330075+00:00",
+      "last_checked_at": "2026-09-24T17:18:23.208696+00:00",
       "last_modified": "Thu, 24 Sep 2026 01:00:51 GMT",
       "title": "硅谷101",
       "type": "podcast",
@@ -7678,7 +7734,7 @@
     "streamlined-solopreneur": {
       "etag": "W/\"bb6f47dcadf1d2bbd53de3ba70a809e4\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-24T05:07:08.203088+00:00",
+      "last_checked_at": "2026-09-24T17:24:09.929382+00:00",
       "last_modified": "Tue, 22 Sep 2026 06:01:32 GMT",
       "title": "Streamlined Solopreneur: Solo Ops to Stop Doing Everything Yourself",
       "type": "podcast",
@@ -7688,76 +7744,76 @@
       "etag": "W/\"23c077dbdb1282cad04e51037b2ef785\"",
       "force_refresh": false,
       "last_attempt_at": "2026-09-19T15:58:18.869677+00:00",
-      "last_checked_at": "2026-09-24T05:00:50.279622+00:00",
+      "last_checked_at": "2026-09-24T17:19:25.822890+00:00",
       "last_modified": "Wed, 23 Sep 2026 04:15:07 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
     },
     "the-a16z-show": {
-      "etag": "W/\"4dfaa985fa53d611ce785b10ad2d8b39\"",
+      "etag": "W/\"6698086f5a45bb19b0e21148a5dce17a\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-24T05:04:18.635304+00:00",
-      "last_modified": "Wed, 23 Sep 2026 10:00:34 GMT",
+      "last_checked_at": "2026-09-24T17:21:25.456800+00:00",
+      "last_modified": "Thu, 24 Sep 2026 16:24:59 GMT",
       "title": "The a16z Show",
       "type": "podcast",
       "url": "https://feeds.simplecast.com/JGE3yC0V"
     },
     "the-investors-podcast": {
       "force_refresh": true,
-      "last_checked_at": "2026-09-24T05:05:22.618625+00:00",
-      "last_modified": "Thu, 24 Sep 2026 00:00:00 GMT",
+      "last_checked_at": "2026-09-24T17:22:33.587195+00:00",
+      "last_modified": "Thu, 24 Sep 2026 16:15:58 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
       "url": "https://feeds.megaphone.fm/PPLLC8974708240"
     },
     "the-psychology-of-money-with-morgan-housel": {
-      "etag": "W/\"298dd-YDwWKBp6uiXCj3GkoOQfwFKV/oc\"",
+      "etag": "W/\"298dd-5oJFGNwEKPK7WSLWKiqneQnuYeA\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-24T05:09:35.077883+00:00",
+      "last_checked_at": "2026-09-24T17:27:47.659005+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
     },
     "the-rational-reminder-podcast": {
-      "etag": "W/\"6356235440eeed4a4d9389dda55524af\"",
+      "etag": "W/\"9db6a4f8351a291f4c6e0c4b20d9271b\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-24T05:08:21.329854+00:00",
-      "last_modified": "Wed, 23 Sep 2026 17:54:36 GMT",
+      "last_checked_at": "2026-09-24T17:25:25.481920+00:00",
+      "last_modified": "Thu, 24 Sep 2026 14:15:47 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
       "url": "https://rss.libsyn.com/shows/127327/destinations/763774.xml"
     },
     "the-tim-ferriss-show": {
       "force_refresh": true,
-      "last_checked_at": "2026-09-24T05:06:47.601457+00:00",
-      "last_modified": "Mon, 21 Sep 2026 15:12:52 GMT",
+      "last_checked_at": "2026-09-24T17:23:07.895595+00:00",
+      "last_modified": "Thu, 24 Sep 2026 17:00:03 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
       "url": "https://rss.art19.com/tim-ferriss-show"
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-24T04:59:06.976445+00:00",
+      "last_checked_at": "2026-09-24T17:18:01.326197+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-24T05:00:52.803326+00:00",
+      "last_checked_at": "2026-09-24T17:20:39.100788+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-24T05:00:07.174374+00:00",
+      "last_checked_at": "2026-09-24T17:19:02.844855+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-09-24T05:19:14.711887+00:00",
+  "updated_at": "2026-09-24T17:31:43.288784+00:00",
   "version": 1
 }
