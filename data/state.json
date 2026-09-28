@@ -2822,6 +2822,23 @@
       "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
       "url": "https://etw.fm/2222"
     },
+    "silicon-valley-101::0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d": {
+      "attempts": 1,
+      "description": "<p><img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/a723-audiofreehighqps/B7/79/GAqhfD0NByqOAAHpNQRBU__s.jpg\" /></p>\n\n<p>随着AI模型能力提升，训练需求更复杂，一批为模型公司提供训练数据的新公司正在快速增长：AfterQuery今年4月宣布A轮融资时，估值为3亿美元，到了9月，据媒体报道，新一轮融资已经将其估值推至32亿美元。另一家提供训练数据与智能体环境的公司Bespoke Labs，也在今年7月宣布，种子轮与A轮融资合计达到4000万美元。<br />\n虽然估值水涨船高，AI数据行业对外界来说却极其不透明。问题来了：这些公司究竟在卖什么？<br />\n过去提到数据标注，我们容易想到给图片打标签、给模型回答打分。但随着AI从回答问题走向执行任务，数据公司的交付物也在变化：从专家写出的评分标准，到包含任务、工具和验证机制的强化学习环境。它们需要找到懂行的人，获得真实的行业资料，再把专业知识与工作经验转化成模型能够学习的训练信号。<br />\n与此同时，新的AI评测层出不穷。榜单分数提高了，究竟代表哪些能力变强了？针对评测生产数据，什么时候能改善真实用户体验，什么时候又会变成单纯的刷分？对于每天训练模型的研究员来说，他们最需要的数据，到底是什么？</p>\n\n<p>本期节目，我们邀请到在Scale AI负责后训练与评测研究的何允中，以及加州大学伯克利分校博士后、Agents’ Last Exam项目研究者孙一铀，从产业与研究两个视角，拆解这门透明度不高、又变化极快的生意。<br />\n我们聊了Scale、Mercor、Surge等数据公司的不同背景，也讨论了小团队在合成环境与垂直领域中的机会。从采购一份游戏源码，到验证专家提交的任务，再到设计让人愿意交出经验的激励机制，好数据的难点，往往藏在榜单之外。</p>\n\n<p><strong>【主播】</strong><br />\nYiwen，硅谷101主持人</p>\n\n<p><strong>【嘉宾】</strong><br />\n何允中，Scale AI研究总监（后训练与评估方向）<br />\n孙一铀，加州大学伯克利分校博士后</p>\n\n<p><strong>【你将听到】</strong><br />\n<strong>拆解数据生意和玩家</strong><br />\n05:03 数据公司之间的区别：招聘平台、众包标注、合成数据<br />\n08:27 从预训练到后训练，模型需要的数据发生了哪些变化？<br />\n09:32 Rubric数据：把专业判断变成评分标准<br />\n10:46 强化学习（RL）环境：从回答问题到动手干活<br />\n12:18 从vibe coding，到vibe everything：详解Agents’ Last Exam<br />\n14:10 游戏好不好玩、作品好不好看，主观判断能被量化吗？<br />\n17:33 Rubric 与环境如何配合：人与Agent协作</p>\n\n<p><strong>评测与模型真实能力</strong><br />\n20:05 从做评测到卖数据：benchmark的生意<br />\n23:25 什么样的评测值得刷？核心能力与真实场景<br />\n27:29 没上热门榜单的评测，也可能带来真实的数据需求<br />\n31:39 模型公司如何权衡内部评测、公开榜单与用户反馈</p>\n\n<p><strong>什么是好数据：采购、版权与小众行业工作流</strong><br />\n33:30 两三个人的数据创业公司，为什么也能找到机会？<br />\n38:56 模型越来越会自己造数据，外部供应商的机会还能持续多久？<br />\n40:48 模型公司为什么仍然需要外部数商？研发周期与行业采购的难题</p>\n\n<p><strong>有了数据，之后呢？</strong><br />\n44:04 数据买回来之后怎么用？从 SFT、强化学习到模型训练模型<br />\n47:03 训练数据不是越难越好：为不同模型匹配难度与解题轨迹<br />\n48:22 SWE-bench Verified 的争议：测试缺陷与数据污染<br />\n50:04 专家交来的数据也可能造假，如何验证真实的工作过程？<br />\n54:03 数据行业的下一步：收购企业、获取数据，还是持续投入研发？</p>\n\n<p><strong>【感谢科沃斯对本期节目的大力支持】</strong><br />\n这期我们聊了很多验证和评测：写代码跑一遍沙盒就知道对错，家务却是每天都在变的开放任务，对机器人来说，真实家庭环境就是最严格的评测现场。<br />\n科沃斯在服务机器人领域已扎根28年，连续11年稳居国内线上扫地机器人销售额第一，产品销售全球150多个国家和地区，拥有超过1200项全球专利。<br />\n从全能清扫的扫地机器人，到解放高空与双手的擦窗机器人，再到割草、泳池清洁，科沃斯让每个场景都有对应的专职选手，为人清空琐碎，让生活的每一刻都“无难事”。<br />\n<img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/4832-audiofreehighqps/24/43/GAqhNn4OjtiHAAlMuwTemrvZ.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /></p>\n\n<blockquote>\n<p>数据来源：北京奥维云网大数据科技股份有限公司；统计时间：2015年-2025年；统计范围：中国扫地机器人市场全渠道(线上、线下)监测数据</p>\n</blockquote>\n\n<p>欢迎了解更多，复制淘口令打开淘宝：48￥ CZ001 mBdFTN9ipmh￥ <a href=\"https://m.tb.cn/h.8EbY9YU\" rel=\"nofollow noopener\">https://m.tb.cn/h.8EbY9YU</a> 【新品】科沃斯X12S PRO扫地机器人滚筒活洗3.0全自动扫拖一体<br />\n<a href=\"https://u.jd.com/4Dcd3RZ\" rel=\"nofollow noopener\">京东链接</a><br />\n<strong>本期福利：下单备注【硅谷101】额外加赠抗菌滚筒拖布一个</strong><br />\n把家务交给科技，享受属于你自己的惬意生活吧！</p>\n\n<p><strong>【硅谷AI视频黑客松招募】</strong><br />\n最懂内容的影视团队，与最懂AI的一群科学家，在硅谷相遇，会碰撞出如何的火花？<br />\n今年，硅谷101把一次现场创作实验带到 Alignment 2026：STORY101 LAB — AI Storytelling Challenge。我们邀请你用AI，完成一部不超过三分钟的视频作品。<br />\n比赛设【探索组】与【专业组】双赛道，资深AI影片团队与零基础新手皆可参与。我们提供免费workshop培训，优胜者更可获丰厚奖金与千人线下展映机会。<br />\n时间：2026年10月10–11日<br />\n地点：Sunnyvale, California<br />\n<a href=\"https://luma.com/STORY101LAB\" rel=\"nofollow noopener\">报名入口</a></p>\n\n<p><strong>【硅谷101年会来了，线下见】</strong><br />\n10月10日—11日，我们将在【硅谷】举办Alignment 2026年度大会，从大模型、Agent、机器人到AI Infra，从实验室里的突破，到真实世界的商业化，我们直击AI变化最剧烈的前沿。来自OpenAI、Anthropic、NVIDIA、Meta、Google DeepMind、SemiAnalysis、Cerebras等公司的研究者、创业者与投资人将齐聚现场，分享正在发生的机遇和挑战。<br />\n<a href=\"https://luma.com/alignment2026?coupon=FANS15\" rel=\"nofollow noopener\">点击报名入口</a> ，使用折扣码【FANS15】注册，还可以获得15%折扣。<br />\n<img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/2ba3-audiofreehighqps/2A/C2/GKwRIMAOiYvRAAU2TgTcPavv.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /><br />\n<img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/97f3-audiofreehighqps/2B/1F/GAqhaTsOiYwcAC6GIATcPcg0.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /></p>\n\n<p><strong>【相关阅读和名词解释】</strong><br />\nRubric（评分标准）：针对具体任务制定的一组评价条件，用来判断回答或工作成果是否达到要求。它可以包含正确性、完整性、指令遵循等维度，也可以融入专家判断。<br />\nRL Environment（强化学习环境）：让模型通过行动和反馈进行学习的环境。在本期讨论的Agent训练中，通常包括任务、可操作的软件与工具，以及判断任务是否完成、完成质量如何的验证和奖励机制。<br />\nBenchmark（评测基准）：通过一组任务与评价规则，衡量模型或智能体在特定能力和场景中的表现。评测数据与训练数据需要保持适当隔离，才能有效检验模型面对新问题的能力。<br />\nReward Hacking（奖励投机）：模型利用评分机制的漏洞获得高分，却没有真正完成预期任务。例如，绕过正常操作修改结果，让验证程序误以为任务已经成功。<br />\n<a href=\"https://github.com/rdi-berkeley/agents-last-exam\" rel=\"nofollow noopener\">Agents’ Last Exam（ALE）</a>：由Berkeley RDI与行业专家共同构建的智能体评测项目，关注具有经济价值、需要多步骤执行且结果可验证的专业任务。<br />\n<a href=\"https://scale.com/blog/humanitys-last-exam-results\" rel=\"nofollow noopener\">Humanity’s Last Exam（HLE）</a>：由Center for AI Safety与Scale AI共同组织推出的评测，覆盖数学、人文、自然科学等领域的高难度专家问题。<br />\n<a href=\"https://labs.scale.com/papers/sweatlas\" rel=\"nofollow noopener\">SWE Atlas</a>：Scale推出的软件工程智能体评测套件，覆盖代码库问答、测试编写和代码重构。<br />\nSWE-bench Verified：经过人工审核的软件工程评测，让模型修复真实开源项目中的问题。<a href=\"https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/\" rel=\"nofollow noopener\">OpenAI于2026年2月宣布停止报告其分数</a>，指出测试设计缺陷与数据污染影响了它衡量前沿模型能力的有效性。</p>\n\n<p><strong>【硅谷101听友群】</strong><br />\n在这里，和同好一起深聊科技、商业与未来，期待你的声音，也期待更多有趣的讨论。<br />\n扫码加入，即刻相遇！<br />\n<img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/9a3c-audiofreehighqps/8B/AE/GAqhaTsOjuZEAAOMJgTeo_iN.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /></p>\n\n<p><strong>【监制】</strong><br />\n泓君<br />\n<strong>【后期】</strong><br />\nAmei<br />\n<strong>【运营】</strong><br />\n朱婕<br />\n<strong>【BGM】</strong><br />\nMindscape - Lennon Hutton<br />\nLight-Footed - Bonnie Grace<br />\nSmiling Neighborhood - Claude Signet<br />\nRuffles and Rust - Fabien Tell<br />\nReclaim - Megan Wofford</p>\n\n<p><strong>【在这里找到我们】</strong><br />\n公众号：硅谷101<br />\n收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐<br />\n其他平台：YouTube｜Bilibili 搜索「硅谷101播客」<br />\n联系我们：<a href=\"mailto:podcast@sv101.net\" rel=\"nofollow noopener\">podcast@sv101.net</a></p><p>Special Guests: 何允中 and 孙一铀.</p>",
+      "external_id": "0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d",
+      "item_slug": "silicon-valley-101-6cc52c3259da",
+      "language": "zh",
+      "published_at": "2026-09-28T02:30:00+00:00",
+      "published_to_feed_at": "2026-09-28T05:36:52.855293+00:00",
+      "source_id": "silicon-valley-101",
+      "source_type": "podcast",
+      "status": "published",
+      "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+      "title_zh": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+      "transcript_provenance": "faster-whisper/small; batch=8; beam=1",
+      "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
+      "url": "https://sv101.fireside.fm/267"
+    },
     "silicon-valley-101::259291f5-2715-4dde-bcfe-b5beb4df5793": {
       "attempts": 1,
       "description": "<p><img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/c4ce-audiofreehighqps/29/FA/GAqhI8INmcS2AAHpNQR_oxXw.jpg\" /></p>\n\n<p>SpaceX上市进入最后倒计时，在它那份长达280页的招股说明书里，月球基地、点对点地表旅行、在轨制造、火星货物……这些别的公司不敢写的科幻元素，它都写了。但更让人印象深刻的是SpaceX的AI叙事，它预测在28.5万亿美元总潜在市场中，有超过90%来自AI板块，而这部分将受到“地球无法快速扩展发电能力”的严重制约。<br />\n面对电力紧缺，SpaceX的答案是：把数据中心搬上太空。上周一，马斯克在一段关于AI1卫星设计草图的视频中称，AI卫星不需要多么神奇的技术，这些技术已经在星链V3卫星中做出来了。谈到时间表时，马斯克预估SpaceX将在2027年底前实现每年1GW的太空AI算力的年化部署率，并逐年扩大量级。<br />\n这个大胆的宣言，究竟是IPO前夜的氛围烘托，还是下一代算力基础设施的真正方向？太空数据中心，技术上能实现吗？即使能做成，它真的比建在地面上更划算吗？本期硅谷101播客，我们就来算算这笔经济账。<br />\n<em>本期节目不构成投资建议</em></p>\n\n<p><strong>【主播】</strong><br />\n泓君，硅谷101创始人，播客主理人</p>\n\n<p><strong>【嘉宾】</strong><br />\nLewis Hong，Aris Fund合伙人，前SpaceX高管<br />\n刘冰雁，火箭爱好者</p>\n\n<p><strong>【你将听到】</strong><br />\n<strong>SpaceX S-1解读</strong><br />\n03:07 打卡指南：LA SpaceX总部&amp;德州Boca Chica星舰发射中心<br />\n06:53 SpaceX招股书，1GW太空算力计划和“Elon Time”<br />\n09:40 1万颗卫星铺满一条晨昏线轨道是什么概念？<br />\n11:02 打个赌吧：Starship 100次发射时间线预测</p>\n\n<p><strong>成本拆解</strong><br />\n16:52 极度乐观：只算燃料成本，两个月回本，但现实并非如此<br />\n19:41 保守估算：每公斤200美元，两年回本只能打平<br />\n22:14 考虑到GPU损耗等因素，成本估算再加40%冗余度<br />\n26:05 星舰还有改进空间，每公斤10–20美元经济账才成立</p>\n\n<p><strong>技术挑战</strong><br />\n28:48 反常识：太空真空环境，散热为什么这么难？<br />\n31:02 两个思路：提升温度、增加散热面积<br />\n33:38 解决方案：热泵与半导体散热技术<br />\n38:24  太空芯片，谁来造？<br />\n41:38  太空辐射会让GPU算错，加屏蔽和纠错即可<br />\n42:13  太空只适合做推理，不适合大模型训练<br />\n45:05  星链12000颗卫星，99.85%完好——辐射风险可控<br />\n46:06  凯斯勒效应（碎片连锁撞击）在低轨并不可怕<br />\n48:36 星链一年进行30万次卫星轨道规避机动，技术已成熟<br />\n51:09 太空数据中心综合评估：理论可行，经济账还算不过来<br />\n52:27 另一个角度：地球容纳数据中心散热的能力终将触顶</p>\n\n<p><strong>战略价值</strong><br />\n53:51 太空算力的战略价值：速度、扩展性与数据主权<br />\n59:01 太空数据中心热潮：放上去不难，经济地放才是真挑战<br />\n01:01:53 未来10年发射市场将多元化，中国稳步追赶<br />\n01:02:48 初创公司的机会：上游关键零部件/技术供应商<br />\n01:07:34 月球派vs火星派：NASA为何重启登月？<br />\n01:09:33 月球重力更适合发射，是人类开发宇宙的跳板<br />\n01:14:19 SpaceX的人都认为太空经济数倍于地球，但说出来没人信<br />\n01:15:40 财富到达一定程度，就开始寻求（或逃避）政治影响力<br />\n01:18:33 50多万人在问卷中愿意抛弃地球上的一切去火星<br />\n01:26:54 结尾彩蛋：一个太空火锅梦想，和一个在太空录播客的约定</p>\n\n<p><strong>感谢细心听众的指正：</strong>星舰Starship的推进剂应为液态甲烷(LCH₄)，而非煤油(RP-1)。煤油是SpaceX猎鹰9号使用的燃料，星舰从设计之初就选择了甲烷路线，主要原因是甲烷燃烧几乎不积碳、支持快速复用、可在火星合成。从单价上来说，液态甲烷比航天精炼煤油更便宜。<br />\n节目中2个月的能量回本时间假设基于500W/kg的太阳能板发电效率和约40%的火箭效率，不需要假设燃料类型。</p>\n\n<p><strong>【硅谷101正在招聘】</strong><br />\n《硅谷101》招聘多个全职岗位，欢迎加入我们的超酷的深度内容工作团队！<br />\n👉🏻<a href=\"https://mp.weixin.qq.com/s/BuDJBj_RVy7eI5PKr2uGOQ\" rel=\"nofollow noopener\">点击查看招聘详情</a><br />\n<img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/3a42-audiofreehighqps/02/F9/GAqhuykOAY4qAASHsgSnjx80.jpg\" /></p>\n\n<p><strong>【延伸阅读和相关术语】</strong><br />\n<a href=\"https://www.bilibili.com/video/BV1y5EY62E8B\" rel=\"nofollow noopener\">【视频】SpaceX崛起史：一切，为了去火星｜实地探访发射基地与总部</a><br />\n<a href=\"https://mp.weixin.qq.com/s/TsxG9gkQcfg-LRrN-TmMvQ\" rel=\"nofollow noopener\">“没有她，SpaceX早倒闭了”：全世界最有权力的女性工程师是如何炼成的</a><br />\n<a href=\"https://www.bilibili.com/video/BV1xZE56vEjJ\" rel=\"nofollow noopener\">【视频】马斯克 + 卫星工程主管Ian Dahl，首次公开AI1卫星详细设计与技术规格</a><br />\n<a href=\"https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm\" rel=\"nofollow noopener\">SpaceX招股书</a><br />\n嘉宾往期播客节目：<br />\n<a href=\"https://www.xiaoyuzhoufm.com/episode/6764b4169e0c2b849cf96ef6\" rel=\"nofollow noopener\">E176｜SpaceX 的商业版图与太空经济的崛起</a><br />\n<a href=\"https://www.xiaoyuzhoufm.com/episode/666b89ac7cedb8f7e2a4d75b\" rel=\"nofollow noopener\">E155｜马斯克太空梦进度条70%，聊聊星舰的四次发射与SpaceX Mafia</a><br />\n<a href=\"https://www.xiaoyuzhoufm.com/episode/643f8096a2fb59c2a1adaa8b\" rel=\"nofollow noopener\">E106｜真正造星舰的人来了，与SpaceX前高管聊聊马斯克的火星计划</a><br />\nGrasshopper（蚱蜢）、Starhopper（星虫）均为SpaceX的可回收火箭垂直起降技术试验平台。Tintin A/B 是星链计划的首批两颗技术验证卫星（2018年发射）。SpaceX的产品开发路径中，常以“试验平台——量产”的模式推进。<br />\n晨昏轨道（Dawn-Dusk Orbit），一种特殊的太阳同步轨道，卫星始终飞行在地球明暗分界线（晨昏线）的上方。由于轨道面与阳光方向近乎垂直，卫星的太阳能板可以持续面向太阳。在理想情况下，卫星一整年几乎都处于光照中，地食时间趋近于零——而普通低轨卫星每圈约有30%~40%的时间处于地球阴影中。这一特性使其成为需要恒定高功率供电任务的理想选择。<br />\n斯特藩-玻尔兹曼定律（Stefan-Boltzmann Law），热力学基本定律之一，描述黑体辐射的总功率与其绝对温度的四次方成正比。本期播客中刘冰雁解释太空散热的核心难点，正是基于这一定律——低温下辐射散热效率极低，必须通过提高散热器温度来把热量辐射出去。<br />\n凯斯勒效应（Kessler Syndrome），由NASA科学家Donald Kessler于1978年提出。描述的是当近地轨道上的太空垃圾密度达到临界点后，碎片之间会发生连锁碰撞，每一次碰撞产生更多碎片，进而引发更多碰撞，最终形成碎片密集的\"碎片带\"，使某些轨道在数百年内无法使用。<br />\n卡门线（Kármán Line），地球大气层与外太空的分界线，以航空航天工程师西奥多·冯·卡门命名。国际航空联合会（FAI）将其定义为海拔100公里处。其物理本质是气动升力让位于离心力的临界高度——在此高度以上，飞行器实际上已成为轨道航天器而非飞机。卡门线主要用于法律和监管目的，区分受各国领空管辖的航空器和属于自由空间的航天器。当前国际法并未明确规定外太空的边界高度。</p>\n\n<p><strong>【硅谷101听友群】</strong><br />\n终于终于终于，大家一直呼吁的硅谷101的社群要上线了！欢迎大家加入。<br />\n<img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/368d-audiofreehighqps/E2/A7/GKwRIDoOAY4-AAJwjASnjyS7.jpg\" /><br />\n请用手机相机扫码；如已安装飞书/Lark，可直接在App内扫码进入申请表单。7天内审核，通过后邮件同步入群方式。期待和你在群里碰面！</p>\n\n<p><strong>【监制】</strong><br />\n泓君<br />\n<strong>【后期】</strong><br />\nAmei<br />\n<strong>【运营】</strong><br />\n朱婕<br />\n<strong>【BGM】</strong><br />\nIdiosyncrasies STEMS INSTRUMENTS - Gavin Luke<br />\nSwerve Space - Lama House<br />\nQuarks in the Cosmos - Grant Newman<br />\nMy Halo Orbit - DEX 1200</p>\n\n<p><strong>【在这里找到我们】</strong><br />\n公众号：硅谷101<br />\n收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐<br />\n其他平台：YouTube｜Bilibili 搜索「硅谷101播客」<br />\n联系我们：<a href=\"mailto:podcast@sv101.net\" rel=\"nofollow noopener\">podcast@sv101.net</a></p><p>Special Guests: Lewis Hong and 刘冰雁.</p>",
@@ -3312,10 +3329,10 @@
       "url": "https://share.transistor.fm/s/a5475d7d"
     },
     "streamlined-solopreneur::2e250187-bafc-40fa-a4da-d8d2a990f97f": {
-      "attempts": 5,
+      "attempts": 6,
       "description": "<p>This week I talk about converting casabona.org from a 20-year-old WordPress site to a flat-file site in two days — and whether my mailing list needs the same \"burn it all down\" reset. Then Apple's final Friday Night Baseball broadcast of the year, shot on the iPhone 18 Pro Max, and a recommendation for my Italian music playlist on Apple Music. Plus this week's systems tip: Cue for Apple Music, the Stream Deck plugin I built with Claude Code to replace Elgato's discontinued one.</p><p><strong>Links:</strong></p><ul><li><a href=\"https://casabona.org/2026/04/3-warning-signs-youve-got-ai-brain-rot-and-how-to-prevent-it/\">3 Warning Signs You've Got AI Brain Rot (and How to Prevent It)</a></li><li><a href=\"https://www.cnet.com/tech/mobile/apples-mlb-dodgers-live-broadcast-was-shot-with-iphone-18-pro-max/\">Apple's MLB Dodgers Live Broadcast Was Shot With iPhone 18 Pro Max</a> (CNET)</li><li><a href=\"https://music.apple.com/us/playlist/italian/pl.u-yvdVsY2KbAJ\">Apple Music: Italian Playlist</a></li><li><a href=\"https://streamlined.fm/projects/cue-for-apple-music/\">Cue for Apple Music</a></li></ul><p>What would you do with an extra 25 hours each month? This is what I help business owners figure out...and then I make it happen for them. If you have dreams of writing a book, volunteering at an organization that means a lot to you, or spending more time with your family and touching grass, I can help. Book a free strategy call at <a href=\"https://streamlined.fm/wrap\">streamlined.fm/wrap</a></p><p>Do you have something on your mind? Let me know at <a href=\"https://streamlinedfeedback.com\">https://streamlinedfeedback.com</a>. You can write in, or leave a voice note. I might even play it on the show.</p><p><br /><a href=\"https://share.transistor.fm/s/db22d7f3/transcript\" title=\"View the episode transcript\">View the episode transcript</a><br />\n<br />0:00 Should I Burn It All Down?<br />3:25 Recommended Reading: Apple's MLB Broadcast Shot on iPhone 18 Pro Max<br />5:17 Something Fun: My Italian Music Playlist<br />6:08 Cue: A Stream Deck Plugin for Apple Music</p><p><br /></p><p>————<br />Streamlined Solopreneur helps overwhelmed solo business owners go from overwhelmed to having their time back.</p><p>Each week, Joe Casabona shares one practical idea — a system, tool, or strategy to help you get your time back without selling your soul to AI...and run your business without sacrificing the rest of your life, or your health.</p><p><br />Looking for a place to start? Take the Solo Systems Starter Quiz. 60 seconds, 8 questions, and I will tell you what system you should build first, and exactly how to build it. <a href=\"https://streamlined.fm/quiz%20\">https://streamlined.fm/quiz </a></p><p><br />Connect with Joe on LinkedIn: <a href=\"https://www.linkedin.com/in/jcasabona/\">https://www.linkedin.com/in/jcasabona/</a></p><br /><em>Disclosure: these show notes were generated from the transcript and written newsletter, using a very strict format for how it's all put together.</em>\n<ul><li>(00:00) - Should I Burn It All Down?</li>\n<li>(03:25) - Recommended Reading: Apple's MLB Broadcast Shot on iPhone 18 Pro Max</li>\n<li>(05:17) - Something Fun: My Italian Music Playlist</li>\n<li>(06:08) - Cue: A Stream Deck Plugin for Apple Music</li>\n</ul>",
       "external_id": "2e250187-bafc-40fa-a4da-d8d2a990f97f",
-      "last_attempt_at": "2026-09-27T17:06:07.201416+00:00",
+      "last_attempt_at": "2026-09-28T05:38:01.251588+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-25T16:27:20+00:00",
       "source_id": "streamlined-solopreneur",
@@ -4116,10 +4133,10 @@
       "url": "https://a16z.simplecast.com/episodes/how-whatnot-built-a-global-marketplace-DoonwHjN"
     },
     "the-a16z-show::154dab55-ef4d-40f9-9c51-5ed30abafc26": {
-      "attempts": 1,
+      "attempts": 2,
       "description": "a16z’s Katie Kirsch sits down with Harvey VP of Talent Maggie Landers to discuss what happens inside a company growing at AI speed, and how you preserve culture while adding more than 1,000 employees in a year.\nMaggie explains why Harvey prioritizes progress over perfection, how its values of simplicity, decisiveness, and “job’s not finished” shape the way people work, and why moving quickly requires giving employees significant trust and autonomy. For people accustomed to being the “A student,” that can mean learning to experiment, make mistakes, and course-correct quickly.\nThey also get into how Harvey identifies people who can thrive in that environment, what changes when most of your company is relatively new, the role its founders play in maintaining culture, and why judgment becomes increasingly important when employees are given the freedom to move fast.",
       "external_id": "154dab55-ef4d-40f9-9c51-5ed30abafc26",
-      "last_attempt_at": "2026-09-27T17:09:06.800663+00:00",
+      "last_attempt_at": "2026-09-28T05:38:00.282029+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-27T10:00:00+00:00",
       "source_id": "the-a16z-show",
@@ -5307,10 +5324,10 @@
       "url": "73d6aee4-9576-11f1-9665-fbc582ea0b96"
     },
     "the-investors-podcast::758baeec-b830-11f1-aaab-b3e5d1445637": {
-      "attempts": 2,
+      "attempts": 3,
       "description": "In this episode, Stig Brodersen speaks with David Fagan about Total Wealth Performance and why someone with average investment returns can still build a meaningful net worth. They discuss why saving is the first step in wealth creation, why financial independence is a matter of intention rather than luck, and how idle cash quietly becomes one of the most expensive decisions investors ever make.\n\n\n\nIN THIS EPISODE YOU’LL LEARN:\n\n(00:00:00) Intro\n\n(00:04:20) Why David has been a saver ever since he blew his entire net worth on a Hot Wheels racetrack at age eight\n\n(00:12:34) Why money decisions that look odd are often rational given someone's lived experiences\n\n(00:13:56) Why financial independence is not luck but small habits that compound\n\n(00:17:47) What Total Wealth Performance is, and why the return on your broker statement is not your real return\n\n(00:22:29) How Stig thinks about financial independence\n\n(00:29:34) The ABCs of front-end performance: availability, behavior, and configuration\n\n(00:37:55) Why idle cash is one of the most expensive decisions an investor can make\n\n(00:45:00) Why net worth beats portfolio returns as a scorecard during the accumulation phase\n\n(00:54:13) How and why tax is a real expense\n\n\n\nDisclaimer: Slight discrepancies in the timestamps may occur due to podcast platform differences.\n\n\n\nBOOKS AND RESOURCES\n\n\n  Join the exclusive&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Check out Stig and David's free educational resource, Compounding Simplicity.\n\n  Watch David Fagan's free educational videos.&nbsp;\n\n  Read Charles Schwab's study, Does Market Timing Work?\n\n  Listen to our interview with David Fagan about Why Simplicity Beats Complexity.\n\n  Listen to our interview with David Fagan about Simple Investing.\n\n  Listen to our interview with David Fagan about investing like a business owner.\n\n  Listen to our interview with David Fagan about Buffett's favorite business book.\n\n  Connect with David on LinkedIn or through mbf Chartered Professional Accountants.\n\n  Stig's blog post on his portfolio and track record since 2014.\n\n  Related&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;mentioned in the podcast.\n\n  Ad-free episodes on our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\nNEW TO THE SHOW?\n\n\n  Get smarter about valuing businesses through&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Follow our official social media accounts:&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;|&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;|&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Try our tool for picking stock winners and managing our portfolios:&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TIP Finance⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Enjoy exclusive perks from our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠favorite Apps and Services⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Learn how to better start, manage, and grow your business with the&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠best business podcasts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\nSPONSORS\n\nSupport our free podcast by supporting our sponsors:\n\n\n  Monarch\n\n  Plus500\n\n  Netsuite\n\n  Plaud\n\n\nReferences to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.\nSupport our show by becoming a premium member! https://theinvestorspodcastnetwork.supportingcast.fm",
       "external_id": "758baeec-b830-11f1-aaab-b3e5d1445637",
-      "last_attempt_at": "2026-09-27T17:12:14.551126+00:00",
+      "last_attempt_at": "2026-09-28T05:41:40.654998+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-27T00:00:00+00:00",
       "source_id": "the-investors-podcast",
@@ -5673,10 +5690,10 @@
       "url": "https://podcasters.spotify.com/pod/show/morgan-housel/episodes/A-Tale-as-Old-As-time-Getting-Rich-vs--Staying-Rich-e3n36mb"
     },
     "the-psychology-of-money-with-morgan-housel::53425c39-13e4-4da6-94b4-e44686df2c17": {
-      "attempts": 5,
+      "attempts": 6,
       "description": "<p>More Americans than ever own stocks -- and helps explain part of why home prices have become detached from incomes. </p><p><br /></p><p>This episode is brought to you by Davis Advisors. To learn more, visit https://www.davisadvisors.com/. Before investing, you should carefully consider the investment objectives, risks, charges, and expenses. The prospectus or Form ADV, as applicable, contains this and other information. You can obtain a current prospectus or Form ADV by calling 800-279-2279. Investing involves risks including possible loss of principal.</p>",
       "external_id": "53425c39-13e4-4da6-94b4-e44686df2c17",
-      "last_attempt_at": "2026-09-27T17:12:15.906155+00:00",
+      "last_attempt_at": "2026-09-28T05:40:34.099102+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-25T11:00:00+00:00",
       "source_id": "the-psychology-of-money-with-morgan-housel",
@@ -6052,10 +6069,10 @@
       "url": "https://rationalreminder.libsyn.com/is-veqt-costing-you-other-questions-416"
     },
     "the-rational-reminder-podcast::772fbfc5-fa95-4ef9-9ee3-176561581293": {
-      "attempts": 7,
+      "attempts": 8,
       "description": "<p dir=\"ltr\">What happens when a small group of exceptionally wealthy people holds a growing share of a country's income and wealth? And what can economics tell us about the forces behind that concentration?</p> <p><strong> </strong></p> <p dir=\"ltr\">In this episode, we are joined by Owen Zidar, professor of economics and public affairs at Princeton University and coauthor of the forthcoming book The Everywhere Millionaire. We explore the rise of the millionaire class, how tax policy shapes inequality, and why the geography of wealth matters when trying to understand the economic landscape.</p> <p><strong> </strong></p> <p dir=\"ltr\">We also discuss the role of entrepreneurship, industry-specific knowledge, and concentrated ownership in building wealth. Owen shares insights from extensive Treasury data, interviews with business owners, and research into the paths taken by millions of entrepreneurs. The conversation examines why access to capital may be less important than practical experience, how private equity can help or hurt business owners, and how local business consolidation can affect both consumers and workers.</p> <p><strong> </strong></p> <p dir=\"ltr\">Finally, we explore the influence of \"everywhere millionaires\" on public policy, the impact of interest rates on wealth valuations, and possible ways to expand access to entrepreneurial opportunities without undermining economic growth.</p> <p dir=\"ltr\"> </p> <p dir=\"ltr\">Sources From Today's Episode — <u><a href=\"https://zbib.org/75a6ae2e79a34ba8b5fb632f54816447\" rel=\"noopener\" target=\"_blank\">https://zbib.org/75a6ae2e79a34ba8b5fb632f54816447</a></u><br />  Books From Today's Episode — <u><a href=\"https://www.amazon.com/Everywhere-Millionaire-Really-America-There/dp/1250378508\" rel=\"noopener\" target=\"_blank\">The Everywhere Millionaire: Who Is Really Rich in America and How They Got There<br /> by Owen Zidar</a><br /></u><strong><br /></strong></p> <p dir=\"ltr\"><strong>Key Points From This Episode:</strong></p> <p dir=\"ltr\">(0:01:15) Why the typical wealthy American is more likely to be a business owner than a celebrity or Wall Street executive.</p> <p dir=\"ltr\">(0:02:12) How \"everywhere millionaires\" can provide a roadmap for building wealth and understanding inequality.</p> <p dir=\"ltr\">(0:03:33) The rise of entrepreneurial income among the top 0.1% over the past several decades.</p> <p dir=\"ltr\">(0:04:48) Why the inequality debate often overlooks wealth generated by private businesses.</p> <p dir=\"ltr\">(0:05:48) Why the typical millionaire is more likely to be found on Main Street than Wall Street.</p> <p dir=\"ltr\">(0:06:32) The ordinary—and sometimes unusual—industries that produce substantial wealth.</p> <p dir=\"ltr\">(0:08:01) Why building wealth through business ownership often takes decades.</p> <p dir=\"ltr\">(0:08:54) The role of concentrated ownership and the risks involved in becoming wealthy through entrepreneurship.</p> <p dir=\"ltr\">(0:09:51) How failed businesses can still provide valuable human capital and career opportunities.</p> <p dir=\"ltr\">(0:10:46) Which early-career paths may put people on track to become business owners.</p> <p dir=\"ltr\">(0:12:14) Why domain expertise and industry experience can matter more than access to capital.</p> <p dir=\"ltr\">(0:15:25) The Treasury data, tax records, research papers, interviews, and other sources behind The Everywhere Millionaire.</p> <p dir=\"ltr\">(0:16:54) How lower interest rates, tax cuts, deregulation, and globalization contributed to wealth accumulation.</p> <p dir=\"ltr\">(0:18:18) What the data suggests about academic performance, risk-taking, and entrepreneurial success.</p> <p dir=\"ltr\">(0:19:52) Why attending an elite university is not necessarily a prerequisite for becoming wealthy through business ownership.</p> <p dir=\"ltr\">(0:20:57) The importance of early labor-market experience and practical knowledge in entrepreneurship.</p> <p dir=\"ltr\">(0:22:17) The factors that help certain places foster upward mobility.</p> <p dir=\"ltr\">(0:30:14) How family businesses, inheritance, and succession can shape the distribution of wealth.</p> <p dir=\"ltr\">(0:38:06 How business owners can successfully exit their companies, including the role of seller financing.</p> <p dir=\"ltr\">(0:39:09) The potential benefits and drawbacks of private equity for business owners.</p> <p dir=\"ltr\">(0:41:33) How \"stealth consolidation\" can allow businesses to gain local market power without attracting regulatory scrutiny.</p> <p dir=\"ltr\">(0:42:55) The possible relationship between product-market power and labor-market power.</p> <p dir=\"ltr\">(0:44:33) Whether the United States is experiencing a new Gilded Age—and how today's wealthy differ from those of the past.</p> <p dir=\"ltr\">(0:46:07) Why local business owners can have significant economic and political influence in their communities.</p> <p dir=\"ltr\">(0:48:47) How interest rates affect the value of private businesses and other assets.</p> <p dir=\"ltr\">(0:49:49) How apprenticeships and alternative career paths could expand access to financial success.</p> <p dir=\"ltr\">(0:50:41) What aspiring entrepreneurs can do to reduce risk and improve their chances of success.</p> <p dir=\"ltr\">(0:51:45) Potential approaches to reducing inequality while preserving incentives for business growth and investment.</p> <p dir=\"ltr\">(0:53:48) Owen's reflections on family, personal fulfillment, and how he defines success.</p> <p dir=\"ltr\"> </p> <p dir=\"ltr\"><strong>Links From Today's Episode:</strong><br /> <br /> Meet with PWL Capital: <a href=\"https://pwlcapital.com/\">https://pwlcapital.com/</a><br /> PWL Team — <a href=\"https://pwlcapital.com/our-team/\">https://pwlcapital.com/our-team/</a></p> <p dir=\"ltr\">Rational Reminder on iTunes — <a href=\"https://itunes.apple.com/ca/podcast/the-rational-reminder-podcast/id1426530582?mt=2\">https://itunes.apple.com/ca/podcast/the-rational-reminder-podcast/id1426530582</a>.<br />  Rational Reminder on Instagram — <a href=\"https://www.instagram.com/rationalreminder/\">https://www.instagram.com/rationalreminder/</a></p> <p dir=\"ltr\">Rational Reminder on YouTube — <a href=\"https://www.youtube.com/channel/UCOErWFfNOQzXsgE7f5S_ULw\">https://www.youtube.com/channel/</a></p> <p dir=\"ltr\">Rational Reminder on Spotify —<a href=\"https://open.spotify.com/show/6RHWTH9iW7hdnA7eAg7ukO?si=fe7f60349b584026\">https://open.spotify.com/show/6RHWTH9iW7hdnA7eAg7ukO?si=fe7f60349b584026<br /> </a>Benjamin Felix — <a href=\"https://pwlcapital.com/our-team/\">https://pwlcapital.com/our-team/</a></p> <p dir=\"ltr\">Benjamin on X — <a href=\"https://x.com/benjaminwfelix\">https://x.com/benjaminwfelix</a></p> <p dir=\"ltr\">Benjamin on LinkedIn — <a href=\"https://www.linkedin.com/in/benjaminwfelix/\">https://www.linkedin.com/in/benjaminwfelix/</a><a href=\"https://www.amazon.com/Everywhere-Millionaire-Really-America-There/dp/1250378508\"><br /> </a></p> <p dir=\"ltr\">Owen's website - <a href=\"https://www.everywheremillionaire.com/\">https://www.everywheremillionaire.com/<br /> </a></p> <p dir=\"ltr\">Owen's LinkedIn - <a href=\"https://www.linkedin.com/in/owenzidar/\">https://www.linkedin.com/in/owenzidar/</a></p> <p><strong><br /> <br /></strong></p> <p dir=\"ltr\">Editing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com)</p> <p> </p>",
       "external_id": "772fbfc5-fa95-4ef9-9ee3-176561581293",
-      "last_attempt_at": "2026-09-27T17:13:08.575780+00:00",
+      "last_attempt_at": "2026-09-28T05:45:08.934676+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-24T09:30:00+00:00",
       "source_id": "the-rational-reminder-podcast",
@@ -6588,10 +6605,10 @@
       "url": "gid://art19-episode-locator/V0/jILZCBtRCcnjtqi9JHu61VvzRW6OvYQnUUPOg4Edrzs"
     },
     "the-tim-ferriss-show::gid://art19-episode-locator/V0/mbdm7FqApWkMF1leES32j8BmnIVkghmms67B1O_PMMg": {
-      "attempts": 7,
+      "attempts": 8,
       "description": "<p><strong>Kevin Ryan</strong> is one of the leading entrepreneurs and investors in New York. Often called the “Godfather of NYC tech,” he is the founder and CEO of <a href=\"https://alleycorp.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>AlleyCorp</strong></a>, a New York based venture capital firm that incubates and invests across healthcare, AI and software, consumer tech, deep tech, and more. Kevin is also the co-founder of several notable companies including MongoDB, Business Insider, Zola, Gilt Groupe, and Transcend Therapeutics. Earlier in his career, Kevin was the CEO of DoubleClick, which he helped grow from a 20-person startup to a publicly-traded company with more than 1,500 employees.</p><p><strong>This episode is brought to you by:</strong></p><ul><li><a href=\"https://www.eightsleep.com/tim/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Eight Sleep Pod 6</strong></a> <strong>which cools or heats each side of the bed, with custom elevation and snoring reduction, and wearable-free sleep tracking: </strong><a href=\"https://www.eightsleep.com/tim/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>EightSleep.com/tim</strong></a></li><li><a href=\"https://shopify.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Shopify</strong></a><strong> global commerce platform, providing tools to start, grow, market, and manage a retail business: </strong><a href=\"https://shopify.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Shopify.com/Tim</strong></a></li><li><a href=\"https://livemomentous.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Momentous</strong></a><strong> high-quality creatine for cognitive and muscular support: </strong><a href=\"https://livemomentous.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>LiveMomentous.com/Tim</strong></a></li><li><a href=\"https://drinkag1.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>AG1</strong></a> <strong>all-in-one nutritional supplement: </strong><a href=\"https://drinkag1.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>DrinkAG1.com/Tim</strong></a></li></ul><p><strong>Timestamps:</strong></p><p>00:00:00 Intro from Tim</p><p>00:01:25 Kevin Ryan’s entrepreneurial track record</p><p>00:03:40 Spotting long-term trends and turning them into businesses</p><p>00:06:33 Designing gatherings and trips for great conversations</p><p>00:11:42 Second-order thinking and the missed YouTube opportunity</p><p>00:17:47 Gilt’s rise, shrinking moat, and knowing when to sell</p><p>00:22:06 From Dilbert to DoubleClick: early lessons and fast decisions</p><p>00:27:52 AlleyCorp’s model: start narrow, then scale</p><p>00:32:26 Recruiting founders and building Business Insider</p><p>00:38:28 Recognizing a business crush and choosing what to build</p><p>00:41:44 Investing in nuclear energy</p><p>00:43:26 Taking money off the table and keeping funds small</p><p>00:47:15 Ping-pong and the value of coaching</p><p>00:49:05 Making time for family, fitness, and vacation</p><p>00:51:52 Psychedelics and the origins of Transcend Therapeutics</p><p>00:54:20 Methylone, PTSD trials, and navigating the FDA</p><p>00:59:57 Transcend’s public-benefit mission and giving back</p><p>01:05:46 Deep tech, robotics, and the next wave of opportunities</p><p>01:11:35 Failed startups, MongoDB, and knowing when to persist</p><p>01:15:06 A more caring society: inequality, taxes, and opportunity</p><p>01:17:26 Immigration and attracting the world’s best talent</p><p>01:20:04 Why Kevin is bullish on New York</p><p><em>*</em></p><p><strong>For show notes and past guests on </strong><a href=\"https://tim.blog/podcast\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><em>The Tim Ferriss Show</em></strong></a><strong>, please visit</strong> <a href=\"https://tim.blog/podcast/?utm_source=podcast&amp;utm_medium=podcast&amp;utm_campaign=podcast-description\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/podcast</strong></a><strong>.</strong></p><p><strong>For deals from sponsors of </strong><a href=\"https://tim.blog/podcast\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><em>The Tim Ferriss Show</em></strong></a><strong><em>, </em>please visit </strong><a href=\"https://tim.blog/podcast-sponsors\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/podcast-sponsors</strong></a></p><p><strong>Sign up for Tim’s email newsletter (<em>5-Bullet Friday</em>) at </strong><a href=\"https://go.tim.blog/5-bullet-friday-1/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/friday</strong></a><strong>.</strong></p><p><strong>For transcripts of episodes, go to </strong><a href=\"https://tim.blog/transcripts\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/transcripts</strong></a><strong>.</strong></p><p><strong>Discover Tim’s books: </strong><a href=\"https://tim.blog/books\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/books</strong></a><strong>.</strong></p><p><strong>Follow Tim:</strong></p><p><strong>Twitter</strong>: <a href=\"https://twitter.com/tferriss\" rel=\"noopener noreferrer\" target=\"_blank\">twitter.com/tferriss</a>&nbsp;</p><p><strong>Instagram</strong>: <a href=\"https://instagram.com/timferriss/\" rel=\"noopener noreferrer\" target=\"_blank\">instagram.com/timferriss</a></p><p><strong>YouTube</strong>: <a href=\"https://www.youtube.com/timferriss\" rel=\"noopener noreferrer\" target=\"_blank\">youtube.com/timferriss</a></p><p><strong>Facebook</strong>: <a href=\"https://www.facebook.com/TimFerriss/\" rel=\"noopener noreferrer\" target=\"_blank\">facebook.com/timferriss</a>&nbsp;</p><p><strong>LinkedIn: </strong><a href=\"http://linkedin.com/in/timferriss\" rel=\"noopener noreferrer\" target=\"_blank\">linkedin.com/in/timferriss</a></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
       "external_id": "gid://art19-episode-locator/V0/mbdm7FqApWkMF1leES32j8BmnIVkghmms67B1O_PMMg",
-      "last_attempt_at": "2026-09-27T17:14:09.392695+00:00",
+      "last_attempt_at": "2026-09-28T05:39:06.254137+00:00",
       "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "published_at": "2026-09-24T17:00:00+00:00",
       "source_id": "the-tim-ferriss-show",
@@ -7739,15 +7756,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-27T17:04:16.413983+00:00",
-      "last_modified": "Sun, 27 Sep 2026 16:50:04 GMT",
+      "last_checked_at": "2026-09-28T05:33:26.925634+00:00",
+      "last_modified": "Mon, 28 Sep 2026 05:22:08 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-27T17:03:22.735828+00:00",
+      "last_checked_at": "2026-09-28T05:32:32.775420+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -7755,14 +7772,14 @@
     "feng-tou-quan": {
       "etag": "W/\"27dfa2e7a7a509b67a53d49a93f75f87\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-27T17:02:25.347167+00:00",
+      "last_checked_at": "2026-09-28T05:31:15.177786+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
     },
     "fit4life": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-27T17:04:47.510498+00:00",
+      "last_checked_at": "2026-09-28T05:33:53.997176+00:00",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/26640504.xml"
@@ -7770,14 +7787,14 @@
     "gao-qian-nu-hai": {
       "force_refresh": false,
       "last_attempt_at": "2026-08-26T13:21:20.005733+00:00",
-      "last_checked_at": "2026-09-27T17:02:15.772162+00:00",
+      "last_checked_at": "2026-09-28T05:31:07.218356+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
     },
     "luan-fan-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-27T17:02:15.051276+00:00",
+      "last_checked_at": "2026-09-28T05:31:15.158805+00:00",
       "title": "乱翻书",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/yxuruh3f9mc4"
@@ -7785,7 +7802,7 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-27T17:05:09.274556+00:00",
+      "last_checked_at": "2026-09-28T05:34:16.937609+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
@@ -7794,17 +7811,17 @@
     "sheng-dong-ji-xi": {
       "etag": "W/\"845c04cc73b97f1c71ac9bf513ca63a2\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-27T17:04:17.228920+00:00",
+      "last_checked_at": "2026-09-28T05:33:19.256413+00:00",
       "last_modified": "Thu, 17 Sep 2026 11:30:06 GMT",
       "title": "声东击西",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/shengdongjixi/rss"
     },
     "silicon-valley-101": {
-      "etag": "W/\"6e55e41affdff706b154a9f1710f8628\"",
+      "etag": "W/\"a5938ee1db87fbe20c9e1d9656990fe9\"",
       "force_refresh": false,
-      "last_checked_at": "2026-09-27T17:03:12.786792+00:00",
-      "last_modified": "Sun, 27 Sep 2026 14:28:50 GMT",
+      "last_checked_at": "2026-09-28T05:31:58.764500+00:00",
+      "last_modified": "Mon, 28 Sep 2026 02:45:07 GMT",
       "title": "硅谷101",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/sv101/rss"
@@ -7812,7 +7829,7 @@
     "streamlined-solopreneur": {
       "etag": "W/\"b201f4cd5418658050605a181db707f4\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-27T17:06:04.934021+00:00",
+      "last_checked_at": "2026-09-28T05:37:57.017437+00:00",
       "last_modified": "Fri, 25 Sep 2026 16:32:12 GMT",
       "title": "Streamlined Solopreneur: Solo Ops to Stop Doing Everything Yourself",
       "type": "podcast",
@@ -7822,7 +7839,7 @@
       "etag": "W/\"e401cc255042b8bcb6eccd980d88815f\"",
       "force_refresh": false,
       "last_attempt_at": "2026-09-19T15:58:18.869677+00:00",
-      "last_checked_at": "2026-09-27T17:03:42.408327+00:00",
+      "last_checked_at": "2026-09-28T05:32:14.956253+00:00",
       "last_modified": "Wed, 23 Sep 2026 04:15:08 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
@@ -7831,7 +7848,7 @@
     "the-a16z-show": {
       "etag": "W/\"7956aeaa4356c695628479146d71dedc\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-27T17:04:59.087669+00:00",
+      "last_checked_at": "2026-09-28T05:34:22.077162+00:00",
       "last_modified": "Sun, 27 Sep 2026 10:00:26 GMT",
       "title": "The a16z Show",
       "type": "podcast",
@@ -7839,16 +7856,16 @@
     },
     "the-investors-podcast": {
       "force_refresh": true,
-      "last_checked_at": "2026-09-27T17:05:23.832394+00:00",
+      "last_checked_at": "2026-09-28T05:34:57.439212+00:00",
       "last_modified": "Sun, 27 Sep 2026 00:00:00 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
       "type": "podcast",
       "url": "https://feeds.megaphone.fm/PPLLC8974708240"
     },
     "the-psychology-of-money-with-morgan-housel": {
-      "etag": "W/\"2a0dc-Ih93lN3b3Ze5q15xvINQuxOSQOA\"",
+      "etag": "W/\"2a0dc-mj4lRrwJbc4+47E8liclASGAT48\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-27T17:10:09.520162+00:00",
+      "last_checked_at": "2026-09-28T05:39:05.305012+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
@@ -7856,7 +7873,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"9db6a4f8351a291f4c6e0c4b20d9271b\"",
       "force_refresh": true,
-      "last_checked_at": "2026-09-27T17:07:09.876741+00:00",
+      "last_checked_at": "2026-09-28T05:39:27.297233+00:00",
       "last_modified": "Thu, 24 Sep 2026 14:15:47 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -7864,7 +7881,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": true,
-      "last_checked_at": "2026-09-27T17:06:01.897805+00:00",
+      "last_checked_at": "2026-09-28T05:35:13.762453+00:00",
       "last_modified": "Thu, 24 Sep 2026 21:18:24 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -7872,26 +7889,26 @@
     },
     "yan-zhong-hua-shu": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-27T17:02:12.658521+00:00",
+      "last_checked_at": "2026-09-28T05:31:02.452498+00:00",
       "title": "岩中花述",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/hwen8wf69c6g"
     },
     "yi-xi": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-27T17:04:04.075793+00:00",
+      "last_checked_at": "2026-09-28T05:33:03.135700+00:00",
       "title": "一席",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/jq7xytwpykrg"
     },
     "zhi-xing-xiao-jiu-guan": {
       "force_refresh": false,
-      "last_checked_at": "2026-09-27T17:03:23.783434+00:00",
+      "last_checked_at": "2026-09-28T05:32:20.402998+00:00",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-09-27T17:14:42.289836+00:00",
+  "updated_at": "2026-09-28T05:45:35.260710+00:00",
   "version": 1
 }
