@@ -1,0 +1,288 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.000
+So welcome, welcome. I hope you are having a good day. Let's go through the run of show. So if you get my newsletter, you got a sneak preview of this, but we're going to be talking about is AI worth it? Are you really saving time and money using AI? Then we're going to get to some recommendations, recommended listening, and then we're going to do a demo of the Stream Deck XL, which I picked up and am really excited to, um, kind of show you how I've configured it. In that same kind of segment, I'm gonna be talking about, uh, 2 plugins that I have vibe coded. So that's also super exciting.
+
+2
+00:00:00.000 --> 00:00:01.000
+But let's get to the first, uh, topic, right? Is AI really saving you time? And this is, I was on the struggle bus a little bit this morning cuz I was trying to Uh, figure out what I should write about. And, um, that's usually not the case for me. I usually am, uh, I usually know exactly what I want to write about going into the Friday wrap-up, but it's just been a long week. I've been traveling. I have been, uh, in between trips. So like starting in like mid-September, it was like home, away, home, away, home, away. Uh, and so I hadn't gathered as much stuff as I wanted to talk about this week.
+
+3
+00:00:00.000 --> 00:00:01.000
+And usually I gather a few notes, but I was hit with some weird inspiration because I was, instead of, um, instead of working on the newsletter, I decided to start like vibe coding, uh, some WordPress theme thing for my website. Um, you know, I was really successful a couple of weeks ago in the, uh, conversion of my WordPress site to a flat-file site. And I thought, oh, well, I can probably quickly fix this up, right? So that it's like ready for it to go for next week.
+
+4
+00:00:00.000 --> 00:00:01.000
+Uh, but it wasn't as fast as I thought it would be, right? Because I have a ton of technical debt, and I couldn't just say like, hey Claude, make this WordPress theme based on my brand guidelines. And so, between writing the sections of my newsletter, I was going to Claude and prompting it and coming up with a spec, like based on my design system, then having it build the theme.
+
+5
+00:00:00.000 --> 00:00:01.000
+But I also had to like connect the new code to a staging version of the site and test everything, which meant that the newsletter took me closer to 90 minutes to write than like 45, which is what it usually takes. Usually, if I'm not live streaming this, I can write the newsletter in about a half hour and then over the next hour, like build the scenes that you're seeing in Ecamm and then record and publish everything. So it's like 90 minutes, uh, to do the Friday wrap-up, but it took me about that long to write the newsletter itself.
+
+6
+00:00:00.000 --> 00:00:01.000
+Um, And I started thinking about like a lot of people see the value of AI saving them time and money. And I would say like that's demonstrably true with specific tasks. So like taking this newsletter or this transcript and turning it into assets for the podcast episode definitely, definitely saves me a bunch of time. But net, I'm not really sure, right? Like, and I talked about vibe coding in Monday's newsletter and on the livestream I was on earlier, so I won't, like dive too much into it.
+
+7
+00:00:00.000 --> 00:00:01.000
+But like, I spoke about like when it's worth vibe coding your own software, right? Because like, yes, it's a lot easier than it used to be. But it still takes time and effort, right? Just like flying to Disney World or getting to Disney World from New York is a lot faster because we can fly, right? When you drove, it took about 24 hours, depending on where you were coming from and how often you stopped. And now it takes like 2 hours, but it still costs— It still costs a bunch of money, and there's still a bunch of stuff that goes into traveling, right?
+
+8
+00:00:00.000 --> 00:00:01.000
+So, uh, I, I really think about this. Is it saving us time and money? Um, and I— so one of the things that I want to do is vibe code a, uh, a Stream Deck plugin, but I knew someone else, uh, his name is Billy. It's called, um, uh, Stream Pitch, like vibe coded this and he sells it, right? For $49. And so I bought it this week even though, well, I'll let you, here's what he said, right? He said, " Thanks for the support. I know you could build this in an hour. Luckily, $49 is way less than you can make in an hour doing something else, right? And that's really the rub, right? AI has enabled us to do so much more than we could before, but we still need to ask ourselves a very hard, very human question. How should we be spending our time? Where is our time best spent?
+
+9
+00:00:00.000 --> 00:00:01.000
+So I decided to abandon this WordPress project for now, right? Maybe during a slow season like mid-December or early January, when I don't usually have a lot going on. Anyway, I can pick it back up. Right now I have too much to do. And so AI, using AI to do this was actually costing me time and money because it's not something I should have been doing. It's something that AI enabled me to do.
+
+10
+00:00:00.000 --> 00:00:01.000
+And like the thing I think about, like the thing I was just thinking about was like how we switch tabs, like how we switch apps or buy new gear right now. Sometimes I wanna give a shout-out to Lauren here if she's still here, 'cause I know that, like she just picked up a bunch of gear, but— For a very good reason, right? But like, if I went out and just bought a new microphone and interface right now, it would be totally unnecessary for me to do that. This is a great setup, and I would just be like upending my whole recording setup for the sake of doing it.
+
+11
+00:00:00.000 --> 00:00:01.000
+So we really want to think about, is AI saving us time, right? Just because AI enables us to do something. And let me know what you think about this in the chat. Like, think about— I would love to hear like how AI saves you time, obviously, but like, what was a time where you were using AI and you feel like you wasted time? That feels like a really good question to put up on the screen. I wish I was more prepared to do that.
+
+12
+00:00:00.000 --> 00:00:01.000
+But like, what is a— what's a time where you realized AI was wasting your time? Maybe I can just change this really quick. Um, cause that's I would love to know that. So, um, so, okay. So Lauren's still here and, uh, just said, I am definitely still in the, uh, buying a lot of new gear for better or worse phase.
+
+13
+00:00:00.000 --> 00:00:01.000
+And this is absolutely true, right? Like when I first started my podcast, I was also doing that, right? Like I wanted- I'm an audiophile. I have so many different pairs of headphones. Uh, and, and so, um, I really, uh, I really wanted to get this dialed in, and the justification that turned into, uh, like time savings was I got gear that made it so I didn't need to edit as much, especially with loud children upstairs. Shout out— well, I don't think I'm doxxing you.
+
+14
+00:00:00.000 --> 00:00:01.000
+Sheila, welcome, welcome. Laugh lines and life lessons. Writing scripts, AI makes it more difficult and wastes time. I love hearing this, right? Because the thing— I'm not going to insult anybody's process. I consider myself a pretty strong writer. But I— the, oh, I have AI write the first draft, and then I go in and basically edit every word of it makes less sense to me than doing it the other way around, right? Just like getting all of your thoughts out and then maybe using AI to structure it.
+
+15
+00:00:00.000 --> 00:00:01.000
+I personally like to do both myself because I wanna come up with the argument and make it in the way I think it makes sense. And then I will have AI— like, I ask AI very targeted questions in my copy editor skill, which is like, look for spelling and grammar, obviously. And then does my conclusion support my thesis? Right? So, like, do I tie the end back to the beginning? And I like doing it this way because, first of all, everything stays in the chat window. Like, I don't have it reach into Obsidian and change anything. Um, and then, uh, and then I will take its recommendations and say that one works, that one doesn't. That— so like, like an example from the newsletter today was like, you know, it's— you wrote that you spoke to Vibe Coding on Monday, but this is a newsletter. And I'm like, yeah, I spoke to is a colloquialism. Like, my readers are not going to read that and be like, wait a minute, you didn't literally say the words, right? So, you know, we want to be a little bit judicious with what the AI is recommending. Saying, I talk in— I talk into the mic into ChatGPT and verbal vomit, and I have it structure a story. Then it's all me. So I like that a lot. This was like an interesting, this was something interesting that I thought about, which is, is talking writing?
+
+16
+00:00:00.000 --> 00:00:01.000
+But I say writing is thinking. Writing is thinking, and thinking is important. This is my whole hobby horse, right? Or not even a hobby. This is like, this is a hill I'll die on. I am worried that overuse of AI means that we're losing our ability to think critically. And so, Sheila, the fact that you're talking into the large language model and it's structuring everything for you means you're still spending the time thinking about what you want to say.
+
+17
+00:00:00.000 --> 00:00:01.000
+And maybe the structuring part- that's what— I've written a few books. Copy editors have torn my first drafts to shreds. To shreds, because the structure that I thought was good was not— it wasn't good for them, or it didn't necessarily make sense to everybody. So I like that a lot.
+
+18
+00:00:00.000 --> 00:00:01.000
+I've kind of changed my opinion on that bit. So whatever way helps you get your thoughts onto the page, as long as they are, again, your thoughts. Shout out, Tessa. Thanks for being here. I used to feel that way. There is a learning curve and decision-making matrix to using AI. Your harness plays a huge part in this.
+
+19
+00:00:00.000 --> 00:00:01.000
+Yeah, I mean, I think this is— so I have, I think, said a lot of things now in the intervening time between when you said I used to feel that way. So I don't know which part you used to feel that way about, but there is a— there absolutely is a learning curve, right?
+
+20
+00:00:00.000 --> 00:00:01.000
+The reason that I have the opinions I have today is because last summer, or maybe like '24, maybe it was like July '24, I realized that I had outsourced I'm too far away from my microphone. I realized that I had outsourced important critical thinking to ChatGPT because it was very convincing in the way it said things. And it wasn't until I was trying to think through a problem and I pulled out my phone, and I was like, oh, I'll just ask ChatGPT. And then I'm like, no, no, no, no, no, no, no, no. I should actually spend some time thinking about this, right? So that's when I kind of realized that allowing AI to do your content writing or any tasks really. Yeah.
+
+21
+00:00:00.000 --> 00:00:01.000
+So I mean, like I think I said this on the livestream I was on earlier, the line is going to be different for different people. I, I think and like, I mean, this is my feeling, right? Like I'm not here to shame anybody or whatever, but my strong feeling is that writing should— okay, I'll put it this way. I was going to say writing should start with you. I interviewed Amanda Goetz on my podcast about a year ago, right around the time her book came out. So maybe it was 2 now. It must have been 2 now. Oh, it definitely was because it was right around both of our birthdays. Our birthdays are like a day apart. So, she said that, she said that she doesn't check her email or go on social media before she does her writing because she doesn't want to be influenced by other people's thoughts. The things that she writes down, she wants to be her own original thoughts.
+
+22
+00:00:00.000 --> 00:00:01.000
+And my position on letting AI write for you, for example, is that position, right? It's that if you just, like, prompt AI to write something for you from whole cloth, it's largely not your idea. It's the average of the ideas from its training. So, like word vomiting into an AI and having it structure your thoughts- they're still your thoughts, but you do wanna make sure that it didn't just insert stuff, right? That's the other thing. So that's where I'm coming from. Like, I want more people to have original thoughts, or at least original takes on thoughts, if that makes sense. I know that, and I know that, fully saying that, I feel I'm a good writer. I have said I write a lot of words, but it's also true that like you don't get better at something by not doing it. So yeah, I definitely see where people are coming from.
+
+23
+00:00:00.000 --> 00:00:01.000
+My whole thing is like, keep your critical thinking skills because those are going to be the things that are super important in the future. Thanks for being here, man. AI does my manual data entry and file organization tasks that were super time-consuming. This is a great one, right? I will use it for like, voice of customer. So I will have it look for patterns in actual calls I had with people and say like, hey, how many times does this thing come up? Or how many times do they say, what words are they using to describe their problems? And I think that's been super helpful.
+
+24
+00:00:00.000 --> 00:00:01.000
+Again, for me, it's that I have— I sat on those calls and I have my own notes from those calls, right? So like, I was talking to somebody today who I asked what his opinion of a thing was, and he said he had his agents read news stories and summarize them and then tell him the position. And I was like, okay, so you were a tourist. Like, you were a tourist in this whole process. You didn't read any primary sources. You didn't think about it; you didn't consider anything. You just let the machine tell you what the stories were, where they came from, what they were about, and what you should think about them.
+
+25
+00:00:00.000 --> 00:00:01.000
+And that's the scary part to me. So with these calls, it's not like I'm letting somebody talk into a microphone, not listening, and then having it summarized. I'm sitting on the call, right? Uh, so, so that's really good. Uh, you don't get better at something by not doing it. Um, yeah, I've— I said that like in the middle of an impassioned speech one day. I don't know, rant. Speech makes it sound good. Rant makes it sound like I'm a psycho on a corner. Um, so I'm gonna say, uh, an impassioned speech one day, and I, I'm really glad I wrote that down and remembered it cuz I, I feel like that's a good one.
+
+26
+00:00:00.000 --> 00:00:01.000
+Um, okay, awesome. Thank you. What a lively chat. I'm really excited about this. This was— I was telling a few folks at Creator Camp, like Lauren, um, that I was like, I was worried to start going live again because, um, I, uh, because like when I would program on live streams, like I had a pretty lively chat and I haven't felt like they've been in a while. So thank you all. I'm scared. Oh, gosh. Put this on the screen. This is a great point. Tessa, I'm scared of people who aren't intelligent just blindly using AI. Yes. Right. And like, I— this is great. I like— I didn't intend for this to be like a scary AI talk thing, but this is a really important thing. Right.
+
+27
+00:00:00.000 --> 00:00:01.000
+And we've seen this time and time again. Right. Like, even like back at like the American Revolution, right? Or like the— like there were newspapers that were telling people what to think. There were, there were TV shows and talking heads telling people what to think.
+
+28
+00:00:00.000 --> 00:00:01.000
+There's pundits telling people— did I say pundits already? There's social media telling people what to think. But it's— that still takes a little bit of discernment too. And like, I don't think anybody should be like— I don't think you should be told what to think. I should— you can— I think you should consume primary sources and think, think for yourself. But you at least have to discern if you trust this source or not. And when you ask— this is going to get into the recommendations, which is good. When you get results from ChatGPT, some of them are far more trustworthy than others. So I agree, Tessa. I don't think anybody should— like, if my dad started using, or my mom, for that matter, like started using AI today, we would have like a sit-down, and I would explain a lot of things to them about that. 
+So, saw the live notification on LinkedIn and tracked you down on YouTube. Uh, thank you. Appreciate that. Uh, I don't— gosh, you know, I'm super bad at this actually, 'cause, uh, LinkedIn does not surface comments in Ecamm. Like they don't expose that to, um, the API. So if you have been commenting over on LinkedIn, I'm sorry, I'm not ignoring you. Um, I can't even see where I am.
+
+29
+00:00:00.000 --> 00:00:01.000
+Actually, uh, I don't, I actually don't know if I'm live on LinkedIn, uh, now that I'm looking at my profile. So, um, so yeah. So, uh, thank you, Tessa. I appreciate that. It's probably cause I like, oh, I am live here. So I'm sorry if you've been commenting over on LinkedIn. Um, oh, cool. Yes.
+
+30
+00:00:00.000 --> 00:00:01.000
+Okay. So I do see some comments that I think were probably made here. And okay, cool. Yeah. So I'm sorry if you are on LinkedIn, I likely will not see your comments or I won't see them as, as quickly as I would. Oh my gosh. Okay. Comments popping off while I did that.
+
+31
+00:00:00.000 --> 00:00:01.000
+Fantastic. I do have a huge fear that due to their reliance on AI, our kids may not have the critical thinking skills. They will need to handle challenges in the future. Sheila and Tessa agreeing. Yeah, this is— this thing. Thanks, Lou. This is— this scares me as well. Right.
+
+32
+00:00:00.000 --> 00:00:01.000
+My son, like, I was like triggered. My son yesterday, he's 6. He said, when am I going to get a phone? And he had no idea what he was asking. And I was just like, never. Like, I got like so mad and he had no idea why. And then I eventually explained to him, right? Um, but I'm really trying to instill in my— now my kids go to like a Catholic school, so, so they're like, you know, tech, uh, they're not not tech savvy. I'm gonna post the agreements in here. Um, they're not not tech savvy, but they're also not like Embrace it immediately.
+
+33
+00:00:00.000 --> 00:00:01.000
+Tessa saying I'm homeschooling my kiddos for this reason. My older ones are using AI, but only for learning software engineering mostly. I think that's a great use case. My kids are nine and younger, so they haven't really gotten into it at all yet. But I have instilled something that'll hopefully stick, which is a healthy skepticism of technology. I had my oldest read The Anxious Gener— The Amazing Generation, which is the kids' graphic novelization of The Anxious Generation. And she was like, I don't want a phone until I'm 14. And I'm like, beautiful, right? And she's already said, like, I don't trust AI. And I'm like, beautiful. And maybe she's just parroting my thoughts back to me.
+
+34
+00:00:00.000 --> 00:00:01.000
+But I, you know, I think like something that we will, that we will need to teach. I taught computer literacy at the University of Scranton, and computer literacy when that program was first invented was like how computers work on a technical level. But by the time I started teaching it from 2010 to 2016, I was redoing the curriculum every year because social media was evolving, and like Snapchat happened, and that iCloud data breach with all the celebrity pictures happened. And so I felt it incumbent upon myself as the computer literacy teacher to teach my students how to be literate online as well. How do you verify sources? What's a safe way to use social media?
+
+35
+00:00:00.000 --> 00:00:01.000
+And today I would absolutely be talking about discernment when using artificial intelligence. So, gosh, I love— I'm so glad I went live for this. This has been a great conversation. Some comments on LinkedIn. Thank you all for confirming that I am on LinkedIn and that it's got a great distribution, horrible experience. Um, Lou is stalking me, uh, and Rich is confirming that indeed I am live on LinkedIn. So thank you very much. Um, okay. Great conversation. Thank you everybody. This was great.
+
+36
+00:00:00.000 --> 00:00:01.000
+Um, I do wanna move over to, oh, hey, uh, actually before we do that, um, I've been talking about, uh, vibe coding a lot using AI, good ways to use AI. Tessa mentioned. Her older ones are using AI to learn software engineering, which I think is great.
+
+37
+00:00:00.000 --> 00:00:01.000
+Um, something that came up a lot at Creator Camp when I was there last week was vibe coding tools. It's what I talked about on this other, uh, uh, this other podcast or this other livestream I was on, Creator News Live with, uh, Jeff See and Zach Brown. And, um, I've decided that I, I wanna validate this idea by talking to actual people instead of, uh, just asking AI if it's a good idea.
+
+38
+00:00:00.000 --> 00:00:01.000
+Um, I have this idea for doing a, a, I'm calling it a Tools Builder Cohort where we go through, when should you vibe code your own tool versus actually paying for it. And so we'll figure out how to determine that for each of us. And then we will go through the software development process. 'Cause I'm, I don't know who knows this or doesn't. I have my master's in software engineering. Um, we'll go through the software development process as it applies to vibe coding. Um, and by the end, you will have your own vibe-coded tool, and you'll be equipped to, uh, support and maintain it. Because that's the thing that I think we don't have the long view on yet.
+
+39
+00:00:00.000 --> 00:00:01.000
+This tool that I have vibe coded works today. Will it work in 6 months? Is there some weird kill switch in Fable 5.1 that when Fable 6— I don't know if Fable is going to be a 6. I don't know how their naming works. When Mythos comes out, will this code stop working somehow, right? How do I fix it if it breaks? Those are the kind of questions I want to help people with. So if you're interested in that, um, I have the waitlist up. Again, I want to validate this idea, so if enough people get on the waitlist, I will open the doors. Uh, it's over at streamlined.fm/waitlist. That's streamlined with a D, .fm/waitlist if you're interested. If you're already on my mailing list, you will definitely hear a bunch about it as well.
+
+40
+00:00:00.000 --> 00:00:01.000
+Uh, okay, so let's get into the recommendations. Uh, I will have these links— I will add these links to the description posthaste. Um, but the first is— maybe I can get rid of that QR code. Um, maybe I can bring this up while we're talking. But the first is episode 10 of Intentional AI, which is a show by David Sparks and Chris Bailey. This is— this is episode 10, Cal Newport, Automate Tedium and Protect Thought.
+
+41
+00:00:00.000 --> 00:00:01.000
+So I love Cal Newport's take on AI. I think he's a really smart guy. I think a lot of people, I think a lot of people don't necessarily like him. I've heard people say he oversimplifies or he doesn't know what he's talking about. He, he's a computer science guy and has been for a long time. So, you know, as I would say, like not liking what somebody says does not mean they're not knowledgeable. Hot take, I guess. But I'm highlighting this episode because we get to hear some of his takes framed a little bit differently, right? He knows he's not talking for his audience.
+
+42
+00:00:00.000 --> 00:00:01.000
+And so I especially like his breakdown of AI's jagged abilities, right? And this is what— this goes back to the discernment thing that I mentioned earlier, right? Which is, we can decide if we trust a pundit or not. We can decide if we trust a news source or not, and they are generally going to be consistent in what they're thinking and promoting.
+
+43
+00:00:00.000 --> 00:00:01.000
+But with AI, you might get one thing one day and one thing another day. And so I like that Cal Newport kind of talks about this, how it can do one thing, like writing code extremely well, but a lot of the output or advice is not very good or requires much more discernment. So yeah, that's just something that I really enjoyed. I would strongly recommend it. It's Intentional AI wherever you are listening to podcasts. So that's the first recommendation. That's like my— I have a recommended reading section. But it could also be like recommended listening or watching. I guess I should just call it recommended content.
+
+44
+00:00:00.000 --> 00:00:01.000
+And then I also have something fun in this newsletter, and this week's something fun. I will put this in the comments as well. It's a song called Chronically Cautious by Braden Bales. And I'm highlighting this one. Because it's a bop. But also, like, I don't usually— this is just like a terrible URL. It's in the chat, though. I don't usually stop on songs that are recommended to me.
+
+45
+00:00:00.000 --> 00:00:01.000
+So a few years ago, I learned about something called taste freeze, where when you're between the ages of like 33 and 35, your musical tastes lock in. And so you don't, you don't really seek out new genres or artists. Lauren saying it's a bop, great song. That means a lot.
+
+46
+00:00:00.000 --> 00:00:01.000
+Lauren and I have very similar music taste. And so this, it was very just interesting to me that I, I happened to stop on this song because usually if it's a song I don't already know, I'm going to skip over it. Or at least if it's not an artist I don't already know, I'm gonna skip over it. So it was serendipitous that I stopped on this song because, on top of it being a bop, it deeply resonates with me. Like, there's some really— I won't, like, you know, this is not like a MySpace livestream, so I'm not gonna like go through song lyrics and talk about them, but it's a really good song, and it really resonated with me after the summer I had with respect to my business and trying to find the right path.
+
+47
+00:00:00.000 --> 00:00:01.000
+And maybe switching things up too quickly, like, like not sticking with something long enough to see if it actually works. So really resonated with me. I enjoy the song. I would recommend it. Maybe the universe or some deeply personalized, unseeable algorithm is trying to tell me something, but I really enjoyed that song. So those are the recommendations. They are currently in the comments over on YouTube. I am not seeing any comments over on LinkedIn. Which, um, may be because there's no comments, but it also just may be that LinkedIn comments on live streams are not very good.
+
+48
+00:00:00.000 --> 00:00:01.000
+Uh, okay. So let's move on to the Stream Deck XL. So I bought the Stream Deck XL. Uh, I bought this and my wife saw me bring the box in and said, you got another Stream Deck? Uh, in that like, accusatory way, which is notable because usually when I get a new piece of tech, I get like, uh, oh, that's nice, honey. Right? Like, have fun with your toys. Uh, so the fact that she knew I had— that I got a Stream Deck, but also that she knows enough that I have too many Stream Decks is extremely notable. So, Uh, I got it. I love it. The, the, my other Stream Deck, my Stream Deck Plus, uh, the screen was starting to die on it.
+
+49
+00:00:00.000 --> 00:00:01.000
+And instead of going through the troubleshooting, I decided to buy the, the bigger one. Right. Which is like, not, that's not real logic, but, uh, so this, so let me switch to it. Let's see if you can see this. Uh, okay. Um, uh, Rich saying, uh, my wife wouldn't know a Stream Deck from a hole in the ground. Um, that is the case with most tech for me, right? Like my phone and, and the Stream Deck, I guess, are the two, the two pieces of tech that she would identify. Um, That's, that's really funny, though.
+
+50
+00:00:00.000 --> 00:00:01.000
+That's also like why it's, uh, chilling to me that she knew it, because it means that I probably do have a problem. Let me try to adjust this camera. All right, like that. Okay, uh, so it's a little blown out, but it is, uh, 36 buttons, 6 knobs, which I think you can see here. Sorry if I'm making you motion sick. Um, and I wanted to highlight, I can probably like bring up the Stream Deck app. Maybe that would be better. Um, so you can kind of see like what the apps are.
+
+51
+00:00:00.000 --> 00:00:01.000
+Uh, but I, I just wanted to talk through this because it is a really important part of my system. Um, I, the reason that it was kind of catty-cornered or kitty-cornered, depending on what part of the country you're from, Uh, towards me, is that all of my scenes that I'm controlling in Ecamm are on these buttons on the second page, like including when I bring the comments up or hide them, uh, when I switch between views, when I show the QR code, uh, all of those are buttons on my Stream Deck so that I can like easily manage this while, while continuing to say what I need to say.
+
+52
+00:00:00.000 --> 00:00:01.000
+But then when I'm recording and not live streaming, I don't have to add anything like this in post. It's all already there, and I can cut the mess-ups. So that's how I kind of use it for recording and streaming. But the first page, none of it has to do with recording or streaming. So these buttons here, maybe I can like, decrease the brightness. Maybe that'll be— oh, that's not— oh yeah, that's all color temperature. Whoopsie. Um, maybe that's a little bit better. Uh, but the, the first, like column of buttons here are all for Apple Music. I love music, as I think we just discovered. And these buttons are a, uh, a vibe-coded, uh, Stream Deck plugin for Apple Music.
+
+53
+00:00:00.000 --> 00:00:01.000
+And, and if you've been following me for like more than 2 days, you've probably heard me talk about this already, but, uh, Elgato killed their Apple Music plugin, uh, for Stream Deck. And so I vibe-coded a replacement. I added a couple of things to it that I think are, um, really good and helpful.
+
+54
+00:00:00.000 --> 00:00:01.000
+So one is this button right here. Uh, yeah, maybe I'll bring up the app. Let's see if I can. I mean, I definitely can do this. Um, do this, and maybe we can just zoom in on the Stream Deck app like. So, yeah, that's still pretty small, it looks like. Um, yeah. Still pretty small and does not get bigger.
+
+55
+00:00:00.000 --> 00:00:01.000
+But so there, the point being is there is a button on the Stream Deck that just tells me the name of the playlist that's playing because I have many playlists and there's like a good, a good amount of overlap on the songs. And so I always just like to know what playlist is playing.
+
+56
+00:00:00.000 --> 00:00:01.000
+So this, this button right here does nothing. It just shows me the name of the playlist, which is cool. Uh, and then these buttons, which were not in the original Stream Deck plugin, uh, that Elgato made, will launch specific playlists.
+
+57
+00:00:00.000 --> 00:00:01.000
+So, uh, I have one called Now, that's like my top 20 or whatever songs. 5 CD Changer. This is a fun one. It's like 5 albums, and, uh, it's not allowed to be played in shuffle. Like, it has to- I don't allow it to be in shuffle is really what I'm saying. Like, I, I will just listen to them all the way through because that's how a 5-CD changer works. Sad with the little emo haircut guy. I actually have like 4 sad— like, sad music is great. And then chill. So these are all part of a plugin that iVibe coded that I love. You can find it over at streamlined.fm/queue.
+
+58
+00:00:00.000 --> 00:00:01.000
+Um, uh, got Lauren saying 5 CD changer. Oh my God, the nostalgia. Yeah, I like— part of me, part of me wants to get the sound effect to put in between each album, like the whole thing moving over so the next CD plays. You know what I'm talking about? It's just like plastic grinding on plastic as the thing turns. I'm probably not gonna go that far, but I do have those rules of like, you know, I, I can't put this album in shuffle and I can only— whoops—, and I can only start— I can only start the playlist from the first track of a CD. So just, I don't know, something, some fun constraint. I can— I will share with you.
+
+59
+00:00:00.000 --> 00:00:01.000
+So if you go to casabona.org/now, you will, you will see like what I— when I update this list, I will, uh, when I update this list, I will update that page. Uh, but if we go back to— where did you go, Ecamm? Okay, there you are. Um, if we go back here, I can show you what is on this. So, uh, we got Boxcar Racer, Self-Titled, Thursday, War All the Time, uh, Rufio, Perhaps I Suppose, Taking Back Sunday, Louder Now, and The Academy Is Almost Here. Uh, that is my current 5-CD changer. Uh, so if anybody was interested in that, that is what's currently on my playlist.
+
+60
+00:00:00.000 --> 00:00:01.000
+Uh, okay. So anyway, I wanted to highlight that because it's vibe-coded. The other thing that is like vibe-coded, uh, or the other thing on the Stream Deck that is a vibe-coded tool, are these buttons, uh, these bottons, these buttons across the bottom, which is a plugin I made for Obsidian to assign keyboard shortcuts to, um, moving files to specific folders.
+
+61
+00:00:00.000 --> 00:00:01.000
+So I do all of my writing in Obsidian. Uh, when I want to archive something, I will push this button, and it will move the current article into the, uh, archive folder so that it's not in one of my regular folders. I have one for publish, for throwing out. Um, and then I have one that creates the Friday wrap-up template and puts it in the right folder.
+
+62
+00:00:00.000 --> 00:00:01.000
+So, um, these are not, this is not a Stream Deck plugin, but this is a plugin I made for Obsidian. So, uh, on the livestream that I was on earlier, somebody asked, uh, like one of the hosts asked, what is a good starter project for vibe coding? Uh, and I said something really limited in scope, like a single-purpose app, that you can run locally. And I think these 2 examples are really good.
+
+63
+00:00:00.000 --> 00:00:01.000
+So a Stream Deck plugin, uh, that is now defunct that I used every day, and an Obsidian plugin that makes my life easier in this app I'm in every day. Um, so I won't belabor it, I mean, unless anybody has specific questions about the Stream Deck, feel free to ask them. I won't belabor everything else, but I will say like these are for Tella. So if you've ever gotten a personalized video from me, I use Tella for that. These are all Google Voice, Google Meet.
+
+64
+00:00:00.000 --> 00:00:01.000
+I stopped using Zoom in May because I was already paying for Google Meet, and it was like they raised their prices nominally, but it was like the principle of the matter. But like, the really important thing to me was Can I use Google Meet with the Stream Deck? Because I use Zoom with the Stream Deck constantly for like, reacting or raising my hand and stuff like that. So I can - So all of these buttons are here, and then these are to control my browser. So if I open up YouTube, I usually like to watch it, uh, either on my teleprompter or my secondary screen. And so this will pop out the active window and move it to the next monitor. Um, and then this will just move the active window to the next monitor, right? So if I have Zoom up and it's on my main display, I can push this, and it will move that window to the teleprompter. And then full screen and no tabs. These are easy for when I want to share my browser, but I don't want to show the tabs.
+
+65
+00:00:00.000 --> 00:00:01.000
+So, and then everything else is, uh, for controlling Ecamm. The knobs across the bottom, transport. This is part of my, uh, my plugin, my Apple Music plugin. These control my lights, and then this is for paging. So I'm happy to answer any questions, uh, you have about the Stream Deck XL. I just wanted to give a quick overview of what I've done.
+
+66
+00:00:00.000 --> 00:00:01.000
+Now, I do— let's see, I do still use the Stream Deck XL, which is right here. So I do have the 2. I'm sorry, I'm like giving everybody motion sickness. Um, I do— maybe this is easier if I do it this way. No, that's not gonna work. Okay. Uh, I got a new like sky camera, but I haven't configured it yet, apparently. Um, or like my power went out and like the IP address changed is probably what happened. But, um, I'm using that mostly for like, controlling my lights, running some shortcuts. The point here is, the Stream Deck has stream in the name, but there's so much utility for, uh, just how you, how you like run your life daily or how you use your computer.
+
+67
+00:00:00.000 --> 00:00:01.000
+Um, so like I can turn off my office lights with the push of a button. I can turn them back on. Uh, I can set I have like very specific lighting for my live streams. And so I can push that button. I have a recording light upstairs that I can push the button and turn the recording light on so my family knows I'm recording. So, um, all of that stuff makes my life a lot easier.
+
+68
+00:00:00.000 --> 00:00:01.000
+Um, and so that's, that's really what I wanted to, to cover, uh, with this live demo. If you have questions about the Stream Deck, feel free to post them in the chat. I'm not seeing anything come through. I will go check, uh, LinkedIn, just in case, but I don't see anything.
+
+69
+00:00:00.000 --> 00:00:01.000
+But then I— then we'll wrap the stream up. This has honestly gone longer than I expected it to. I really thought I'd be talking to an empty room. So thank you, everybody, for coming. This is not something that you should really say, but, you know, you never know who's gonna show up to a livestream, and the show must go on either way because I'm gonna repurpose this as an actual podcast episode.
+
+70
+00:00:00.000 --> 00:00:01.000
+So, but that's it for the Friday wrap-up for October 9th, 2026. My goal with this livestream, these episodes, is to remind you that there is more to life than systems. And I know that we talked a lot about AI and systems, but I also highlighted some fun things like that, that song or an interesting podcast to listen to
+.
+So, um, my hope for you is that you find some time this weekend to touch grass or do something that you like. So thank you, everybody, for being here. I appreciate you being here on the livestream.
+
+71
+00:00:00.000 --> 00:00:01.000
+And until next time, I hope you find some space in your weekend.
