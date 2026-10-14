@@ -61,7 +61,8 @@ sources:
 | 类型 | 名称 | 用途 |
 |---|---|---|
 | Secret | `OPENROUTER_API_KEY` | 英文转简体中文 |
-| Variable，可选 | `OPENROUTER_MODEL` | 覆盖 `config.yaml` 中的翻译模型 |
+
+GitHub Actions 固定使用 `qwen/qwen3-30b-a3b-instruct-2507` 翻译；本地运行可通过 `TRANSLATION_MODEL` 或 `OPENROUTER_MODEL` 环境变量覆盖。
 
 默认调用 `https://openrouter.ai/api/v1/chat/completions`。也可以修改
 `translation.api_base` 和 `translation.api_key_env` 接入其他兼容服务。

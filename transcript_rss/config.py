@@ -68,7 +68,7 @@ def load_config(path: str | Path) -> AppConfig:
             "TRANSLATION_MODEL",
             _environment_value(
                 "OPENROUTER_MODEL",
-                str(translation_raw.get("model", "openai/gpt-4o-mini")),
+                str(translation_raw.get("model", "qwen/qwen3-30b-a3b-instruct-2507")),
             ),
         ),
         api_key_env=str(translation_raw.get("api_key_env", "OPENROUTER_API_KEY")),

@@ -34,7 +34,7 @@ class SiteConfig:
 class TranslationConfig:
     enabled: bool = True
     api_base: str = "https://openrouter.ai/api/v1"
-    model: str = "openai/gpt-4o-mini"
+    model: str = "qwen/qwen3-30b-a3b-instruct-2507"
     api_key_env: str = "OPENROUTER_API_KEY"
     chunk_characters: int = 6_000
 

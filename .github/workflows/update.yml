@@ -82,7 +82,7 @@ jobs:
       - name: Process source
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-          OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
+          OPENROUTER_MODEL: qwen/qwen3-30b-a3b-instruct-2507
           SITE_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
           SOURCE_ID: ${{ matrix.source }}
         run: |
