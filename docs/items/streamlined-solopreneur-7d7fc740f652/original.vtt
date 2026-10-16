@@ -1,0 +1,705 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.430
+Hey everybody and welcome to the Friday wrap up on Streamline Solopreneur. I'm your
+
+2
+00:00:04.430 --> 00:00:10.130
+host, Joe Casabona, and here's what's on my mind. For September 25th, 2026,
+
+3
+00:00:10.180 --> 00:00:15.480
+I am thinking of burning it all down. I'm doing a deeper writeup on this, but
+
+4
+00:00:15.990 --> 00:00:21.480
+I decided kind of on a whim this week to convert casabona.org, my longtime personal
+
+5
+00:00:21.480 --> 00:00:29.220
+site to a flat file site when it was WordPress. For 20 plus years,
+
+6
+00:00:29.270 --> 00:00:34.960
+this would've been impossible to do within two days, even a year ago. The amount
+
+7
+00:00:34.960 --> 00:00:41.380
+of planning required to convert a site, clean it up, and put a redirect or archival
+
+8
+00:00:41.380 --> 00:00:46.510
+structure in place to make sure literally thousands of links don't break, takes a
+
+9
+00:00:46.510 --> 00:00:47.800
+lot of time and effort
+
+10
+00:00:47.850 --> 00:00:48.490
+and testing,
+
+11
+00:00:48.490 --> 00:00:50.280
+and I was able to do it
+
+12
+00:00:50.330 --> 00:00:52.360
+pretty confidently pretty quickly
+
+13
+00:00:52.410 --> 00:00:56.960
+with not a ton of effort on my part though. These were all the important aspects
+
+14
+00:00:56.960 --> 00:00:57.260
+of it,
+
+15
+00:00:57.310 --> 00:00:57.870
+and
+
+16
+00:00:58.440 --> 00:01:04.920
+I've been thinking about doing this more, starting over without breaking everything,
+
+17
+00:01:05.400 --> 00:01:09.660
+which is maybe not the right use of the term, burn it all down.
+
+18
+00:01:09.710 --> 00:01:15.370
+But a few weeks ago, I wrote in my journal about my mailing list. Do I just burn
+
+19
+00:01:15.370 --> 00:01:16.750
+it all down and start over?
+
+20
+00:01:16.800 --> 00:01:22.340
+Much like my WordPress site, there is years of crust and and technical debt.
+
+21
+00:01:22.880 --> 00:01:28.280
+There are people on my list from my WordPress developer days, from the old days of
+
+22
+00:01:28.280 --> 00:01:34.220
+my podcast before I renamed it from my podcast and sponsorship coaching days.
+
+23
+00:01:34.760 --> 00:01:36.800
+How many people actually care
+
+24
+00:01:36.850 --> 00:01:38.910
+about what I'm talking about today?
+
+25
+00:01:38.960 --> 00:01:43.330
+I think this is a question worth exploring.
+
+26
+00:01:43.870 --> 00:01:49.450
+I often worry about the fallacy of the sunk cost. You don't wanna keep investing
+
+27
+00:01:49.450 --> 00:01:51.310
+into something that isn't working,
+
+28
+00:01:51.880 --> 00:01:55.720
+but you also don't want to burn everything down too soon
+
+29
+00:01:56.290 --> 00:01:59.680
+before you figure out if it actually has legs.
+
+30
+00:01:59.730 --> 00:02:04.760
+Switching cabo.org away from WordPress is something I have been thinking about for
+
+31
+00:02:04.760 --> 00:02:05.900
+two years,
+
+32
+00:02:05.950 --> 00:02:10.140
+but it's never been worth it from a time investment perspective.
+
+33
+00:02:10.190 --> 00:02:18.580
+Claude Code AI made it really easy because it basically did everything and I spot
+
+34
+00:02:18.580 --> 00:02:22.570
+checked and re and and fixed the plan and
+
+35
+00:02:22.620 --> 00:02:28.730
+did, did some of the, a lot of the architecture, but it did all of the grunt work,
+
+36
+00:02:28.730 --> 00:02:35.000
+the time consuming stuff from building the code for the new site to writing the migration
+
+37
+00:02:35.000 --> 00:02:38.090
+scripts, to creating the redirects
+
+38
+00:02:38.140 --> 00:02:40.230
+and testing those redirects.
+
+39
+00:02:40.280 --> 00:02:44.870
+The mailing list problem is something I've been thinking about for a months,
+
+40
+00:02:45.410 --> 00:02:50.510
+but this isn't any easier today than it would've been in the past because I need
+
+41
+00:02:50.510 --> 00:02:57.440
+to talk to my audience and find out the right focus for the newsletter and what resonates
+
+42
+00:02:57.440 --> 00:02:58.040
+with them.
+
+43
+00:02:58.090 --> 00:02:59.640
+AI can't tell me that,
+
+44
+00:03:00.240 --> 00:03:03.060
+despite what some people would say.
+
+45
+00:03:03.110 --> 00:03:06.670
+So yes, I'm thinking about burning a bunch of things down,
+
+46
+00:03:06.720 --> 00:03:08.120
+but not for the sake of it
+
+47
+00:03:08.720 --> 00:03:15.290
+and not if it's going to cost me more time than it saves. What do you think about
+
+48
+00:03:15.290 --> 00:03:20.585
+this? Let me know over@streamlinedfeedback.com. That's streamlined feedback.com with
+
+49
+00:03:20.585 --> 00:03:20.990
+a d.
+
+50
+00:03:21.580 --> 00:03:25.620
+you can write in or leave a voice note. I might even play it on the show.
+
+51
+00:03:25.670 --> 00:03:28.270
+Okay, up next, recommended reading
+
+52
+00:03:28.320 --> 00:03:33.950
+Apple's, MLB Dodgers live broadcast with shot with iPhone 18 Pro Max.
+
+53
+00:03:34.000 --> 00:03:38.130
+Basically this is saying Apple's last Friday night baseball broadcast of the year
+
+54
+00:03:38.130 --> 00:03:42.090
+was shot with the new iPhone 18 Pro Max, actually a bunch of them.
+
+55
+00:03:42.140 --> 00:03:48.610
+I'm a diehard baseball fan and I don't really like national broadcasts. The announcers
+
+56
+00:03:48.610 --> 00:03:54.010
+are speaking to a more general audience, not necessarily the people who watch every
+
+57
+00:03:54.010 --> 00:03:56.620
+game. I try to watch all 1 62
+
+58
+00:03:57.500 --> 00:04:04.720
+and as a result of this, they seem less knowledgeable than the local broadcasters,
+
+59
+00:04:05.110 --> 00:04:11.320
+and this isn't necessarily true. It might be true and some are just bad at it, and
+
+60
+00:04:11.320 --> 00:04:13.150
+you, you know, there's a struggle to
+
+61
+00:04:13.690 --> 00:04:16.840
+find the right on camera
+
+62
+00:04:17.380 --> 00:04:19.300
+talent for something like this,
+
+63
+00:04:19.870 --> 00:04:25.390
+but I also know that liking your local broadcast team is a form of Hom and I am very
+
+64
+00:04:25.390 --> 00:04:27.850
+aware that I suffer from that.
+
+65
+00:04:27.900 --> 00:04:29.540
+All of this is besides the point.
+
+66
+00:04:29.590 --> 00:04:35.880
+What is the point is that apple's broadcasts always look great,
+
+67
+00:04:35.930 --> 00:04:37.900
+and it's cool to see
+
+68
+00:04:38.410 --> 00:04:43.240
+them shoot live events on their pro phones.
+
+69
+00:04:43.290 --> 00:04:47.300
+They don't just tell you it's good enough to film TV in movies.
+
+70
+00:04:47.350 --> 00:04:51.210
+It actually is good enough to film TV in movies, and so they prove that by
+
+71
+00:04:51.260 --> 00:04:52.480
+shooting not just like
+
+72
+00:04:52.530 --> 00:04:52.930
+a,
+
+73
+00:04:53.500 --> 00:04:56.080
+a pre-recorded thing
+
+74
+00:04:56.590 --> 00:04:57.220
+that,
+
+75
+00:04:57.270 --> 00:05:00.080
+they can fix in the edit, right? I think
+
+76
+00:05:00.130 --> 00:05:00.770
+this is,
+
+77
+00:05:00.770 --> 00:05:04.750
+this is an important, like this is a weird flex. Not even a weird flex, it's just
+
+78
+00:05:04.750 --> 00:05:10.390
+a flex for them. They're shooting live events on their iPhone 18 pro that anybody
+
+79
+00:05:10.390 --> 00:05:12.520
+can buy, and a bunch of people did buy
+
+80
+00:05:12.703 --> 00:05:17.773
+So it's cool to see them putting their money where their mouth is
+
+81
+00:05:17.823 --> 00:05:24.640
+moving on to something fun. Italian music, specifically this Italian music playlist
+
+82
+00:05:24.640 --> 00:05:31.150
+I have, I rediscovered this playlist earlier this week. It's largely music from Italian
+
+83
+00:05:31.150 --> 00:05:36.160
+artists are in the Italian language, and I am revamping it because it's pretty thin
+
+84
+00:05:36.160 --> 00:05:41.170
+right now and it's several years old. It's in Apple Music and I am linking to the
+
+85
+00:05:41.170 --> 00:05:43.690
+Apple Music playlist so you can at least see what songs are on it.
+
+86
+00:05:44.310 --> 00:05:45.380
+I made this,
+
+87
+00:05:45.430 --> 00:05:49.710
+when I was trying to learn Italian, I was doing Duolingo, which I now feel is not
+
+88
+00:05:49.710 --> 00:05:52.080
+a very good method of learning languages.
+
+89
+00:05:52.130 --> 00:05:52.780
+but
+
+90
+00:05:52.830 --> 00:05:58.130
+I also wanted to kind of immerse myself in this and, and listen to some Italian language
+
+91
+00:05:58.130 --> 00:05:59.000
+music. So,
+
+92
+00:05:59.050 --> 00:06:00.955
+I, I, I made it when I was trying to learn Italian
+
+93
+00:06:01.005 --> 00:06:03.365
+something I pick up every couple of years and,
+
+94
+00:06:03.415 --> 00:06:04.455
+to be honest with you,
+
+95
+00:06:04.505 --> 00:06:08.215
+probably going to be time to try that again soon.
+
+96
+00:06:08.265 --> 00:06:14.525
+Okay, now let's move on to something to help you with your systems. I made a stream
+
+97
+00:06:14.525 --> 00:06:15.845
+deck plugin this week
+
+98
+00:06:15.895 --> 00:06:21.435
+called Q for Apple Music, QCUE, not q, the letter q.
+
+99
+00:06:22.065 --> 00:06:23.765
+it was brought to my attention,
+
+100
+00:06:23.815 --> 00:06:29.385
+on one of my YouTube videos that the Apple Music Stream deck plugin I use that was
+
+101
+00:06:29.385 --> 00:06:33.645
+made by El Gado is no longer available. And that's a huge bummer
+
+102
+00:06:33.695 --> 00:06:39.535
+'cause it's one of my favorites. It's such a crucial plugin for me. I much prefer
+
+103
+00:06:39.625 --> 00:06:44.695
+having dedicated buttons on my stream deck for Apple Music
+
+104
+00:06:44.745 --> 00:06:46.115
+as opposed to
+
+105
+00:06:46.165 --> 00:06:50.835
+just using the keyboard media keys, which other apps can hijack, right? There's like
+
+106
+00:06:50.835 --> 00:06:55.935
+nothing worse than like music is playing and you opened up YouTube, but you forgot
+
+107
+00:06:55.935 --> 00:07:00.105
+about it, and then you push the, the pause button and instead of the music stopping,
+
+108
+00:07:00.255 --> 00:07:05.145
+the music is still playing and that YouTube video is playing. So I like having the
+
+109
+00:07:05.145 --> 00:07:06.855
+dedicated buttons and
+
+110
+00:07:07.395 --> 00:07:13.185
+because this plugin is no longer a avail, it's just like completely, it was wiped
+
+111
+00:07:13.185 --> 00:07:14.175
+off the face of the earth,
+
+112
+00:07:14.225 --> 00:07:17.155
+El Gado as far as I can tell, quietly removed it.
+
+113
+00:07:17.205 --> 00:07:19.895
+so I decided just in case
+
+114
+00:07:20.435 --> 00:07:23.255
+it stopped working somewhere down the line,
+
+115
+00:07:23.305 --> 00:07:25.545
+I decided to replace it with my own version of it.
+
+116
+00:07:25.595 --> 00:07:29.995
+so I used cloud code to create a new and improved replacement.
+
+117
+00:07:30.045 --> 00:07:35.135
+it has all of the features of the now defunct Elga Ado plugin, so,
+
+118
+00:07:35.185 --> 00:07:36.885
+play pause buttons,
+
+119
+00:07:36.935 --> 00:07:39.565
+and then the kind of tracking buttons, right, the
+
+120
+00:07:39.615 --> 00:07:41.015
+previous and next buttons.
+
+121
+00:07:41.065 --> 00:07:44.175
+the ability to turn on shuffle and favorite,
+
+122
+00:07:44.225 --> 00:07:44.905
+songs,
+
+123
+00:07:44.955 --> 00:07:47.015
+but I also added
+
+124
+00:07:47.525 --> 00:07:52.445
+a repeat button that will cycle through repeat all, repeat next and turn off.
+
+125
+00:07:52.495 --> 00:07:53.085
+And,
+
+126
+00:07:53.775 --> 00:07:54.105
+uh,
+
+127
+00:07:54.085 --> 00:07:56.445
+my personal favorite feature,
+
+128
+00:07:56.495 --> 00:08:00.565
+which is the ability to map a button directly to a playlist so I I don't have to
+
+129
+00:08:00.565 --> 00:08:02.365
+go hunting for it. So,
+
+130
+00:08:02.415 --> 00:08:03.965
+you pick the playlist
+
+131
+00:08:04.015 --> 00:08:08.895
+and then you choose if you want it to shuffle or not. You press the button and that
+
+132
+00:08:08.895 --> 00:08:16.095
+playlist starts playing. I love this. It is, it makes it so much easier to play the,
+
+133
+00:08:16.395 --> 00:08:21.615
+the music I likely want to play. And you can add as many playlist buttons. You just
+
+134
+00:08:21.615 --> 00:08:23.475
+have a whole page of playlist buttons if you want.
+
+135
+00:08:23.525 --> 00:08:28.705
+I also added support for the dials on the stream deck plus and plus Excel. I picked
+
+136
+00:08:28.705 --> 00:08:32.305
+up the plus XL this week. I'll probably talk about that next week. But,
+
+137
+00:08:32.355 --> 00:08:34.115
+so there is volume control. And then
+
+138
+00:08:34.165 --> 00:08:39.135
+Claude named this transport, I guess this is like an old term from the tape deck
+
+139
+00:08:39.135 --> 00:08:39.795
+days, but
+
+140
+00:08:40.350 --> 00:08:46.395
+it, it is the control button, so you push it to play or pause, and then you turn
+
+141
+00:08:46.515 --> 00:08:52.365
+it to go to the previous or next track. So really love this. This would've been impossible
+
+142
+00:08:52.365 --> 00:08:56.625
+for me without Claude Code, and these sort of utilities are
+
+143
+00:08:56.675 --> 00:08:58.855
+such a great use of AI
+
+144
+00:08:58.905 --> 00:09:05.795
+using AI to speak its native language, to reduce friction in your life. And I know
+
+145
+00:09:05.795 --> 00:09:09.755
+I've already talked about this on this show,
+
+146
+00:09:09.805 --> 00:09:14.985
+but this is something that's often on my mind and probably something I am going to
+
+147
+00:09:14.985 --> 00:09:19.095
+talk about a lot more in the coming weeks because I think
+
+148
+00:09:19.605 --> 00:09:22.575
+knowing when to build little utilities for yourself
+
+149
+00:09:22.625 --> 00:09:25.915
+is, is an increasingly important skill, right?
+
+150
+00:09:25.965 --> 00:09:31.415
+circling back to WordPress, I I, I used WordPress basically from the time it came
+
+151
+00:09:31.415 --> 00:09:31.745
+out
+
+152
+00:09:32.315 --> 00:09:33.065
+and
+
+153
+00:09:33.635 --> 00:09:38.495
+it did democratize publishing, right? Like after that blogging exploded,
+
+154
+00:09:38.545 --> 00:09:44.295
+right? As technology gets easier to use for more people, the medium explodes. And
+
+155
+00:09:44.295 --> 00:09:47.925
+now we are kind of seeing the same thing with native apps
+
+156
+00:09:47.975 --> 00:09:49.045
+or web apps
+
+157
+00:09:49.095 --> 00:09:50.375
+where anybody can tell
+
+158
+00:09:50.425 --> 00:09:54.825
+AI to build it for them and it builds it for them. So I'm, I'm thinking a lot about
+
+159
+00:09:54.825 --> 00:09:59.295
+this, but this is, that's for another episode. So wrapping up here,
+
+160
+00:09:59.782 --> 00:10:03.712
+a lot of the things I did this week were really focused on saving me time.
+
+161
+00:10:03.712 --> 00:10:07.092
+What would you do with an extra 25 hours each month?
+
+162
+00:10:07.632 --> 00:10:10.752
+This is what I help business owners figure out,
+
+163
+00:10:10.802 --> 00:10:15.832
+and then I make it happen for them. My client, Annie, spends more time with her kid.
+
+164
+00:10:16.222 --> 00:10:22.522
+My client Laura, has soup with her aging mother every day. My client Paolo serves
+
+165
+00:10:22.522 --> 00:10:26.272
+his community better and shows up for his four kids
+
+166
+00:10:26.782 --> 00:10:29.422
+better because of the work we did together.
+
+167
+00:10:29.472 --> 00:10:33.962
+Maybe you have dreams of writing a book, volunteering at an organization that means
+
+168
+00:10:33.962 --> 00:10:39.272
+a lot to you, or spending more time with your family, touching some grass. If you
+
+169
+00:10:39.692 --> 00:10:40.232
+want,
+
+170
+00:10:40.912 --> 00:10:41.922
+I can help
+
+171
+00:10:41.972 --> 00:10:47.585
+book a free strategy, call over at streamlined fm slash wrap
+
+172
+00:10:48.125 --> 00:10:49.445
+that's streamlined with
+
+173
+00:10:50.685 --> 00:10:53.285
+ad fm slash wrap w
+
+174
+00:10:54.705 --> 00:11:00.605
+book your call, and we will talk about how we can save you 25 hours each month.
+
+175
+00:11:01.145 --> 00:11:06.395
+That's it for this episode of the Friday wrap up on Streamline Solopreneur. Thanks
+
+176
+00:11:06.395 --> 00:11:11.945
+so much for listening, and until next time, I hope you find some space in your weekend.
