@@ -358,10 +358,10 @@
       "url": "http://podcast.weareones.com/episodes/229"
     },
     "chi-zao-geng-xin::http://podcast.weareones.com/episodes/230": {
-      "attempts": 46,
+      "attempts": 47,
       "description": "除了高清数毛之外，我们还能追求些什么？ 新书《希望是那长着羽毛的小东西》已经上市，请各位多多支持！ Show Notes: 任宁的书《希望是那长着羽毛的小东西》 奥杜邦协会公布的《The 2026 Audubon Photography Awards: Winners》 王天羲的播客《曝光补偿》的小宇宙页面 MoMA 关于摄影画意主义的介绍《Pictorialism》 Thomas R. Dunlap 的文章《Inventing the Birdwatching Field Guide》 Thomas R. Dunlap 的书《In the Field, Among the Feathered: A History of Birders and Their Guides》 Smithsonian Libraries and Archives 收藏的 Roger Tory Peterson 1934 年版《A Field Guide to the Birds》 LACMA 关于展览《New Topographics: Photographs of a Man-Altered Landscape》的介绍 Martha Rosler 的书《3 Works》 Martha Rosler 的文章《In, Around, and Afterthoughts (on Documentary Photography)》 Philip Charrier 的文章《Why Look at Endangered Animals? Dualism, Archival Desire, and the Visual Culture of Extinction》 Franck Courchamp 等人的论文《The Paradoxical Extinction of the Most Charismatic Animals》 The Metropolitan Museum of Art 关于杉本博司《Polar Bear》与摄影真实幻觉的介绍《Reality Check: Truth and Illusion in Contemporary Photography》 SFMOMA 收藏的 Barbara Bosworth 作品 Barbara Bosworth 的项目《The Meadow》 Museum of Fine Arts, Boston 关于 Barbara Bosworth《The Meadow》的展览介绍 Roland Barthes 的书《Camera Lucida: Reflections on Photography》 Sara Oscar 与 Cherine Fahd 的论文《Looking at Eyes That Never Looked Back: Photographic Portraits, Synthetic Images and (Mis)recognition》 North American Nature Photography Association 的《Truth in Captioning Statement》 奥杜邦协会的《Guide to Ethical Bird Photography and Videography》 Ronald D. Karpilo 的文章《Repeat Photography: A Visually Compelling Tool for Documenting Natural Resource Change》 George Shiras III 的文章《The First Photographs to Capture Wildlife at Night》 Smithsonian Libraries and Archives 收藏的 George Shiras III 的书《Hunting Wild Life with Camera and Flashlight》 National Geographic 关于 Greg Marshall 与 Crittercam 的介绍《Creature Feature》 William M. Adams 的文章《Digital Surveillance of Animals and Nature Recovery》 主播：任宁 「迟早更新」是一档探讨科技、商业、设计和生活之间混沌关系的播客节目。我们希望通过这档播客，能让熟悉的事物变得新鲜，让新鲜的事物变得熟悉。 官网：https://podcast.weareones.com 微博：http://weibo.com/chizaogengxin 如果有任何问题或反馈，欢迎发电子邮件至 embrace@weareones.com。",
       "external_id": "http://podcast.weareones.com/episodes/230",
-      "last_attempt_at": "2026-11-26T21:44:04.469213+00:00",
+      "last_attempt_at": "2026-11-27T08:48:11.415642+00:00",
       "last_error": "TypeError: open() got an unexpected keyword argument 'metadata_errors'",
       "published_at": "2026-11-04T00:32:09+00:00",
       "source_id": "chi-zao-geng-xin",
@@ -630,6 +630,19 @@
       "status": "failed",
       "title": "S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司",
       "url": "https://www.ximalaya.com/sound/1033972178"
+    },
+    "chuang-ye-nei-mu::xmly_track_1035763413": {
+      "attempts": 1,
+      "description": "<p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">币安一起安全事件涉及约63亿美元资产；Fireworks遭入侵，波及Notion用户的AI对话记录；Visa和Mastercard因第三方供应商失守，暴露了部分客户数据……</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">几起看似分散的事件，拼出了同一幅AI时代的风险地图。</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">过去，企业谈网络安全，关注的是边界：员工身份可控、生产系统隔离、漏洞及时修补。Agent进入工作流之后，边界开始模糊。攻击者不必硬闯防火墙，只要拿到一张合法的“通行证”，就可能沿着信任链进入核心系统。与此同时，越来越强的大模型也在改写攻防双方的成本与力量对比。</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">本期，我们邀请到<strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">纪源资本投资经理姜浩楠</strong>，从币安事件出发，讨论AI时代的企业安全。Agent为何能绕过传统防线？企业怎样识别“影子AI”、划分权限并设置关键网关？哪些细节会放大网络安全的漏洞、提升黑客的攻击面？AI安全可以靠AI解决吗？新一轮的安全需求会给创业公司带来哪些机会？</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">01:37 事件复盘：币安63亿元是怎么被拿走的？</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">07:08 AI让网络攻击的方式发生变化</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">11:08 拥有权限和自主性的Agent，如何约束？</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">20:33 Agent劫持与深度伪造</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">24:20 用AI攻击AI，安全测试背后的商业模式</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">33:36 近期泄漏事件暴露的共性问题</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">39:25 “安全的突破口可能都来自于人”</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">41:38 网络安全赛道，重新回温？</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">47:38 可能被高估和被低估的安全叙事</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">50:49 网络安全联盟可以解决AI安全问题吗？</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">55:12 评论区抽取5位听友送出精美周边</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">《创业内幕》粉丝群已经开通，在这里，你可以跟节目制作人/主持人直接沟通，也可以第一时间了解到纪源资本线下活动动态，见到纪源资本的投资人，结交其他互联网圈子里的小伙伴。&nbsp;</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">入群方式：</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">1）添加微信号“JiyuanFans”为好友，并在好友请求中标注“创业”&nbsp;</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">2）把你的全名和职称发给创业小助手；如果您想约访谈，请添加小助手微信，并附上访谈嘉宾简介，小助手将帮您对接。</p><span><br /></span>",
+      "external_id": "xmly_track_1035763413",
+      "last_attempt_at": "2026-11-27T08:46:40.370395+00:00",
+      "last_error": "TypeError: open() got an unexpected keyword argument 'metadata_errors'",
+      "published_at": "2026-11-26T22:00:00+00:00",
+      "source_id": "chuang-ye-nei-mu",
+      "source_type": "podcast",
+      "status": "failed",
+      "title": "S8 Vol.33 复盘AI时代的攻击链：币安63亿美元是怎么丢的？",
+      "url": "https://www.ximalaya.com/sound/1035763413"
     },
     "chuang-ye-nei-mu::xmly_track_970530246": {
       "attempts": 1,
@@ -1202,10 +1215,10 @@
       "url": "https://crazy.capital/150"
     },
     "feng-tou-quan::https://crazy.capital/151": {
-      "attempts": 17,
+      "attempts": 18,
       "description": "<p>当所有人都在讨论消费降级，一批国产时尚品牌却在电商平台呈现量价齐升的趋势。这是一个反常识的现象，值得展开聊聊。</p>\n\n<p>国货时尚品牌要和欧美竞争，比其他消费行业更加困难：时尚卖的是向往感，中国供应链的功能性优势帮不上忙。千元以上轻奢国货衣服鞋包，凭什么让消费者持续买单？</p>\n\n<p>让人惊喜的是，一批国货品牌的集体升级浪潮，正在真实发生。山下有松、之禾在双十一首阶段迎来翻倍增长，江南布衣、比音勒芬这些线下起家的上市公司，也在天猫找到全新的增长空间。</p>\n\n<p>本期疯投圈节目，我们邀请时尚商业研究者冷芸博士加入讨论，试图找到这轮时尚品牌升级趋势背后的发展脉络。我们从比音勒芬如何抓住国际品牌难以理解的本土客群，聊到设计师品牌在电商如何跨过获客、展示、复购三道难关，探讨天猫为代表的平台基础设施，如何助推品牌高端化。</p>\n\n<p>高端时尚品牌不再是欧美发达国家的专利，中国品牌也开始享受到审美与文化的溢价。这是长期的趋势，2026年只是开端。</p>\n\n<p>本期嘉宾是有三十年鞋服行业从业经历的冷芸博士。她是「冷芸时尚圈」创始人、时尚商业培训导师及时尚评论人、美国富布莱特奖获奖人、伦敦时尚学院硕士、帕森斯设计学院访问学者、香港大学博士、知乎优秀时尚答主。她在时尚与奢侈品行业拥有40多万关注者。</p>\n\n<h2>疯投圈会员社群</h2>\n\n<p>疯投圈开设有会员社群，在这里您可以结识志同道合的朋友、发现业务合作的伙伴。社群每年在北京、上海、杭州、广州、深圳、香港六个城市举办仅限会员参加的线下活动，其他城市也会不定期举行小型的会员聚会。通过面对面的交流，您可以与其他会员进一步加深了解、促成合作。</p>\n\n<p>会员还可以获得由疯投圈播客节目内容重新人工整理编辑而成的《疯投圈文字精选》，适合阅读习惯，方便查询检索节目中提到的图表、数据、观点、结论。</p>\n\n<p>微信搜索关注「疯投圈」服务号并发送关键词「会员」了解详情和加入社群。</p>\n\n<figure>\n<img src=\"https://rio.xyzcdn.net/assets/crazy-capital-community.png\" />\n</figure>\n\n<h2>黄海的商业世界</h2>\n\n<p>微信搜索「疯投圈」服务号，发送关键词「星球」加入「黄海的商业世界」。</p>\n\n<h2>黄海的新书《趋势红利》</h2>\n\n<p>微信搜索「疯投圈」视频号，可以在「商品」分类置顶里面找到黄海的新书《趋势红利》。</p>\n\n<p>您也可以在里面购买其他我们筛选的商品来支持我们节目。</p>\n\n<h2>商务合作</h2>\n\n<p>商务合作请发送电子邮件至 <a href=\"mailto:biz@crazy.capital\">biz@crazy.capital</a></p>",
       "external_id": "https://crazy.capital/151",
-      "last_attempt_at": "2026-11-26T08:36:00.353314+00:00",
+      "last_attempt_at": "2026-11-27T08:45:05.319964+00:00",
       "last_error": "TypeError: open() got an unexpected keyword argument 'metadata_errors'",
       "published_at": "2026-11-09T22:00:00+00:00",
       "source_id": "feng-tou-quan",
@@ -1377,11 +1390,11 @@
       "url": "https://www.ximalaya.com/sound/1021647660"
     },
     "fit4life::xmly_track_1024222424": {
-      "attempts": 16,
+      "attempts": 17,
       "description": "<p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><img alt=\"\" src=\"http://imagev2.xmcdn.com/storages/7cbc-audiofreehighqps/9C/3B/GKwRIRwOpRsWABUdOgToTsSw.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /><br /></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">读留言！本期节目我们精选了几位在运动上有自己困扰的朋友的留言，也聊聊我们的反思和选择。跑步非得为了成绩吗？为了成绩或者为了享受本身，是谁错了吗？姥姥如今成为六星跑者是掉进了消费主义陷阱吗？（对，节目播出时姥姥已经芝加哥完赛，成为六星跑者，没PB，但开心。）姥爷嘴上说着只是享受运动本身，但在网球场急眼破防摔拍子的也是她。请大家在评论区说出你的想法，也聊聊你在运动上的选择。</p><span><br /></span><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">06:54 月跑量300公里以上，但我不想拼成绩有错吗？</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">32:55 要检验两个人的关系，真的应该和ta一起去运动！</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">50:33 好不容易养成的运动习惯被他人打扰，重新出发怎么就那么难？</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">64:52 花絮</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">如果你也是T区油、两颊干，想控油又怕刺激，可以试试<strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">溪木源层孔菌智控水霜</strong>。<strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">「溪木源」</strong>是专做敏感肌功效护肤的品牌，层孔菌系列就是为了混油、油敏肌研发的一条线。无酸配方，敏感肌也能放心用。主打分区控油，会根据皮肤的出油情况自动调节控油力度，T区控得住，两颊也不拔干。一套水加霜，搞定控油、提亮、维稳三件事。坚持用下来水油平衡了，脸看着也干净通透。</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">品牌双十一大促已经开始了，领取五仁儿专属优惠券，下单直接省一笔。这次优惠不止层孔菌水霜，干皮、痘肌也都有对应产品可选，<strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">趁活动领券入手更划算！</strong></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><img src=\"https://my.feishu.cn/space/api/box/stream/download/asynccode/?code=NGZkYTcwYmFkYjk1N2MyZjQwZjViODViMjA3OGRjZDdfRkRrNHFUV28zT05uRzJ6TWgwV21RbkJvSEtoQkQ2TXRfVG9rZW46SUxsSGJzVEFBb2hNVHB4cnRxb2NKdEtWblRlXzE3OTE5NzMzOTA6MTc5MTk3Njk5MF9WNA&amp;add_watermark=true&amp;scene_type=CCM\" /></p><span><br /></span><br /><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">————————————</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">�给姥姥姥爷留言请走这里</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica, Arial, sans-serif; text-align: justify;\"><img alt=\"\" src=\"http://imagev2.xmcdn.com/storages/f23e-audiofreehighqps/CD/7D/GKwRIaIOpRtxAAAidwToTu_q.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /><br /></p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">Apple Podcast/喜马拉雅/小宇宙/网易云/Spotify/荔枝/蜻蜓：fit4life</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">微博/小红书/B站：fit4life</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">公众号：fit4life健身与美食</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">淘宝直播：fit4life健身与美食 （记得订阅）</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">商务联系：shanshan@fit4life.world</p><span></span>",
       "external_id": "xmly_track_1024222424",
-      "last_attempt_at": "2026-11-16T06:45:09.310095+00:00",
-      "last_error": "TypeError: open() got an unexpected keyword argument 'metadata_errors'",
+      "last_attempt_at": "2026-11-27T08:47:58.478906+00:00",
+      "last_error": "ConnectTimeout: _ssl.c:994: The handshake operation timed out",
       "published_at": "2026-10-14T13:00:00+00:00",
       "source_id": "fit4life",
       "source_type": "podcast",
@@ -1958,10 +1971,10 @@
       "url": "https://www.ximalaya.com/sound/1033944816"
     },
     "gao-qian-nu-hai::xmly_track_1035638632": {
-      "attempts": 2,
+      "attempts": 3,
       "description": "<p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><img alt=\"\" src=\"http://imagev2.xmcdn.com/storages/2bc6-audiofreehighqps/2D/59/GKwRIDoO3OhnAA90JQUBSe7x.jpeg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /><br /></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">在人人都想拿大结果的时代，想纯过日子的我们该如何自处？今天为大家请到了“互联网妈妈”、华东政法大学文学教授杜素娟老师，和大家聊聊如何拥有稳定的内核，不被社会时钟裹挟，安心地按照自己的节奏生长。</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">“不要认为过好日子是一件小事，很难的，能过好你的日常生活都是伟大的人。” 杜老师说虽然难，但仍然值得我们徐徐图之。10月14日当天，我们在苏州单向空间和一百多位年轻人交流了两个半小时，勾画了一个相对清晰的行动路径：</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">1、跳出攀比，向内看：不用别人的标准要求自己，反转“镜子”，找到自己内心真实的需求；</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">2、接纳波动，能容错：人生是场通关游戏，挫折和踩坑是升级打怪的必经关卡；</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">3、人际冲突，断舍离：对烂人烂事有屏蔽能力，面对冲突敢打直球，面对有毒关系敢分手；</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">4、积极搞钱，涨底气：金钱是人格尊严和生活保障的基础，精神独立要先实现经济独立。</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">散场时，我感觉空气中多了更多笃定和平静的能量。谢谢杜老师通过亲身经历、通过文学经典，让我们看到原来允许自己纯过日子，也是一种伟大，允许自己慢一点，也是一种勇敢。</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">�如果听得意犹未尽，欢迎扫码支持杜素娟老师的新书：</strong></p><img alt=\"\" src=\"http://imagev2.xmcdn.com/storages/74d0-audiofreehighqps/66/85/GAqhCSMO3OiHABto5AUBSfVz.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /><br /><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica, Arial, sans-serif; text-align: justify;\"><strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">【本期财富密码】</strong></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica, Arial, sans-serif; text-align: justify;\"><img alt=\"\" src=\"http://imagev2.xmcdn.com/storages/67c8-audiofreehighqps/C0/C7/GAqhCSMO3OibAAqm9gUBSfo3.jpeg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /><br /></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">【本期嘉宾】</strong></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">杜素娟：文学博士、华东政法大学文伯书院教授，连续19被学生评选为“十佳教师”。恋爱综艺《半熟恋人3》《半熟恋人4》观察嘉宾，出版《允许爱情消失》《文学中的人生进化课》等9部作品。</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">【主播介绍】</strong></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">就是小辉：《搞钱女孩》播客创始人&amp;主播，不断认识和活出自己的ISFP。四川大学哲学系毕业，混过公益、咨询、互联网、疗愈行业，34岁才找到本命赛道的创业练习生。</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">【本期制作】</strong></p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">shownotes图文：小辉</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">剪辑：小龙</p><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\">BGM：Enigma-Boogie Belgique</p><span><br /></span><p style=\"color: #333333; font-weight: normal; font-size: 16px; line-height: 30px; font-family: Helvetica,Arial,sans-serif; text-align: justify;\"><strong style=\"color: #FC5832; font-family: Helvetica,Arial,sans-serif; font-weight: normal;\">欢迎加入我们的听友群，成为“搞蜜”！可以关注公众号【搞钱女孩播客】，扫描自动回复的图片上的二维码，就可以加到小助手，邀请你入群。每天加的人太多了，如显示添加频繁，请耐心等待。</strong></p><span></span><span><br /></span><img alt=\"\" src=\"http://imagev2.xmcdn.com/storages/f555-audiofreehighqps/68/68/GAqhxOkO3OjIAAZGRAUBSgO4.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /><br />",
       "external_id": "xmly_track_1035638632",
-      "last_attempt_at": "2026-11-26T21:41:33.493073+00:00",
+      "last_attempt_at": "2026-11-27T08:45:58.620253+00:00",
       "last_error": "TypeError: open() got an unexpected keyword argument 'metadata_errors'",
       "published_at": "2026-11-25T23:30:00+00:00",
       "source_id": "gao-qian-nu-hai",
@@ -2915,10 +2928,10 @@
       "url": "https://etw.fm/2220"
     },
     "sheng-dong-ji-xi::486d1fea-dd57-4ff1-8de9-cfea1f9de16a": {
-      "attempts": 1,
+      "attempts": 2,
       "description": "<p>十年间，我们的餐桌是更丰富了，还是更单调了？本期节目是声东击西「十周年」特别系列的第七期。在这个系列中，我们通过访谈那些亲历结构性变化并拥有独特观察的嘉宾，去听听过去这十年中，他们看见了什么，洞察到了什么，如何理解今天，又如何辨认出那些塑造未来的力量。本期和上一期「十周年」特别节目有一些关联：农村和小农的变化，其实正通过菜市场，和每一个城市人的日常连在了一起。</p>\n\n<p>在广州，菜市场从 2017 年的六百多个，减少到如今不足四百个，按不完全统计，每年有三十多个消失。与此同时，我们动动手指，就能买到云南的菌子、春天的香椿，广东人餐桌上的菜心，也可能是宁夏种出来的。买菜越来越方便，我们的餐桌，是更丰富了，还是更单调了？</p>\n\n<p>本期的嘉宾钟淑如，是一位长期研究中国菜市场的人类学者。2014 年，一颗买到的臭海胆，让她开始好奇：在超市不断扩张的背景下，为什么菜市场始终没有消失？十年间，她的田野调查从海南延伸到全国五十多个城市、两百多个菜市场。她看到，城市更新改变了菜市场的空间和位置，生鲜电商与全国供应链也在重新组织食物的生产和流通。平台开始影响农户种什么、消费者买什么，一些地方品种和小规模生产者逐渐面临被市场选择淘汰的风险。</p>\n\n<p>本期节目，徐涛来到广州北边的银林生态农场，和钟淑如聊聊菜市场这十年的挤压与转身，以及如何重新找到自己的位置。</p>\n\n<p><img alt=\"Image1\" src=\"https://cdn.fireside.fm/file/fireside-uploads-2024/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/mNyGgO3O.png\" /></p>\n\n<p><strong>本期人物</strong></p>\n\n<p>钟淑如，人类学者，《中国菜市场》作者</p>\n\n<p>徐涛，声动活泼联合创始人</p>\n\n<p><strong>主要话题</strong></p>\n\n<p><strong>2014—2017：从海南开始，走进菜市场的日常生活</strong></p>\n\n<p>[01:13] 一颗臭海胆，开启了她对菜市场的十年研究</p>\n\n<p>[13:56] 「靠近不了他们，那就成为他们」</p>\n\n<p>[21:02] 「从生物到食物，时间越短越好」</p>\n\n<p>[29:03] 凌晨海鲜码头里的交易规则与熟人网络</p>\n\n<p><strong>2017—2020：城市更新之下，菜市场正在被重新定义</strong></p>\n\n<p>[35:03] 「摊贩、消费者与食物之间的稳定内核」</p>\n\n<p>[37:21] 当买菜不再只有菜市场，谁还需要它作为城市基础设施？</p>\n\n<p>[42:38] 网红化还是社区化，菜市场改造正在走向不同方向</p>\n\n<p><strong>2020—2026：当食物进入全国流通网络，地方特色还会留下来吗？</strong></p>\n\n<p>[45:43] 「世界上没有一模一样的两个菜市场」</p>\n\n<p>[50:38] 当生鲜电商开始学习菜市场，谁在决定我们吃什么？</p>\n\n<p>[56:28] 当我们离土地越来越远，也逐渐失去了辨别食物的能力</p>\n\n<p><strong>今天：菜市场还能为城市生活留下什么？</strong></p>\n\n<p>[01:02:37] 「超市跟菜市场，在中国是共生的关系」</p>\n\n<p>[01:09:23] 菜市场如何重新找到自己的位置？</p>\n\n<p><strong>延伸阅读</strong></p>\n\n<p>[<a href=\"https://www.chinawriter.com.cn/n1/2026/0812/c405087-40778205.html\" rel=\"nofollow noopener\">书籍：中国菜市场</a>]</p>\n\n<p>[03:10][<a href=\"https://m.thepaper.cn/newsDetail_forward_21909967\" rel=\"nofollow noopener\">澎湃新闻：超市革命</a>]</p>\n\n<p>[12:54][<a href=\"https://static.nfnews.com/content/202208/07/c6765106.html\" rel=\"nofollow noopener\">南方Plus：人类学家的菜市场漫游指南</a>]</p>\n\n<p>[41:46][<a href=\"https://news.jschina.com.cn/scroll/guonei/202304/t20230401_3191202.shtml\" rel=\"nofollow noopener\">中国江苏网：“小菜场”装“大民生”，“菜篮子”拎出幸福感</a>]</p>\n\n<p>[42:38][<a href=\"https://www.chinanews.com/tp/hd2011/2021/10-05/1003968.shtml\" rel=\"nofollow noopener\">中新网：菜市场“换装”上海乌中集市联名 Prada 快闪</a>]</p>\n\n<p>[49:34][<a href=\"https://www.bilibili.com/video/BV1JB4y1L76p\" rel=\"nofollow noopener\">B站：去喀什牛羊大巴扎，一定要体验捏捏羊屁股！</a>]</p>\n\n<p>[50:38][<a href=\"https://www.thepaper.cn/newsDetail_forward_33746487\" rel=\"nofollow noopener\">澎湃新闻：钟淑如 超市卖“生鲜”，菜场才懂中国人的“新鲜”</a>]</p>\n\n<p>[01:00:46][<a href=\"https://www.stats.gov.cn/sj/tjgb/nypcgb/qgnypcgb/202302/t20230206_1902101.html\" rel=\"nofollow noopener\">国家统计局：第三次全国农业普查主要数据公报（第一号）</a>]</p>\n\n<p><a href=\"https://mp.weixin.qq.com/s/z1NbNmbREXNrzhAt3yeHbQ\" rel=\"nofollow noopener\">十周年限时展览丨当我们用声音，在胡同里做了个展</a></p>\n\n<p><img alt=\"52f3b3b0 2625 4342 8dc9 4929498a5d80\" src=\"https://cdn.fireside.fm/file/fireside-uploads-2024/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/1_mHQmq6.jpeg\" /></p>\n\n<p>也可以在小红书账号<strong><a href=\"https://xhslink.com/m/2tzsKmEPAoV\" rel=\"nofollow noopener\">「徐涛-声东击西」</a></strong>看到更多相关内容和幕后</p>\n\n<p><strong>十周年特别节目</strong></p>\n\n<p>2016-2026，声东击西走过十年。</p>\n\n<p>十年，我们亲历变化，也由此洞见未来。在这个特别系列中，我们邀请身处结构性变化中的人，回望过去十年的关键转折，也一起思考未来的方向。</p>\n\n<p>本系列持续更新中：</p>\n\n<ul>\n<li><p><a href=\"https://etw.fm/2219\" rel=\"nofollow noopener\">#399 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变</a></p></li>\n<li><p><a href=\"https://etw.fm/2224\" rel=\"nofollow noopener\">#404 邵阳：一位华人市议员亲历的美国地方政治</a></p></li>\n<li><p><a href=\"https://etw.fm/2226\" rel=\"nofollow noopener\">#406 从景山骑到三里屯：在街头寻找北京的十年痕迹</a></p></li>\n<li><p><a href=\"https://etw.fm/2228\" rel=\"nofollow noopener\">#408 李晶：互联网增长的红利、代价与一个人的十年自我重建</a></p></li>\n<li><p><a href=\"https://etw.fm/2229\" rel=\"nofollow noopener\">#409 欧阳艳琴：如果教育不必然带来文凭和成功，它还能给一个普通年轻人什么？</a></p></li>\n<li><p><a href=\"https://etw.fm/2231\" rel=\"nofollow noopener\">#410 赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目</a></p></li>\n<li><p>……</p></li>\n</ul>\n\n<p><strong>给声东击西投稿</strong></p>\n\n<p>「声东击西」一直在寻找来自不同社会和群体的真实声音。我们曾经采访过为特朗普竞选生产 MAGA 帽子的中国制造商、记录过七位在美国大选中经历起伏的华人个体，也讲述了委内瑞拉青年的故事。</p>\n\n<p>如果你也有一些特别的经历、观察或想法，不论是亲身体验的故事，还是你在某个行业、社区中的所见所闻，都欢迎你向我们投稿。</p>\n\n<p>你的声音可能出现在未来的节目当中，我们非常期待你的分享！</p>\n\n<p><a href=\"https://eg76rdcl6g.feishu.cn/share/base/form/shrcne1CGVaSeJwtBriW6yNT2dg\" rel=\"nofollow noopener\">投稿入口</a></p>\n\n<p><strong>加入我们</strong></p>\n\n<p>声动活泼团队目前正在招聘节目主播和实习生，如果你也对播客行业的内容制作和商务运营感兴趣，欢迎投递！ 详情点击招聘入口：<a href=\"https://eg76rdcl6g.feishu.cn/docx/XO6bd12aGoI4j0xmAMoc4vS7nBh?from=from_copylink\" rel=\"nofollow noopener\">加入声动活泼（在招职位速览）</a></p>\n\n<p><img alt=\"Untitled\" src=\"https://media24.fireside.fm/file/fireside-uploads-2024/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/9KRzVACW.png\" /></p>\n\n<p><strong>幕后制作</strong></p>\n\n<p>后期：赛德</p>\n\n<p>运营：George</p>\n\n<p>设计：饭团</p>\n\n<p>实习编辑：晚晚</p>\n\n<p><strong>商务合作</strong></p>\n\n<p>声动活泼商业化小队，点击链接可直达<strong><a href=\"https://sourl.cn/QDhnEc\" rel=\"nofollow noopener\">商务会客厅</a></strong>，也可发送邮件至 <a href=\"mailto:business@shengfm.cn\" rel=\"nofollow noopener\">business@shengfm.cn</a> 联系我们。</p>\n\n<p><strong>关于声动活泼</strong></p>\n\n<p>「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。</p>\n\n<p>我们还有这些播客：<a href=\"https://etw.fm/episodes\" rel=\"nofollow noopener\">声东击西</a>、<a href=\"https://guiguzaozhidao.fireside.fm/episodes\" rel=\"nofollow noopener\">What's Next｜科技早知道</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/61315abc73105e8f15080b8a\" rel=\"nofollow noopener\">商业WHY酱</a>、<a href=\"https://therabbithole.fireside.fm\" rel=\"nofollow noopener\">跳进兔子洞</a>&amp;<a href=\"https://www.xiaoyuzhoufm.com/podcast/666c0ad1c26e396a36c6ee2a\" rel=\"nofollow noopener\">跳进兔子洞第三季</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/644b94c494d78eb3f7ae8640\" rel=\"nofollow noopener\">吃喝玩乐了不起</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/65a625966d045a7f5e0b5640\" rel=\"nofollow noopener\">不止金钱</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/5f445cdb9504bbdb77f092e9\" rel=\"nofollow noopener\">泡腾 VC</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/5e284c37418a84a0462634a4\" rel=\"nofollow noopener\">反潮流俱乐部</a></p>\n\n<p>欢迎在<a href=\"https://okjk.co/Qd43ia\" rel=\"nofollow noopener\">即刻</a>、微博等社交媒体上与我们互动，搜索<strong>声动活泼</strong>即可找到我们。</p>\n\n<p>也欢迎你写邮件和我们联系，邮箱地址是：<a href=\"mailto:ting@sheng.fm\" rel=\"nofollow noopener\">ting@sheng.fm</a></p>\n\n<p>获取更多和声动活泼有关的讯息，你也可以扫码添加声小音，在节目之外和我们保持联系！</p>\n\n<p><img alt=\"声东击西\" src=\"https://cdn.fireside.fm/file/fireside-uploads-2024/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/wEYE7jJa.jpg\" /></p><p>Special Guest: 钟淑如.</p>",
       "external_id": "486d1fea-dd57-4ff1-8de9-cfea1f9de16a",
-      "last_attempt_at": "2026-11-26T21:43:43.590525+00:00",
+      "last_attempt_at": "2026-11-27T08:47:33.484173+00:00",
       "last_error": "TypeError: open() got an unexpected keyword argument 'metadata_errors'",
       "published_at": "2026-11-26T10:15:00+00:00",
       "source_id": "sheng-dong-ji-xi",
@@ -3605,6 +3618,19 @@
       "translation_provenance": "faster-whisper/small; batch=8; beam=1; normalized to Simplified Chinese",
       "url": "https://sv101.fireside.fm/248"
     },
+    "silicon-valley-101::9753c5f7-03dd-4cfa-8d4a-40531f7c4b79": {
+      "attempts": 1,
+      "description": "<p>在现在这个节骨点，如果问韩国出口全球、销量暴涨的东西，除了三星和海力士的储存芯片外还有什么，那韩妆一定会有姓名。<br />\n早在2025年，韩国的美妆出口额就超过了美国，成为仅次于法国的全球第二大美妆出口国，到了2026年，这个势头变得愈发不可收拾。过去两年，它在全球的销售额增长了一倍多，美国有近25%的家庭都用过韩妆产品，今年前三季度出口英国的韩妆还同比增长了1.8倍。<br />\n平价的定位是韩妆席卷全球的原因之一，消费者会惊叹于只花一两百人民币，或者10-50美元，就能买来看上去很有科技含量的PDRN、蜗牛粘液。但韩妆风靡的背后，其实是韩国一整套配合出海的机制，比如品牌对营销概念的手拿把掐，韩国想要用文化出海辅助产品出海的国策，以及，他们上下游全产业链的组团式出海。</p>\n\n<p><strong>【主播】</strong><br />\n麻花，硅谷101消费话题研究员，<a href=\"https://www.xiaoyuzhoufm.com/podcast/6ac34f4e05810422d187bee3\" rel=\"nofollow noopener\">消费101</a>主播</p>\n\n<p><strong>【嘉宾】</strong><br />\n寒笑 Ray， “<a href=\"https://www.xiaoyuzhoufm.com/podcast/6344e36d9186d4e4c46a0e7c?s=eyJ1IjogIjYyZGJlNzBmZWRjZTY3MTA0YTBiM2ZhOCJ9\" rel=\"nofollow noopener\">美妆内行人</a> Beauty Insiders”创始主编<br />\nKelly，商业科技博主，“<a href=\"https://space.bilibili.com/619615439\" rel=\"nofollow noopener\">凯莉彭</a>”账号主理人</p>\n\n<p><strong>【你将听到】</strong><br />\n<strong>韩妆格局大盘点：谁在火，谁在卖</strong><br />\n03:35 韩妆涌进美国线下店，甚至Costco都出了韩妆大套装<br />\n07:05 1/4的美国家庭买过韩妆产品<br />\n11:30 1.0韩妆 vs 2.0韩妆，渠道、特色大不同<br />\n16:04 现在的韩妆甚至不需要消费者记住品牌名<br />\n20:38 新三富 vs 旧三富，韩妆背后的新造富神话<br />\n25:17 当年的特殊事件，反而成了新三富崛起的天时地利人和</p>\n\n<p><strong>研发制造、零售营销和出海贸易，韩妆链条大拆解</strong><br />\n27:10 中国、韩国和欧美的美妆，研发流程大不同<br />\n35:06 全球美妆ODM双巨头科丝美诗和科玛，能力早不止研发制造了<br />\n44:39 消费者都想美妆产品有功效，而韩妆最擅长“表演有功效”<br />\n51:37 韩式审美为什么强，根源可能是岛国倒逼的审美内卷<br />\n58:16 从Gentle Monster和K-pop，看韩国人表达美玩得有多花<br />\n01:01:07 K-pop辅助韩妆出海，已经纳入“国策”了<br />\n01:07:46 韩国最大的美妆全球贸易商，居然是做半导体起家的<br />\n01:13:15 “韩版屈臣氏”Olive Young，成了外国人接触韩妆的重要渠道</p>\n\n<p><strong>唱唱反调：韩妆出海那么强，隐患又在哪儿？</strong><br />\n01:20:53 擅长放烟花的韩妆，已经有太多品牌死在了沙滩上<br />\n01:26:40 中国美妆，可以对未来更有信心一点</p>\n\n<p><strong>【相关阅读和名词解释】</strong></p>\n\n<ul>\n<li><p><a href=\"https://nielseniq.com/global/en/news-center/2026/k-beauty-goes-global-sales-surge-53-as-korean-innovation-reshapes-beauty-growth/?f_link_type=f_linkinlinenote&amp;flow_extra=eyJpbmxpbmVfZGlzcGxheV9wb3NpdGlvbiI6MCwiZG9jX3Bvc2l0aW9uIjowLCJkb2NfaWQiOiI4MGY5ODk3N2ExM2Q0MWQ1LTliYTc2NWMyNDQ1ZjNlMTEifQ%3D%3D\" rel=\"nofollow noopener\">K-Beauty Goes Global: Sales Surge 53% as Korean Innovation Reshapes Beauty Growth</a></p></li>\n<li><p><a href=\"https://mp.weixin.qq.com/s/dJlU95SAH48M-KQW6FOpNA\" rel=\"nofollow noopener\">快速铺货欧美，K-Beauty 如何长成 “美妆版 Shein” ？</a></p></li>\n<li><p><a href=\"https://www.xiaoyuzhoufm.com/episode/6a9fe454f03e74ee6b0716d7?s=eyJ1IjoiNjJkYmU3MGZlZGNlNjcxMDRhMGIzZmE4IiwiZCI6Mn0==\" rel=\"nofollow noopener\">小市场，大品牌：韩妆为什么比我们更早学会做全球生意？</a></p></li>\n</ul>\n\n<p>本期播客中提到的相关品牌和企业：</p>\n\n<ol>\n<li> 韩妆品牌：Beauty of Joseon朝鮮美人、d'Alba、Torriden 桃瑞丹、Medicube、COSRX、Aestura、TIRTIR， Skin 1004、Round Lab 、Skinfood、Mediheal美迪惠尔、Mixsoon、Anua、兰芝、悦诗风吟、雪花秀、WHOO后、The Face Shop、伊蒂之屋、自然乐园、3CE，Dr.Jart+蒂佳婷</li>\n<li> 韩妆企业：爱茉莉太平洋、LG健康生活、爱敬、APR、d'Alba Global、Goodai Global</li>\n<li> 韩妆ODM公司：科丝美诗 COSMAX、韩国科玛 Kolmar Korea</li>\n<li> 韩妆出海分销商：SILICON2</li>\n<li> 中国美妆：巨子生物、优时颜、玛丽黛佳、珀莱雅、花知晓、创元集团</li>\n<li> 零售商：Musinsa、 Olive Young、T&amp;T Supermarket大统华 、Ulta Beauty、 Target塔吉特、 Sephora丝芙兰</li>\n</ol>\n\n<p><strong>【新播客：消费101】</strong><br />\n<a href=\"https://www.xiaoyuzhoufm.com/podcast/6ac34f4e05810422d187bee3\" rel=\"nofollow noopener\">《消费101》</a>是《硅谷101》团队新开设的消费垂类节目，由资深消费记者&amp;研究员麻花担任主播，是一档提供有趣、有料、有用的消费行业观察与品牌解读的播客。每周更新，欢迎关注！</p>\n\n<p><strong>【监制】</strong><br />\n泓君<br />\n<strong>【后期】</strong><br />\nAmei<br />\n<strong>【运营】</strong><br />\n朱婕<br />\n<strong>【BGM】</strong><br />\nALL MY GIRLS - ALICE<br />\nDon't Stop - I'MIN<br />\nFantasize - I'MIN<br />\nSTYLE - Ballpoint</p>\n\n<p><strong>【在这里找到我们】</strong><br />\n公众号：硅谷101<br />\n收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐<br />\n其他平台：YouTube｜Bilibili 搜索「硅谷101播客」<br />\n联系我们：<a href=\"mailto:podcast@sv101.net\" rel=\"nofollow noopener\">podcast@sv101.net</a></p><p>Special Guests: Kelly and 寒笑Ray.</p>",
+      "external_id": "9753c5f7-03dd-4cfa-8d4a-40531f7c4b79",
+      "last_attempt_at": "2026-11-27T08:45:34.659326+00:00",
+      "last_error": "TypeError: open() got an unexpected keyword argument 'metadata_errors'",
+      "published_at": "2026-11-26T23:00:00+00:00",
+      "source_id": "silicon-valley-101",
+      "source_type": "podcast",
+      "status": "failed",
+      "title": "E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？",
+      "url": "https://sv101.fireside.fm/275"
+    },
     "silicon-valley-101::9e6e1db1-f30b-492d-8a09-d8756b9df700": {
       "attempts": 21,
       "description": "<p><img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/033e-audiofreehighqps/D4/1D/GKwRIJEOkVJYAAHpNQTf1Ew_.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /></p>\n\n<p>回顾9月，AI圈的重磅新闻一个接一个。<br />\n先是OpenAI发布GPT-6 Astra，总裁格雷格·布罗克曼在发布会上宣布：AGI已经到来。<br />\n这场发布对机器人行业的冲击，来得有些意外，一个发布会报告里只字未提机器人的通用模型，转身就空降了机器人评测榜首，甚至让很多机器人的Benchmark都失效了。有人开玩笑说：机器人领域等了这么多年的“GPT时刻”，居然是GPT自己。<br />\n同样在这个月里：Meta Muse冲上美国App Store榜首，它的竞争对手Instinct估值也涨到了100亿美元；xAI的Grok Bot开放了企业部署；不生成文本、只给选项打概率的决策模型Jev以“系统1”走红，发布24天就融了8.7亿美元。<br />\n在AI for Science方面，Claude发现类CRISPR的新酶系统；扎克伯格夫妇资助成立的Biohub宣布将虚拟细胞计划扩大到18亿美元……这些进展又会为科学发现带来哪些改变？<br />\n本期《硅谷101》，我们请来三位分别站在Agent、机器人和AI制药一线的研究者，聊清楚三件事：个人Agent商业化卡在哪？机器人怎么被Astra这样的底层模型冲击？AI制药真正的瓶颈是什么？</p>\n\n<p><em>本期节目录制于2026年9月29日</em></p>\n\n<p><strong>【主播】</strong><br />\n泓君，硅谷101创始人，播客主理人<br />\n<strong>【嘉宾】</strong><br />\n许华哲，破壳机器人创始人、清华大学交叉信息研究院助理教授（X:@HarryXu12）<br />\n朱哲清，Pokee.ai创始人兼CEO，前MetaAI应用强化学习团队负责人，斯坦福强化学习博士（X:@ZheqingZhu）<br />\n王晟，华盛顿大学计算机学院助理教授（X:@profshengwang）</p>\n\n<p><strong>【你将听到】</strong><br />\n00:05 新播客<a href=\"https://www.xiaoyuzhoufm.com/podcast/6ac34f4e05810422d187bee3\" rel=\"nofollow noopener\">《消费101》 </a>上线啦！<br />\n00:49 9月AI大事记<br />\n04:18 各领域实测Astra感受</p>\n\n<p><strong>Agent领域</strong><br />\n09:11 生物医学“古董级软件”有了Computer Use<br />\n12:17 Computer Use是什么？与API调用的区别<br />\n15:47 Meta Muse会走Manus的老路吗？<br />\n17:31 Meta Muse破局关键——软硬件结合<br />\n19:37 商家愿意开access，前提是确认身份<br />\n22:21 个人助手Agent新一轮烧钱获客大战<br />\n24:57 Grok Bot，“走在后面的人”<br />\n25:44 前沿Lab最烧token的是AI for Science<br />\n27:48 小模型追大模型，差距在缩小，但可能追错了benchmark</p>\n\n<p><strong>机器人领域</strong><br />\n30:19 未来需要快决策模型 + Astra的推理能力<br />\n35:48 筷子夹小球效果：自研模型 V.S Astra<br />\n37:25 Astra冲击：利好本体硬件<br />\n39:07 从TAMP到Agentic：机器人规划重回台前<br />\n40:19 数据标注新门槛：标注因果与直觉物理<br />\n43:06 惊艳之后，Astra也有明显短板<br />\n45:12 Jev“快系统”的潜在价值</p>\n\n<p><strong>生物医学领域</strong><br />\n47:10 实验设计完成度只有30%，Astra缺什么？<br />\n51:39 AI制药，离不开实验室的验证和数据积累<br />\n53:15 制药时间线：AI设计分子快，真实验证慢<br />\n55:01 从AlphaFold开源，看垂直科学公司的数据护城河<br />\n58:24 未来趋势：湿实验公司用MCP/API直连大模型<br />\n01:02:15 人类科学家的角色转向“定义问题”<br />\n01:03:47 好的benchmark，应该是无上限的<br />\n01:02:15 ART的启示：酶和蛋白质实验周期短，最先跑出来</p>\n\n<p><strong>尾声</strong><br />\n01:07:48 “蒸馏”是否让普通人失去了价值？<br />\n1:11:51 Agent、机器人与AI制药的核心问题</p>\n\n<p><strong>【消费101】</strong><br />\n<a href=\"https://www.xiaoyuzhoufm.com/podcast/6ac34f4e05810422d187bee3\" rel=\"nofollow noopener\">《消费101》</a>是《硅谷101》团队新开设的消费垂类节目，由资深消费记者&amp;研究员麻花担任主播，是一档提供有趣、有料、有用的消费行业观察与品牌解读的播客。每周更新，欢迎关注！<br />\n<img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/ff71-audiofreehighqps/4E/CD/GKwRIJEOq_S8AAMfJATrfrn4.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /></p>\n\n<p><strong>【硅谷101听友群】</strong><br />\n在这里，和同好一起深聊科技、商业与未来，期待你的声音，也期待更多有趣的讨论。<br />\n扫码加入，即刻相遇！<br />\n<img alt=\"\" src=\"https://imagev2.xmcdn.com/storages/8b68-audiofreehighqps/DA/63/GKwRIaIOtcV1AAOI4wTwIh2N.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" /></p>\n\n<p><strong>【监制】</strong><br />\n泓君<br />\n<strong>【后期】</strong><br />\nAmei<br />\n<strong>【运营】</strong><br />\n朱婕<br />\n<strong>【BGM】</strong><br />\nImba Wimbo - RaFa Orchestra<br />\nSignal Containment - Out To The World<br />\nFlickering Torches - Christian Andersen<br />\nVideo Knights - Sebastian Winskog</p>\n\n<p><strong>【在这里找到我们】</strong><br />\n公众号：硅谷101<br />\n收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐<br />\n其他平台：YouTube｜Bilibili 搜索「硅谷101播客」<br />\n联系我们：<a href=\"mailto:podcast@sv101.net\" rel=\"nofollow noopener\">podcast@sv101.net</a></p><p>Special Guests: 朱哲清, 王晟, and 许华哲.</p>",
@@ -4249,10 +4275,10 @@
       "url": "https://share.transistor.fm/s/2e8a7e3a"
     },
     "streamlined-solopreneur::b2f99e9e-7515-4597-9996-f13a007b2992": {
-      "attempts": 5,
-      "description": "<p>This week I talk about proactive AI agents like Claude Duet — why they use the same triggers as traditional automations but guess at the action, and why that unpredictability makes them more of a liability than a time-saver. Then my 2026 Solopreneur's Gift Guide is live, with new camera, mic, and light picks plus new Smart Home and revamped Travel Tech sections, and a recommendation for Rewind Vault on YouTube. </p><p>Plus this week's systems tip: turning Caps Lock into a Hyper Key to open up your keyboard shortcuts.</p><p><strong>Links:</strong></p><ul><li><a href=\"https://streamlined.fm/waitlist-thank-you/\">Solo Ops Toolkit Pro Waitlist</a></li><li><a href=\"https://streamlined.fm/gift-guides/solopreneurs/\">My 2026 Solopreneur's Gift Guide</a></li><li><a href=\"https://www.youtube.com/@RewindVault_Chris\">Rewind Vault on YouTube</a></li><li><a href=\"https://hyperkey.app/\">Hyper Key</a></li></ul><p></p><p>Stop working 60 hour weeks. Solo Ops Toolkit Pro will give you everything you need to spend less time in your business without the decisions or learning curves. Join the waitlist to get notified and get 50% off for life: <a href=\"https://streamlined.fm/waitlist/??utm_source=podcast&amp;utm_medium=preroll-ad&amp;utm_campaign=bfcm\">https://streamlined.fm/waitlist</a></p><p>0:00 Why Proactive AI Isn't Automation<br />19:46 Recommended Reading: My 2026 Solopreneur's Gift Guide<br />29:44 Something Fun: Rewind Vault<br />35:40 Speed Up Your Shortcuts with the Hyper Key</p><p><br /></p><p>————<br />Streamlined Solopreneur gives solo business owners the systems and tools to run their business in fewer hours.</p><p>I'm Joe Casabona. I run my business in 32 hours a week while staying present for my 3 kids. Each week I share one practical idea, whether that's a system, a tool, or a strategy, to help you get your time back without hiring employees or selling your soul to AI.</p><p>Looking for a place to start? Get my free cheat sheets, plus a new tool or tip every Friday in my newsletter: <a href=\"https://streamlined.fm/cheat-sheets/?utm_source=podcast&amp;utm_medium=podcast&amp;utm_campaign=cheat_sheets&amp;utm_content=show_notes\">https://streamlined.fm/cheat-sheets/</a></p><p>Connect with me on LinkedIn: https://www.linkedin.com/in/jcasabona/</p><br /><em>Disclosure: these show notes were generated from the transcript and written newsletter, using a very strict format for how it's all put together.</em>\n<ul><li>(00:00) - Why Proactive AI Isn't Automation</li>\n<li>(21:13) - Recommended Reading: My 2026 Solopreneur's Gift Guide</li>\n<li>(31:11) - Something Fun: Rewind Vault</li>\n<li>(37:07) - Speed Up Your Shortcuts with the Hyper Key</li>\n</ul>",
+      "attempts": 6,
+      "description": "<p>This week I talk about proactive AI agents like Claude Duet — why they use the same triggers as traditional automations but guess at the action, and why that unpredictability makes them more of a liability than a time-saver. Then my 2026 Solopreneur's Gift Guide is live, with new camera, mic, and light picks plus new Smart Home and revamped Travel Tech sections, and a recommendation for Rewind Vault on YouTube. </p><p>Plus this week's systems tip: turning Caps Lock into a Hyper Key to open up your keyboard shortcuts.</p><p><strong>Links:</strong></p><ul><li><a href=\"https://streamlined.fm/waitlist-thank-you/\">Solo Ops Toolkit Pro Waitlist</a></li><li><a href=\"https://streamlined.fm/gift-guides/solopreneurs/\">My 2026 Solopreneur's Gift Guide</a></li><li><a href=\"https://www.youtube.com/@RewindVault_Chris\">Rewind Vault on YouTube</a></li><li><a href=\"https://hyperkey.app/\">Hyper Key</a></li></ul><p></p><p>Solo Ops Toolkit Pro is open! Get everything you need to stop working 60 hour weeks. Join today and 50% off for life: <a href=\"https://go.streamlined.fm/pro-sn\">https://go.streamlined.fm/pro-sn</a></p><p>0:00 Why Proactive AI Isn't Automation<br />19:46 Recommended Reading: My 2026 Solopreneur's Gift Guide<br />29:44 Something Fun: Rewind Vault<br />35:40 Speed Up Your Shortcuts with the Hyper Key</p><p><br /></p><p>————<br />Streamlined Solopreneur gives solo business owners the systems and tools to run their business in fewer hours.</p><p>I'm Joe Casabona. I run my business in 32 hours a week while staying present for my 3 kids. Each week I share one practical idea, whether that's a system, a tool, or a strategy, to help you get your time back without hiring employees or selling your soul to AI.</p><p>Looking for a place to start? Get my free cheat sheets, plus a new tool or tip every Friday in my newsletter: <a href=\"https://streamlined.fm/cheat-sheets/?utm_source=podcast&amp;utm_medium=podcast&amp;utm_campaign=cheat_sheets&amp;utm_content=show_notes\">https://streamlined.fm/cheat-sheets/</a></p><p>Connect with me on LinkedIn: https://www.linkedin.com/in/jcasabona/</p><br /><em>Disclosure: these show notes were generated from the transcript and written newsletter, using a very strict format for how it's all put together.</em>\n<ul><li>(00:00) - Why Proactive AI Isn't Automation</li>\n<li>(20:40) - Recommended Reading: My 2026 Solopreneur's Gift Guide</li>\n<li>(30:38) - Something Fun: Rewind Vault</li>\n<li>(36:34) - Speed Up Your Shortcuts with the Hyper Key</li>\n</ul>",
       "external_id": "b2f99e9e-7515-4597-9996-f13a007b2992",
-      "last_attempt_at": "2026-11-26T08:51:46.900887+00:00",
+      "last_attempt_at": "2026-11-27T08:49:55.187432+00:00",
       "last_error": "TypeError: open() got an unexpected keyword argument 'metadata_errors'",
       "published_at": "2026-11-20T22:05:10+00:00",
       "source_id": "streamlined-solopreneur",
@@ -4560,10 +4586,10 @@
       "url": "https://www.stovol.com/445"
     },
     "sui-ji-bo-dong::13a7787b-5312-459b-a8c9-26d07e709f2a": {
-      "attempts": 14,
+      "attempts": 15,
       "description": "<p>《可能的爱》是一部会在心中久久回响的电影。时隔八年，李沧东再次将摄影机对准韩国社会的集体创伤，让两个原本不可能产生交集的家庭，在阶级、欲望与创作的碰撞中，试探着跨越边界，在可能性的危险水域中共浴。</p>\n\n<p>本期节目我们请来了影评人余雅琴和大学教师胡亮宇，一起聊聊这部电影。我们从四位主要角色的设置及其背后的阶级、性别议题，聊到电影在李沧东创作脉络中的位置，它与基耶洛夫斯基《十诫》的关系，以及贯穿于李沧东作品中强烈的“罪己”意识。</p>\n\n<p>正如李沧东在采访中谈到的，电影是关于“所有自身劳动失去意义的人”的，包括失业的工人，也包括导演自己。在每个人都有机会讲述自己故事的时代，艺术家工作的意义也变得岌岌可危。难道最终所有人只能把摄影机对准自己吗？对于这些问题，电影并没有给出明确的答案，但正如嘉宾胡亮宇所说，电影的作用是扮演一个“开罐器”，撬开那些习以为常的社会关系，让原本隔绝的经验得以相遇。也许尴尬、误解和伤害是难以避免的，但是否我们还有勇气和好奇，将目光投向他人，寻找一种可能的爱？</p>\n\n<p>【本期嘉宾】</p>\n\n<p>余雅琴，媒体人、影评人、策展人<br />\n胡亮宇，大学老师，播客「感觉结构」主播</p>\n\n<p>[01:12] 评分及推荐<br />\n[05:46] 美玉是电影中唯一一个“活人”<br />\n[12:30] 电影对于美玉和丈夫的关系着墨不多<br />\n[18:16] 浩锡是李沧东创作中男性形象的集大成者<br />\n[24:48] 浩锡最大的创伤来自阶级意识的短暂获得及其失去<br />\n[34:08] 李沧东自比艺智，是“委身资本”的艺术家<br />\n[42:03] 为什么艺智被设置为一个菜鸟和冒名者？<br />\n[49:17] 赵寅成的角色有必要吗？<br />\n[1:05:25]《可能的爱》与《十诫》的关系<br />\n[1:08:14] 李沧东创作中贯穿着强烈的罪己意识<br />\n[1:21:12] 电影扮演了一个“开罐器”</p>\n\n<p>【本期节目中使用的音乐】</p>\n\n<p>片头：On the Way to the Sea, by郑在日，from Possible Love OST<br />\n片尾：Moon，by郑在日，from Possible Love OST</p>",
       "external_id": "13a7787b-5312-459b-a8c9-26d07e709f2a",
-      "last_attempt_at": "2026-11-25T08:47:10.764476+00:00",
+      "last_attempt_at": "2026-11-27T08:46:37.331343+00:00",
       "last_error": "TypeError: open() got an unexpected keyword argument 'metadata_errors'",
       "published_at": "2026-11-18T04:00:00+00:00",
       "source_id": "sui-ji-bo-dong",
@@ -5141,10 +5167,10 @@
       "url": "https://a16z.simplecast.com/episodes/what-it-takes-to-win-as-a-founder-ben-horowitz-AjG_7MSY"
     },
     "the-a16z-show::18cfd754-d940-4d83-8b54-7e7ed094467d": {
-      "attempts": 1,
+      "attempts": 2,
       "description": "What if one of healthcare’s most powerful interventions isn’t a drug, but food? Originally recorded in 2020, this conversation looks at how nutrition could help prevent and manage chronic disease while lowering healthcare costs.\nJulie Yoo speaks with Dr. Andrea Feinberg and Plated co-founder Josh Hix about food insecurity, medically tailored meals, reimbursement, and why access and convenience can matter as much as knowing what’s healthy.\nThey also discuss how online grocery shopping and delivery could reshape people’s food environments, and what it would take to make nutritious food a more integrated part of healthcare.",
       "external_id": "18cfd754-d940-4d83-8b54-7e7ed094467d",
-      "last_attempt_at": "2026-11-26T21:44:43.039673+00:00",
+      "last_attempt_at": "2026-11-27T08:47:51.649897+00:00",
       "last_error": "TypeError: open() got an unexpected keyword argument 'metadata_errors'",
       "published_at": "2026-11-26T11:00:00+00:00",
       "source_id": "the-a16z-show",
@@ -6880,10 +6906,10 @@
       "url": "33e11418-6a02-11f1-a757-6fc489e9396e"
     },
     "the-investors-podcast::38522b14-e7e7-11f1-b224-43c12ea11d57": {
-      "attempts": 2,
+      "attempts": 3,
       "description": "In today’s episode, Kyle Grieve and Shawn O’Malley discuss Rollins, one of the two giants of American pest control. They look at how a business that has grown revenue for 100 quarters in a row saw its stock fall nearly in half after Google’s AI answers changed how homeowners find pest control companies. Along the way, they cover route density, Rollins’ acquisition playbook, why its customers stick around for years, the family that built it, the risks to its growth, and the company’s current intrinsic value.\n\n\nIN THIS EPISODE YOU’LL LEARN:\n\n(00:00:00) Intro\n\n(00:04:11) Why a company with 100 straight quarters of revenue growth saw its stock fall nearly in half\n\n(00:07:25) Why paying a fast-grower price for a steady grower can hurt investors\n\n(00:10:54) How route density makes each new customer almost pure profit\n\n(00:12:39) How Google’s AI search changed the way homeowners find pest control\n\n(00:27:28) The four reasons customers stick with their pest control provider\n\n(00:37:49) How Rollins makes its acquisitions cheaper after the deal closes\n\n(00:39:09) What Rollins’ biggest rival teaches us about giant mergers\n\n(00:43:30) The hidden cost that never shows up as capital spending\n\n(00:52:10) How the Rollins family built a compounding machine out of pest control\n\n(01:09:12) Valuation discussion\n\n(01:11:58) What Rollins is worth today, and the price that would change our minds\n\n(01:12:17) Whether we’re adding Rollins to the portfolio\n\nDisclaimer: Slight discrepancies in the timestamps may occur due to podcast platform differences.\n\n\n\nBOOKS AND RESOURCES\n\n\n  If you are interested in a Community for investors to learn, share ideas, network, and join calls with experts: ⁠⁠⁠⁠Apply for The Intrinsic Value Mastermind⁠⁠⁠⁠.\n\n  If you are interested in more personal meet-ups, meeting superinvestors, and discussing investing and things that go beyond: ⁠⁠⁠⁠Apply for The Mastermind: Inner Circle⁠⁠⁠⁠.\n\n  Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Portfolio Review&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Submit Tool⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Rollins’ Investor Day.\n\n  Rollins’ Investor Relations.\n\n  Check out our previous Intrinsic Value breakdowns: Heico, Perimeter Solutions, Restoration Hardware, Netlfix.\n\n  Follow Kyle on&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;and&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Follow Shawn on&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;and&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Related&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;mentioned in the podcast.\n\n  Ad-free episodes on our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\nNEW TO THE SHOW?\n\n\n  Get smarter about valuing businesses through&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Check out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Follow our official social media accounts:&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠X⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;|&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&nbsp;|&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Try our tool for picking stock winners and managing our portfolios:&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TIP Finance⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Enjoy exclusive perks from our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠favorite Apps and Services⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n  Learn how to better start, manage, and grow your business with the&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠best business podcasts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\nSPONSORS\n\nSupport our free podcast by supporting our ⁠⁠⁠⁠⁠⁠⁠⁠⁠sponsors⁠⁠⁠⁠⁠⁠⁠⁠⁠:\n\n\n  Monarch\n\n  Plus500\n\n  Granola\n\n  Glean\n\n  Bilt\n\n  Glean\n\n\nReferences to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.\nSupport our show by becoming a premium member! https://theinvestorspodcastnetwork.supportingcast.fm",
       "external_id": "38522b14-e7e7-11f1-b224-43c12ea11d57",
-      "last_attempt_at": "2026-11-26T21:45:12.313548+00:00",
+      "last_attempt_at": "2026-11-27T08:49:04.774964+00:00",
       "last_error": "TypeError: open() got an unexpected keyword argument 'metadata_errors'",
       "published_at": "2026-11-26T01:00:00+00:00",
       "source_id": "the-investors-podcast",
@@ -7590,6 +7616,19 @@
       "translation_provenance": "translation/openai/gpt-4o-mini from faster-whisper/small; batch=8; beam=1",
       "url": "https://podcasters.spotify.com/pod/show/morgan-housel/episodes/The-Sociology-of-Money-Be-Careful-Who-You-Socialize-With-e3nn1d0"
     },
+    "the-psychology-of-money-with-morgan-housel::422b404d-1f4b-403e-9609-e83d5630eef9": {
+      "attempts": 1,
+      "description": "<p>Plus, the state of AI, and the happiest rich people I've met. </p><p><br /></p><p>This episode is brought to you by Davis Advisors. To learn more, visit https://www.davisadvisors.com/. Before investing, you should carefully consider the investment objectives, risks, charges, and expenses. The prospectus or Form ADV, as applicable, contains this and other information. You can obtain a current prospectus or Form ADV by calling 800-279-2279. Investing involves risks including possible loss of principal.</p>",
+      "external_id": "422b404d-1f4b-403e-9609-e83d5630eef9",
+      "last_attempt_at": "2026-11-27T08:50:39.017051+00:00",
+      "last_error": "TypeError: open() got an unexpected keyword argument 'metadata_errors'",
+      "published_at": "2026-11-27T08:01:00+00:00",
+      "source_id": "the-psychology-of-money-with-morgan-housel",
+      "source_type": "podcast",
+      "status": "failed",
+      "title": "Being Happy For Other People's Success",
+      "url": "https://podcasters.spotify.com/pod/show/morgan-housel/episodes/Being-Happy-For-Other-Peoples-Success-e3t2scn"
+    },
     "the-psychology-of-money-with-morgan-housel::4befc062-52ad-4a8c-9417-aae9cf894b84": {
       "attempts": 1,
       "description": "<p>Plus, a story about free money, and the dangers of telling people what they want to hear. </p><p>This episode is brought to you by Davis Advisors. To learn more, visithttps://www.davisadvisors.com/.</p><p>Disclosure: Before investing, you should carefully consider the investment objectives, risks, charges, and expenses. The prospectus or Form ADV, as applicable, contains this and other information. You can obtain a current prospectus or Form ADV by calling 800-279-2279. Investing involves risks including possible loss of principal.</p>",
@@ -8233,10 +8272,10 @@
       "url": "https://rationalreminder.libsyn.com/how-canadian-etfs-actually-work-413-morley-conn"
     },
     "the-rational-reminder-podcast::8e66bc48-b106-4a41-a663-dceadf27b96b": {
-      "attempts": 1,
+      "attempts": 2,
       "description": "<p dir=\"ltr\">In this episode, we're joined by Ben Marshall, Professor of Finance and MSA Charitable Trust Chair in Finance at the Massey University Business School, for a wide-ranging conversation about estimating expected equity market returns, the cyclically adjusted price-to-earnings ratio, and the permanent portfolio. Ben's work asks a question that sits underneath almost every asset allocation decision: if valuations tell us something real about the next ten years of returns, are we measuring valuations correctly in the first place?</p> <p dir=\"ltr\">We explore why historical averages make a poor forecast over a ten-year horizon, how survey-based and data-driven estimates differ, and why the valuation component does most of the work in a three-component model of yield, growth, and valuation. Ben then walks through the problem at the centre of his recent research: the traditional CAPE ratio weights stocks by their earnings while the index it forecasts is weighted by market value, and the earnings in its denominator come from companies that may no longer be in the index. We examine what happens when that mismatch is repaired, why the component CAPE reads today's US market as expensive but less expensive than the traditional measure does, and how both stand up to the frameworks that have defeated most return predictors. We finish with Ben's work on Harry Browne's permanent portfolio, an out-of-sample test of it since 2012, and what long-term investors should make of the Sharpe ratio.</p> <p><strong> </strong></p> <p dir=\"ltr\">Sources From Today's Episode — https://zbib.org/556cfc86256e40289a4cf3a372d6c143</p> <p><strong> </strong></p> <p dir=\"ltr\">Key Points From This Episode:</p> <p dir=\"ltr\">(0:00:00) Introductions, and why Ben Marshall's research on expected equity market returns is a favourite topic on this show.</p> <p dir=\"ltr\">(0:01:30) Why a good estimate of the expected return on the equity market matters to investors, asset managers, and regulators alike.</p> <p dir=\"ltr\">(0:02:04) The limits of historical returns as a forecast, and why ten-year expectations are conditional on current valuations.</p> <p dir=\"ltr\">(0:03:31) Survey-based estimates and their backward-looking bias, against the data-driven alternatives of yield, growth, and valuation.</p> <p dir=\"ltr\">(0:06:30) How each of the three inputs is actually estimated, including the CAPE ratio and the Buffett indicator.</p> <p dir=\"ltr\">(0:08:26) Why the valuation component is the main driver of changes in return forecasts over time.</p> <p dir=\"ltr\">(0:09:11) The two metrics used to judge a forecast: mean absolute error and the out-of-sample R-squared.</p> <p dir=\"ltr\">(0:11:12) The three-component model with CAPE as the winner, beating a naive forecast by roughly 30%.</p> <p dir=\"ltr\">(0:12:35) Whether a model that improves Sharpe ratios by about 30% amounts to an endorsement of market timing.</p> <p dir=\"ltr\">(0:13:08) Applying the model to today's market, with the Shiller CAPE near 40 against a historical average of about 18.</p> <p dir=\"ltr\">(0:14:34) What current expected returns imply for asset allocation at ten-year against thirty- or forty-year horizons.</p> <p dir=\"ltr\">(0:15:47) How PWL blends a long-run historical return with an inverse-CAPE estimate, and why planning software constrains the approach.</p> <p dir=\"ltr\">(0:16:52) What the CAPE ratio actually contains, and why ten years of earnings are averaged in the first place.</p> <p dir=\"ltr\">(0:18:04) Robert Shiller's lunch with Alan Greenspan, and the speech that followed it.</p> <p dir=\"ltr\">(0:19:25) The aggregation problem: forecasting a value-weighted return using firm-level information that is not value weighted.</p> <p dir=\"ltr\">(0:22:12) Tesla replacing Apartment Investment and Management Company in 2020, and the mismatch that creates in the earnings history.</p> <p dir=\"ltr\">(0:24:53) Building a component CAPE ratio by value weighting the CAPE ratios of the individual stocks in the index.</p> <p dir=\"ltr\">(0:28:47) A 20% to 25% improvement in forecast accuracy, and the certainty equivalent return that measures its economic value.</p> <p dir=\"ltr\">(0:32:22) How the results hold up against the Goyal and Welch framework that finds most predictors fail out of sample.</p> <p dir=\"ltr\">(0:36:40) How high the component CAPE sits today, and why it reads US overvaluation as less extreme than the traditional measure.</p> <p dir=\"ltr\">(0:40:23) Harry Browne's permanent portfolio, and how an equal split across stocks, bonds, gold, and cash has performed.</p> <p dir=\"ltr\">(0:42:06) How much weight long-term investors should place on the Sharpe ratio as a measure of risk.</p> <p dir=\"ltr\">(0:45:37) An out-of-sample test of the permanent portfolio since 2012, and the role long-term bonds played in the result.</p> <p dir=\"ltr\">(0:49:08) Ben Marshall on contentment, gratitude, and how he defines success in his life.</p> <p><strong> </strong></p> <p dir=\"ltr\">Links From Today's Episode:</p> <p dir=\"ltr\">Ben's website — https://sites.google.com/view/ben-marshall</p> <p dir=\"ltr\">Ben on LinkedIn — https://www.linkedin.com/in/ben-marshall-46a30715/</p> <p dir=\"ltr\">Ben Marshall — <a href=\"https://sites.google.com/view/ben-marshall\">https://sites.google.com/view/ben-marshall</a></p> <p dir=\"ltr\">Ben Marshall's research profile — <a href=\"https://ideas.repec.org/f/pma2568.html\">https://ideas.repec.org/f/pma2568.html</a></p> <p dir=\"ltr\">Meet with PWL Capital: <a href=\"https://pwlcapital.com/\">https://pwlcapital.com/</a></p> <p dir=\"ltr\">PWL Team — <a href=\"https://pwlcapital.com/our-team/\">https://pwlcapital.com/our-team/</a></p> <p dir=\"ltr\">Rational Reminder on iTunes — <a href=\"https://itunes.apple.com/ca/podcast/the-rational-reminder-podcast/id1426530582\"> https://itunes.apple.com/ca/podcast/the-rational-reminder-podcast/id1426530582</a></p> <p dir=\"ltr\">Rational Reminder on Instagram — <a href=\"https://www.instagram.com/rationalreminder/\">https://www.instagram.com/rationalreminder/</a></p> <p dir=\"ltr\">Rational Reminder on YouTube — <a href=\"https://www.youtube.com/channel/UCOErWFfNOQzXsgE7f5S_ULw\">https://www.youtube.com/channel/UCOErWFfNOQzXsgE7f5S_ULw</a></p> <p dir=\"ltr\">Rational Reminder on Spotify — <a href=\"https://open.spotify.com/show/6RHWTH9iW7hdnA7eAg7ukO?si=fe7f60349b584026\"> https://open.spotify.com/show/6RHWTH9iW7hdnA7eAg7ukO?si=fe7f60349b584026</a></p> <p dir=\"ltr\">Benjamin Felix — <a href=\"https://pwlcapital.com/our-team/\">https://pwlcapital.com/our-team/</a></p> <p dir=\"ltr\">Benjamin on X — <a href=\"https://x.com/benjaminwfelix\">https://x.com/benjaminwfelix</a></p> <p dir=\"ltr\">Benjamin on LinkedIn — <a href=\"https://www.linkedin.com/in/benjaminwfelix/\">https://www.linkedin.com/in/benjaminwfelix/</a></p> <p><strong> </strong></p> <p dir=\"ltr\">Papers From Today's Episode:</p> <p><strong> </strong></p> <p dir=\"ltr\">Estimating Long-Term Expected Returns — <a href=\"https://doi.org/10.1080/0015198X.2024.2358737\">https://doi.org/10.1080/0015198X.2024.2358737</a></p> <p dir=\"ltr\">Aggregation Consistency and Return Predictability: Evidence from CAPE Ratios — <a href=\"https://ssrn.com/abstract=6060895\">https://ssrn.com/abstract=6060895</a></p> <p dir=\"ltr\">The Permanent Portfolio — <a href=\"https://doi.org/10.1080/09603107.2014.924290\">https://doi.org/10.1080/09603107.2014.924290</a></p> <p dir=\"ltr\">A Comprehensive Look at the Empirical Performance of Equity Premium Prediction — <a href=\"https://doi.org/10.1093/rfs/hhm014\">https://doi.org/10.1093/rfs/hhm014</a></p> <p><strong> </strong></p> <p dir=\"ltr\">Editing and post-production work for this episode was provided by The Podcast Consultant (<a href=\"https://thepodcastconsultant.com/\">https://thepodcastconsultant.com</a>)</p>",
       "external_id": "8e66bc48-b106-4a41-a663-dceadf27b96b",
-      "last_attempt_at": "2026-11-26T21:46:01.835935+00:00",
+      "last_attempt_at": "2026-11-27T08:50:05.204288+00:00",
       "last_error": "TypeError: open() got an unexpected keyword argument 'metadata_errors'",
       "published_at": "2026-11-26T10:30:00+00:00",
       "source_id": "the-rational-reminder-podcast",
@@ -8877,10 +8916,10 @@
       "url": "gid://art19-episode-locator/V0/uq7SO7o_c3RZjHTWkxBTUTZezGPf2BKrQpBzrXkHCaY"
     },
     "the-tim-ferriss-show::gid://art19-episode-locator/V0/vSv5ZftFagD3o6jviBvlAipafMzth0lBe1skgFHDA9I": {
-      "attempts": 2,
+      "attempts": 3,
       "description": "<p><strong>Henry Shukman</strong> (<a href=\"https://instagram.com/henryshukman\" rel=\"noopener noreferrer\" target=\"_blank\">@henryshukman</a>) is an authorized Zen master in the Sanbo Zen lineage and an award-winning poet and novelist, the author of <strong><em>One Blade of Grass</em></strong> and <strong><em>Original Love</em></strong>. He is the co-founder and lead teacher of <a href=\"https://www.thewayapp.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>The Way</strong></a>, a meditation app that takes you down a single guided path, step by step, and you can try it free for 30 days at <a href=\"https://www.thewayapp.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>TheWayApp.com/Tim</strong></a>. Please enjoy!</p><p><strong>This episode is brought to you by:</strong></p><ul><li><a href=\"https://livemomentous.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Momentous</strong></a><strong> high-quality creatine for cognitive and muscular support: </strong><a href=\"https://livemomentous.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>LiveMomentous.com/Tim</strong></a><strong> (up to 35% off your first order with code TIM)</strong></li><li><a href=\"https://timeline.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Timeline</strong></a><strong> Mitopure, a highly pure form of Urolithin A that supports mitochondrial health and cellular renewal: </strong><a href=\"https://timeline.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Timeline.com/Tim</strong></a><strong> (20% off for a limited time)</strong></li><li><a href=\"https://prolonlife.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>ProLon</strong></a><strong> science-backed Fasting Mimicking Diet that helps activate cellular renewal through fasting, while still eating nourishing meals: </strong><a href=\"https://prolonlife.com/Tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>ProLonLife.com/Tim</strong></a><strong> (15% off sitewide plus a $40 bonus gift when you subscribe to their 5-Day Program)</strong></li><li><a href=\"https://drinkag1.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>AG1</strong></a><strong> all-in-one nutritional supplement: </strong><a href=\"https://drinkag1.com/tim\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>DrinkAG1.com/Tim</strong></a><strong> (25% off when you subscribe, for a limited time)</strong></li></ul><p><strong>Timestamps</strong>:</p><ul><li>[00:00:00] Start.</li><li>[00:03:01] Why Santa Fe? D.H. Lawrence and <em>Mornings in Mexico</em>.</li><li>[00:05:28] Ranch work in Argentina, Bolivia’s Altiplano, and a first book at 19.</li><li>[00:07:05] Trombone tours in the Caribbean and the road to New Mexico.</li><li>[00:07:51] From Cloudcroft to Taos: chasing Lawrence’s New Mexico.</li><li>[00:11:34] A busy career as a poet, then the turn to Zen.</li><li>[00:14:01] A chance meeting with John Gaynor: “Why are you here?”</li><li>[00:17:23] A spontaneous awakening at 19.</li><li>[00:18:55] Breakdown, childhood trauma, and how awakening opens the door to healing.</li><li>[00:25:49] TM, therapy, and the teacher who understood.</li><li>[00:27:33] How to vet a meditation teacher.</li><li>[00:37:54] A brain injury, dokusan, and writing <em>Original Love</em> in 12 days.</li><li>[00:40:17] From hardcore Zen retreats to The Way app.</li><li>[00:42:32] A.E. Housman’s “From far, from eve and morning.”</li><li>[00:48:51] The director’s commentary: unpacking the poem line by line.</li><li>[00:52:24] Why this poem? Impermanence, connection, and Ursula K. Le Guin’s endorsement.</li><li>[00:56:01] Heartbreak, cognitive debilitation, and living from the heart.</li><li>[00:59:44] “Slow”: a poem born on the drive home from the beach.</li><li>[01:04:13] How Henry writes poems (and Thomas Hardy’s comma).</li><li>[01:06:40] Can poetry induce awakening? Rumi’s “Come, come, whoever you are.”</li><li>[01:08:35] When poetry broke its contract with readers.</li><li>[01:09:23] Ocean Vuong’s <em>Night Sky with Exit Wounds</em>.</li><li>[01:11:26] Why I give books of poetry after psychedelic experiences.</li><li>[01:16:27] Meditation as the thread that follows psychedelics.</li><li>[01:17:56] Non-duality at the office: Yamada Roshi on work and Zen.</li><li>[01:19:15] Once you see the game, how do you play it on Monday morning?</li><li>[01:23:37] Emptiness, gradual realization, and Henry’s 5-MeO-DMT experience.</li><li>[01:28:03] Why I opted out of aggressive podcast growth.</li><li>[01:30:17] “Just because it’s a dream...” Why we still play the game.</li><li>[01:32:29] The second-best-thing principle: Housman, Wordsworth, and Leonard Cohen.</li><li>[01:35:55] Flow, timelessness, and the Santa Fe Institute.</li><li>[01:37:58] David Whyte and <em>Consolations II</em>.</li><li>[01:38:55] Tang Dynasty poet-hermits and escaping clock time.</li><li>[01:41:37] <em>Siddhartha</em> and “a clever essay, but not a wise one.”</li><li>[01:43:22] Judeo-Christian vs. Vedic time: the Ussher Club and kalpas.</li><li>[01:46:43] Ancient cosmology, the Indus Valley, and the Bronze Age collapse.</li><li>[01:50:10] Meditation, timelessness, and Sean Carroll’s arrow of time.</li><li>[01:53:56] Samadhi, jhana, and how jhana became Zen.</li><li>[01:55:08] Jhana practice in the Pa-Auk tradition (and the piti/“pity” mix-up).</li><li>[01:59:10] The eight jhanas and what they’re good for.</li><li>[02:04:57] Is Zen the wayward child of jhana?</li><li>[02:07:00] A closing koan: “Rice in the bowl, water in the bucket.”</li><li>[02:13:42] Parting thoughts.</li></ul><p><em>*</em></p><p><strong>For show notes and past guests on </strong><a href=\"https://tim.blog/podcast\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><em>The Tim Ferriss Show</em></strong></a><strong>, please visit</strong> <a href=\"https://tim.blog/podcast/?utm_source=podcast&amp;utm_medium=podcast&amp;utm_campaign=podcast-description\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/podcast</strong></a><strong>.</strong></p><p><strong>For deals from sponsors of </strong><a href=\"https://tim.blog/podcast\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><em>The Tim Ferriss Show</em></strong></a><strong><em>, </em>please visit </strong><a href=\"https://tim.blog/podcast-sponsors\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/podcast-sponsors</strong></a></p><p><strong>Sign up for Tim’s email newsletter (<em>5-Bullet Friday</em>) at </strong><a href=\"https://go.tim.blog/5-bullet-friday-1/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/friday</strong></a><strong>.</strong></p><p><strong>For transcripts of episodes, go to </strong><a href=\"https://tim.blog/transcripts\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/transcripts</strong></a><strong>.</strong></p><p><strong>Discover Tim’s books: </strong><a href=\"https://tim.blog/books\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>tim.blog/books</strong></a><strong>.</strong></p><p><strong>Follow Tim:</strong></p><p><strong>Twitter</strong>: <a href=\"https://twitter.com/tferriss\" rel=\"noopener noreferrer\" target=\"_blank\">twitter.com/tferriss</a>&nbsp;</p><p><strong>Instagram</strong>: <a href=\"https://instagram.com/timferriss/\" rel=\"noopener noreferrer\" target=\"_blank\">instagram.com/timferriss</a></p><p><strong>YouTube</strong>: <a href=\"https://www.youtube.com/timferriss\" rel=\"noopener noreferrer\" target=\"_blank\">youtube.com/timferriss</a></p><p><strong>Facebook</strong>: <a href=\"https://www.facebook.com/TimFerriss/\" rel=\"noopener noreferrer\" target=\"_blank\">facebook.com/timferriss</a>&nbsp;</p><p><strong>LinkedIn: </strong><a href=\"http://linkedin.com/in/timferriss\" rel=\"noopener noreferrer\" target=\"_blank\">linkedin.com/in/timferriss</a></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
       "external_id": "gid://art19-episode-locator/V0/vSv5ZftFagD3o6jviBvlAipafMzth0lBe1skgFHDA9I",
-      "last_attempt_at": "2026-11-26T21:46:31.511502+00:00",
+      "last_attempt_at": "2026-11-27T08:49:13.227114+00:00",
       "last_error": "TypeError: open() got an unexpected keyword argument 'metadata_errors'",
       "published_at": "2026-11-25T23:30:00+00:00",
       "source_id": "the-tim-ferriss-show",
@@ -10116,15 +10155,15 @@
   "sources": {
     "chi-zao-geng-xin": {
       "force_refresh": true,
-      "last_checked_at": "2026-11-26T21:44:00.473594+00:00",
-      "last_modified": "Thu, 26 Nov 2026 21:24:02 GMT",
+      "last_checked_at": "2026-11-27T08:48:08.591869+00:00",
+      "last_modified": "Fri, 27 Nov 2026 08:36:36 GMT",
       "title": "迟早更新",
       "type": "podcast",
       "url": "https://podcast.weareones.com/feed/audio.xml"
     },
     "chuang-ye-nei-mu": {
       "force_refresh": true,
-      "last_checked_at": "2026-11-26T21:42:34.405659+00:00",
+      "last_checked_at": "2026-11-27T08:46:15.865821+00:00",
       "title": "创业内幕 Startup Insider",
       "type": "podcast",
       "url": "http://www.ximalaya.com/album/20119986.xml"
@@ -10132,7 +10171,7 @@
     "feng-tou-quan": {
       "etag": "W/\"8d9c0b18e4e0a299eb84428e5a152342\"",
       "force_refresh": true,
-      "last_checked_at": "2026-11-26T21:40:23.593411+00:00",
+      "last_checked_at": "2026-11-27T08:44:51.313395+00:00",
       "title": "疯投圈",
       "type": "podcast",
       "url": "https://crazy.capital/feed"
@@ -10140,7 +10179,7 @@
     "fit4life": {
       "force_refresh": true,
       "last_attempt_at": "2026-10-14T05:04:12.650253+00:00",
-      "last_checked_at": "2026-11-26T21:44:37.672084+00:00",
+      "last_checked_at": "2026-11-27T08:47:36.141787+00:00",
       "last_error": "ConnectTimeout: timed out",
       "title": "fit4life | fitgirl weekly chat",
       "type": "podcast",
@@ -10149,7 +10188,7 @@
     "gao-qian-nu-hai": {
       "force_refresh": true,
       "last_attempt_at": "2026-08-26T13:21:20.005733+00:00",
-      "last_checked_at": "2026-11-26T21:40:59.352346+00:00",
+      "last_checked_at": "2026-11-27T08:44:43.135009+00:00",
       "title": "搞钱女孩",
       "type": "podcast",
       "url": "https://www.ximalaya.com/album/74797134.xml"
@@ -10157,7 +10196,7 @@
     "luan-fan-shu": {
       "etag": "\"FhEi1bTQcmeuFbRVwNPGOt1IxLoD.gz\"",
       "force_refresh": false,
-      "last_checked_at": "2026-11-26T21:40:50.271214+00:00",
+      "last_checked_at": "2026-11-27T08:44:43.272391+00:00",
       "last_modified": "Thu, 19 Nov 2026 09:20:45 GMT",
       "title": "乱翻书",
       "type": "podcast",
@@ -10166,45 +10205,45 @@
     "naval": {
       "etag": "W/\"6c071ca1e5837ccbff6b84476e45d8de\"",
       "force_refresh": false,
-      "last_checked_at": "2026-11-26T21:44:56.244046+00:00",
+      "last_checked_at": "2026-11-27T08:48:47.816312+00:00",
       "last_modified": "Fri, 03 Jul 2026 15:35:15 GMT",
       "title": "Naval",
       "type": "podcast",
       "url": "https://rss.libsyn.com/shows/166112/destinations/1103966.xml"
     },
     "sheng-dong-ji-xi": {
-      "etag": "W/\"d907eda226f7b3bb7341d62ce6bbc453\"",
+      "etag": "W/\"695519a10fddd6fe9033cb6e2c3a4f30\"",
       "force_refresh": true,
-      "last_checked_at": "2026-11-26T21:43:39.555375+00:00",
-      "last_modified": "Thu, 26 Nov 2026 10:30:12 GMT",
+      "last_checked_at": "2026-11-27T08:47:29.230133+00:00",
+      "last_modified": "Thu, 26 Nov 2026 10:30:13 GMT",
       "title": "声东击西",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/shengdongjixi/rss"
     },
     "silicon-valley-101": {
-      "etag": "W/\"7ab693bdfd087807f90735e369ad9a38\"",
+      "etag": "W/\"5ecc8fe4bdaad9d096b9041cb6f8aec5\"",
       "force_refresh": true,
-      "last_checked_at": "2026-11-26T21:41:22.307067+00:00",
-      "last_modified": "Thu, 26 Nov 2026 16:11:15 GMT",
+      "last_checked_at": "2026-11-27T08:45:31.436974+00:00",
+      "last_modified": "Fri, 27 Nov 2026 02:21:15 GMT",
       "title": "硅谷101",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/sv101/rss"
     },
     "streamlined-solopreneur": {
-      "etag": "W/\"a045faaaa4456ffceefcbb5355409c7a\"",
+      "etag": "W/\"c8de14b939f49ae478b55cc917ffe74e\"",
       "force_refresh": true,
-      "last_checked_at": "2026-11-26T21:45:56.120968+00:00",
-      "last_modified": "Thu, 26 Nov 2026 19:12:15 GMT",
+      "last_checked_at": "2026-11-27T08:49:48.796250+00:00",
+      "last_modified": "Fri, 27 Nov 2026 05:03:00 GMT",
       "title": "Streamlined Solopreneur: Easy Productivity & Tech Systems for Solopreneurs",
       "type": "podcast",
       "url": "https://feeds.transistor.fm/streamlined"
     },
     "sui-ji-bo-dong": {
-      "etag": "W/\"1efa84fecda5d575804623d25b49fe0c\"",
+      "etag": "W/\"03219f653e6354027b7d357cfb7e08c5\"",
       "force_refresh": true,
       "last_attempt_at": "2026-09-19T15:58:18.869677+00:00",
-      "last_checked_at": "2026-11-26T21:42:57.862831+00:00",
-      "last_modified": "Wed, 18 Nov 2026 04:15:11 GMT",
+      "last_checked_at": "2026-11-27T08:46:33.830208+00:00",
+      "last_modified": "Fri, 27 Nov 2026 03:36:25 GMT",
       "title": "随机波动StochasticVolatility",
       "type": "podcast",
       "url": "https://feeds.fireside.fm/stovol/rss"
@@ -10212,7 +10251,7 @@
     "the-a16z-show": {
       "etag": "W/\"b699b2b2ca401743992ce683559c826d\"",
       "force_refresh": true,
-      "last_checked_at": "2026-11-26T21:44:38.399575+00:00",
+      "last_checked_at": "2026-11-27T08:47:46.748811+00:00",
       "last_modified": "Thu, 26 Nov 2026 11:00:43 GMT",
       "title": "The a16z Show",
       "type": "podcast",
@@ -10221,7 +10260,7 @@
     "the-investors-podcast": {
       "force_refresh": true,
       "last_attempt_at": "2026-11-07T17:50:08.991576+00:00",
-      "last_checked_at": "2026-11-26T21:44:57.420839+00:00",
+      "last_checked_at": "2026-11-27T08:48:52.110391+00:00",
       "last_error": "DecodingError: Error -3 while decompressing data: invalid code lengths set",
       "last_modified": "Thu, 26 Nov 2026 05:50:56 GMT",
       "title": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
@@ -10229,9 +10268,9 @@
       "url": "https://feeds.megaphone.fm/PPLLC8974708240"
     },
     "the-psychology-of-money-with-morgan-housel": {
-      "etag": "W/\"2d3d9-9hGAhH8dzlTDdEJjscjg/QCpip8\"",
+      "etag": "W/\"2db6c-XyMJYxEYDy2EnGRuui9HojIpddE\"",
       "force_refresh": true,
-      "last_checked_at": "2026-11-26T21:46:32.587200+00:00",
+      "last_checked_at": "2026-11-27T08:50:35.790305+00:00",
       "title": "The Psychology of Money with Morgan Housel",
       "type": "podcast",
       "url": "https://anchor.fm/s/104219ecc/podcast/rss"
@@ -10239,7 +10278,7 @@
     "the-rational-reminder-podcast": {
       "etag": "W/\"b6df6d4719332dc2af195a68bc5d74bf\"",
       "force_refresh": true,
-      "last_checked_at": "2026-11-26T21:45:56.589224+00:00",
+      "last_checked_at": "2026-11-27T08:50:01.952287+00:00",
       "last_modified": "Thu, 26 Nov 2026 10:36:23 GMT",
       "title": "The Rational Reminder Podcast",
       "type": "podcast",
@@ -10247,7 +10286,7 @@
     },
     "the-tim-ferriss-show": {
       "force_refresh": true,
-      "last_checked_at": "2026-11-26T21:46:18.813438+00:00",
+      "last_checked_at": "2026-11-27T08:48:53.272548+00:00",
       "last_modified": "Wed, 25 Nov 2026 23:33:51 GMT",
       "title": "The Tim Ferriss Show",
       "type": "podcast",
@@ -10256,7 +10295,7 @@
     "yan-zhong-hua-shu": {
       "etag": "\"FhEi1bTQcmeuFbRVwNPGOt1IxLoD.gz\"",
       "force_refresh": false,
-      "last_checked_at": "2026-11-26T21:41:09.760569+00:00",
+      "last_checked_at": "2026-11-27T08:44:09.842653+00:00",
       "last_modified": "Thu, 19 Nov 2026 09:20:45 GMT",
       "title": "岩中花述",
       "type": "podcast",
@@ -10265,7 +10304,7 @@
     "yi-xi": {
       "etag": "\"FhEi1bTQcmeuFbRVwNPGOt1IxLoD.gz\"",
       "force_refresh": false,
-      "last_checked_at": "2026-11-26T21:43:00.690488+00:00",
+      "last_checked_at": "2026-11-27T08:46:56.092744+00:00",
       "last_modified": "Thu, 19 Nov 2026 09:20:45 GMT",
       "title": "一席",
       "type": "podcast",
@@ -10274,13 +10313,13 @@
     "zhi-xing-xiao-jiu-guan": {
       "etag": "\"FhEi1bTQcmeuFbRVwNPGOt1IxLoD.gz\"",
       "force_refresh": false,
-      "last_checked_at": "2026-11-26T21:42:22.990701+00:00",
+      "last_checked_at": "2026-11-27T08:45:52.130231+00:00",
       "last_modified": "Thu, 19 Nov 2026 09:20:45 GMT",
       "title": "知行小酒馆",
       "type": "podcast",
       "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
     }
   },
-  "updated_at": "2026-11-26T21:47:06.417452+00:00",
+  "updated_at": "2026-11-27T08:51:11.868322+00:00",
   "version": 1
 }
